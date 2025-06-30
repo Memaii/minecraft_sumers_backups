@@ -9,8 +9,11 @@
     "criteria": {
       "minecraft:badlands": "2025-06-30 13:11:56 +0000",
       "minecraft:eroded_badlands": "2025-06-30 13:28:55 +0000",
+      "minecraft:desert": "2025-06-30 16:41:46 +0000",
+      "minecraft:river": "2025-06-30 16:41:21 +0000",
       "minecraft:lush_caves": "2025-06-30 13:10:46 +0000",
-      "minecraft:wooded_badlands": "2025-06-30 08:15:57 +0000"
+      "minecraft:wooded_badlands": "2025-06-30 08:15:57 +0000",
+      "minecraft:warm_ocean": "2025-06-30 16:42:11 +0000"
     },
     "done": false
   },
