@@ -4,17 +4,5 @@
     "name": "Blackliss",
     "level": 4,
     "bypassesPlayerLimit": false
-  },
-  {
-    "uuid": "fd102774-21c2-4b99-9396-f454ead0849c",
-    "name": "Fullavatar",
-    "level": 4,
-    "bypassesPlayerLimit": false
-  },
-  {
-    "uuid": "77ebe240-f66a-4d07-ae88-a6df583c1a70",
-    "name": "Byakoren",
-    "level": 4,
-    "bypassesPlayerLimit": false
   }
 ]
