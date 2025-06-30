@@ -1,1 +1,1 @@
--Xmx10G -Xms10G
+-Xmx8G -Xms8G

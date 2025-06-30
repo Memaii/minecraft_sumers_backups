@@ -10,7 +10,7 @@ services:
       - VERSION=1.21.4
       - NEOFORGE_VERSION=21.4.141
       - EULA=true
-      - MEMORY=10G
+      - MEMORY=8G
       - ENABLE_RCON=true
       - RCON_PORT=25575
       - RCON_PASSWORD=Poule
