@@ -7,6 +7,9 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:badlands": "2025-06-30 13:11:56 +0000",
+      "minecraft:eroded_badlands": "2025-06-30 13:28:55 +0000",
+      "minecraft:lush_caves": "2025-06-30 13:10:46 +0000",
       "minecraft:wooded_badlands": "2025-06-30 08:15:57 +0000"
     },
     "done": false
