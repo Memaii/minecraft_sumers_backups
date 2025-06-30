@@ -8,8 +8,10 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:badlands": "2025-06-30 08:46:20 +0000",
+      "minecraft:desert": "2025-06-30 16:21:39 +0000",
       "minecraft:river": "2025-06-30 08:46:22 +0000",
-      "minecraft:wooded_badlands": "2025-06-30 08:36:09 +0000"
+      "minecraft:wooded_badlands": "2025-06-30 08:36:09 +0000",
+      "minecraft:warm_ocean": "2025-06-30 16:21:43 +0000"
     },
     "done": false
   },
