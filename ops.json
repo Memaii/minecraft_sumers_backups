@@ -1,0 +1,14 @@
+[
+  {
+    "uuid": "5750e528-e519-43d6-b148-76e08d2e1b2e",
+    "name": "Blackliss",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "fd102774-21c2-4b99-9396-f454ead0849c",
+    "name": "Fullavatar",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]

@@ -1,0 +1,21 @@
+version: "3.8"
+
+services:
+  minecraft:
+    image: itzg/minecraft-server
+    container_name: Minecraft_Summer_Edition_2025
+    restart: unless-stopped
+    environment:
+      - TYPE=NEOFORGE
+      - VERSION=1.21.4
+      - NEOFORGE_VERSION=21.4.141
+      - EULA=true
+      - MEMORY=5G
+      - ENABLE_RCON=true
+      - RCON_PORT=25575
+      - RCON_PASSWORD=Poule
+    ports:
+      - "3141:25565"
+      - "1431:25575"
+    volumes:
+      - /home/pouletdecanon/Minecraft_Summer_Edition_2025:/data
