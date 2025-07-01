@@ -318,3 +318,229 @@
 [01Jul2025 15:59:50.806] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Byakoren[/86.245.7.178:63192] logged in with entity id 92049 at (-521.2076978329428, -59.0, -75.65613219380604)
 [01Jul2025 15:59:50.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Byakoren joined the game
 [01Jul2025 15:59:54.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blackliss was slain by Vindicator
+[01Jul2025 16:00:28.967] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2055ms or 41 ticks behind
+[01Jul2025 16:00:47.566] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3604ms or 72 ticks behind
+[01Jul2025 16:00:59.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blackliss was slain by Vindicator
+[01Jul2025 16:02:02.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blackliss was slain by Vindicator
+[01Jul2025 16:03:02.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blackliss was slain by Vindicator
+[01Jul2025 16:03:03.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Redoxlyy was slain by Vindicator
+[01Jul2025 16:03:16.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <L_e_m_0_n> gg
+[01Jul2025 16:03:54.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blackliss was slain by Vindicator
+[01Jul2025 16:04:16.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blackliss has made the advancement [Cover Me with Diamonds]
+[01Jul2025 16:04:28.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blackliss was slain by Vindicator
+[01Jul2025 16:05:00.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Redoxlyy was slain by Vindicator
+[01Jul2025 16:05:15.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blackliss was slain by Vindicator
+[01Jul2025 16:05:40.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Redoxlyy was slain by Vindicator
+[01Jul2025 16:05:54.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blackliss was shot by Skeleton
+[01Jul2025 16:06:38.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blackliss was slain by Vindicator
+[01Jul2025 16:06:59.061] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Redoxlyy moved too quickly! 66.48624483894991,181.5625,-4.108071797909133
+[01Jul2025 16:07:09.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blackliss was slain by Vindicator
+[01Jul2025 16:07:20.857] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Redoxlyy moved too quickly! 67.1368303449583,181.5625,-5.109441372289751
+[01Jul2025 16:07:43.807] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Redoxlyy moved too quickly! -69.2414116552618,-178.5,4.332514650956966
+[01Jul2025 16:08:45.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blackliss was slain by Vindicator
+[01Jul2025 16:09:18.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blackliss was slain by Vindicator
+[01Jul2025 16:09:52.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blackliss was slain by Vindicator
+[01Jul2025 16:10:22.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <L_e_m_0_n> z
+[01Jul2025 16:10:25.892] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Arkeez lost connection: Disconnected
+[01Jul2025 16:10:25.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arkeez left the game
+[01Jul2025 16:10:34.438] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss lost connection: Disconnected
+[01Jul2025 16:10:34.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blackliss left the game
+[01Jul2025 16:10:43.432] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Redoxlyy lost connection: Disconnected
+[01Jul2025 16:10:43.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Redoxlyy left the game
+[01Jul2025 16:10:44.804] [User Authenticator #23/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Arkeez is ca1941cb-a617-4a74-b539-ae0e77326792
+[01Jul2025 16:10:45.103] [User Authenticator #24/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Redoxlyy is 82c71c85-d9c9-4197-a7c6-61b8ee4b34c7
+[01Jul2025 16:10:45.137] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Arkeez[/89.89.43.52:53792] logged in with entity id 103689 at (1207.7913581658258, -58.0, -772.3519324809355)
+[01Jul2025 16:10:45.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arkeez joined the game
+[01Jul2025 16:10:45.394] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Redoxlyy[/89.80.190.53:51752] logged in with entity id 103709 at (1989.7833223527603, 64.0, 117.15254070738385)
+[01Jul2025 16:10:45.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Redoxlyy joined the game
+[01Jul2025 16:12:04.809] [RCON Client /192.168.1.254 #3/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /192.168.1.254 shutting down
+[01Jul2025 16:12:20.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Redoxlyy was slain by Vindicator
+[01Jul2025 16:16:24.697] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Byakoren moved too quickly! 2237.5217386786658,75.5,955.979508692144
+[01Jul2025 16:16:24.705] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Byakoren moved too quickly! 2237.5217386786658,75.5,955.979508692144
+[01Jul2025 16:16:34.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: L_e_m_0_n has made the advancement [Cover Me with Diamonds]
+[01Jul2025 16:21:49.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <L_e_m_0_n> zzz
+[01Jul2025 16:21:51.138] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Arkeez lost connection: Disconnected
+[01Jul2025 16:21:51.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arkeez left the game
+[01Jul2025 16:22:06.119] [User Authenticator #25/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Arkeez is ca1941cb-a617-4a74-b539-ae0e77326792
+[01Jul2025 16:22:06.548] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Arkeez[/89.89.43.52:53850] logged in with entity id 117114 at (1049.3426790785545, -58.0, -825.4683230848548)
+[01Jul2025 16:22:06.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arkeez joined the game
+[01Jul2025 16:22:42.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Redoxlyy was shot by Skeleton
+[01Jul2025 16:25:04.960] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Byakoren moved too quickly! 2283.6438455972534,126.5,1558.0443630992788
+[01Jul2025 16:25:53.505] [User Authenticator #26/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player guebaud is 876922dd-aa44-4202-81be-90a22dc1c24d
+[01Jul2025 16:25:53.947] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: guebaud[/90.70.73.104:52958] logged in with entity id 121197 at (-512.0258290532506, 79.0, 3381.2118673805726)
+[01Jul2025 16:25:53.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: guebaud joined the game
+[01Jul2025 16:26:06.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Fullavatar> */kick guebaud
+[01Jul2025 16:26:09.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Fullavatar> oups
+[01Jul2025 16:26:26.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <guebaud> ./mettre mon zizi dans l'anus de Loic
+[01Jul2025 16:26:41.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Fullavatar> ./ecarter les fesses
+[01Jul2025 16:26:46.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Fullavatar> allo ?
+[01Jul2025 16:26:58.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <guebaud> ./préparer mon chibre
+[01Jul2025 16:27:00.152] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Byakoren moved too quickly! -2238.1122551199164,-72.0,-950.5110901019102
+[01Jul2025 16:27:00.161] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Byakoren moved too quickly! -2238.1122551199164,-72.0,-950.5110901019102
+[01Jul2025 16:27:18.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <guebaud> ) chibre pret
+[01Jul2025 16:27:29.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <guebaud> ) début de la pénétration
+[01Jul2025 16:27:49.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Fullavatar> ./sors la tronconneuse, et bzzzzzzzzzzzzzz plus rien
+[01Jul2025 16:28:10.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <guebaud> ./transition de genre
+[01Jul2025 16:28:12.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Redoxlyy was slain by Zombie
+[01Jul2025 16:28:18.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Fullavatar> mdr
+[01Jul2025 16:28:26.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Byakoren> if groschibre: print("💥 Je te pète le cul, champion.")else: print("🤏 Minischibre détecté. Va t'entraîner.")
+[01Jul2025 16:28:31.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arkeez has made the advancement [Cover Me with Diamonds]
+[01Jul2025 16:28:59.394] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/111184, l='ServerLevel[world]', x=1761.83, y=65.00, z=1478.24] died, message: 'Villager hit the ground too hard'
+[01Jul2025 16:32:40.324] [User Authenticator #27/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Blackliss is 5750e528-e519-43d6-b148-76e08d2e1b2e
+[01Jul2025 16:32:41.177] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Blackliss[/192.168.1.254:50385] logged in with entity id 129528 at (6771.850263130233, 67.0, 200.48600715769197)
+[01Jul2025 16:32:41.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blackliss joined the game
+[01Jul2025 16:32:52.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <guebaud> 24morts?
+[01Jul2025 16:33:24.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <L_e_m_0_n> zz
+[01Jul2025 16:33:33.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Redoxlyy was slain by Vindicator
+[01Jul2025 16:33:33.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <guebaud> zzz
+[01Jul2025 16:34:09.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blackliss was slain by Zombie
+[01Jul2025 16:35:11.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Redoxlyy was slain by Vindicator
+[01Jul2025 16:35:34.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arkeez has made the advancement [Monster Hunter]
+[01Jul2025 16:36:18.460] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 4819.295464458973,24.5625,51.70748389643043
+[01Jul2025 16:39:06.079] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/137573, l='ServerLevel[world]', x=654.92, y=264.00, z=210.05, removed=DISCARDED]
+[01Jul2025 16:39:06.079] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/137574, l='ServerLevel[world]', x=654.84, y=264.00, z=210.17, removed=DISCARDED]
+[01Jul2025 16:39:06.080] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/137575, l='ServerLevel[world]', x=654.73, y=264.00, z=210.28, removed=DISCARDED]
+[01Jul2025 16:42:19.458] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Byakoren moved too quickly! 2283.5554124027985,126.5,1558.1250916168108
+[01Jul2025 16:50:00.011] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! -227.4075272904588,-3.5,-366.57351522070064
+[01Jul2025 16:50:33.755] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 226.40436850265246,6.5625,366.9046852082885
+[01Jul2025 16:56:02.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <L_e_m_0_n> azz
+[01Jul2025 16:56:13.694] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Arkeez lost connection: Disconnected
+[01Jul2025 16:56:13.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arkeez left the game
+[01Jul2025 16:57:38.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Set own game mode to Creative Mode]
+[01Jul2025 16:57:56.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Teleported Fullavatar to -5599.500000, 200.000000, -190.500000]
+[01Jul2025 16:58:20.271] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/137575, l='ServerLevel[world]', x=654.73, y=264.00, z=210.28, removed=DISCARDED]
+[01Jul2025 16:58:20.271] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/137573, l='ServerLevel[world]', x=654.92, y=264.00, z=210.05, removed=DISCARDED]
+[01Jul2025 16:58:20.271] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/137574, l='ServerLevel[world]', x=654.84, y=264.00, z=210.17, removed=DISCARDED]
+[01Jul2025 16:58:20.573] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/137573, l='ServerLevel[world]', x=654.92, y=264.00, z=210.05, removed=DISCARDED]
+[01Jul2025 16:58:20.573] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/137574, l='ServerLevel[world]', x=654.84, y=264.00, z=210.17, removed=DISCARDED]
+[01Jul2025 16:58:20.573] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/137575, l='ServerLevel[world]', x=654.73, y=264.00, z=210.28, removed=DISCARDED]
+[01Jul2025 16:58:23.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Set own game mode to Survival Mode]
+[01Jul2025 16:58:26.889] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss lost connection: Disconnected
+[01Jul2025 16:58:26.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blackliss left the game
+[01Jul2025 17:01:42.056] [User Authenticator #28/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Blackliss is 5750e528-e519-43d6-b148-76e08d2e1b2e
+[01Jul2025 17:01:42.516] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Blackliss[/192.168.1.254:51058] logged in with entity id 164402 at (2298.5420667414737, 69.0, 1968.4868182922614)
+[01Jul2025 17:01:42.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blackliss joined the game
+[01Jul2025 17:10:13.622] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/137575, l='ServerLevel[world]', x=654.73, y=264.00, z=210.28, removed=DISCARDED]
+[01Jul2025 17:10:13.622] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/137573, l='ServerLevel[world]', x=654.92, y=264.00, z=210.05, removed=DISCARDED]
+[01Jul2025 17:10:13.623] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/137574, l='ServerLevel[world]', x=654.84, y=264.00, z=210.17, removed=DISCARDED]
+[01Jul2025 17:10:13.831] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/137573, l='ServerLevel[world]', x=654.92, y=264.00, z=210.05, removed=DISCARDED]
+[01Jul2025 17:10:13.832] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/137574, l='ServerLevel[world]', x=654.84, y=264.00, z=210.17, removed=DISCARDED]
+[01Jul2025 17:10:13.832] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/137575, l='ServerLevel[world]', x=654.73, y=264.00, z=210.28, removed=DISCARDED]
+[01Jul2025 17:12:24.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <guebaud> j'afk despi
+[01Jul2025 17:12:29.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Byakoren> non
+[01Jul2025 17:14:00.755] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss lost connection: Disconnected
+[01Jul2025 17:14:00.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blackliss left the game
+[01Jul2025 17:14:13.408] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Redoxlyy moved too quickly! 66.41362240114131,181.5625,-3.8176070426073636
+[01Jul2025 17:15:49.156] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Redoxlyy moved too quickly! -65.52213969076138,-175.5625,4.514957358676412
+[01Jul2025 17:16:46.243] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fullavatar lost connection: Disconnected
+[01Jul2025 17:16:46.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fullavatar left the game
+[01Jul2025 17:17:38.515] [User Authenticator #29/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Fullavatar is fd102774-21c2-4b99-9396-f454ead0849c
+[01Jul2025 17:17:38.960] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Fullavatar[/93.19.138.72:57114] logged in with entity id 184066 at (647.892967497155, 265.0, 210.55791375429547)
+[01Jul2025 17:17:38.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fullavatar joined the game
+[01Jul2025 17:17:39.027] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/137573, l='ServerLevel[world]', x=654.92, y=264.00, z=210.05, removed=DISCARDED]
+[01Jul2025 17:17:39.027] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/137574, l='ServerLevel[world]', x=654.84, y=264.00, z=210.17, removed=DISCARDED]
+[01Jul2025 17:17:39.028] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/137575, l='ServerLevel[world]', x=654.73, y=264.00, z=210.28, removed=DISCARDED]
+[01Jul2025 17:19:15.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <L_e_m_0_n> zz
+[01Jul2025 17:20:28.978] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/137575, l='ServerLevel[world]', x=654.73, y=264.00, z=210.28, removed=DISCARDED]
+[01Jul2025 17:20:28.978] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/137573, l='ServerLevel[world]', x=654.92, y=264.00, z=210.05, removed=DISCARDED]
+[01Jul2025 17:20:28.979] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/137574, l='ServerLevel[world]', x=654.84, y=264.00, z=210.17, removed=DISCARDED]
+[01Jul2025 17:20:29.180] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/137573, l='ServerLevel[world]', x=654.92, y=264.00, z=210.05, removed=DISCARDED]
+[01Jul2025 17:20:29.181] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/137574, l='ServerLevel[world]', x=654.84, y=264.00, z=210.17, removed=DISCARDED]
+[01Jul2025 17:20:29.182] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/137575, l='ServerLevel[world]', x=654.73, y=264.00, z=210.28, removed=DISCARDED]
+[01Jul2025 17:20:40.158] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Redoxlyy moved too quickly! 69.0642187269948,179.5,-3.6222582485062276
+[01Jul2025 17:22:09.215] [User Authenticator #30/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Blackliss is 5750e528-e519-43d6-b148-76e08d2e1b2e
+[01Jul2025 17:22:09.606] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Blackliss[/192.168.1.254:51659] logged in with entity id 187244 at (1786.0974554414436, 73.0, 3288.3602969222393)
+[01Jul2025 17:22:09.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blackliss joined the game
+[01Jul2025 17:27:13.570] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fullavatar moved too quickly! 1174.0226640242458,325.5,281.48305018883684
+[01Jul2025 17:27:13.589] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/137575, l='ServerLevel[world]', x=654.73, y=264.00, z=210.28, removed=DISCARDED]
+[01Jul2025 17:27:13.590] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/137573, l='ServerLevel[world]', x=654.92, y=264.00, z=210.05, removed=DISCARDED]
+[01Jul2025 17:27:13.590] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/137574, l='ServerLevel[world]', x=654.84, y=264.00, z=210.17, removed=DISCARDED]
+[01Jul2025 17:27:13.715] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/137573, l='ServerLevel[world]', x=654.92, y=264.00, z=210.05, removed=DISCARDED]
+[01Jul2025 17:27:13.715] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/137574, l='ServerLevel[world]', x=654.84, y=264.00, z=210.17, removed=DISCARDED]
+[01Jul2025 17:27:13.716] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/137575, l='ServerLevel[world]', x=654.73, y=264.00, z=210.28, removed=DISCARDED]
+[01Jul2025 17:33:51.588] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/204710, l='ServerLevel[world]', x=1763.08, y=66.00, z=1483.20] died, message: 'Villager hit the ground too hard'
+[01Jul2025 17:34:23.029] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: L_e_m_0_n lost connection: Disconnected
+[01Jul2025 17:34:23.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: L_e_m_0_n left the game
+[01Jul2025 17:34:54.699] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss lost connection: Disconnected
+[01Jul2025 17:34:54.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blackliss left the game
+[01Jul2025 17:35:16.656] [User Authenticator #31/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Blackliss is 5750e528-e519-43d6-b148-76e08d2e1b2e
+[01Jul2025 17:35:16.976] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Blackliss[/192.168.1.254:51807] logged in with entity id 209040 at (3193.4432107106873, 72.0, 5790.409796115766)
+[01Jul2025 17:35:16.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blackliss joined the game
+[01Jul2025 17:37:29.251] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Redoxlyy was kicked for floating too long!
+[01Jul2025 17:37:29.299] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Redoxlyy lost connection: Flying is not enabled on this server
+[01Jul2025 17:37:29.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Redoxlyy left the game
+[01Jul2025 17:37:32.082] [User Authenticator #32/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Redoxlyy is 82c71c85-d9c9-4197-a7c6-61b8ee4b34c7
+[01Jul2025 17:37:32.460] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Redoxlyy[/89.80.190.53:52585] logged in with entity id 213325 at (2012.1297975446685, 78.49445636158269, 140.8097319953332)
+[01Jul2025 17:37:32.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Redoxlyy joined the game
+[01Jul2025 17:37:51.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Made Blackliss a server operator]
+[01Jul2025 17:37:58.660] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! -1205.010575076646,-46.5,-6008.893045654673
+[01Jul2025 17:38:14.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Blackliss: Set own game mode to Creative Mode]
+[01Jul2025 17:38:38.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Blackliss: Teleported Blackliss to 150000.500000, 62.940000, 149.460000]
+[01Jul2025 17:38:38.093] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4580ms or 91 ticks behind
+[01Jul2025 17:38:51.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Blackliss: Set own game mode to Spectator Mode]
+[01Jul2025 17:39:00.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Blackliss: Set own game mode to Survival Mode]
+[01Jul2025 17:39:06.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Blackliss: Set own game mode to Creative Mode]
+[01Jul2025 17:40:13.633] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Redoxlyy moved too quickly! 8.61525030802568,-1.130906499714527,5.253439315260152
+[01Jul2025 17:40:13.649] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2838ms or 56 ticks behind
+[01Jul2025 17:40:26.583] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 148066.8752530969,6.5625,-20.229263033029355
+[01Jul2025 17:40:26.590] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 148066.8752530969,6.5625,-20.229263033029355
+[01Jul2025 17:40:26.599] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 148066.8752530969,6.5625,-20.229263033029355
+[01Jul2025 17:40:55.739] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/216900, l='ServerLevel[world]', x=150011.84, y=69.00, z=136.07] died, message: 'Villager was slain by Blackliss'
+[01Jul2025 17:41:19.478] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Redoxlyy moved too quickly! -0.06883868618569977,-1.1767592750642422,10.127638416237062
+[01Jul2025 17:41:19.499] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2337ms or 46 ticks behind
+[01Jul2025 17:41:35.854] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! -9.640705304511357,0.0,5.056326163525114
+[01Jul2025 17:42:37.400] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/220119, l='ServerLevel[world]', x=1926.41, y=62.94, z=140.36] died, message: 'Villager was slain by Blackliss'
+[01Jul2025 17:42:44.555] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! -137.51300942768557,6.5625,62.630696721048594
+[01Jul2025 17:43:10.721] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/137575, l='ServerLevel[world]', x=654.73, y=264.00, z=210.28, removed=DISCARDED]
+[01Jul2025 17:43:10.722] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/137573, l='ServerLevel[world]', x=654.92, y=264.00, z=210.05, removed=DISCARDED]
+[01Jul2025 17:43:10.722] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/137574, l='ServerLevel[world]', x=654.84, y=264.00, z=210.17, removed=DISCARDED]
+[01Jul2025 17:43:11.005] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/137573, l='ServerLevel[world]', x=654.92, y=264.00, z=210.05, removed=DISCARDED]
+[01Jul2025 17:43:11.005] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/137574, l='ServerLevel[world]', x=654.84, y=264.00, z=210.17, removed=DISCARDED]
+[01Jul2025 17:43:11.005] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/137575, l='ServerLevel[world]', x=654.73, y=264.00, z=210.28, removed=DISCARDED]
+[01Jul2025 17:43:20.142] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/218849, l='ServerLevel[world]', x=149990.95, y=68.00, z=104.23] died, message: 'Villager was slain by Blackliss'
+[01Jul2025 17:44:11.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Blackliss: Teleported Blackliss to 0.500000, 68.550000, 131.130000]
+[01Jul2025 17:44:12.432] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Redoxlyy moved too quickly! 0.0,10.425000025033825,0.0
+[01Jul2025 17:44:14.207] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Redoxlyy moved too quickly! 0.0,10.425000025033825,0.0
+[01Jul2025 17:44:17.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Blackliss: Set own game mode to Spectator Mode]
+[01Jul2025 17:45:03.236] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/137575, l='ServerLevel[world]', x=654.73, y=264.00, z=210.28, removed=DISCARDED]
+[01Jul2025 17:45:03.237] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/137573, l='ServerLevel[world]', x=654.92, y=264.00, z=210.05, removed=DISCARDED]
+[01Jul2025 17:45:03.237] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/137574, l='ServerLevel[world]', x=654.84, y=264.00, z=210.17, removed=DISCARDED]
+[01Jul2025 17:45:07.692] [User Authenticator #33/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player L_e_m_0_n is 0fb9b973-b571-48b0-a798-d2f0d4f6add6
+[01Jul2025 17:45:08.154] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: L_e_m_0_n[/88.169.41.145:47283] logged in with entity id 223341 at (1778.8444893626613, 71.0, 1459.8957996469424)
+[01Jul2025 17:45:08.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: L_e_m_0_n joined the game
+[01Jul2025 17:45:15.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Blackliss: Set own game mode to Creative Mode]
+[01Jul2025 17:45:38.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Blackliss: Set own game mode to Survival Mode]
+[01Jul2025 17:45:54.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Blackliss: Set own game mode to Creative Mode]
+[01Jul2025 17:46:03.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Blackliss: Teleported Blackliss to 15000.500000, 62.940000, 149.460000]
+[01Jul2025 17:46:19.952] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2040ms or 40 ticks behind
+[01Jul2025 17:46:20.881] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! -10.58664780514846,0.0,-2.51405567906626
+[01Jul2025 17:46:59.094] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2182ms or 43 ticks behind
+[01Jul2025 17:47:38.699] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/225036, l='ServerLevel[world]', x=1936.36, y=62.94, z=154.30] died, message: 'Villager was slain by Blackliss'
+[01Jul2025 17:48:25.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Blackliss: Teleported Blackliss to Fullavatar]
+[01Jul2025 17:48:25.573] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/137575, l='ServerLevel[world]', x=654.73, y=264.00, z=210.28, removed=DISCARDED]
+[01Jul2025 17:48:25.574] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/137573, l='ServerLevel[world]', x=654.92, y=264.00, z=210.05, removed=DISCARDED]
+[01Jul2025 17:48:25.574] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/137574, l='ServerLevel[world]', x=654.84, y=264.00, z=210.17, removed=DISCARDED]
+[01Jul2025 17:48:28.185] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2473ms or 49 ticks behind
+[01Jul2025 17:48:46.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Blackliss: Set own game mode to Survival Mode]
+[01Jul2025 17:49:33.360] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: L_e_m_0_n moved too quickly! -1538.9402608009466,3.7249999999999943,-1123.2511930441774
+[01Jul2025 17:49:35.347] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Redoxlyy moved too quickly! -5.031973904693132,-148.0,10.169165015424596
+[01Jul2025 17:51:15.711] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Redoxlyy moved too quickly! -53.97981658655158,-31.5,-12.183255235050837
+[01Jul2025 17:51:24.783] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: L_e_m_0_n moved wrongly!
+[01Jul2025 17:51:32.443] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/223386, l='ServerLevel[world]', x=223.50, y=68.75, z=360.50] died, message: 'Villager was slain by Byakoren'
+[01Jul2025 17:51:54.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <L_e_m_0_n> zzz
+[01Jul2025 17:52:03.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <L_e_m_0_n> Z !
+[01Jul2025 17:52:04.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <L_e_m_0_n> ZZ
+[01Jul2025 17:52:10.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Redoxlyy> laisse la nuit
+[01Jul2025 17:52:47.260] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: L_e_m_0_n moved too quickly! -1113.9487716395713,200.5,-1273.615954436844
+[01Jul2025 17:52:47.308] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/137575, l='ServerLevel[world]', x=654.73, y=264.00, z=210.28, removed=DISCARDED]
+[01Jul2025 17:52:47.308] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/137573, l='ServerLevel[world]', x=654.92, y=264.00, z=210.05, removed=DISCARDED]
+[01Jul2025 17:52:47.308] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/137574, l='ServerLevel[world]', x=654.84, y=264.00, z=210.17, removed=DISCARDED]
+[01Jul2025 17:54:07.370] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/137575, l='ServerLevel[world]', x=654.73, y=264.00, z=210.28, removed=DISCARDED]
+[01Jul2025 17:54:07.371] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/137573, l='ServerLevel[world]', x=654.92, y=264.00, z=210.05, removed=DISCARDED]
+[01Jul2025 17:54:07.371] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/137574, l='ServerLevel[world]', x=654.84, y=264.00, z=210.17, removed=DISCARDED]
+[01Jul2025 17:54:17.311] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: L_e_m_0_n moved too quickly! 1109.2339357603262,-197.08749999999998,1275.9099025219903
+[01Jul2025 17:54:53.947] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 180.49647525641626,-1.5,-1331.3730951103964
+[01Jul2025 17:54:53.955] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 180.49647525641626,-1.5,-1331.3730951103964
+[01Jul2025 17:56:48.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Redoxlyy has reached the goal [Postmortal]
+[01Jul2025 17:58:10.907] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Redoxlyy moved too quickly! -5.00614479358569,-148.0,10.255726940475029
+[01Jul2025 17:59:48.307] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Redoxlyy moved too quickly! -0.09333998168199287,151.5625,-8.580316162597256
