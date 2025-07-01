@@ -113,19 +113,23 @@
       "bread": "2025-06-30 22:00:17 +0000",
       "cooked_chicken": "2025-06-30 19:29:41 +0000",
       "cooked_mutton": "2025-06-30 19:45:42 +0000",
+      "cooked_cod": "2025-07-01 15:49:21 +0000",
       "cooked_beef": "2025-07-01 13:14:44 +0000",
       "baked_potato": "2025-07-01 10:30:36 +0000",
-      "melon_slice": "2025-06-30 19:53:11 +0000"
+      "melon_slice": "2025-06-30 19:53:11 +0000",
+      "cooked_salmon": "2025-07-01 14:09:17 +0000"
     },
     "done": false
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-06-30 19:49:56 +0000",
+      "minecraft:vindicator": "2025-07-01 15:50:51 +0000",
       "minecraft:spider": "2025-06-30 19:34:40 +0000",
       "minecraft:zombie": "2025-06-30 19:50:49 +0000",
       "minecraft:creeper": "2025-06-30 20:33:14 +0000",
-      "minecraft:drowned": "2025-06-30 21:40:15 +0000"
+      "minecraft:drowned": "2025-06-30 21:40:15 +0000",
+      "minecraft:evoker": "2025-07-01 15:53:01 +0000"
     },
     "done": false
   },
@@ -2278,6 +2282,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-07-01 13:10:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2025-07-01 13:18:27 +0000"
@@ -2296,9 +2306,9 @@
     },
     "done": true
   },
-  "minecraft:husbandry/plant_seed": {
+  "minecraft:recipes/misc/wheat": {
     "criteria": {
-      "wheat": "2025-07-01 13:10:52 +0000"
+      "has_hay_block": "2025-07-01 13:18:28 +0000"
     },
     "done": true
   },
@@ -2308,9 +2318,69 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/wheat": {
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
     "criteria": {
-      "has_hay_block": "2025-07-01 13:18:28 +0000"
+      "has_planks": "2025-07-01 15:51:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-01 15:51:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2025-07-01 15:51:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-01 15:51:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-07-01 15:51:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2025-07-01 15:51:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2025-07-01 15:51:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2025-07-01 15:51:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-07-01 15:52:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-07-01 15:52:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2025-07-01 15:51:25 +0000"
     },
     "done": true
   },
