@@ -131,6 +131,7 @@
       "cooked_mutton": "2025-06-30 21:32:42 +0000",
       "cooked_cod": "2025-07-01 13:15:01 +0000",
       "cooked_beef": "2025-07-01 06:58:14 +0000",
+      "cooked_salmon": "2025-07-01 19:20:07 +0000",
       "golden_carrot": "2025-06-30 19:45:18 +0000"
     },
     "done": false
@@ -3225,6 +3226,18 @@
   "minecraft:recipes/building_blocks/stripped_oak_wood": {
     "criteria": {
       "has_log": "2025-07-01 17:31:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_the_recipe": "2025-07-01 18:58:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_the_recipe": "2025-07-01 18:57:55 +0000"
     },
     "done": true
   },
