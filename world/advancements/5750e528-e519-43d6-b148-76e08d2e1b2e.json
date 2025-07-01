@@ -7,17 +7,25 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cold_ocean": "2025-07-01 00:01:26 +0000",
       "minecraft:forest": "2025-06-30 20:23:17 +0000",
+      "minecraft:taiga": "2025-07-01 00:02:06 +0000",
       "minecraft:deep_ocean": "2025-06-30 23:44:24 +0000",
       "minecraft:lush_caves": "2025-06-30 22:11:58 +0000",
+      "minecraft:deep_cold_ocean": "2025-07-01 00:01:13 +0000",
+      "minecraft:ice_spikes": "2025-07-01 00:06:27 +0000",
+      "minecraft:frozen_ocean": "2025-07-01 00:11:12 +0000",
       "minecraft:eroded_badlands": "2025-06-30 23:19:34 +0000",
       "minecraft:desert": "2025-06-30 22:17:43 +0000",
+      "minecraft:frozen_river": "2025-07-01 00:04:36 +0000",
       "minecraft:jungle": "2025-06-30 22:11:26 +0000",
       "minecraft:ocean": "2025-06-30 23:42:53 +0000",
       "minecraft:cherry_grove": "2025-06-30 21:10:33 +0000",
       "minecraft:sunflower_plains": "2025-06-30 21:08:59 +0000",
       "minecraft:birch_forest": "2025-06-30 21:24:53 +0000",
       "minecraft:windswept_hills": "2025-06-30 21:55:47 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-07-01 00:01:58 +0000",
+      "minecraft:snowy_beach": "2025-07-01 00:10:41 +0000",
       "minecraft:bamboo_jungle": "2025-06-30 20:24:21 +0000",
       "minecraft:wooded_badlands": "2025-06-30 22:17:44 +0000",
       "minecraft:warm_ocean": "2025-06-30 19:16:45 +0000",
@@ -31,7 +39,9 @@
       "minecraft:lukewarm_ocean": "2025-06-30 19:33:12 +0000",
       "minecraft:river": "2025-06-30 19:46:37 +0000",
       "minecraft:stony_shore": "2025-06-30 23:22:42 +0000",
+      "minecraft:snowy_plains": "2025-07-01 00:04:48 +0000",
       "minecraft:dripstone_caves": "2025-06-30 21:06:03 +0000",
+      "minecraft:snowy_taiga": "2025-07-01 00:04:29 +0000",
       "minecraft:old_growth_birch_forest": "2025-06-30 20:25:14 +0000",
       "minecraft:meadow": "2025-06-30 21:12:51 +0000",
       "minecraft:savanna": "2025-06-30 19:46:17 +0000",
@@ -1838,9 +1848,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-07-01 00:02:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-07-01 00:00:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2025-06-30 23:32:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-07-01 00:02:42 +0000"
     },
     "done": true
   },
@@ -1865,6 +1893,12 @@
   "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
     "criteria": {
       "has_cooked_rabbit": "2025-06-30 23:16:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
+    "criteria": {
+      "has_coast_armor_trim_smithing_template": "2025-07-01 00:00:36 +0000"
     },
     "done": true
   },
