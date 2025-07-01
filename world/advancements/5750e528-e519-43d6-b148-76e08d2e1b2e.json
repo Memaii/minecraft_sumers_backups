@@ -7,23 +7,35 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:beach": "2025-06-30 19:36:20 +0000",
       "minecraft:forest": "2025-06-30 20:23:17 +0000",
+      "minecraft:deep_ocean": "2025-06-30 23:44:24 +0000",
+      "minecraft:lush_caves": "2025-06-30 22:11:58 +0000",
+      "minecraft:eroded_badlands": "2025-06-30 23:19:34 +0000",
+      "minecraft:desert": "2025-06-30 22:17:43 +0000",
+      "minecraft:jungle": "2025-06-30 22:11:26 +0000",
+      "minecraft:ocean": "2025-06-30 23:42:53 +0000",
+      "minecraft:cherry_grove": "2025-06-30 21:10:33 +0000",
+      "minecraft:sunflower_plains": "2025-06-30 21:08:59 +0000",
+      "minecraft:birch_forest": "2025-06-30 21:24:53 +0000",
+      "minecraft:windswept_hills": "2025-06-30 21:55:47 +0000",
+      "minecraft:bamboo_jungle": "2025-06-30 20:24:21 +0000",
+      "minecraft:wooded_badlands": "2025-06-30 22:17:44 +0000",
+      "minecraft:warm_ocean": "2025-06-30 19:16:45 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-06-30 19:32:01 +0000",
+      "minecraft:badlands": "2025-06-30 23:05:24 +0000",
+      "minecraft:savanna_plateau": "2025-06-30 23:50:39 +0000",
+      "minecraft:beach": "2025-06-30 19:36:20 +0000",
+      "minecraft:dark_forest": "2025-06-30 22:04:24 +0000",
+      "minecraft:mangrove_swamp": "2025-06-30 22:49:27 +0000",
       "minecraft:sparse_jungle": "2025-06-30 19:36:30 +0000",
       "minecraft:lukewarm_ocean": "2025-06-30 19:33:12 +0000",
       "minecraft:river": "2025-06-30 19:46:37 +0000",
+      "minecraft:stony_shore": "2025-06-30 23:22:42 +0000",
       "minecraft:dripstone_caves": "2025-06-30 21:06:03 +0000",
       "minecraft:old_growth_birch_forest": "2025-06-30 20:25:14 +0000",
-      "minecraft:cherry_grove": "2025-06-30 21:10:33 +0000",
-      "minecraft:sunflower_plains": "2025-06-30 21:08:59 +0000",
       "minecraft:meadow": "2025-06-30 21:12:51 +0000",
-      "minecraft:birch_forest": "2025-06-30 21:24:53 +0000",
-      "minecraft:windswept_hills": "2025-06-30 21:55:47 +0000",
       "minecraft:savanna": "2025-06-30 19:46:17 +0000",
-      "minecraft:bamboo_jungle": "2025-06-30 20:24:21 +0000",
-      "minecraft:plains": "2025-06-30 19:43:04 +0000",
-      "minecraft:warm_ocean": "2025-06-30 19:16:45 +0000",
-      "minecraft:deep_lukewarm_ocean": "2025-06-30 19:32:01 +0000"
+      "minecraft:plains": "2025-06-30 19:43:04 +0000"
     },
     "done": false
   },
@@ -116,7 +128,10 @@
       "cooked_porkchop": "2025-06-30 19:54:03 +0000",
       "chicken": "2025-06-30 19:29:24 +0000",
       "cooked_chicken": "2025-06-30 19:29:41 +0000",
-      "cooked_mutton": "2025-06-30 19:40:28 +0000"
+      "cooked_mutton": "2025-06-30 19:40:28 +0000",
+      "potato": "2025-06-30 22:19:34 +0000",
+      "cooked_beef": "2025-06-30 22:44:10 +0000",
+      "beef": "2025-06-30 22:31:49 +0000"
     },
     "done": false
   },
@@ -872,6 +887,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-06-30 22:53:03 +0000",
+      "minecraft:cave_spider": "2025-06-30 23:07:54 +0000",
       "minecraft:skeleton": "2025-06-30 20:06:25 +0000",
       "minecraft:enderman": "2025-06-30 20:13:14 +0000",
       "minecraft:spider": "2025-06-30 20:25:37 +0000",
@@ -1524,6 +1541,378 @@
   "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
       "has_gold_block": "2025-06-30 21:39:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-06-30 22:19:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2025-06-30 22:19:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-06-30 22:19:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-06-30 22:19:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-06-30 22:22:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-06-30 22:22:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-06-30 22:22:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_glazed_terracotta": {
+    "criteria": {
+      "has_brown_terracotta": "2025-06-30 22:27:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_glazed_terracotta": {
+    "criteria": {
+      "has_red_terracotta": "2025-06-30 22:27:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-06-30 22:31:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-06-30 22:31:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2025-06-30 22:31:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-06-30 22:48:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-06-30 22:48:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-06-30 22:48:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-06-30 22:48:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-06-30 22:54:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-06-30 22:54:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-06-30 22:54:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-06-30 22:54:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2025-06-30 22:58:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2025-06-30 22:58:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2025-06-30 22:58:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/cyan_dye": {
+    "criteria": {
+      "has_green_dye": "2025-06-30 22:59:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_green_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-06-30 22:59:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_green_dye": "2025-06-30 22:59:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_candle": {
+    "criteria": {
+      "has_green_dye": "2025-06-30 22:59:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye": {
+    "criteria": {
+      "has_green_dye": "2025-06-30 22:59:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/green_bundle": {
+    "criteria": {
+      "has_green_dye": "2025-06-30 22:59:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_green_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-06-30 22:59:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_green_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-06-30 22:59:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-06-30 23:10:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-06-30 23:10:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2025-06-30 23:10:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-30 23:10:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-06-30 23:10:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2025-06-30 23:10:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2025-06-30 23:10:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2025-06-30 23:10:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2025-06-30 23:10:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-30 23:32:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-30 23:32:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-06-30 23:31:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-30 23:32:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-30 23:32:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-30 23:32:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-30 23:32:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-30 23:32:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-30 23:32:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-30 23:32:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-06-30 23:42:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-06-30 23:29:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-06-30 23:29:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-06-30 23:16:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-30 23:32:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-30 23:32:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-06-30 23:31:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-06-30 23:16:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-30 23:32:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-06-30 23:31:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-06-30 23:29:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-30 23:32:05 +0000"
     },
     "done": true
   },

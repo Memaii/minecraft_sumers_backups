@@ -2441,3 +2441,175 @@ java.io.IOException: Maximum number of bytes read: 8192
 [30Jun2025 21:59:06.031] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Redoxlyy[/89.80.190.53:55773] logged in with entity id 68195 at (1229.0301296407579, 61.76846979241003, -230.82388743141652)
 [30Jun2025 21:59:06.032] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/]: Sending 1483 recipes of the following types: [blasting, smoking, crafting, smithing, campfire_cooking, smelting, stonecutting]
 [30Jun2025 21:59:06.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Redoxlyy joined the game
+[30Jun2025 22:00:45.386] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Redoxlyy moved too quickly! 7.804098321347055,1.604424101326714,6.133006804819843
+[30Jun2025 22:00:45.516] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3146ms or 62 ticks behind
+[30Jun2025 22:01:03.923] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3453ms or 69 ticks behind
+[30Jun2025 22:01:31.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arkeez has made the advancement [Stone Age]
+[30Jun2025 22:03:18.603] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[30Jun2025 22:03:31.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arkeez has made the advancement [Getting an Upgrade]
+[30Jun2025 22:03:51.136] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 7.202731451722684,-5.176759275064242,5.015399146729919
+[30Jun2025 22:03:51.140] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 6.997704006789718,-5.176759275064242,4.936900318097045
+[30Jun2025 22:03:51.152] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 6.997704006789718,-5.176759275064242,4.936900318097045
+[30Jun2025 22:06:20.738] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2968ms or 59 ticks behind
+[30Jun2025 22:06:40.716] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Oak Boat (vehicle of Redoxlyy) moved wrongly! 4821.5516002424065
+[30Jun2025 22:06:47.549] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! -4823.02276273285,-21.5,-53.977863662373124
+[30Jun2025 22:06:47.558] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! -4823.02276273285,-21.5,-53.977863662373124
+[30Jun2025 22:06:47.566] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! -4823.02276273285,-21.5,-53.977863662373124
+[30Jun2025 22:07:33.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Arkeez> zz
+[30Jun2025 22:08:21.690] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[30Jun2025 22:09:23.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arkeez has made the advancement [A Seedy Place]
+[30Jun2025 22:10:48.659] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved wrongly!
+[30Jun2025 22:11:57.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Byakoren> lafraise arrête de cheat je vois les logs
+[30Jun2025 22:12:42.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Blackliss> Ouai marre de me prendre des mooved quickly :joy:
+[30Jun2025 22:13:21.438] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[30Jun2025 22:18:21.440] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[30Jun2025 22:23:21.473] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[30Jun2025 22:24:42.692] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Redoxlyy lost connection: Disconnected
+[30Jun2025 22:24:42.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Redoxlyy left the game
+[30Jun2025 22:25:41.078] [User Authenticator #25/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Redoxlyy is 82c71c85-d9c9-4197-a7c6-61b8ee4b34c7
+[30Jun2025 22:25:41.119] [Netty Epoll Server IO #3/DEBUG] [net.neoforged.neoforge.network.filters.NetworkFilters/]: Injected net.neoforged.neoforge.network.filters.GenericPacketSplitter@49f936eb into net.minecraft.network.Connection@27fcf634
+[30Jun2025 22:25:41.362] [Netty Epoll Server IO #3/DEBUG] [net.neoforged.neoforge.network.filters.NetworkFilters/]: Injected net.neoforged.neoforge.network.filters.GenericPacketSplitter@6cce70ac into net.minecraft.network.Connection@27fcf634
+[30Jun2025 22:25:41.381] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Redoxlyy[/89.80.190.53:56274] logged in with entity id 95375 at (1902.0040180416336, 61.0, 252.90924333508661)
+[30Jun2025 22:25:41.382] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/]: Sending 1483 recipes of the following types: [blasting, smoking, crafting, smithing, campfire_cooking, smelting, stonecutting]
+[30Jun2025 22:25:41.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Redoxlyy joined the game
+[30Jun2025 22:26:25.264] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Redoxlyy moved too quickly! -0.8907073292398309,149.5,-0.9115763016258143
+[30Jun2025 22:26:29.102] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Byakoren moved too quickly! -86.84093699739458,-70.0625,2.427924071322991
+[30Jun2025 22:26:29.111] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Byakoren moved too quickly! -86.84093699739458,-70.0625,2.427924071322991
+[30Jun2025 22:27:59.068] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Redoxlyy moved too quickly! 4817.77286290081,-123.5,53.129779755568734
+[30Jun2025 22:28:21.474] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[30Jun2025 22:28:35.459] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Redoxlyy moved too quickly! 0.25677697386595355,149.5,-1.4954619641340514
+[30Jun2025 22:28:46.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Byakoren has made the advancement [Ice Bucket Challenge]
+[30Jun2025 22:31:25.357] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Redoxlyy moved too quickly! -5.199999988079071,-148.0,10.387186725799125
+[30Jun2025 22:31:50.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arkeez has made the advancement [Acquire Hardware]
+[30Jun2025 22:32:12.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arkeez has made the advancement [Isn't It Iron Pick]
+[30Jun2025 22:32:53.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Byakoren has made the advancement [Enchanter]
+[30Jun2025 22:33:21.526] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[30Jun2025 22:34:18.545] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2926ms or 58 ticks behind
+[30Jun2025 22:35:23.862] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Redoxlyy moved wrongly!
+[30Jun2025 22:35:49.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blackliss fell off a ladder
+[30Jun2025 22:35:52.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Byakoren> cheh
+[30Jun2025 22:36:00.610] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 1496.1918570426917,-195.5,-79.54272926729777
+[30Jun2025 22:36:00.618] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 1496.1918570426917,-195.5,-79.54272926729777
+[30Jun2025 22:36:53.646] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! -2.9827563885844484,-148.0,9.748728094217
+[30Jun2025 22:36:53.654] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! -2.9827563885844484,-148.0,9.748728094217
+[30Jun2025 22:36:53.662] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! -2.9827563885844484,-148.0,9.748728094217
+[30Jun2025 22:38:24.388] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[30Jun2025 22:40:59.014] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Redoxlyy moved too quickly! -5.199999988079071,-148.0,8.839418584277439
+[30Jun2025 22:43:24.348] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[30Jun2025 22:48:18.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blackliss has made the advancement [Ice Bucket Challenge]
+[30Jun2025 22:48:24.387] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[30Jun2025 22:48:49.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blackliss has made the advancement [Who is Cutting Onions?]
+[30Jun2025 22:49:22.188] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Redoxlyy lost connection: Disconnected
+[30Jun2025 22:49:22.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Redoxlyy left the game
+[30Jun2025 22:50:08.105] [User Authenticator #26/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Redoxlyy is 82c71c85-d9c9-4197-a7c6-61b8ee4b34c7
+[30Jun2025 22:50:08.226] [Netty Epoll Server IO #7/DEBUG] [net.neoforged.neoforge.network.filters.NetworkFilters/]: Injected net.neoforged.neoforge.network.filters.GenericPacketSplitter@48b0021 into net.minecraft.network.Connection@6ff7fd5
+[30Jun2025 22:50:08.799] [Netty Epoll Server IO #7/DEBUG] [net.neoforged.neoforge.network.filters.NetworkFilters/]: Injected net.neoforged.neoforge.network.filters.GenericPacketSplitter@62fb09fb into net.minecraft.network.Connection@6ff7fd5
+[30Jun2025 22:50:08.817] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Redoxlyy[/89.80.190.53:57004] logged in with entity id 115042 at (1950.1187882007127, 211.0, 147.90626539354673)
+[30Jun2025 22:50:08.818] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/]: Sending 1483 recipes of the following types: [blasting, smoking, crafting, smithing, campfire_cooking, smelting, stonecutting]
+[30Jun2025 22:50:08.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Redoxlyy joined the game
+[30Jun2025 22:50:15.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Redoxlyy> bonne nuit à tous
+[30Jun2025 22:50:16.642] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Redoxlyy lost connection: Disconnected
+[30Jun2025 22:50:16.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Redoxlyy left the game
+[30Jun2025 22:50:19.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Blackliss> Nuitée
+[30Jun2025 22:50:22.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Blackliss> Ha x)
+[30Jun2025 22:50:27.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Byakoren> t en voc avec lui t con
+[30Jun2025 22:50:34.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Arkeez> son réveil a 5h va piqué severe
+[30Jun2025 22:50:36.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Blackliss> Pas faux
+[30Jun2025 22:50:46.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Byakoren> quelle idée de dormir aussi
+[30Jun2025 22:50:53.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Blackliss> Tu m'etonnes x)
+[30Jun2025 22:51:06.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Arkeez> ah mais non il est ptetre en formation du coup ça va c'est grasse mat jusqu'a 8h trql
+[30Jun2025 22:51:20.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Blackliss> Oui mais ça va piquer quand me^me
+[30Jun2025 22:51:57.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Arkeez> 5h c'est l'heure a laquelle je me suis couché ce matin, j'aurais du lui souhaité une bonne journée
+[30Jun2025 22:52:05.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Blackliss> :joy:
+[30Jun2025 22:52:10.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Byakoren> idée mode, celui qui coupe un arbre quand tu coupes le bas
+[30Jun2025 22:52:37.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Blackliss> Ouaip j'y avais pensé mais comme vous vouliez pas surchargés le serv je l'ai pas ajouté à la liste
+[30Jun2025 22:53:13.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Byakoren> non on veut pas de mode avec énorme structure et donjon et mob à l'infini c'est ça qui fume les pcs
+[30Jun2025 22:53:24.368] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[30Jun2025 22:53:45.813] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Byakoren moved too quickly! -88.33927201306113,-69.5,3.327158916075291
+[30Jun2025 22:56:05.690] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Byakoren lost connection: Disconnected
+[30Jun2025 22:56:05.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Byakoren left the game
+[30Jun2025 22:58:24.328] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[30Jun2025 22:58:43.874] [User Authenticator #27/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Byakoren is 77ebe240-f66a-4d07-ae88-a6df583c1a70
+[30Jun2025 22:58:43.920] [Netty Epoll Server IO #4/DEBUG] [net.neoforged.neoforge.network.filters.NetworkFilters/]: Injected net.neoforged.neoforge.network.filters.GenericPacketSplitter@326b6aba into net.minecraft.network.Connection@50f9c5ec
+[30Jun2025 22:58:44.156] [Netty Epoll Server IO #4/DEBUG] [net.neoforged.neoforge.network.filters.NetworkFilters/]: Injected net.neoforged.neoforge.network.filters.GenericPacketSplitter@4a3fb69 into net.minecraft.network.Connection@50f9c5ec
+[30Jun2025 22:58:44.178] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Byakoren[/86.245.7.178:63773] logged in with entity id 123036 at (-473.15783926580923, -8.0, 527.4717700356869)
+[30Jun2025 22:58:44.178] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/]: Sending 1483 recipes of the following types: [blasting, smoking, crafting, smithing, campfire_cooking, smelting, stonecutting]
+[30Jun2025 22:58:44.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Byakoren joined the game
+[30Jun2025 22:59:01.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Blackliss> Super, le mec se barre sans dire bonne nuit, bref ~
+[30Jun2025 22:59:10.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Byakoren> ok
+[30Jun2025 22:59:18.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Blackliss> Ha, re Byako :D
+[30Jun2025 22:59:38.014] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Byakoren moved too quickly! 87.90513042369804,72.5,0.21979675238833352
+[30Jun2025 23:02:21.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Arkeez> l'un d'entre vous pourra renvoyer le lien du truc pour faire son texture pack custom et la liste des truc a modif en prio svp ?
+[30Jun2025 23:02:32.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Arkeez> (oui j'ai dit texture pack)
+[30Jun2025 23:02:42.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Byakoren> c'est à dire?
+[30Jun2025 23:02:48.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Byakoren> quel rexture pack?
+[30Jun2025 23:02:53.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Arkeez> je sais plus, full me l'avais envoyer
+[30Jun2025 23:02:56.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Arkeez> c'est un site
+[30Jun2025 23:03:09.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Byakoren> ressource pack ou texture pack?
+[30Jun2025 23:03:14.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Byakoren> modif les blocks?
+[30Jun2025 23:03:14.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Blackliss> Ha, connais pas x)
+[30Jun2025 23:03:23.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Arkeez> et tu selectionne tes truc (genre avoir des chiffre sur ta barre d'objet, faire ressortir les minerais etc)
+[30Jun2025 23:03:24.347] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[30Jun2025 23:03:33.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Byakoren> ressource pack alors
+[30Jun2025 23:03:40.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Arkeez> aucune idée, dans ma tete texture pack c'est le vieux nom et ajd ça s'appel ressource pack
+[30Jun2025 23:03:56.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Byakoren> texture pack c'est pour modif l'apparence complète du jeu
+[30Jun2025 23:04:08.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Byakoren> ressource pack c'est genre le full bright etc
+[30Jun2025 23:04:19.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Arkeez> alright je vois
+[30Jun2025 23:04:24.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arkeez has made the advancement [Diamonds!]
+[30Jun2025 23:04:50.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Byakoren> sur le site de didi t'as quasi tout ce qu'il te faut
+[30Jun2025 23:05:07.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Byakoren> pour savoir où les installes
+[30Jun2025 23:05:20.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Byakoren> echap option ressource pack open folder
+[30Jun2025 23:05:29.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Byakoren> et t'as la route
+[30Jun2025 23:05:30.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Arkeez> ouais c'était ça bv merci
+[30Jun2025 23:07:35.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Arkeez> zzz ?
+[30Jun2025 23:08:24.336] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[30Jun2025 23:11:04.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arkeez has made the advancement [The Parrots and the Bats]
+[30Jun2025 23:12:43.002] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Byakoren moved too quickly! -87.18373490352946,-69.5,3.0198216592850713
+[30Jun2025 23:12:43.011] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Byakoren moved too quickly! -87.18373490352946,-69.5,3.0198216592850713
+[30Jun2025 23:13:07.995] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss lost connection: Disconnected
+[30Jun2025 23:13:07.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blackliss left the game
+[30Jun2025 23:13:11.751] [User Authenticator #28/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Blackliss is 5750e528-e519-43d6-b148-76e08d2e1b2e
+[30Jun2025 23:13:11.786] [Netty Epoll Server IO #3/DEBUG] [net.neoforged.neoforge.network.filters.NetworkFilters/]: Injected net.neoforged.neoforge.network.filters.GenericPacketSplitter@5f7d291f into net.minecraft.network.Connection@91ff0a8
+[30Jun2025 23:13:11.964] [Netty Epoll Server IO #3/DEBUG] [net.neoforged.neoforge.network.filters.NetworkFilters/]: Injected net.neoforged.neoforge.network.filters.GenericPacketSplitter@705b4207 into net.minecraft.network.Connection@91ff0a8
+[30Jun2025 23:13:12.001] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Blackliss[/192.168.1.254:59542] logged in with entity id 133685 at (1947.6931147257358, 64.0, 139.70927959856047)
+[30Jun2025 23:13:12.002] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/]: Sending 1483 recipes of the following types: [blasting, smoking, crafting, smithing, campfire_cooking, smelting, stonecutting]
+[30Jun2025 23:13:12.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blackliss joined the game
+[30Jun2025 23:13:21.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Arkeez> azy bisous bn,
+[30Jun2025 23:13:24.351] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[30Jun2025 23:13:28.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Blackliss> Byako stop te moove en créative là !! Dinguerie de faire ça !!
+[30Jun2025 23:13:32.849] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Arkeez lost connection: Disconnected
+[30Jun2025 23:13:32.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arkeez left the game
+[30Jun2025 23:13:53.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Byakoren> donne les droits que je me fasse ma cane à pêche enchant là j'ai que des unbreaking de merde
+[30Jun2025 23:14:00.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Blackliss> xD
+[30Jun2025 23:14:10.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Blackliss> J'ai loot dans un village un petit unbreak 3 :D
+[30Jun2025 23:14:16.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Byakoren> osef de unbreak
+[30Jun2025 23:14:21.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Byakoren> je veux luck of the sea
+[30Jun2025 23:14:32.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Blackliss> Attends je te give ça :D
+[30Jun2025 23:15:52.068] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Byakoren moved too quickly! 1021.6890942505045,89.5,-717.3815715603182
+[30Jun2025 23:17:42.355] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Byakoren moved too quickly! 87.72965681165692,72.5,0.5756771574151571
+[30Jun2025 23:17:42.365] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Byakoren moved too quickly! 87.72965681165692,72.5,0.5756771574151571
+[30Jun2025 23:18:24.340] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[30Jun2025 23:18:55.817] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 9438.322683386465,8.5,248.288149066226
+[30Jun2025 23:23:24.381] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[30Jun2025 23:25:02.269] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Byakoren moved too quickly! -87.54747708438595,-70.0625,2.7720577341248145
+[30Jun2025 23:26:54.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Byakoren has made the advancement [We Need to Go Deeper]
+[30Jun2025 23:26:55.789] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Oak Boat (vehicle of Blackliss) moved too quickly! 9.438425841743083,5.8713860639159066E-5,-4.183766246751247
+[30Jun2025 23:26:55.789] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Oak Boat (vehicle of Blackliss) moved too quickly! 9.80363062271681,5.922184364237637E-5,-4.345650385209183
+[30Jun2025 23:26:55.816] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Oak Boat (vehicle of Blackliss) moved too quickly! 9.438526975078275,5.824431783452155E-5,-4.183811076073653
+[30Jun2025 23:28:24.354] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[30Jun2025 23:33:24.341] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[30Jun2025 23:35:15.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Byakoren has made the advancement [Those Were the Days]
+[30Jun2025 23:38:24.320] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[30Jun2025 23:42:03.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blackliss has made the advancement [Hot Stuff]
+[30Jun2025 23:43:20.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Byakoren has made the advancement [War Pigs]
+[30Jun2025 23:43:24.406] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[30Jun2025 23:43:27.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Byakoren has made the advancement [Who is Cutting Onions?]
+[30Jun2025 23:48:25.362] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[30Jun2025 23:53:24.348] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[30Jun2025 23:55:24.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Byakoren has made the advancement [Cover Me with Diamonds]
+[30Jun2025 23:58:24.318] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[30Jun2025 23:59:20.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Byakoren was slain by Piglin Brute
+[30Jun2025 23:59:29.736] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Byakoren moved too quickly! -87.0,-69.5,3.0
+[30Jun2025 23:59:29.745] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Byakoren moved too quickly! -87.0,-69.5,3.0
+[30Jun2025 23:59:29.753] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Byakoren moved too quickly! -87.0,-69.5,3.0
+[30Jun2025 23:59:29.762] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Byakoren moved too quickly! -87.0,-69.5,3.0
