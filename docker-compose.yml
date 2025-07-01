@@ -17,5 +17,6 @@ services:
     ports:
       - "3141:25565"
       - "1431:25575"
+      - "8100:8100"      # port BlueMap pour la carte web
     volumes:
       - /home/pouletdecanon/Minecraft_Summer_Edition_2025:/data
