@@ -112,3 +112,15 @@
 [02Jul2025 04:05:49.784] [Thread-14/INFO] [BlueMap/]: WebServer started.
 [02Jul2025 04:05:49.799] [BlueMap-Plugin-Loading/INFO] [BlueMap/]: Loaded!
 [02Jul2025 04:06:46.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Server empty for 60 seconds, pausing
+[02Jul2025 06:48:35.030] [User Authenticator #1/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Blackliss is 5750e528-e519-43d6-b148-76e08d2e1b2e
+[02Jul2025 06:48:36.182] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Blackliss[/192.168.1.254:56162] logged in with entity id 1 at (1944.6844413551978, 210.9375, 146.77471018350406)
+[02Jul2025 06:48:36.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blackliss joined the game
+[02Jul2025 06:49:03.101] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss lost connection: Disconnected
+[02Jul2025 06:49:03.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blackliss left the game
+[02Jul2025 06:50:03.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Server empty for 60 seconds, pausing
+[02Jul2025 07:57:18.266] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /0:0:0:0:0:0:0:1 started
+[02Jul2025 07:57:18.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Rcon] Le serveur redemarrera dans 10 minutes, preparez-vous !
+[02Jul2025 07:57:18.282] [RCON Client /0:0:0:0:0:0:0:1 #2/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /0:0:0:0:0:0:0:1 shutting down
+[02Jul2025 07:58:12.506] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Blackliss is 5750e528-e519-43d6-b148-76e08d2e1b2e
+[02Jul2025 07:58:13.223] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Blackliss[/192.168.1.254:59040] logged in with entity id 311 at (1944.7364960345399, 210.9375, 146.6319759457079)
+[02Jul2025 07:58:13.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blackliss joined the game
