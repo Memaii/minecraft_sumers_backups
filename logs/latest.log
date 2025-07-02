@@ -1030,3 +1030,247 @@
 [02Jul2025 13:55:09.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Blackliss> Raph, on a une carte dynamique via le site map.minecraft.dmvlab.eu, tu veux que les autres voient où tu es ou non ?
 [02Jul2025 13:55:25.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <susraph> j y vois pas d objections
 [02Jul2025 13:55:36.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Blackliss> Okip ça marche :D
+[02Jul2025 14:00:28.447] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fullavatar lost connection: Disconnected
+[02Jul2025 14:00:28.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fullavatar left the game
+[02Jul2025 14:00:30.603] [User Authenticator #19/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Fullavatar is fd102774-21c2-4b99-9396-f454ead0849c
+[02Jul2025 14:00:30.995] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Fullavatar[/93.19.138.72:52144] logged in with entity id 146612 at (544.5707316096536, 63.0, 13670.914360048624)
+[02Jul2025 14:00:31.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fullavatar joined the game
+[02Jul2025 14:00:45.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Blackliss> prochaine fois que tu déco reco comme ça full, on s'occupe de toi avec Byako :D
+[02Jul2025 14:00:50.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Byakoren> tg
+[02Jul2025 14:01:01.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Fullavatar> :3
+[02Jul2025 14:01:55.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <guebaud> parles bien cheminot
+[02Jul2025 14:02:05.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Byakoren> oui mon rouquin d'amour
+[02Jul2025 14:02:13.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <guebaud> mwak mwak
+[02Jul2025 14:02:20.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <guebaud> je rougis art
+[02Jul2025 14:02:42.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Fullavatar> art
+[02Jul2025 14:02:46.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Fullavatar> grrrr ?
+[02Jul2025 14:02:49.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Fullavatar> qué
+[02Jul2025 14:02:51.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Byakoren> une què?
+[02Jul2025 14:03:05.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Fullavatar> une grosse qué
+[02Jul2025 14:03:18.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <guebaud> un quéééééééééé
+[02Jul2025 14:03:23.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Byakoren> me dit pas que t'as invité mex
+[02Jul2025 14:03:25.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Byakoren> max
+[02Jul2025 14:03:36.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <guebaud> nan
+[02Jul2025 14:03:40.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <guebaud> pas ce bal trou
+[02Jul2025 14:03:51.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Byakoren> t'as invité qui?
+[02Jul2025 14:03:57.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <guebaud> un pote
+[02Jul2025 14:04:08.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <guebaud> il est grv cool
+[02Jul2025 14:04:10.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Byakoren> et ta meuf et ton frère et ta mère?
+[02Jul2025 14:04:14.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Fullavatar> nom, sexe, age, argent sur compte bancaire
+[02Jul2025 14:04:22.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <guebaud> mon père arrive thaleur
+[02Jul2025 14:04:37.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Byakoren> est ce qu'il fera partit du clan des comunistes? ou il fera des choppes comme un mec normal
+[02Jul2025 14:05:23.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <guebaud> on fait tous des shops ici
+[02Jul2025 14:05:28.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Byakoren> pas tous
+[02Jul2025 14:05:31.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Byakoren> malheureusement
+[02Jul2025 14:05:35.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <guebaud> tu vas voir une économie fleurissante
+[02Jul2025 14:05:37.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Byakoren> il y a des communistes ici
+[02Jul2025 14:05:44.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <guebaud> SUSindustry
+[02Jul2025 14:05:49.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Fullavatar> un irreductible Lime est encore parmit nous
+[02Jul2025 14:06:11.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Byakoren> on va élire un président, un capitaliste ou un communiste on verra choississez bien pour l'avenir du serveur
+[02Jul2025 14:06:28.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Byakoren> Votez Byakoren pour un commerce florissant et un bon dabarabe
+[02Jul2025 14:06:32.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Byakoren> débarabe*
+[02Jul2025 14:06:37.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <guebaud> la je vote
+[02Jul2025 14:06:41.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <guebaud> deux fois meme
+[02Jul2025 14:06:44.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Fullavatar> MMGA !!!! (Make Minecraft Great Again !)
+[02Jul2025 14:07:08.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Byakoren> Tommy je vais t'embaucher pour me faire des maps pour nos slogans
+[02Jul2025 14:07:20.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <guebaud> ca coute cher fais gaffe
+[02Jul2025 14:07:28.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Fullavatar> retrouvez nos goodies MMGA en vente, pour 10 beacons
+[02Jul2025 14:07:32.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Byakoren> comme ta soeur cette p
+[02Jul2025 14:07:45.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <guebaud> ste faule
+[02Jul2025 14:07:52.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Byakoren> ste folasse
+[02Jul2025 14:11:06.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Blackliss> Je vends information sur n'importe quel joueur en échnage d'une paire d'élytra :D
+[02Jul2025 14:11:22.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <guebaud> info sur full plsssss
+[02Jul2025 14:11:35.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Fullavatar> grosse bite
+[02Jul2025 14:12:43.864] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fullavatar lost connection: Disconnected
+[02Jul2025 14:12:43.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fullavatar left the game
+[02Jul2025 14:12:49.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <guebaud> baaaaaaaaaaaaaaaa
+[02Jul2025 14:15:38.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Blackliss> Pour Full, je te file ça gratis, 30 ans, célib, est amoureux d'une certaine Amélie et penses être bon sur Valo mais se fait pêter par tout le monde :D
+[02Jul2025 14:16:13.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <guebaud> il aime encore kakanary?
+[02Jul2025 14:16:14.076] [User Authenticator #20/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Znomore76 is 2f87ddc6-536c-44d8-bf91-641eb0fc426c
+[02Jul2025 14:16:14.765] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Znomore76[/83.114.248.159:54621] logged in with entity id 156157 at (438.5, 260.0, 224.5)
+[02Jul2025 14:16:14.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Znomore76 joined the game
+[02Jul2025 14:16:19.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <guebaud> lesssss go
+[02Jul2025 14:16:23.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Blackliss> Ha merde tu l'as connait :joy:
+[02Jul2025 14:16:27.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Blackliss> Hello !!
+[02Jul2025 14:16:30.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <guebaud> amelie neuille
+[02Jul2025 14:17:50.405] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Znomore76 moved too quickly! -0.6576670331415357,-15.528569887948436,1.4949770926626513
+[02Jul2025 14:19:46.868] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=556, y=48, z=13686} BlockPos{x=545, y=50, z=13676}
+[02Jul2025 14:19:57.733] [User Authenticator #21/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Fullavatar is fd102774-21c2-4b99-9396-f454ead0849c
+[02Jul2025 14:19:58.188] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Fullavatar[/93.19.138.72:52249] logged in with entity id 161557 at (552.4375055713733, 63.875, 13661.029121968888)
+[02Jul2025 14:19:58.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fullavatar joined the game
+[02Jul2025 14:22:39.407] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fullavatar lost connection: Disconnected
+[02Jul2025 14:22:39.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fullavatar left the game
+[02Jul2025 14:23:32.960] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss lost connection: Disconnected
+[02Jul2025 14:23:32.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blackliss left the game
+[02Jul2025 14:26:50.179] [User Authenticator #22/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Blackliss is 5750e528-e519-43d6-b148-76e08d2e1b2e
+[02Jul2025 14:26:50.594] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Blackliss[/192.168.1.254:51724] logged in with entity id 169312 at (1963.7948508742734, 213.875, 141.65839047096918)
+[02Jul2025 14:26:50.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blackliss joined the game
+[02Jul2025 14:34:51.900] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: guebaud lost connection: Disconnected
+[02Jul2025 14:34:51.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: guebaud left the game
+[02Jul2025 14:34:52.350] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Znomore76 lost connection: Disconnected
+[02Jul2025 14:34:52.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Znomore76 left the game
+[02Jul2025 14:35:02.870] [User Authenticator #24/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Znomore76 is 2f87ddc6-536c-44d8-bf91-641eb0fc426c
+[02Jul2025 14:35:03.276] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Znomore76[/83.114.248.159:55117] logged in with entity id 178085 at (554.796630859375, 62.110764312744145, 1189.24072265625)
+[02Jul2025 14:35:03.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Znomore76 joined the game
+[02Jul2025 14:35:04.623] [User Authenticator #23/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player guebaud is 876922dd-aa44-4202-81be-90a22dc1c24d
+[02Jul2025 14:35:05.135] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: guebaud[/90.70.73.104:52825] logged in with entity id 178287 at (554.7966255996033, 62.110764312744145, 1189.2406423658717)
+[02Jul2025 14:35:05.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: guebaud joined the game
+[02Jul2025 14:36:03.404] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Znomore76 lost connection: Timed out
+[02Jul2025 14:36:03.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Znomore76 left the game
+[02Jul2025 14:36:03.455] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[02Jul2025 14:36:25.948] [User Authenticator #25/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Znomore76 is 2f87ddc6-536c-44d8-bf91-641eb0fc426c
+[02Jul2025 14:36:26.930] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Znomore76[/83.114.248.159:55217] logged in with entity id 179622 at (480.84484330060616, 63.0, 1274.4461849927184)
+[02Jul2025 14:36:26.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Znomore76 joined the game
+[02Jul2025 14:36:48.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Znomore76 has made the advancement [Isn't It Iron Pick]
+[02Jul2025 14:37:06.478] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=432, y=64, z=1327} BlockPos{x=434, y=62, z=1327}
+[02Jul2025 14:37:37.913] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! -33.68534815797034,37.5625,-6.470701269061664
+[02Jul2025 14:37:37.921] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! -33.68534815797034,37.5625,-6.470701269061664
+[02Jul2025 14:37:37.930] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! -33.68534815797034,37.5625,-6.470701269061664
+[02Jul2025 14:40:21.900] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss lost connection: Disconnected
+[02Jul2025 14:40:21.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blackliss left the game
+[02Jul2025 14:43:55.124] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Znomore76 moved too quickly! -2.8502190810047523,3.9986640208878583,8.76917648247445
+[02Jul2025 14:45:19.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Znomore76 has made the advancement [We Need to Go Deeper]
+[02Jul2025 14:45:57.872] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: guebaud moved too quickly! 1146.5777629365339,194.5,-3183.1680846112645
+[02Jul2025 14:46:37.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Znomore76 has made the advancement [Monster Hunter]
+[02Jul2025 14:46:42.516] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: guebaud moved too quickly! -1145.6363932938716,-191.5,3182.1487961829353
+[02Jul2025 14:46:42.529] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: guebaud moved too quickly! -1145.6363932938716,-191.5,3182.1487961829353
+[02Jul2025 14:46:49.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Znomore76 has made the advancement [Sweet Dreams]
+[02Jul2025 14:47:24.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Znomore76 has made the advancement [Acquire Hardware]
+[02Jul2025 14:47:30.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Byakoren> gg
+[02Jul2025 14:47:32.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Znomore76 has made the advancement [Suit Up]
+[02Jul2025 14:47:39.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <guebaud> trop chaud
+[02Jul2025 14:47:41.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Byakoren> ez
+[02Jul2025 14:48:19.373] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: guebaud moved too quickly! -1145.5417170527548,-191.5,3181.800000011921
+[02Jul2025 14:49:04.666] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Znomore76 moved too quickly! -1146.8184326438786,-191.5,3181.800000011921
+[02Jul2025 14:49:11.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <guebaud> byako c toi le fer dans le coffre a la capitale?
+[02Jul2025 14:49:19.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Byakoren> nop je suis pas un communiste
+[02Jul2025 14:49:23.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <guebaud> dacc
+[02Jul2025 14:49:38.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <guebaud> ya du fer dans un coffre vient tchek
+[02Jul2025 14:49:50.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Byakoren> je touche pas perso
+[02Jul2025 14:49:57.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <guebaud> nous non plus tqt
+[02Jul2025 14:50:02.423] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: guebaud moved too quickly! -1146.2588288661464,-191.5,3181.8115967224167
+[02Jul2025 14:54:33.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Byakoren> tommy tu voulais fortune?
+[02Jul2025 14:54:51.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <guebaud> je lai drop dans une ancienne cité dans un coffre
+[02Jul2025 14:54:55.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <guebaud> jai full chatte
+[02Jul2025 14:55:02.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Byakoren> dak sinon je vend pour 10 emerald
+[02Jul2025 14:55:15.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <guebaud> vsy je ten prendrai quoi quil
+[02Jul2025 14:55:29.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Byakoren> pareil pour protec 4 unbreak 3 sweeping edge 3 silk touch
+[02Jul2025 14:55:45.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <guebaud> tout a 10 emeralds?
+[02Jul2025 14:55:47.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Byakoren> yes
+[02Jul2025 14:55:53.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <susraph> temu
+[02Jul2025 14:55:53.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <guebaud> dacc
+[02Jul2025 14:56:05.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Byakoren> ok je vend plus chère du coup tout à 600
+[02Jul2025 14:56:13.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <guebaud> la on prefere
+[02Jul2025 15:01:40.423] [User Authenticator #26/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player L_e_m_0_n is 0fb9b973-b571-48b0-a798-d2f0d4f6add6
+[02Jul2025 15:01:40.893] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: L_e_m_0_n[/88.169.41.145:45440] logged in with entity id 197904 at (2286.846683622606, 57.00133597911215, 5679.714148499948)
+[02Jul2025 15:01:40.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: L_e_m_0_n joined the game
+[02Jul2025 15:01:50.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <guebaud> salam
+[02Jul2025 15:02:24.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Znomore76 has made the advancement [Those Were the Days]
+[02Jul2025 15:04:24.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Znomore76 has made the advancement [Stone Age]
+[02Jul2025 15:09:30.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Byakoren> vend mending 20 emeralds
+[02Jul2025 15:09:36.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <guebaud> ct pas 10
+[02Jul2025 15:09:44.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Byakoren> c'est le seul j'avais aps donner de prix
+[02Jul2025 15:09:50.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Byakoren> parce que je l'avais pas encore
+[02Jul2025 15:09:51.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <guebaud> c vrai mb
+[02Jul2025 15:09:55.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <susraph> masdak il a dit mending c est mieux coté en bourse
+[02Jul2025 15:10:06.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Byakoren> c gatouz qui a foudroyé le prix
+[02Jul2025 15:10:11.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <guebaud> tu les vends a la sauvette?
+[02Jul2025 15:10:13.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <L_e_m_0_n> vend mending kit: villageois, bois, papier
+[02Jul2025 15:10:17.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Byakoren> mending c'est khalamité cette folle
+[02Jul2025 15:10:18.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <guebaud> ou offficillement?
+[02Jul2025 15:10:22.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <susraph> cte folle
+[02Jul2025 15:10:40.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Byakoren> à la sauvette pour l'instant flemme de faire un shop
+[02Jul2025 15:10:44.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <guebaud> vsy
+[02Jul2025 15:11:02.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <guebaud> le bat au spawn c pour les shop?
+[02Jul2025 15:11:09.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Byakoren> j'ai juste besoin d'emerald pour l'instant ça baissera après
+[02Jul2025 15:11:21.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Byakoren> non les shops on peut les faire dans la mine au spawn
+[02Jul2025 15:11:31.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <guebaud> je te redis quand on a pour buy
+[02Jul2025 15:11:33.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <guebaud> dacc
+[02Jul2025 15:11:46.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Byakoren> c'est la partie non communiste du spawn
+[02Jul2025 15:11:51.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <guebaud> dacc
+[02Jul2025 15:17:48.939] [User Authenticator #27/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Fullavatar is fd102774-21c2-4b99-9396-f454ead0849c
+[02Jul2025 15:17:49.440] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Fullavatar[/93.19.138.72:52613] logged in with entity id 211214 at (562.129537966125, 63.0, 13665.095097322617)
+[02Jul2025 15:17:49.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fullavatar joined the game
+[02Jul2025 15:17:57.531] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fullavatar moved too quickly! 99.53978647192469,202.9375,-13470.427706808778
+[02Jul2025 15:18:31.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Set own game mode to Spectator Mode]
+[02Jul2025 15:18:39.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Set own game mode to Survival Mode]
+[02Jul2025 15:19:01.522] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Byakoren moved too quickly! 99.07517962310749,202.9375,-13470.59002635494
+[02Jul2025 15:19:20.726] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Byakoren moved too quickly! -99.60822294472848,-200.5,13471.128427058931
+[02Jul2025 15:21:57.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: guebaud has made the advancement [What a Deal!]
+[02Jul2025 15:23:26.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: susraph has made the advancement [A Seedy Place]
+[02Jul2025 15:25:33.126] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: guebaud moved too quickly! 1147.141018480848,194.5,-3179.857118281525
+[02Jul2025 15:27:10.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Fullavatar> et la je me casse
+[02Jul2025 15:27:11.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Fullavatar> xD
+[02Jul2025 15:27:15.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <guebaud> nnnnononononono
+[02Jul2025 15:27:19.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <L_e_m_0_n> faites quoi
+[02Jul2025 15:27:33.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <guebaud> l'achat de l'année
+[02Jul2025 15:27:33.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Fullavatar> de la magie
+[02Jul2025 15:27:47.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <guebaud> tas pas drop?
+[02Jul2025 15:28:06.971] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Byakoren moved too quickly! 100.01498762865424,202.9375,-13470.286669678288
+[02Jul2025 15:28:06.980] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Byakoren moved too quickly! 100.01498762865424,202.9375,-13470.286669678288
+[02Jul2025 15:28:19.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Fullavatar> tu as les 2 ou qu'un ?
+[02Jul2025 15:28:23.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <guebaud> 1
+[02Jul2025 15:28:29.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <guebaud> ty
+[02Jul2025 15:28:30.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Znomore76 has made the advancement [A Terrible Fortress]
+[02Jul2025 15:28:34.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Fullavatar> yw
+[02Jul2025 15:29:07.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Znomore76 has made the advancement [Not Today, Thank You]
+[02Jul2025 15:29:24.424] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Byakoren moved too quickly! -37.52060135602028,-195.5,13539.759930248501
+[02Jul2025 15:30:18.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Znomore76 withered away
+[02Jul2025 15:30:23.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <guebaud> naaaaaaaaaaaaaaaaaaaa
+[02Jul2025 15:30:51.757] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: guebaud lost connection: Disconnected
+[02Jul2025 15:30:51.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: guebaud left the game
+[02Jul2025 15:35:11.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Znomore76 was slain by Wither Skeleton
+[02Jul2025 15:36:23.368] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Byakoren moved too quickly! 98.97848884138102,203.5,-13470.818863882309
+[02Jul2025 15:36:23.378] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Byakoren moved too quickly! 98.97848884138102,203.5,-13470.818863882309
+[02Jul2025 15:36:50.455] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Znomore76 moved too quickly! -10.2219926934454,0.2046003784434305,-0.2484688545069389
+[02Jul2025 15:36:51.857] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Znomore76 lost connection: Disconnected
+[02Jul2025 15:36:51.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Znomore76 left the game
+[02Jul2025 15:36:56.799] [User Authenticator #28/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Znomore76 is 2f87ddc6-536c-44d8-bf91-641eb0fc426c
+[02Jul2025 15:36:57.556] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Znomore76[/83.114.248.159:56630] logged in with entity id 227496 at (-182.59951410649995, 67.7531999805212, 187.8474610394354)
+[02Jul2025 15:36:57.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Znomore76 joined the game
+[02Jul2025 15:38:13.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Znomore76 was fireballed by Blaze
+[02Jul2025 15:39:09.619] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Znomore76 moved too quickly! 0.05987100305426907,0.8322033533667508,-10.27912271748346
+[02Jul2025 15:39:16.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Znomore76 was doomed to fall
+[02Jul2025 15:40:49.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Znomore76 withered away
+[02Jul2025 15:41:46.101] [User Authenticator #29/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player guebaud is 876922dd-aa44-4202-81be-90a22dc1c24d
+[02Jul2025 15:41:47.280] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: guebaud[/90.70.73.104:53124] logged in with entity id 232714 at (-504.52509346841094, 72.0, 3381.0679312325337)
+[02Jul2025 15:41:47.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: guebaud joined the game
+[02Jul2025 15:42:09.311] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Znomore76 moved too quickly! -6.524420414030089,0.0,-7.696177583883326
+[02Jul2025 15:43:19.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Znomore76 was burned to a crisp while fighting Blaze
+[02Jul2025 15:43:42.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Byakoren> j'espère qu'il s'amuse ton pote
+[02Jul2025 15:43:56.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <guebaud> pas autant que fraise et redox
+[02Jul2025 15:44:14.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Znomore76 tried to swim in lava
+[02Jul2025 15:45:34.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Znomore76 has made the advancement [Into Fire]
+[02Jul2025 15:47:32.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <L_e_m_0_n> quelqu'un aurais quelques soulsand qui traînent?
+[02Jul2025 15:47:57.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Znomore76 withered away
+[02Jul2025 15:48:00.783] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[02Jul2025 15:48:11.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <guebaud> nop lemon
+[02Jul2025 15:50:43.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Znomore76 burned to death
+[02Jul2025 15:51:24.018] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Znomore76 moved too quickly! -0.12231707329732444,-0.20000004768371582,-10.115565002054666
+[02Jul2025 15:51:36.230] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Znomore76 moved too quickly! 0.049070690682725626,0.0,-10.218461758730086
+[02Jul2025 15:51:58.969] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Znomore76 moved too quickly! -0.06838070347272662,0.0,-10.270773194964477
+[02Jul2025 15:52:45.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Znomore76 fell from a high place
+[02Jul2025 15:52:56.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <susraph> gg double digit
+[02Jul2025 15:53:10.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <guebaud> double ace
+[02Jul2025 15:53:41.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Znomore76 was doomed to fall by Magma Cube
+[02Jul2025 15:53:59.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Byakoren> il est en speed run 100 morts?
+[02Jul2025 15:54:02.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fullavatar has made the advancement [Glow and Behold!]
+[02Jul2025 15:54:16.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <guebaud> arrete il va pas aussi vite que fraise
+[02Jul2025 15:54:23.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Byakoren> ça se tape
+[02Jul2025 15:54:30.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <guebaud> kiffe kife
+[02Jul2025 15:54:36.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Byakoren> il est là depuis 20min lafraise c'est 3j
+[02Jul2025 15:54:38.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <susraph> kie
+[02Jul2025 15:54:39.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Fullavatar> Sous estimé pas la fraise
+[02Jul2025 15:54:48.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <guebaud> juste un peu
+[02Jul2025 15:54:55.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Znomore76 withered away
+[02Jul2025 15:55:16.124] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Znomore76 moved too quickly! 3.07333473637177,1.0,-9.656827015947897
+[02Jul2025 15:56:10.101] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Znomore76 moved too quickly! -4.392975322607697,-6.379572738508017,-6.68734031905629
+[02Jul2025 15:56:11.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Znomore76 was slain by Wither Skeleton
+[02Jul2025 15:56:51.691] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Znomore76 moved too quickly! -9.62622078398428,0.02442408821369213,-3.3799584597749686
+[02Jul2025 15:57:07.303] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Znomore76 moved too quickly! 0.10602264526107774,0.0,-10.102491259766794
+[02Jul2025 15:58:13.376] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Znomore76 moved too quickly! 9.256387472914525,0.0,-3.8906480057369492
+[02Jul2025 15:58:44.517] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Znomore76 lost connection: Timed out
+[02Jul2025 15:58:44.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Znomore76 left the game
+[02Jul2025 15:59:31.256] [User Authenticator #30/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Znomore76 is 2f87ddc6-536c-44d8-bf91-641eb0fc426c
+[02Jul2025 15:59:43.082] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Znomore76[/83.114.248.159:57019] logged in with entity id 251091 at (-259.4993227485148, 60.0, 195.56747481299774)
+[02Jul2025 15:59:43.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Znomore76 joined the game
