@@ -10,6 +10,7 @@
       "minecraft:cold_ocean": "2025-07-01 10:25:28 +0000",
       "minecraft:snowy_slopes": "2025-07-01 14:44:41 +0000",
       "minecraft:forest": "2025-06-30 20:05:00 +0000",
+      "minecraft:taiga": "2025-07-02 15:57:48 +0000",
       "minecraft:deep_ocean": "2025-07-01 10:24:10 +0000",
       "minecraft:deep_cold_ocean": "2025-07-02 13:44:10 +0000",
       "minecraft:desert": "2025-06-30 19:49:24 +0000",
@@ -1186,8 +1187,12 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-07-01 18:32:42 +0000",
+      "minecraft:blaze": "2025-07-02 16:14:16 +0000",
       "minecraft:skeleton": "2025-07-01 13:59:08 +0000",
+      "minecraft:enderman": "2025-07-02 16:09:32 +0000",
+      "minecraft:magma_cube": "2025-07-02 16:10:10 +0000",
       "minecraft:spider": "2025-07-01 14:13:59 +0000",
+      "minecraft:wither_skeleton": "2025-07-02 16:13:42 +0000",
       "minecraft:zombie": "2025-07-01 10:31:31 +0000",
       "minecraft:creeper": "2025-07-02 14:35:29 +0000",
       "minecraft:zombie_villager": "2025-07-01 20:05:50 +0000"
@@ -1862,7 +1867,8 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:warped_forest": "2025-07-01 20:17:54 +0000"
+      "minecraft:warped_forest": "2025-07-01 20:17:54 +0000",
+      "minecraft:basalt_deltas": "2025-07-02 16:08:26 +0000"
     },
     "done": false
   },
@@ -2529,6 +2535,108 @@
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_logs": "2025-07-02 15:42:47 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/warp_scroll": {
+    "criteria": {
+      "has_ender_pearl": "2025-07-02 16:09:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_bricks": "2025-07-02 16:12:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_bricks": "2025-07-02 16:12:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-07-02 16:12:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-07-02 16:12:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-07-02 16:11:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-07-02 16:12:27 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/warp_stone": {
+    "criteria": {
+      "has_ender_pearl": "2025-07-02 16:09:33 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/warp_dust": {
+    "criteria": {
+      "has_ender_pearl": "2025-07-02 16:09:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_bricks": "2025-07-02 16:12:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2025-07-02 16:12:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-07-02 16:12:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-07-02 16:11:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-07-02 16:12:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-07-02 16:12:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2025-07-02 16:12:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-07-02 16:10:08 +0000"
     },
     "done": true
   },
