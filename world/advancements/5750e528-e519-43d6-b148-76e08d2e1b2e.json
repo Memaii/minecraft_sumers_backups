@@ -904,10 +904,12 @@
       "minecraft:skeleton": "2025-06-30 20:06:25 +0000",
       "minecraft:vindicator": "2025-07-01 15:47:46 +0000",
       "minecraft:enderman": "2025-06-30 20:13:14 +0000",
+      "minecraft:witch": "2025-07-02 10:59:21 +0000",
       "minecraft:spider": "2025-06-30 20:25:37 +0000",
       "minecraft:vex": "2025-07-01 15:53:06 +0000",
       "minecraft:zombie": "2025-06-30 19:56:49 +0000",
       "minecraft:creeper": "2025-07-01 18:42:25 +0000",
+      "minecraft:zombie_villager": "2025-07-02 10:58:15 +0000",
       "minecraft:evoker": "2025-07-01 15:54:10 +0000"
     },
     "done": false
@@ -2835,6 +2837,36 @@
   "minecraft:husbandry/plant_seed": {
     "criteria": {
       "melon_stem": "2025-07-01 19:33:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-07-02 10:32:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:chicken": "2025-07-02 10:32:49 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-07-02 11:48:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2025-07-02 11:48:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-07-02 11:48:54 +0000"
     },
     "done": true
   },
