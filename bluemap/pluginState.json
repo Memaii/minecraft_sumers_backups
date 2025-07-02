@@ -11,5 +11,12 @@
       "update-enabled": true
     }
   },
-  "hidden-players": []
+  "hidden-players": [
+    "876922dd-aa44-4202-81be-90a22dc1c24d",
+    "82c71c85-d9c9-4197-a7c6-61b8ee4b34c7",
+    "ca1941cb-a617-4a74-b539-ae0e77326792",
+    "da53461d-64f5-4d57-84e6-0a93ae106991",
+    "77ebe240-f66a-4d07-ae88-a6df583c1a70",
+    "fd102774-21c2-4b99-9396-f454ead0849c"
+  ]
 }
