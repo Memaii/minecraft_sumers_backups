@@ -900,17 +900,21 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-06-30 22:53:03 +0000",
-      "minecraft:cave_spider": "2025-06-30 23:07:54 +0000",
       "minecraft:skeleton": "2025-06-30 20:06:25 +0000",
-      "minecraft:vindicator": "2025-07-01 15:47:46 +0000",
-      "minecraft:enderman": "2025-06-30 20:13:14 +0000",
       "minecraft:witch": "2025-07-02 10:59:21 +0000",
+      "minecraft:cave_spider": "2025-06-30 23:07:54 +0000",
+      "minecraft:vindicator": "2025-07-01 15:47:46 +0000",
+      "minecraft:breeze": "2025-07-02 12:08:31 +0000",
+      "minecraft:enderman": "2025-06-30 20:13:14 +0000",
+      "minecraft:silverfish": "2025-07-02 12:35:10 +0000",
+      "minecraft:stray": "2025-07-02 12:08:43 +0000",
       "minecraft:spider": "2025-06-30 20:25:37 +0000",
       "minecraft:vex": "2025-07-01 15:53:06 +0000",
       "minecraft:zombie": "2025-06-30 19:56:49 +0000",
       "minecraft:creeper": "2025-07-01 18:42:25 +0000",
       "minecraft:zombie_villager": "2025-07-02 10:58:15 +0000",
-      "minecraft:evoker": "2025-07-01 15:54:10 +0000"
+      "minecraft:evoker": "2025-07-01 15:54:10 +0000",
+      "minecraft:slime": "2025-07-02 12:06:32 +0000"
     },
     "done": false
   },
@@ -2852,9 +2856,171 @@
     },
     "done": false
   },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-07-02 12:37:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/tuff_brick_wall_from_polished_tuff_stonecutting": {
+    "criteria": {
+      "has_polished_tuff": "2025-07-02 12:05:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_brick_stairs_from_polished_tuff_stonecutting": {
+    "criteria": {
+      "has_polished_tuff": "2025-07-02 12:05:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2025-07-02 12:04:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/under_lock_and_key": {
+    "criteria": {
+      "under_lock_and_key": "2025-07-02 12:10:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/revaulting": {
+    "criteria": {
+      "revaulting": "2025-07-02 12:37:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_tuff_stairs_from_polished_tuff_stonecutting": {
+    "criteria": {
+      "has_polished_tuff": "2025-07-02 12:05:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_tuff_slab": {
+    "criteria": {
+      "has_polished_tuff": "2025-07-02 12:05:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2025-07-02 12:11:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2025-07-02 12:11:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/mace": {
+    "criteria": {
+      "has_breeze_rod": "2025-07-02 12:12:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_tuff_wall_from_polished_tuff_stonecutting": {
+    "criteria": {
+      "has_polished_tuff": "2025-07-02 12:05:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
     "criteria": {
       "has_moss_block": "2025-07-02 11:48:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-07-02 12:06:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2025-07-02 12:04:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/flow_armor_trim_smithing_template": {
+    "criteria": {
+      "has_flow_armor_trim_smithing_template": "2025-07-02 12:58:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_tuff_wall": {
+    "criteria": {
+      "has_polished_tuff": "2025-07-02 12:05:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_stairs_from_waxed_cut_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_cut_copper": "2025-07-02 12:31:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-07-02 12:06:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wind_charge": {
+    "criteria": {
+      "has_breeze_rod": "2025-07-02 12:12:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_chiseled_copper": {
+    "criteria": {
+      "has_waxed_cut_copper_slab": "2025-07-02 12:29:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_tuff_slab_from_polished_tuff_stonecutting": {
+    "criteria": {
+      "has_polished_tuff": "2025-07-02 12:05:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_slab": {
+    "criteria": {
+      "has_waxed_cut_copper": "2025-07-02 12:31:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_slab_from_waxed_cut_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_cut_copper": "2025-07-02 12:31:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2025-07-02 12:07:11 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/flow_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-07-02 12:58:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-07-02 12:06:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_tuff_stairs": {
+    "criteria": {
+      "has_polished_tuff": "2025-07-02 12:05:21 +0000"
     },
     "done": true
   },
@@ -2864,9 +3030,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_tuff_bricks_from_polished_tuff_stonecutting": {
+    "criteria": {
+      "has_polished_tuff": "2025-07-02 12:05:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2025-07-02 12:04:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_bricks": {
+    "criteria": {
+      "has_polished_tuff": "2025-07-02 12:05:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_bricks_from_polished_tuff_stonecutting": {
+    "criteria": {
+      "has_polished_tuff": "2025-07-02 12:05:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_chiseled_copper_from_waxed_cut_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_cut_copper": "2025-07-02 12:31:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
     "criteria": {
       "has_moss_block": "2025-07-02 11:48:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_brick_slab_from_polished_tuff_stonecutting": {
+    "criteria": {
+      "has_polished_tuff": "2025-07-02 12:05:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_stairs": {
+    "criteria": {
+      "has_waxed_cut_copper": "2025-07-02 12:31:24 +0000"
     },
     "done": true
   },

@@ -252,3 +252,781 @@
 [02Jul2025 11:57:20.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Blackliss> xDD
 [02Jul2025 11:58:03.664] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 1276.7636893325518,-122.5,5988.5174189979625
 [02Jul2025 11:58:03.673] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 1276.7636893325518,-122.5,5988.5174189979625
+[02Jul2025 12:00:29.105] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! -168.00312977727344,100.5,-135.5736628272607
+[02Jul2025 12:00:29.121] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! -168.00312977727344,100.5,-135.5736628272607
+[02Jul2025 12:01:41.900] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Byakoren lost connection: Disconnected
+[02Jul2025 12:01:41.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Byakoren left the game
+[02Jul2025 12:01:44.228] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jungle Boat (vehicle of susraph) moved too quickly! -2.195051704660955,0.0,10.165706567970119
+[02Jul2025 12:01:44.228] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jungle Boat (vehicle of susraph) moved too quickly! -2.2794722962420906,0.0,10.55669641661325
+[02Jul2025 12:01:44.229] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jungle Boat (vehicle of susraph) moved too quickly! -2.3638927898854263,0.0,10.947686290090587
+[02Jul2025 12:01:44.229] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jungle Boat (vehicle of susraph) moved too quickly! -2.448313195384742,0.0,11.338676185919212
+[02Jul2025 12:01:44.230] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jungle Boat (vehicle of susraph) moved too quickly! -2.5327335215544053,0.0,11.72966610186404
+[02Jul2025 12:01:44.230] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jungle Boat (vehicle of susraph) moved too quickly! -2.6171537763274273,0.0,12.120656035913271
+[02Jul2025 12:01:44.231] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jungle Boat (vehicle of susraph) moved too quickly! -2.701573966843455,0.0,12.511645986256099
+[02Jul2025 12:01:44.231] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jungle Boat (vehicle of susraph) moved too quickly! -2.7859940995282386,0.0,12.902635951263619
+[02Jul2025 12:01:44.232] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jungle Boat (vehicle of susraph) moved too quickly! -2.8704141801648575,0.0,13.293625929469272
+[02Jul2025 12:01:44.232] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jungle Boat (vehicle of susraph) moved too quickly! -2.9548342139581223,0.0,13.68461591955338
+[02Jul2025 12:01:44.232] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jungle Boat (vehicle of susraph) moved too quickly! -3.0392542055923855,0.0,14.075605920327689
+[02Jul2025 12:01:44.234] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2205ms or 44 ticks behind
+[02Jul2025 12:02:36.142] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4413ms or 88 ticks behind
+[02Jul2025 12:02:36.232] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jungle Boat (vehicle of susraph) moved too quickly! -2.1949099172859405,0.0,10.165742521709944
+[02Jul2025 12:02:36.232] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jungle Boat (vehicle of susraph) moved too quickly! -2.279329529489246,0.0,10.556732618698788
+[02Jul2025 12:02:36.233] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jungle Boat (vehicle of susraph) moved too quickly! -2.3637491416925513,0.0,10.947722715687632
+[02Jul2025 12:02:36.244] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jungle Boat (vehicle of susraph) moved too quickly! -2.4481687538958568,0.0,11.338712812676476
+[02Jul2025 12:02:36.245] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jungle Boat (vehicle of susraph) moved too quickly! -2.532588366099162,0.0,11.72970290966532
+[02Jul2025 12:02:36.246] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jungle Boat (vehicle of susraph) moved too quickly! -2.6170079783024676,0.0,12.120693006654164
+[02Jul2025 12:02:36.250] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jungle Boat (vehicle of susraph) moved too quickly! -2.701427590505773,0.0,12.511683103643009
+[02Jul2025 12:02:36.261] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jungle Boat (vehicle of susraph) moved too quickly! -2.7858472027090784,0.0,12.902673200631853
+[02Jul2025 12:02:36.262] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jungle Boat (vehicle of susraph) moved too quickly! -2.870266814912384,0.0,13.293663297620697
+[02Jul2025 12:02:36.263] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jungle Boat (vehicle of susraph) moved too quickly! -2.954686427115689,0.0,13.68465339460954
+[02Jul2025 12:02:36.263] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jungle Boat (vehicle of susraph) moved too quickly! -3.0391060393189946,0.0,14.075643491598385
+[02Jul2025 12:02:36.369] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jungle Boat (vehicle of susraph) moved too quickly! -1.8431937877618907,0.0,10.213543273814594
+[02Jul2025 12:02:36.369] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jungle Boat (vehicle of susraph) moved too quickly! -1.8811559535274114,0.0,10.610721595898212
+[02Jul2025 12:02:36.370] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jungle Boat (vehicle of susraph) moved too quickly! -1.9195020230468458,0.0,11.00796305814265
+[02Jul2025 12:02:36.370] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jungle Boat (vehicle of susraph) moved too quickly! -1.9586243291222445,0.0,11.405213726144211
+[02Jul2025 12:02:36.370] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jungle Boat (vehicle of susraph) moved too quickly! -1.998829773941054,0.0,11.80242616907799
+[02Jul2025 12:02:36.371] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jungle Boat (vehicle of susraph) moved too quickly! -2.0403560979261783,0.0,12.199559118537763
+[02Jul2025 12:02:36.371] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jungle Boat (vehicle of susraph) moved too quickly! -2.0833826948958745,0.0,12.596577306780091
+[02Jul2025 12:02:36.374] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jungle Boat (vehicle of susraph) moved too quickly! -2.1280403308064706,0.0,12.993451108801764
+[02Jul2025 12:02:36.374] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jungle Boat (vehicle of susraph) moved too quickly! -2.174419876185084,0.0,13.39015603021926
+[02Jul2025 12:02:36.374] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jungle Boat (vehicle of susraph) moved too quickly! -2.2225763636599822,0.0,13.78667271202221
+[02Jul2025 12:02:36.375] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jungle Boat (vehicle of susraph) moved too quickly! -2.272532636943822,0.0,14.182986871521734
+[02Jul2025 12:02:36.375] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jungle Boat (vehicle of susraph) moved too quickly! -2.3242939686487603,0.0,14.579087248722772
+[02Jul2025 12:02:36.375] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jungle Boat (vehicle of susraph) moved too quickly! -2.3778460739458183,0.0,14.974966183222023
+[02Jul2025 12:02:36.375] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jungle Boat (vehicle of susraph) moved too quickly! -2.433157103096619,0.0,15.370619492668538
+[02Jul2025 12:02:36.376] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jungle Boat (vehicle of susraph) moved too quickly! -2.4901832070541445,0.0,15.766045648120325
+[02Jul2025 12:02:36.376] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jungle Boat (vehicle of susraph) moved too quickly! -2.548873531602055,0.0,16.161244946185434
+[02Jul2025 12:02:36.376] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jungle Boat (vehicle of susraph) moved too quickly! -2.6091709374294965,0.0,16.55621944195036
+[02Jul2025 12:02:36.376] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jungle Boat (vehicle of susraph) moved too quickly! -2.6710088791360818,0.0,16.950973581519975
+[02Jul2025 12:02:36.380] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jungle Boat (vehicle of susraph) moved too quickly! -2.7343236581507426,0.0,17.34551187675379
+[02Jul2025 12:02:36.380] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jungle Boat (vehicle of susraph) moved too quickly! -2.799042856006963,0.0,17.739841152490044
+[02Jul2025 12:02:36.380] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jungle Boat (vehicle of susraph) moved too quickly! -2.865097506535051,0.0,18.133968154580543
+[02Jul2025 12:02:36.380] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jungle Boat (vehicle of susraph) moved too quickly! -2.9324179941428383,0.0,18.527900332649097
+[02Jul2025 12:02:36.383] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jungle Boat (vehicle of susraph) moved too quickly! -3.0009341266740535,0.0,18.921645810692098
+[02Jul2025 12:02:36.383] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jungle Boat (vehicle of susraph) moved too quickly! -3.07057895653935,0.0,19.315212582034746
+[02Jul2025 12:02:36.389] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jungle Boat (vehicle of susraph) moved too quickly! -3.141284703029555,0.0,19.70860930843355
+[02Jul2025 12:02:36.390] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jungle Boat (vehicle of susraph) moved too quickly! -3.212986597239478,0.0,20.101844508175873
+[02Jul2025 12:02:36.393] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jungle Boat (vehicle of susraph) moved too quickly! -3.2856225818188705,0.0,20.49492658532745
+[02Jul2025 12:02:36.393] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jungle Boat (vehicle of susraph) moved too quickly! -3.3591330435421582,0.0,20.887863841154285
+[02Jul2025 12:02:36.394] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jungle Boat (vehicle of susraph) moved too quickly! -3.433460569827048,0.0,21.28066450675533
+[02Jul2025 12:02:36.394] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jungle Boat (vehicle of susraph) moved too quickly! -3.5085534856257254,0.0,21.673335964042508
+[02Jul2025 12:02:36.404] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jungle Boat (vehicle of susraph) moved too quickly! -3.5843577713483796,0.0,22.065886410181974
+[02Jul2025 12:02:36.404] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jungle Boat (vehicle of susraph) moved too quickly! -3.6608248065714974,0.0,22.45832321144735
+[02Jul2025 12:02:36.404] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jungle Boat (vehicle of susraph) moved too quickly! -3.737907078753892,0.0,22.850653776070885
+[02Jul2025 12:02:36.406] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jungle Boat (vehicle of susraph) moved too quickly! -3.815561824746851,0.0,23.242884764009887
+[02Jul2025 12:02:36.408] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jungle Boat (vehicle of susraph) moved too quickly! -3.8937505558549788,0.0,23.63502215805056
+[02Jul2025 12:02:36.409] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jungle Boat (vehicle of susraph) moved too quickly! -3.9724311276560798,0.0,24.027072929673977
+[02Jul2025 12:02:36.409] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jungle Boat (vehicle of susraph) moved too quickly! -4.051569360607061,0.0,24.41904254855035
+[02Jul2025 12:02:36.409] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jungle Boat (vehicle of susraph) moved too quickly! -4.131130740821391,0.0,24.81093673459418
+[02Jul2025 12:02:36.410] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jungle Boat (vehicle of susraph) moved too quickly! -4.211084205801967,0.0,25.2027606320039
+[02Jul2025 12:02:36.410] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jungle Boat (vehicle of susraph) moved too quickly! -4.291398047934877,0.0,25.594519667769873
+[02Jul2025 12:02:36.433] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jungle Boat (vehicle of susraph) moved too quickly! -2.5669193347848136,0.0,16.169730328850164
+[02Jul2025 12:02:52.487] [User Authenticator #13/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Byakoren is 77ebe240-f66a-4d07-ae88-a6df583c1a70
+[02Jul2025 12:02:55.412] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Byakoren[/86.245.7.178:58380] logged in with entity id 59071 at (550.112045992772, 63.0, 13660.004728686716)
+[02Jul2025 12:02:55.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Byakoren joined the game
+[02Jul2025 12:03:01.202] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jungle Boat (vehicle of susraph) moved too quickly! -0.48777570581097507,0.0,10.367291982069673
+[02Jul2025 12:03:01.202] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jungle Boat (vehicle of susraph) moved too quickly! -0.5148915278451227,0.0,10.766201763992285
+[02Jul2025 12:03:01.203] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jungle Boat (vehicle of susraph) moved too quickly! -0.5420356107089788,0.0,11.165126612947006
+[02Jul2025 12:03:01.203] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jungle Boat (vehicle of susraph) moved too quickly! -0.5691936502337853,0.0,11.564065808266605
+[02Jul2025 12:03:01.203] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jungle Boat (vehicle of susraph) moved too quickly! -0.5963527726680695,0.0,11.963018697625103
+[02Jul2025 12:03:01.203] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jungle Boat (vehicle of susraph) moved too quickly! -0.6235052175089209,0.0,12.361984433158796
+[02Jul2025 12:03:01.203] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jungle Boat (vehicle of susraph) moved too quickly! -0.650644000071054,0.0,12.760962248065425
+[02Jul2025 12:03:01.203] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jungle Boat (vehicle of susraph) moved too quickly! -0.6777628341379227,0.0,13.15995145222314
+[02Jul2025 12:03:01.203] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jungle Boat (vehicle of susraph) moved too quickly! -0.7048598884535977,0.0,13.558951163750862
+[02Jul2025 12:03:01.203] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jungle Boat (vehicle of susraph) moved too quickly! -0.731929688316086,0.0,13.957960846001697
+[02Jul2025 12:03:01.203] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jungle Boat (vehicle of susraph) moved too quickly! -0.7589711328325279,0.0,14.356979762673745
+[02Jul2025 12:03:01.203] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jungle Boat (vehicle of susraph) moved too quickly! -0.7859832311994523,0.0,14.756007247369325
+[02Jul2025 12:03:01.204] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jungle Boat (vehicle of susraph) moved too quickly! -0.8129650916936839,0.0,15.155042696605506
+[02Jul2025 12:03:01.283] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[02Jul2025 12:03:01.586] [User Authenticator #14/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Fullavatar is fd102774-21c2-4b99-9396-f454ead0849c
+[02Jul2025 12:03:02.725] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Fullavatar[/93.19.138.72:56273] logged in with entity id 59394 at (641.7474937704244, 266.0, 198.19280600642693)
+[02Jul2025 12:03:02.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fullavatar joined the game
+[02Jul2025 12:03:43.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Redoxlyy has made the advancement [Under Lock and Key]
+[02Jul2025 12:04:24.924] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Byakoren lost connection: Disconnected
+[02Jul2025 12:04:24.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Byakoren left the game
+[02Jul2025 12:06:51.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Set own game mode to Creative Mode]
+[02Jul2025 12:06:54.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: susraph has made the advancement [Sweet Dreams]
+[02Jul2025 12:08:49.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: susraph has made the advancement [Stone Age]
+[02Jul2025 12:09:09.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: susraph has made the advancement [Acquire Hardware]
+[02Jul2025 12:10:40.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Redoxlyy fell from a high place
+[02Jul2025 12:10:45.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blackliss has made the advancement [Under Lock and Key]
+[02Jul2025 12:11:20.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: guebaud has made the advancement [Suit Up]
+[02Jul2025 12:11:40.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: susraph has made the advancement [Suit Up]
+[02Jul2025 12:11:41.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: susraph has made the advancement [Isn't It Iron Pick]
+[02Jul2025 12:17:58.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 944, 302, 306]
+[02Jul2025 12:17:58.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 2 block(s)]
+[02Jul2025 12:17:58.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 5 block(s)]
+[02Jul2025 12:17:58.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 6 block(s)]
+[02Jul2025 12:17:58.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 3 block(s)]
+[02Jul2025 12:17:58.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 3 block(s)]
+[02Jul2025 12:17:58.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 944, 307, 309]
+[02Jul2025 12:17:58.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 944, 308, 309]
+[02Jul2025 12:17:58.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 5 block(s)]
+[02Jul2025 12:17:58.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 944, 306, 310]
+[02Jul2025 12:17:58.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 944, 308, 310]
+[02Jul2025 12:17:58.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 944, 309, 310]
+[02Jul2025 12:17:58.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 944, 310, 310]
+[02Jul2025 12:17:58.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 3 block(s)]
+[02Jul2025 12:17:58.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 3 block(s)]
+[02Jul2025 12:17:58.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 6 block(s)]
+[02Jul2025 12:17:58.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 944, 305, 314]
+[02Jul2025 12:17:58.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 944, 306, 314]
+[02Jul2025 12:17:58.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 944, 308, 314]
+[02Jul2025 12:17:58.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 944, 309, 314]
+[02Jul2025 12:17:58.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 944, 306, 315]
+[02Jul2025 12:17:58.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 944, 307, 315]
+[02Jul2025 12:17:58.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 5 block(s)]
+[02Jul2025 12:17:58.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 944, 304, 316]
+[02Jul2025 12:17:58.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 944, 304, 317]
+[02Jul2025 12:17:58.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 944, 302, 319]
+[02Jul2025 12:17:58.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 945, 302, 306]
+[02Jul2025 12:17:58.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 945, 303, 306]
+[02Jul2025 12:17:58.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 945, 304, 306]
+[02Jul2025 12:17:58.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 10 block(s)]
+[02Jul2025 12:17:58.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 2 block(s)]
+[02Jul2025 12:17:58.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 945, 305, 308]
+[02Jul2025 12:17:58.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 945, 305, 309]
+[02Jul2025 12:17:58.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 5 block(s)]
+[02Jul2025 12:17:58.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 5 block(s)]
+[02Jul2025 12:17:58.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 5 block(s)]
+[02Jul2025 12:17:58.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 2 block(s)]
+[02Jul2025 12:17:58.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 945, 304, 313]
+[02Jul2025 12:17:58.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 5 block(s)]
+[02Jul2025 12:17:58.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 2 block(s)]
+[02Jul2025 12:17:58.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 2 block(s)]
+[02Jul2025 12:17:58.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 5 block(s)]
+[02Jul2025 12:17:58.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 2 block(s)]
+[02Jul2025 12:17:58.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 2 block(s)]
+[02Jul2025 12:17:58.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 946, 302, 306]
+[02Jul2025 12:17:58.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 946, 303, 306]
+[02Jul2025 12:17:58.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 946, 304, 306]
+[02Jul2025 12:17:58.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 946, 302, 307]
+[02Jul2025 12:17:58.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 946, 305, 308]
+[02Jul2025 12:17:58.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 946, 305, 309]
+[02Jul2025 12:17:58.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 2 block(s)]
+[02Jul2025 12:17:58.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 946, 303, 315]
+[02Jul2025 12:17:58.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 946, 303, 317]
+[02Jul2025 12:17:58.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 2 block(s)]
+[02Jul2025 12:17:58.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 947, 302, 306]
+[02Jul2025 12:17:58.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 947, 303, 306]
+[02Jul2025 12:17:58.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 947, 304, 306]
+[02Jul2025 12:17:58.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 947, 302, 307]
+[02Jul2025 12:17:58.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 3 block(s)]
+[02Jul2025 12:17:58.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 947, 305, 308]
+[02Jul2025 12:17:58.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 2 block(s)]
+[02Jul2025 12:17:58.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 3 block(s)]
+[02Jul2025 12:17:58.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 947, 303, 315]
+[02Jul2025 12:17:58.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 947, 303, 316]
+[02Jul2025 12:17:58.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 2 block(s)]
+[02Jul2025 12:17:58.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 948, 301, 306]
+[02Jul2025 12:17:58.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 3 block(s)]
+[02Jul2025 12:17:58.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 948, 303, 306]
+[02Jul2025 12:17:58.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 948, 304, 306]
+[02Jul2025 12:17:58.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 2 block(s)]
+[02Jul2025 12:17:58.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 948, 304, 312]
+[02Jul2025 12:17:58.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 948, 304, 313]
+[02Jul2025 12:17:58.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 948, 303, 316]
+[02Jul2025 12:17:58.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 2 block(s)]
+[02Jul2025 12:17:58.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 2 block(s)]
+[02Jul2025 12:17:58.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 949, 304, 306]
+[02Jul2025 12:17:58.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 949, 305, 309]
+[02Jul2025 12:17:58.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 2 block(s)]
+[02Jul2025 12:17:58.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 949, 303, 315]
+[02Jul2025 12:17:58.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 949, 303, 316]
+[02Jul2025 12:17:58.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 949, 303, 317]
+[02Jul2025 12:17:58.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 949, 303, 318]
+[02Jul2025 12:17:58.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 950, 304, 306]
+[02Jul2025 12:17:58.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 5 block(s)]
+[02Jul2025 12:17:58.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 6 block(s)]
+[02Jul2025 12:17:58.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 950, 306, 307]
+[02Jul2025 12:17:58.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 3 block(s)]
+[02Jul2025 12:17:58.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 950, 306, 308]
+[02Jul2025 12:17:59.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 5 block(s)]
+[02Jul2025 12:17:59.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 950, 306, 310]
+[02Jul2025 12:17:59.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 950, 307, 310]
+[02Jul2025 12:17:59.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 950, 309, 310]
+[02Jul2025 12:17:59.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 950, 310, 310]
+[02Jul2025 12:17:59.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 950, 307, 311]
+[02Jul2025 12:17:59.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 950, 308, 311]
+[02Jul2025 12:17:59.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 3 block(s)]
+[02Jul2025 12:17:59.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 950, 305, 312]
+[02Jul2025 12:17:59.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 950, 305, 313]
+[02Jul2025 12:17:59.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 6 block(s)]
+[02Jul2025 12:17:59.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 950, 308, 314]
+[02Jul2025 12:17:59.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 950, 309, 314]
+[02Jul2025 12:17:59.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 4 block(s)]
+[02Jul2025 12:17:59.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 5 block(s)]
+[02Jul2025 12:17:59.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 950, 302, 319]
+[02Jul2025 12:17:59.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 950, 304, 319]
+[02Jul2025 12:17:59.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 950, 305, 319]
+[02Jul2025 12:17:59.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 950, 306, 319]
+[02Jul2025 12:17:59.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 6 block(s)]
+[02Jul2025 12:17:59.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 944, 305, 320]
+[02Jul2025 12:17:59.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 944, 306, 320]
+[02Jul2025 12:17:59.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 944, 307, 320]
+[02Jul2025 12:17:59.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 944, 308, 320]
+[02Jul2025 12:17:59.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 944, 303, 321]
+[02Jul2025 12:17:59.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 944, 304, 321]
+[02Jul2025 12:17:59.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 944, 305, 321]
+[02Jul2025 12:17:59.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 3 block(s)]
+[02Jul2025 12:17:59.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 3 block(s)]
+[02Jul2025 12:17:59.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 944, 307, 324]
+[02Jul2025 12:17:59.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 944, 308, 324]
+[02Jul2025 12:17:59.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 6 block(s)]
+[02Jul2025 12:17:59.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 944, 304, 325]
+[02Jul2025 12:17:59.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 5 block(s)]
+[02Jul2025 12:17:59.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 944, 304, 326]
+[02Jul2025 12:17:59.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 944, 305, 326]
+[02Jul2025 12:17:59.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 944, 306, 326]
+[02Jul2025 12:17:59.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 944, 306, 327]
+[02Jul2025 12:17:59.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 944, 307, 327]
+[02Jul2025 12:17:59.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 944, 304, 328]
+[02Jul2025 12:17:59.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 944, 304, 329]
+[02Jul2025 12:17:59.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 5 block(s)]
+[02Jul2025 12:17:59.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 944, 305, 330]
+[02Jul2025 12:17:59.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 944, 308, 330]
+[02Jul2025 12:17:59.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 944, 309, 330]
+[02Jul2025 12:17:59.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 3 block(s)]
+[02Jul2025 12:17:59.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 944, 305, 332]
+[02Jul2025 12:17:59.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 944, 306, 332]
+[02Jul2025 12:17:59.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 944, 307, 332]
+[02Jul2025 12:17:59.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 944, 305, 333]
+[02Jul2025 12:17:59.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 944, 307, 333]
+[02Jul2025 12:17:59.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 944, 308, 333]
+[02Jul2025 12:17:59.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 2 block(s)]
+[02Jul2025 12:17:59.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 944, 306, 334]
+[02Jul2025 12:17:59.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 944, 309, 334]
+[02Jul2025 12:17:59.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 944, 310, 334]
+[02Jul2025 12:17:59.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 944, 310, 335]
+[02Jul2025 12:17:59.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 2 block(s)]
+[02Jul2025 12:17:59.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 945, 302, 322]
+[02Jul2025 12:17:59.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 2 block(s)]
+[02Jul2025 12:17:59.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 5 block(s)]
+[02Jul2025 12:17:59.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 2 block(s)]
+[02Jul2025 12:17:59.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 4 block(s)]
+[02Jul2025 12:17:59.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 5 block(s)]
+[02Jul2025 12:17:59.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 5 block(s)]
+[02Jul2025 12:17:59.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 945, 304, 331]
+[02Jul2025 12:17:59.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 5 block(s)]
+[02Jul2025 12:17:59.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 945, 305, 335]
+[02Jul2025 12:17:59.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 946, 302, 321]
+[02Jul2025 12:17:59.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 2 block(s)]
+[02Jul2025 12:17:59.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 946, 302, 324]
+[02Jul2025 12:17:59.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 3 block(s)]
+[02Jul2025 12:17:59.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 946, 303, 328]
+[02Jul2025 12:17:59.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 946, 303, 329]
+[02Jul2025 12:17:59.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 946, 304, 332]
+[02Jul2025 12:17:59.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 2 block(s)]
+[02Jul2025 12:17:59.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 4 block(s)]
+[02Jul2025 12:17:59.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 946, 305, 335]
+[02Jul2025 12:17:59.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 947, 302, 321]
+[02Jul2025 12:17:59.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 947, 302, 323]
+[02Jul2025 12:17:59.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 947, 302, 324]
+[02Jul2025 12:17:59.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 947, 303, 328]
+[02Jul2025 12:17:59.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 2 block(s)]
+[02Jul2025 12:17:59.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 2 block(s)]
+[02Jul2025 12:17:59.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 948, 302, 320]
+[02Jul2025 12:17:59.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 948, 302, 322]
+[02Jul2025 12:17:59.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 2 block(s)]
+[02Jul2025 12:17:59.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 948, 302, 324]
+[02Jul2025 12:17:59.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 948, 303, 326]
+[02Jul2025 12:17:59.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 948, 303, 328]
+[02Jul2025 12:17:59.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 948, 304, 331]
+[02Jul2025 12:17:59.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 948, 304, 333]
+[02Jul2025 12:17:59.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 949, 302, 321]
+[02Jul2025 12:17:59.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 949, 302, 322]
+[02Jul2025 12:17:59.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 949, 303, 327]
+[02Jul2025 12:17:59.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 949, 303, 328]
+[02Jul2025 12:17:59.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 949, 303, 329]
+[02Jul2025 12:17:59.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 949, 304, 331]
+[02Jul2025 12:17:59.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 949, 304, 332]
+[02Jul2025 12:17:59.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 949, 304, 333]
+[02Jul2025 12:17:59.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 6 block(s)]
+[02Jul2025 12:17:59.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 950, 303, 320]
+[02Jul2025 12:17:59.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 950, 306, 320]
+[02Jul2025 12:17:59.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 950, 307, 320]
+[02Jul2025 12:17:59.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 950, 308, 320]
+[02Jul2025 12:17:59.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 950, 303, 321]
+[02Jul2025 12:17:59.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 3 block(s)]
+[02Jul2025 12:17:59.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 950, 303, 324]
+[02Jul2025 12:17:59.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 950, 307, 324]
+[02Jul2025 12:17:59.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 950, 308, 324]
+[02Jul2025 12:17:59.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 6 block(s)]
+[02Jul2025 12:17:59.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 950, 304, 325]
+[02Jul2025 12:17:59.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 5 block(s)]
+[02Jul2025 12:17:59.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 950, 304, 327]
+[02Jul2025 12:17:59.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 2 block(s)]
+[02Jul2025 12:17:59.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 950, 306, 329]
+[02Jul2025 12:17:59.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 950, 307, 329]
+[02Jul2025 12:17:59.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 5 block(s)]
+[02Jul2025 12:17:59.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 950, 305, 330]
+[02Jul2025 12:17:59.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 950, 306, 330]
+[02Jul2025 12:17:59.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 950, 308, 330]
+[02Jul2025 12:17:59.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 950, 309, 330]
+[02Jul2025 12:17:59.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 950, 305, 331]
+[02Jul2025 12:17:59.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 3 block(s)]
+[02Jul2025 12:17:59.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 950, 305, 332]
+[02Jul2025 12:17:59.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 2 block(s)]
+[02Jul2025 12:17:59.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 950, 309, 334]
+[02Jul2025 12:17:59.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 950, 310, 334]
+[02Jul2025 12:17:59.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 950, 306, 335]
+[02Jul2025 12:17:59.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 950, 310, 335]
+[02Jul2025 12:17:59.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 3 block(s)]
+[02Jul2025 12:17:59.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 944, 306, 336]
+[02Jul2025 12:17:59.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 2 block(s)]
+[02Jul2025 12:17:59.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 944, 306, 337]
+[02Jul2025 12:17:59.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 5 block(s)]
+[02Jul2025 12:17:59.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 944, 307, 338]
+[02Jul2025 12:17:59.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 944, 309, 338]
+[02Jul2025 12:17:59.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 944, 310, 338]
+[02Jul2025 12:17:59.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 944, 311, 338]
+[02Jul2025 12:17:59.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 2 block(s)]
+[02Jul2025 12:17:59.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 944, 308, 339]
+[02Jul2025 12:17:59.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 944, 309, 339]
+[02Jul2025 12:17:59.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 4 block(s)]
+[02Jul2025 12:17:59.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 944, 307, 341]
+[02Jul2025 12:17:59.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 5 block(s)]
+[02Jul2025 12:17:59.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 2 block(s)]
+[02Jul2025 12:17:59.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 5 block(s)]
+[02Jul2025 12:17:59.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 945, 306, 339]
+[02Jul2025 12:17:59.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 3 block(s)]
+[02Jul2025 12:17:59.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 5 block(s)]
+[02Jul2025 12:17:59.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 946, 305, 337]
+[02Jul2025 12:17:59.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 946, 306, 339]
+[02Jul2025 12:17:59.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 2 block(s)]
+[02Jul2025 12:17:59.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 946, 306, 342]
+[02Jul2025 12:17:59.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 947, 305, 336]
+[02Jul2025 12:17:59.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 947, 305, 337]
+[02Jul2025 12:17:59.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 3 block(s)]
+[02Jul2025 12:17:59.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 947, 306, 339]
+[02Jul2025 12:17:59.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 2 block(s)]
+[02Jul2025 12:17:59.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 947, 306, 342]
+[02Jul2025 12:18:00.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 948, 305, 336]
+[02Jul2025 12:18:00.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 2 block(s)]
+[02Jul2025 12:18:00.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 2 block(s)]
+[02Jul2025 12:18:00.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 948, 306, 342]
+[02Jul2025 12:18:00.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 949, 305, 336]
+[02Jul2025 12:18:00.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 949, 306, 340]
+[02Jul2025 12:18:00.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 949, 306, 341]
+[02Jul2025 12:18:00.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 949, 306, 342]
+[02Jul2025 12:18:00.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 3 block(s)]
+[02Jul2025 12:18:00.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 2 block(s)]
+[02Jul2025 12:18:00.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 950, 307, 336]
+[02Jul2025 12:18:00.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 950, 308, 336]
+[02Jul2025 12:18:00.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 2 block(s)]
+[02Jul2025 12:18:00.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 950, 308, 337]
+[02Jul2025 12:18:00.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 950, 309, 337]
+[02Jul2025 12:18:00.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 5 block(s)]
+[02Jul2025 12:18:00.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 950, 307, 338]
+[02Jul2025 12:18:00.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 950, 310, 338]
+[02Jul2025 12:18:00.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 950, 311, 338]
+[02Jul2025 12:18:00.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 950, 307, 339]
+[02Jul2025 12:18:00.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 4 block(s)]
+[02Jul2025 12:18:00.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 950, 307, 341]
+[02Jul2025 12:18:00.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 950, 307, 342]
+[02Jul2025 12:18:00.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 5 block(s)]
+[02Jul2025 12:18:54.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Teleported Blackliss to Fullavatar]
+[02Jul2025 12:20:10.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 930, 308, 320]
+[02Jul2025 12:20:10.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 6 block(s)]
+[02Jul2025 12:20:10.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 930, 310, 320]
+[02Jul2025 12:20:10.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 5 block(s)]
+[02Jul2025 12:20:10.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 930, 310, 321]
+[02Jul2025 12:20:10.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 930, 311, 321]
+[02Jul2025 12:20:10.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 930, 312, 321]
+[02Jul2025 12:20:10.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 930, 312, 322]
+[02Jul2025 12:20:10.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 930, 313, 322]
+[02Jul2025 12:20:10.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 930, 310, 323]
+[02Jul2025 12:20:10.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 930, 310, 324]
+[02Jul2025 12:20:10.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 5 block(s)]
+[02Jul2025 12:20:10.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 930, 311, 325]
+[02Jul2025 12:20:10.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 930, 314, 325]
+[02Jul2025 12:20:10.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 930, 315, 325]
+[02Jul2025 12:20:10.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 3 block(s)]
+[02Jul2025 12:20:10.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 930, 311, 327]
+[02Jul2025 12:20:10.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 930, 312, 327]
+[02Jul2025 12:20:10.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 930, 313, 327]
+[02Jul2025 12:20:10.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 930, 311, 328]
+[02Jul2025 12:20:10.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 930, 313, 328]
+[02Jul2025 12:20:10.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 930, 314, 328]
+[02Jul2025 12:20:10.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 5 block(s)]
+[02Jul2025 12:20:10.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 930, 312, 329]
+[02Jul2025 12:20:10.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 930, 315, 329]
+[02Jul2025 12:20:10.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 930, 316, 329]
+[02Jul2025 12:20:10.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 3 block(s)]
+[02Jul2025 12:20:10.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 930, 312, 331]
+[02Jul2025 12:20:10.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 930, 312, 332]
+[02Jul2025 12:20:10.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 3 block(s)]
+[02Jul2025 12:20:10.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 930, 313, 333]
+[02Jul2025 12:20:10.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 930, 315, 333]
+[02Jul2025 12:20:10.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 930, 316, 333]
+[02Jul2025 12:20:10.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 930, 317, 333]
+[02Jul2025 12:20:10.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 2 block(s)]
+[02Jul2025 12:20:10.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 930, 314, 334]
+[02Jul2025 12:20:10.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 930, 315, 334]
+[02Jul2025 12:20:10.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 2 block(s)]
+[02Jul2025 12:20:10.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 5 block(s)]
+[02Jul2025 12:20:10.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 2 block(s)]
+[02Jul2025 12:20:10.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 4 block(s)]
+[02Jul2025 12:20:10.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 5 block(s)]
+[02Jul2025 12:20:10.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 5 block(s)]
+[02Jul2025 12:20:10.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 931, 310, 326]
+[02Jul2025 12:20:10.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 5 block(s)]
+[02Jul2025 12:20:10.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 931, 311, 330]
+[02Jul2025 12:20:10.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 2 block(s)]
+[02Jul2025 12:20:10.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 5 block(s)]
+[02Jul2025 12:20:10.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 931, 312, 334]
+[02Jul2025 12:20:10.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 931, 312, 335]
+[02Jul2025 12:20:10.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 3 block(s)]
+[02Jul2025 12:20:10.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 932, 309, 323]
+[02Jul2025 12:20:10.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 932, 309, 324]
+[02Jul2025 12:20:10.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 932, 310, 327]
+[02Jul2025 12:20:10.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 2 block(s)]
+[02Jul2025 12:20:10.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 4 block(s)]
+[02Jul2025 12:20:10.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 932, 311, 330]
+[02Jul2025 12:20:10.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 932, 311, 332]
+[02Jul2025 12:20:10.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 932, 312, 334]
+[02Jul2025 12:20:10.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 933, 309, 323]
+[02Jul2025 12:20:10.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 2 block(s)]
+[02Jul2025 12:20:10.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 2 block(s)]
+[02Jul2025 12:20:10.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 933, 311, 331]
+[02Jul2025 12:20:10.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 933, 311, 332]
+[02Jul2025 12:20:10.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 3 block(s)]
+[02Jul2025 12:20:10.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 933, 312, 334]
+[02Jul2025 12:20:10.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 2 block(s)]
+[02Jul2025 12:20:10.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 934, 309, 321]
+[02Jul2025 12:20:10.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 934, 309, 323]
+[02Jul2025 12:20:10.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 934, 310, 326]
+[02Jul2025 12:20:10.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 934, 310, 328]
+[02Jul2025 12:20:10.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 934, 311, 331]
+[02Jul2025 12:20:10.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 2 block(s)]
+[02Jul2025 12:20:10.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 2 block(s)]
+[02Jul2025 12:20:10.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 935, 309, 322]
+[02Jul2025 12:20:10.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 935, 309, 323]
+[02Jul2025 12:20:10.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 935, 309, 324]
+[02Jul2025 12:20:10.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 935, 310, 326]
+[02Jul2025 12:20:10.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 935, 310, 327]
+[02Jul2025 12:20:10.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 935, 310, 328]
+[02Jul2025 12:20:10.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 935, 311, 331]
+[02Jul2025 12:20:10.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 935, 312, 335]
+[02Jul2025 12:20:10.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 936, 308, 320]
+[02Jul2025 12:20:10.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 6 block(s)]
+[02Jul2025 12:20:10.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 936, 310, 320]
+[02Jul2025 12:20:10.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 5 block(s)]
+[02Jul2025 12:20:10.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 936, 310, 322]
+[02Jul2025 12:20:10.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 2 block(s)]
+[02Jul2025 12:20:10.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 936, 312, 324]
+[02Jul2025 12:20:10.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 936, 313, 324]
+[02Jul2025 12:20:10.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 5 block(s)]
+[02Jul2025 12:20:10.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 936, 311, 325]
+[02Jul2025 12:20:10.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 936, 312, 325]
+[02Jul2025 12:20:10.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 936, 314, 325]
+[02Jul2025 12:20:10.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 936, 315, 325]
+[02Jul2025 12:20:10.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 936, 311, 326]
+[02Jul2025 12:20:10.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 3 block(s)]
+[02Jul2025 12:20:10.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 936, 311, 327]
+[02Jul2025 12:20:10.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 5 block(s)]
+[02Jul2025 12:20:10.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 936, 315, 329]
+[02Jul2025 12:20:10.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 936, 316, 329]
+[02Jul2025 12:20:10.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 936, 312, 330]
+[02Jul2025 12:20:10.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 3 block(s)]
+[02Jul2025 12:20:10.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 2 block(s)]
+[02Jul2025 12:20:10.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 936, 313, 331]
+[02Jul2025 12:20:10.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 936, 314, 331]
+[02Jul2025 12:20:10.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 936, 314, 332]
+[02Jul2025 12:20:10.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 936, 315, 332]
+[02Jul2025 12:20:10.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 3 block(s)]
+[02Jul2025 12:20:10.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 936, 313, 333]
+[02Jul2025 12:20:10.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 936, 316, 333]
+[02Jul2025 12:20:10.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 936, 317, 333]
+[02Jul2025 12:20:10.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 936, 313, 334]
+[02Jul2025 12:20:10.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 2 block(s)]
+[02Jul2025 12:20:10.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 2 block(s)]
+[02Jul2025 12:20:10.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 930, 313, 336]
+[02Jul2025 12:20:10.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 2 block(s)]
+[02Jul2025 12:20:10.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 5 block(s)]
+[02Jul2025 12:20:10.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 2 block(s)]
+[02Jul2025 12:20:10.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 5 block(s)]
+[02Jul2025 12:20:11.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 2 block(s)]
+[02Jul2025 12:20:11.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 932, 312, 337]
+[02Jul2025 12:20:11.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 933, 312, 337]
+[02Jul2025 12:20:11.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 934, 312, 337]
+[02Jul2025 12:20:11.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 935, 312, 336]
+[02Jul2025 12:20:11.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 935, 312, 337]
+[02Jul2025 12:20:11.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 2 block(s)]
+[02Jul2025 12:20:11.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 936, 313, 336]
+[02Jul2025 12:20:11.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 2 block(s)]
+[02Jul2025 12:20:11.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 936, 313, 337]
+[02Jul2025 12:20:11.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 5 block(s)]
+[02Jul2025 12:20:11.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 2 block(s)]
+[02Jul2025 12:20:11.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 930, 312, 304]
+[02Jul2025 12:20:11.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 930, 313, 304]
+[02Jul2025 12:20:11.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 930, 314, 304]
+[02Jul2025 12:20:11.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 930, 316, 304]
+[02Jul2025 12:20:11.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 5 block(s)]
+[02Jul2025 12:20:11.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 930, 312, 305]
+[02Jul2025 12:20:11.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 930, 314, 305]
+[02Jul2025 12:20:11.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 930, 315, 305]
+[02Jul2025 12:20:11.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 930, 316, 305]
+[02Jul2025 12:20:11.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 3 block(s)]
+[02Jul2025 12:20:11.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 3 block(s)]
+[02Jul2025 12:20:11.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 6 block(s)]
+[02Jul2025 12:20:11.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 930, 311, 309]
+[02Jul2025 12:20:11.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 930, 312, 309]
+[02Jul2025 12:20:11.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 930, 314, 309]
+[02Jul2025 12:20:11.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 930, 315, 309]
+[02Jul2025 12:20:11.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 930, 312, 310]
+[02Jul2025 12:20:11.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 930, 313, 310]
+[02Jul2025 12:20:11.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 5 block(s)]
+[02Jul2025 12:20:11.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 930, 310, 311]
+[02Jul2025 12:20:11.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 930, 310, 312]
+[02Jul2025 12:20:11.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 6 block(s)]
+[02Jul2025 12:20:11.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 930, 311, 315]
+[02Jul2025 12:20:11.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 930, 312, 315]
+[02Jul2025 12:20:11.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 930, 313, 315]
+[02Jul2025 12:20:11.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 930, 314, 315]
+[02Jul2025 12:20:11.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 930, 309, 316]
+[02Jul2025 12:20:11.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 930, 310, 316]
+[02Jul2025 12:20:11.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 930, 311, 316]
+[02Jul2025 12:20:11.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 3 block(s)]
+[02Jul2025 12:20:11.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 3 block(s)]
+[02Jul2025 12:20:11.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 930, 313, 319]
+[02Jul2025 12:20:11.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 930, 314, 319]
+[02Jul2025 12:20:11.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 931, 311, 304]
+[02Jul2025 12:20:11.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 5 block(s)]
+[02Jul2025 12:20:11.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 5 block(s)]
+[02Jul2025 12:20:11.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 5 block(s)]
+[02Jul2025 12:20:11.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 2 block(s)]
+[02Jul2025 12:20:11.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 931, 310, 308]
+[02Jul2025 12:20:11.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 5 block(s)]
+[02Jul2025 12:20:11.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 2 block(s)]
+[02Jul2025 12:20:11.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 2 block(s)]
+[02Jul2025 12:20:11.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 5 block(s)]
+[02Jul2025 12:20:11.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 2 block(s)]
+[02Jul2025 12:20:11.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 2 block(s)]
+[02Jul2025 12:20:11.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 931, 308, 317]
+[02Jul2025 12:20:11.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 2 block(s)]
+[02Jul2025 12:20:11.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 932, 311, 304]
+[02Jul2025 12:20:11.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 2 block(s)]
+[02Jul2025 12:20:11.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 932, 309, 310]
+[02Jul2025 12:20:11.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 932, 309, 312]
+[02Jul2025 12:20:11.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 2 block(s)]
+[02Jul2025 12:20:11.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 932, 308, 316]
+[02Jul2025 12:20:11.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 2 block(s)]
+[02Jul2025 12:20:11.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 932, 308, 319]
+[02Jul2025 12:20:11.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 2 block(s)]
+[02Jul2025 12:20:11.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 3 block(s)]
+[02Jul2025 12:20:11.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 933, 309, 310]
+[02Jul2025 12:20:11.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 933, 309, 311]
+[02Jul2025 12:20:11.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 2 block(s)]
+[02Jul2025 12:20:11.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 933, 308, 316]
+[02Jul2025 12:20:11.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 933, 308, 318]
+[02Jul2025 12:20:11.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 933, 308, 319]
+[02Jul2025 12:20:11.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 934, 310, 307]
+[02Jul2025 12:20:11.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 934, 310, 308]
+[02Jul2025 12:20:11.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 934, 309, 311]
+[02Jul2025 12:20:11.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 2 block(s)]
+[02Jul2025 12:20:11.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 934, 308, 315]
+[02Jul2025 12:20:11.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 934, 308, 317]
+[02Jul2025 12:20:11.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 2 block(s)]
+[02Jul2025 12:20:11.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 934, 308, 319]
+[02Jul2025 12:20:11.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 935, 311, 304]
+[02Jul2025 12:20:11.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 2 block(s)]
+[02Jul2025 12:20:11.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 935, 309, 310]
+[02Jul2025 12:20:11.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 935, 309, 311]
+[02Jul2025 12:20:11.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 935, 309, 312]
+[02Jul2025 12:20:11.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 935, 309, 313]
+[02Jul2025 12:20:11.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 935, 308, 316]
+[02Jul2025 12:20:11.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 935, 308, 317]
+[02Jul2025 12:20:11.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 2 block(s)]
+[02Jul2025 12:20:11.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 936, 316, 304]
+[02Jul2025 12:20:11.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 5 block(s)]
+[02Jul2025 12:20:11.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 936, 312, 305]
+[02Jul2025 12:20:11.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 936, 313, 305]
+[02Jul2025 12:20:11.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 936, 315, 305]
+[02Jul2025 12:20:11.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 936, 316, 305]
+[02Jul2025 12:20:11.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 936, 313, 306]
+[02Jul2025 12:20:11.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 936, 314, 306]
+[02Jul2025 12:20:11.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 3 block(s)]
+[02Jul2025 12:20:11.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 936, 311, 307]
+[02Jul2025 12:20:11.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 936, 311, 308]
+[02Jul2025 12:20:11.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 6 block(s)]
+[02Jul2025 12:20:11.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 936, 314, 309]
+[02Jul2025 12:20:11.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 936, 315, 309]
+[02Jul2025 12:20:11.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 4 block(s)]
+[02Jul2025 12:20:11.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 5 block(s)]
+[02Jul2025 12:20:11.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 6 block(s)]
+[02Jul2025 12:20:11.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 936, 310, 314]
+[02Jul2025 12:20:11.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 936, 311, 314]
+[02Jul2025 12:20:11.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 936, 312, 314]
+[02Jul2025 12:20:11.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 936, 309, 315]
+[02Jul2025 12:20:11.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 936, 312, 315]
+[02Jul2025 12:20:11.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 936, 313, 315]
+[02Jul2025 12:20:11.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 936, 314, 315]
+[02Jul2025 12:20:11.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 936, 309, 316]
+[02Jul2025 12:20:11.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 3 block(s)]
+[02Jul2025 12:20:11.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 936, 309, 319]
+[02Jul2025 12:20:11.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 936, 313, 319]
+[02Jul2025 12:20:11.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 936, 314, 319]
+[02Jul2025 12:20:11.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 930, 308, 301]
+[02Jul2025 12:20:11.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 2 block(s)]
+[02Jul2025 12:20:11.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 3 block(s)]
+[02Jul2025 12:20:11.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 6 block(s)]
+[02Jul2025 12:20:11.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 2 block(s)]
+[02Jul2025 12:20:11.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 2 block(s)]
+[02Jul2025 12:20:11.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 931, 308, 301]
+[02Jul2025 12:20:11.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 931, 309, 301]
+[02Jul2025 12:20:11.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 931, 310, 301]
+[02Jul2025 12:20:11.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 10 block(s)]
+[02Jul2025 12:20:11.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 2 block(s)]
+[02Jul2025 12:20:11.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 931, 311, 303]
+[02Jul2025 12:20:11.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 2 block(s)]
+[02Jul2025 12:20:11.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 932, 308, 301]
+[02Jul2025 12:20:11.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 932, 309, 301]
+[02Jul2025 12:20:11.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 932, 310, 301]
+[02Jul2025 12:20:11.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 932, 308, 302]
+[02Jul2025 12:20:11.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 932, 311, 303]
+[02Jul2025 12:20:11.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 933, 308, 301]
+[02Jul2025 12:20:11.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 933, 309, 301]
+[02Jul2025 12:20:11.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 933, 310, 301]
+[02Jul2025 12:20:11.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 933, 308, 302]
+[02Jul2025 12:20:11.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 3 block(s)]
+[02Jul2025 12:20:11.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 933, 311, 303]
+[02Jul2025 12:20:11.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 934, 307, 301]
+[02Jul2025 12:20:11.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 3 block(s)]
+[02Jul2025 12:20:11.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 934, 309, 301]
+[02Jul2025 12:20:11.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 934, 310, 301]
+[02Jul2025 12:20:11.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 2 block(s)]
+[02Jul2025 12:20:11.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 2 block(s)]
+[02Jul2025 12:20:11.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 935, 310, 301]
+[02Jul2025 12:20:11.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 936, 310, 301]
+[02Jul2025 12:20:11.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 3 block(s)]
+[02Jul2025 12:20:11.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 6 block(s)]
+[02Jul2025 12:20:11.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 936, 312, 302]
+[02Jul2025 12:20:11.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Successfully filled 2 block(s)]
+[02Jul2025 12:20:11.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Changed the block at 936, 312, 303]
+[02Jul2025 12:20:44.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Teleported Blackliss to Redoxlyy]
+[02Jul2025 12:21:13.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: susraph has made the advancement [Monster Hunter]
+[02Jul2025 12:21:26.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: susraph has made the advancement [Diamonds!]
+[02Jul2025 12:21:55.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: susraph has made the advancement [Sneak 100]
+[02Jul2025 12:22:36.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Redoxlyy hit the ground too hard while trying to escape Stray
+[02Jul2025 12:22:39.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Set own game mode to Survival Mode]
+[02Jul2025 12:22:41.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Fullavatar> GG
+[02Jul2025 12:25:55.900] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fullavatar lost connection: Disconnected
+[02Jul2025 12:25:55.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fullavatar left the game
+[02Jul2025 12:27:30.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: guebaud has made the advancement [Cover Me with Diamonds]
+[02Jul2025 12:33:07.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Redoxlyy was shot by Stray
+[02Jul2025 12:34:59.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Redoxlyy fell while climbing
+[02Jul2025 12:36:16.738] [User Authenticator #15/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Fullavatar is fd102774-21c2-4b99-9396-f454ead0849c
+[02Jul2025 12:36:17.237] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Fullavatar[/93.19.138.72:60268] logged in with entity id 75389 at (688.3720157732564, 265.0, 208.20648142197516)
+[02Jul2025 12:36:17.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fullavatar joined the game
+[02Jul2025 12:36:24.328] [User Authenticator #16/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Byakoren is 77ebe240-f66a-4d07-ae88-a6df583c1a70
+[02Jul2025 12:36:24.837] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Byakoren[/86.245.7.178:59830] logged in with entity id 75531 at (555.4180279768518, 63.0, 13656.822832368145)
+[02Jul2025 12:36:24.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Byakoren joined the game
+[02Jul2025 12:37:08.053] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fullavatar lost connection: Disconnected
+[02Jul2025 12:37:08.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fullavatar left the game
+[02Jul2025 12:37:44.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blackliss has reached the goal [Revaulting]
+[02Jul2025 12:37:50.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Redoxlyy has reached the goal [Revaulting]
+[02Jul2025 12:39:40.075] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! -1447.534162111161,224.5,-6121.994533819233
+[02Jul2025 12:39:49.225] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Redoxlyy moved too quickly! -1448.580452207395,224.5,-6122.702642114157
+[02Jul2025 12:41:45.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: susraph was obliterated by a sonically-charged shriek
+[02Jul2025 12:44:19.276] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Byakoren moved too quickly! 90.34667767414464,72.5,-0.7357097924896152
+[02Jul2025 12:44:59.071] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Redoxlyy moved too quickly! -1449.9254617301717,225.5,-6122.97261525157
+[02Jul2025 12:45:37.416] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Byakoren moved too quickly! 1034.6248418273867,203.5,-318.41486916474037
+[02Jul2025 12:45:37.425] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Byakoren moved too quickly! 1034.6248418273867,203.5,-318.41486916474037
+[02Jul2025 12:46:17.324] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Byakoren moved too quickly! 1.344491490718383,-19.16080804221616,-0.8315339578322352
+[02Jul2025 12:47:07.955] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! -18.612222448316516,-146.5,3.4526167146367186
+[02Jul2025 12:47:07.972] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! -18.612222448316516,-146.5,3.4526167146367186
+[02Jul2025 12:47:07.980] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! -18.612222448316516,-146.5,3.4526167146367186
+[02Jul2025 12:49:22.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: susraph has made the advancement [Cover Me with Diamonds]
+[02Jul2025 12:50:25.328] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Redoxlyy moved too quickly! 17.65861551943067,149.5625,-4.204362045013852
+[02Jul2025 12:50:30.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blackliss was doomed to fall by Redoxlyy
+[02Jul2025 12:51:28.620] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 1468.5126736441166,-73.4375,6122.707270343872
+[02Jul2025 12:51:28.628] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 1468.5126736441166,-73.4375,6122.707270343872
+[02Jul2025 12:53:41.997] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Redoxlyy lost connection: Disconnected
+[02Jul2025 12:53:41.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Redoxlyy left the game
+[02Jul2025 12:53:43.545] [User Authenticator #17/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Redoxlyy is 82c71c85-d9c9-4197-a7c6-61b8ee4b34c7
+[02Jul2025 12:53:43.894] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Redoxlyy[/89.80.190.53:53702] logged in with entity id 90207 at (3369.426074386245, -19.0, 6212.045677902928)
+[02Jul2025 12:53:43.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Redoxlyy joined the game
+[02Jul2025 13:02:06.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blackliss was shot by Stray
+[02Jul2025 13:02:13.230] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 1447.2465972125513,-221.6875,6123.704304024261
+[02Jul2025 13:10:14.334] [Server thread/INFO] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[02Jul2025 13:10:15.441] [Server thread/INFO] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[02Jul2025 13:10:16.053] [Server thread/INFO] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[02Jul2025 13:10:16.836] [Server thread/INFO] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[02Jul2025 13:10:17.338] [Server thread/INFO] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[02Jul2025 13:10:17.835] [Server thread/INFO] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[02Jul2025 13:10:18.338] [Server thread/INFO] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[02Jul2025 13:10:18.849] [Server thread/INFO] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[02Jul2025 13:10:19.337] [Server thread/INFO] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[02Jul2025 13:10:19.835] [Server thread/INFO] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[02Jul2025 13:10:20.337] [Server thread/INFO] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[02Jul2025 13:10:20.836] [Server thread/INFO] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[02Jul2025 13:10:21.484] [Server thread/INFO] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[02Jul2025 13:10:21.993] [Server thread/INFO] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[02Jul2025 13:10:22.489] [Server thread/INFO] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[02Jul2025 13:10:22.983] [Server thread/INFO] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[02Jul2025 13:10:23.485] [Server thread/INFO] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[02Jul2025 13:10:23.984] [Server thread/INFO] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[02Jul2025 13:10:24.484] [Server thread/INFO] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[02Jul2025 13:10:24.986] [Server thread/INFO] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[02Jul2025 13:10:25.484] [Server thread/INFO] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[02Jul2025 13:10:37.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Blackliss> Vous faites quoi comme bétises sur le serv ?
+[02Jul2025 13:11:25.323] [Server thread/INFO] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[02Jul2025 13:11:25.408] [Server thread/INFO] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[02Jul2025 13:11:26.087] [Server thread/INFO] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[02Jul2025 13:11:26.737] [Server thread/INFO] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[02Jul2025 13:11:27.237] [Server thread/INFO] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[02Jul2025 13:11:27.740] [Server thread/INFO] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[02Jul2025 13:11:28.440] [Server thread/INFO] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[02Jul2025 13:11:28.937] [Server thread/INFO] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[02Jul2025 13:11:29.437] [Server thread/INFO] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[02Jul2025 13:11:30.137] [Server thread/INFO] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[02Jul2025 13:11:30.687] [Server thread/INFO] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[02Jul2025 13:11:31.186] [Server thread/INFO] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[02Jul2025 13:11:31.689] [Server thread/INFO] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[02Jul2025 13:11:32.236] [Server thread/INFO] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[02Jul2025 13:11:32.737] [Server thread/INFO] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[02Jul2025 13:11:33.236] [Server thread/INFO] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[02Jul2025 13:11:33.735] [Server thread/INFO] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[02Jul2025 13:11:34.237] [Server thread/INFO] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[02Jul2025 13:11:34.736] [Server thread/INFO] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[02Jul2025 13:11:35.241] [Server thread/INFO] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[02Jul2025 13:11:35.741] [Server thread/INFO] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[02Jul2025 13:11:36.237] [Server thread/INFO] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[02Jul2025 13:11:36.734] [Server thread/INFO] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[02Jul2025 13:11:37.287] [Server thread/INFO] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[02Jul2025 13:11:37.843] [Server thread/INFO] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[02Jul2025 13:11:38.537] [Server thread/INFO] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[02Jul2025 13:11:39.238] [Server thread/INFO] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[02Jul2025 13:11:39.885] [Server thread/INFO] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[02Jul2025 13:12:22.229] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Byakoren moved too quickly! -85.2905609277343,0.5,-1533.114227639775
+[02Jul2025 13:12:24.581] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2200ms or 44 ticks behind
+[02Jul2025 13:13:02.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: guebaud has made the advancement [Enchanter]
+[02Jul2025 13:18:49.373] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! -1442.6862708615313,76.5,-6062.042782651376
+[02Jul2025 13:18:52.867] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 20.0,149.5625,-5.0
+[02Jul2025 13:18:52.876] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 20.0,149.5625,-5.0
+[02Jul2025 13:19:26.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Redoxlyy was slain by Zombie
+[02Jul2025 13:19:31.820] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Redoxlyy moved too quickly! 1445.5743390379607,-222.0625,6121.897646825577
+[02Jul2025 13:20:57.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: susraph has made the advancement [Voluntary Exile]
+[02Jul2025 13:21:29.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blackliss was slain by Zombie
+[02Jul2025 13:22:20.301] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/118066, l='ServerLevel[world]', x=-200.30, y=119.28, z=3884.50] died, message: 'Villager froze to death'
+[02Jul2025 13:22:50.293] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/118069, l='ServerLevel[world]', x=-228.50, y=127.00, z=3882.30] died, message: 'Leatherworker froze to death'
+[02Jul2025 13:25:50.870] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Redoxlyy moved too quickly! -1449.9085036775637,225.5,-6121.908457183996
+[02Jul2025 13:26:38.080] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! -1446.6537739188107,224.5,-6121.886887682448
+[02Jul2025 13:27:11.227] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=552, y=53, z=13687} BlockPos{x=552, y=54, z=13686}
+[02Jul2025 13:27:11.277] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=552, y=53, z=13687} BlockPos{x=552, y=54, z=13686}
+[02Jul2025 13:30:29.787] [User Authenticator #18/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Fullavatar is fd102774-21c2-4b99-9396-f454ead0849c
+[02Jul2025 13:30:30.174] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Fullavatar[/93.19.138.72:52027] logged in with entity id 126311 at (683.3142017530088, 265.0, 201.7010234000725)
+[02Jul2025 13:30:30.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fullavatar joined the game
+[02Jul2025 13:31:26.164] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Byakoren moved too quickly! -1944.5067762856165,74.5,-10090.915234675314
+[02Jul2025 13:31:26.172] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Byakoren moved too quickly! -1944.5067762856165,74.5,-10090.915234675314
+[02Jul2025 13:32:00.030] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Byakoren moved too quickly! 1943.4913019045425,-71.0875,10092.97680223603
+[02Jul2025 13:36:21.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blackliss fell from a high place
+[02Jul2025 13:36:42.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blackliss fell off a ladder
+[02Jul2025 13:43:19.495] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Redoxlyy lost connection: Disconnected
+[02Jul2025 13:43:19.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Redoxlyy left the game
+[02Jul2025 13:48:59.876] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! -19.10745045180056,-146.5,4.27317848298992
+[02Jul2025 13:53:26.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: susraph has made the advancement [We Need to Go Deeper]
+[02Jul2025 13:55:09.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Blackliss> Raph, on a une carte dynamique via le site map.minecraft.dmvlab.eu, tu veux que les autres voient où tu es ou non ?
+[02Jul2025 13:55:25.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <susraph> j y vois pas d objections
+[02Jul2025 13:55:36.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Blackliss> Okip ça marche :D
