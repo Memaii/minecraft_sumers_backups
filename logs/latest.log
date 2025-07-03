@@ -1,88 +1,115 @@
-[03Jul2025 00:27:16.424] [User Authenticator #64/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Blackliss is 5750e528-e519-43d6-b148-76e08d2e1b2e
-[03Jul2025 00:27:16.900] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Blackliss[/192.168.1.254:56512] logged in with entity id 535361 at (1962.4896650731123, 212.875, 148.00282822858134)
-[03Jul2025 00:27:16.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blackliss joined the game
-[03Jul2025 00:33:12.230] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2699ms or 53 ticks behind
-[03Jul2025 00:37:06.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blackliss has completed the challenge [Hot Tourist Destinations]
-[03Jul2025 00:38:37.660] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss lost connection: Disconnected
-[03Jul2025 00:38:37.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blackliss left the game
-[03Jul2025 00:38:40.543] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2762ms or 55 ticks behind
-[03Jul2025 00:39:14.067] [User Authenticator #65/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Blackliss is 5750e528-e519-43d6-b148-76e08d2e1b2e
-[03Jul2025 00:39:14.367] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Blackliss[/192.168.1.254:56624] logged in with entity id 538291 at (2750.988428627721, 93.6037636546968, -605.5611073799932)
-[03Jul2025 00:39:14.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blackliss joined the game
-[03Jul2025 00:39:15.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blackliss was slain by Enderman
-[03Jul2025 00:40:02.227] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 1291.874372939756,-200.5,-60.32086320679991
-[03Jul2025 00:40:04.358] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 20.0,149.5625,-5.0
-[03Jul2025 00:40:04.366] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 20.0,149.5625,-5.0
-[03Jul2025 00:40:04.375] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 20.0,149.5625,-5.0
-[03Jul2025 00:40:20.507] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 19307.26796212878,-57.5,-6261.472030635256
-[03Jul2025 00:40:20.516] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 19307.26796212878,-57.5,-6261.472030635256
-[03Jul2025 00:40:20.524] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 19307.26796212878,-57.5,-6261.472030635256
-[03Jul2025 00:50:13.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blackliss has completed the challenge [Subspace Bubble]
-[03Jul2025 01:06:37.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blackliss has made the advancement [Take Aim]
-[03Jul2025 01:07:29.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blackliss has made the advancement [Into Fire]
-[03Jul2025 01:09:07.470] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 20.0,149.5625,-5.0
-[03Jul2025 01:18:14.009] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! -20.75834379572052,-146.5,3.0296755363253567
-[03Jul2025 01:18:14.018] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! -20.75834379572052,-146.5,3.0296755363253567
-[03Jul2025 01:54:34.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blackliss has made the advancement [Eye Spy]
-[03Jul2025 01:55:58.661] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! -4902.736866448696,52.5,3784.3307512848532
-[03Jul2025 01:55:58.669] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! -4902.736866448696,52.5,3784.3307512848532
-[03Jul2025 01:55:58.678] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! -4902.736866448696,52.5,3784.3307512848532
-[03Jul2025 01:58:28.572] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 4877.096302470962,-197.5,-3778.385981364807
-[03Jul2025 01:59:34.771] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! -4927.125745586981,206.5,3775.4666536612463
-[03Jul2025 01:59:34.780] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! -4927.125745586981,206.5,3775.4666536612463
-[03Jul2025 01:59:40.029] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! -5.0,-114.1875,1.0
-[03Jul2025 01:59:45.743] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 56.178638216988475,113.5,2.128558403543252
-[03Jul2025 01:59:45.751] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 56.178638216988475,113.5,2.128558403543252
-[03Jul2025 01:59:45.759] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 56.178638216988475,113.5,2.128558403543252
-[03Jul2025 01:59:45.768] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 56.178638216988475,113.5,2.128558403543252
-[03Jul2025 01:59:45.776] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 56.178638216988475,113.5,2.128558403543252
-[03Jul2025 02:07:51.159] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! -254.5570195365292,-181.5,38.56585889440524
-[03Jul2025 02:07:51.169] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! -254.5570195365292,-181.5,38.56585889440524
-[03Jul2025 02:07:51.178] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! -254.5570195365292,-181.5,38.56585889440524
-[03Jul2025 02:07:57.319] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 273.0,-70.71319345174732,-153.0
-[03Jul2025 02:08:28.002] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 254.99170934717972,185.6871571465178,-35.47978213638575
-[03Jul2025 02:08:28.011] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 254.99170934717972,185.6871571465178,-35.47978213638575
-[03Jul2025 02:08:28.019] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 254.99170934717972,185.6871571465178,-35.47978213638575
-[03Jul2025 02:08:28.027] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 254.99170934717972,185.6871571465178,-35.47978213638575
-[03Jul2025 02:08:44.343] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! -254.27683614438047,-182.5,36.43385603523305
-[03Jul2025 02:08:44.352] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! -254.27683614438047,-182.5,36.43385603523305
-[03Jul2025 02:08:44.360] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! -254.27683614438047,-182.5,36.43385603523305
-[03Jul2025 02:08:44.368] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! -254.27683614438047,-182.5,36.43385603523305
-[03Jul2025 02:08:44.377] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! -254.27683614438047,-182.5,36.43385603523305
-[03Jul2025 02:09:00.277] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! -205.0,-186.1875,39.0
-[03Jul2025 02:09:14.708] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 254.80000001192093,185.25000010359756,-33.985197672106295
-[03Jul2025 02:09:14.717] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 254.80000001192093,185.25000010359756,-33.985197672106295
-[03Jul2025 02:09:14.725] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 254.80000001192093,185.25000010359756,-33.985197672106295
-[03Jul2025 02:10:43.512] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! -1312.6084191007967,55.5,63.77268594258004
-[03Jul2025 02:10:43.520] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! -1312.6084191007967,55.5,63.77268594258004
-[03Jul2025 02:10:43.528] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! -1312.6084191007967,55.5,63.77268594258004
-[03Jul2025 02:18:41.056] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! -18.82149743419768,256.5,116.71167977714437
-[03Jul2025 02:18:41.064] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! -18.82149743419768,256.5,116.71167977714437
-[03Jul2025 02:18:41.073] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! -18.82149743419768,256.5,116.71167977714437
-[03Jul2025 02:18:52.076] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 4878.842761797561,-197.5,-3778.729479023029
-[03Jul2025 02:26:23.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blackliss was slain by Enderman
-[03Jul2025 02:29:02.790] [Server thread/INFO] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
-[03Jul2025 02:41:15.407] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! -18.623783939435953,-146.5,5.4472036330472235
-[03Jul2025 02:41:15.417] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! -18.623783939435953,-146.5,5.4472036330472235
-[03Jul2025 02:41:15.427] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! -18.623783939435953,-146.5,5.4472036330472235
-[03Jul2025 02:41:41.302] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 17.879771126879632,149.5625,-1.4319644292911278
-[03Jul2025 02:41:41.311] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 17.879771126879632,149.5625,-1.4319644292911278
-[03Jul2025 02:41:41.319] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 17.879771126879632,149.5625,-1.4319644292911278
-[03Jul2025 02:41:41.327] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 17.879771126879632,149.5625,-1.4319644292911278
-[03Jul2025 02:49:16.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blackliss fell from a high place
-[03Jul2025 02:49:37.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blackliss fell from a high place
-[03Jul2025 02:53:54.203] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! -18.046344603978696,-146.5,3.7493833866008117
-[03Jul2025 02:53:54.220] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! -18.046344603978696,-146.5,3.7493833866008117
-[03Jul2025 02:53:54.229] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! -18.046344603978696,-146.5,3.7493833866008117
-[03Jul2025 02:54:30.302] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! -4.04258691388668,-143.70000004768372,3.3301502115264157
-[03Jul2025 02:54:30.319] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! -4.04258691388668,-143.70000004768372,3.3301502115264157
-[03Jul2025 02:54:30.328] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! -4.04258691388668,-143.70000004768372,3.3301502115264157
-[03Jul2025 02:55:42.895] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss lost connection: Disconnected
-[03Jul2025 02:55:42.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blackliss left the game
-[03Jul2025 02:56:42.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Server empty for 60 seconds, pausing
-[03Jul2025 03:45:01.875] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /0:0:0:0:0:0:0:1 started
-[03Jul2025 03:45:01.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Rcon] Le serveur redemarrera dans 10 minutes, preparez-vous !
-[03Jul2025 03:45:01.885] [RCON Client /0:0:0:0:0:0:0:1 #3/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /0:0:0:0:0:0:0:1 shutting down
-[03Jul2025 03:54:02.020] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /0:0:0:0:0:0:0:1 started
-[03Jul2025 03:54:02.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Rcon] Le serveur redemarrera dans 1 minute, sauvegardez vos progres !
-[03Jul2025 03:54:02.021] [RCON Client /0:0:0:0:0:0:0:1 #4/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /0:0:0:0:0:0:0:1 shutting down
+[03Jul2025 04:05:21.534] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, neoforgeserver, --fml.neoForgeVersion, 21.4.141, --fml.fmlVersion, 6.0.18, --fml.mcVersion, 1.21.4, --fml.neoFormVersion, 20241203.161809]
+[03Jul2025 04:05:21.537] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Eclipse Adoptium OpenJDK 64-Bit Server VM 21.0.6+7-LTS
+[03Jul2025 04:05:21.550] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 11.0.4+main.d2e20e43 starting: java version 21.0.6 by Eclipse Adoptium; OS Linux arch amd64 version 6.1.0-30-amd64
+[03Jul2025 04:05:21.751] [main/INFO] [net.neoforged.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is neoforgeserver
+[03Jul2025 04:05:21.825] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=union:/data/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar%2385!/ Service=ModLauncher Env=SERVER
+[03Jul2025 04:05:22.207] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "server-1.21.4-20241203.161809-srg.jar" [locator: production server provider +net.neoforged:neoforge:21.4.141:server]
+[03Jul2025 04:05:22.233] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "neoforge-21.4.141-universal.jar" [locator: PathBasedLocator[name=neoforge, paths=[libraries/net/neoforged/neoforge/21.4.141/neoforge-21.4.141-universal.jar]], reader: mod manifest]
+[03Jul2025 04:05:22.243] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "balm-neoforge-1.21.4-21.4.34.jar" [locator: {mods folder locator at /data/mods}, reader: mod manifest]
+[03Jul2025 04:05:22.248] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "bluemap-5.7-neoforge.jar" [locator: {mods folder locator at /data/mods}, reader: mod manifest]
+[03Jul2025 04:05:22.252] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "Chunky-NeoForge-1.4.27.jar" [locator: {mods folder locator at /data/mods}, reader: mod manifest]
+[03Jul2025 04:05:22.259] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "corpse-neoforge-1.21.4-1.1.7.jar" [locator: {mods folder locator at /data/mods}, reader: mod manifest]
+[03Jul2025 04:05:22.263] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "FallingTree-1.21.4-1.21.4.12.jar" [locator: {mods folder locator at /data/mods}, reader: mod manifest]
+[03Jul2025 04:05:22.268] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "jei-1.21.4-neoforge-20.0.0.4.jar" [locator: {mods folder locator at /data/mods}, reader: mod manifest]
+[03Jul2025 04:05:22.271] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "lithium-neoforge-0.15.3+mc1.21.4.jar" [locator: {mods folder locator at /data/mods}, reader: mod manifest]
+[03Jul2025 04:05:22.276] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "sophisticatedbackpacks-1.21.4-3.24.14.1265.jar" [locator: {mods folder locator at /data/mods}, reader: mod manifest]
+[03Jul2025 04:05:22.279] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "sophisticatedcore-1.21.4-1.3.50.1021.jar" [locator: {mods folder locator at /data/mods}, reader: mod manifest]
+[03Jul2025 04:05:22.284] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "waystones-neoforge-1.21.4-21.4.15.jar" [locator: {mods folder locator at /data/mods}, reader: mod manifest]
+[03Jul2025 04:05:22.289] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "worldedit-mod-7.3.11.jar" [locator: {mods folder locator at /data/mods}, reader: mod manifest]
+[03Jul2025 04:05:22.293] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "Xaeros_Minimap_25.2.7_NeoForge_1.21.4.jar" [locator: {mods folder locator at /data/mods}, reader: mod manifest]
+[03Jul2025 04:05:22.297] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "XaerosWorldMap_1.39.10_NeoForge_1.21.4.jar" [locator: {mods folder locator at /data/mods}, reader: mod manifest]
+[03Jul2025 04:05:22.437] [main/INFO] [net.neoforged.fml.loading.moddiscovery.locators.JarInJarDependencyLocator/]: Found 5 dependencies adding them to mods collection
+[03Jul2025 04:05:22.437] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found gamelibrary file "mixinextras-neoforge-0.4.1.jar" [parent: neoforge-21.4.141-universal.jar, locator: jarinjar, reader: mod manifest]
+[03Jul2025 04:05:22.437] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "kuma-api-neoforge-21.4.6+1.21.4.jar" [parent: balm-neoforge-1.21.4-21.4.34.jar, locator: jarinjar, reader: mod manifest]
+[03Jul2025 04:05:22.437] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "bluenbt-3.3.0.jar" [parent: bluemap-5.7-neoforge.jar, locator: jarinjar]
+[03Jul2025 04:05:22.438] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "flow-math-1.0.4-SNAPSHOT.jar" [parent: bluemap-5.7-neoforge.jar, locator: jarinjar]
+[03Jul2025 04:05:22.438] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "net.neoforged.neoforge-coremods-21.4.141.jar" [parent: neoforge-21.4.141-universal.jar, locator: jarinjar, reader: mod manifest]
+[03Jul2025 04:05:22.440] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/]: 
+     Mod List:
+		Name Version (Mod Id)
+
+		Balm 21.4.34 (balm)
+		BlueMap 5.7 (bluemap)
+		Chunky 1.4.27 (chunky)
+		Corpse 1.21.4-1.1.7 (corpse)
+		FallingTree 1.21.4.12 (fallingtree)
+		Just Enough Items 20.0.0.4 (jei)
+		KumaAPI 21.4.6 (kuma_api)
+		Lithium 0.15.3+mc1.21.4 (lithium)
+		Minecraft 1.21.4 (minecraft)
+		NeoForge 21.4.141 (neoforge)
+		Sophisticated Backpacks 3.24.14 (sophisticatedbackpacks)
+		Sophisticated Core 1.3.50 (sophisticatedcore)
+		Waystones 21.4.15 (waystones)
+		WorldEdit 7.3.11+7055-8357a12 (worldedit)
+		Xaero's Minimap 25.2.7 (xaerominimap)
+		Xaero's World Map 1.39.10 (xaeroworldmap)
+[03Jul2025 04:05:22.576] [main/INFO] [net.neoforged.fml.loading.FMLServiceProvider/CORE]: Loading coremod script-engine for [xaerominimap, xaeroworldmap]
+[03Jul2025 04:05:24.065] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[03Jul2025 04:05:24.069] [main/INFO] [mixin/]: Compatibility level set to JAVA_21
+[03Jul2025 04:05:24.119] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'neoforgeserver' with arguments []
+[03Jul2025 04:05:24.157] [main/WARN] [mixin/]: Reference map 'kuma_api.refmap.json' for kuma_api.mixins.json could not be read. If this is a development environment you can ignore this message
+[03Jul2025 04:05:24.159] [main/WARN] [mixin/]: Reference map 'worldedit-neoforge.mixins.refmap.json' for worldedit-neoforge.mixins.json could not be read. If this is a development environment you can ignore this message
+[03Jul2025 04:05:24.160] [main/WARN] [mixin/]: Reference map 'balm.refmap.json' for balm.mixins.json could not be read. If this is a development environment you can ignore this message
+[03Jul2025 04:05:24.216] [main/INFO] [Lithium/]: Loaded configuration file for Lithium: 155 options available, 0 override(s) found.
+[03Jul2025 04:05:24.220] [main/WARN] [mixin/]: Reference map 'waystones.refmap.json' for waystones.mixins.json could not be read. If this is a development environment you can ignore this message
+[03Jul2025 04:05:25.532] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[03Jul2025 04:05:33.199] [modloading-worker-0/INFO] [net.neoforged.neoforge.common.NeoForgeMod/NEOFORGE-MOD]: NeoForge mod loading, version 21.4.141, for MC 1.21.4
+[03Jul2025 04:05:34.175] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [corpse] Starting version check at https://update.maxhenkel.de/neoforge/corpse
+[03Jul2025 04:05:34.543] [modloading-worker-0/INFO] [com.sk89q.worldedit.extension.platform.PlatformManager/]: Got request to register class com.sk89q.worldedit.neoforge.NeoForgePlatform with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@4036ad78]
+[03Jul2025 04:05:34.547] [modloading-worker-0/INFO] [com.sk89q.worldedit.neoforge.NeoForgeWorldEdit/]: WorldEdit for NeoForge (version 7.3.11+7055-8357a12) is loaded
+[03Jul2025 04:05:34.551] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[03Jul2025 04:05:34.552] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
+[03Jul2025 04:05:34.552] [modloading-sync-worker/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[03Jul2025 04:05:34.553] [modloading-sync-worker/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
+[03Jul2025 04:05:34.773] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[03Jul2025 04:05:34.803] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [corpse] Found status: BETA_OUTDATED Current: 1.21.4-1.1.7 Target: 1.21.4-1.1.10
+[03Jul2025 04:05:34.929] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/data/libraries/net/minecraft/server/1.21.4-20241203.161809/server-1.21.4-20241203.161809-srg.jar%23154!/assets/.mcassetsroot' uses unexpected schema
+[03Jul2025 04:05:34.930] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/data/libraries/net/minecraft/server/1.21.4-20241203.161809/server-1.21.4-20241203.161809-srg.jar%23154!/data/.mcassetsroot' uses unexpected schema
+[03Jul2025 04:05:36.295] [Worker-Main-2/INFO] [com.sk89q.worldedit.extension.platform.PlatformCommandManager/]: Registering commands with com.sk89q.worldedit.neoforge.NeoForgePlatform
+[03Jul2025 04:05:36.911] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 1483 recipes
+[03Jul2025 04:05:36.929] [main/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 1592 advancements
+[03Jul2025 04:05:36.936] [main/INFO] [net.neoforged.neoforge.common.crafting.RecipePriorityManager/]: Loaded 0 recipe priority overrides
+[03Jul2025 04:05:37.335] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.21.4
+[03Jul2025 04:05:37.336] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[03Jul2025 04:05:37.336] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[03Jul2025 04:05:37.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[03Jul2025 04:05:37.427] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[03Jul2025 04:05:37.475] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[03Jul2025 04:05:37.564] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[03Jul2025 04:05:38.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[03Jul2025 04:05:41.701] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Jul2025 04:05:41.702] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Jul2025 04:05:41.702] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Jul2025 04:05:41.702] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Jul2025 04:05:41.702] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Jul2025 04:05:41.702] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Jul2025 04:05:41.702] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Jul2025 04:05:41.702] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Jul2025 04:05:41.812] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 3731 ms
+[03Jul2025 04:05:41.812] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (4.291s)! For help, type "help"
+[03Jul2025 04:05:41.813] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting remote control listener
+[03Jul2025 04:05:41.815] [Server thread/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Listener started
+[03Jul2025 04:05:41.815] [Server thread/INFO] [net.minecraft.server.rcon.thread.RconThread/]: RCON running on 0.0.0.0:25575
+[03Jul2025 04:05:41.825] [LanServerPinger #1/WARN] [net.minecraft.client.server.LanServerPinger/]: LanServerPinger: Network is unreachable
+[03Jul2025 04:05:41.855] [Server thread/INFO] [net.neoforged.neoforge.server.permission.PermissionAPI/]: Successfully initialized permission handler neoforge:default_handler
+[03Jul2025 04:05:43.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[03Jul2025 04:05:44.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[03Jul2025 04:05:44.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[03Jul2025 04:05:44.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03Jul2025 04:05:44.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03Jul2025 04:05:44.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03Jul2025 04:05:44.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[03Jul2025 04:05:44.902] [BlueMap-Plugin-Loading/INFO] [BlueMap/]: Loading...
+[03Jul2025 04:05:45.201] [BlueMap-Plugin-Loading/INFO] [BlueMap/]: Loading resources...
+[03Jul2025 04:05:45.945] [BlueMap-Plugin-Loading/INFO] [BlueMap/]: Loading textures...
+[03Jul2025 04:05:47.413] [BlueMap-Plugin-Loading/INFO] [BlueMap/]: Baking resources...
+[03Jul2025 04:05:47.450] [BlueMap-Plugin-Loading/INFO] [BlueMap/]: Resources loaded.
+[03Jul2025 04:05:47.543] [BlueMap-Plugin-Loading/INFO] [BlueMap/]: Initializing Storage: 'file' (Type: 'bluemap:file')
+[03Jul2025 04:05:47.547] [BlueMap-Plugin-Loading/INFO] [BlueMap/]: Loading map 'world_the_end'...
+[03Jul2025 04:05:47.728] [BlueMap-Plugin-Loading/INFO] [BlueMap/]: Loading map 'world'...
+[03Jul2025 04:05:47.872] [BlueMap-Plugin-Loading/INFO] [BlueMap/]: Loading map 'world_the_nether'...
+[03Jul2025 04:05:47.976] [BlueMap-Plugin-Loading/INFO] [BlueMap/]: WebServer bound to all network interfaces on port 8100
+[03Jul2025 04:05:47.976] [Thread-14/INFO] [BlueMap/]: WebServer started.
+[03Jul2025 04:05:47.991] [BlueMap-Plugin-Loading/INFO] [BlueMap/]: Loaded!
+[03Jul2025 04:06:44.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Server empty for 60 seconds, pausing
