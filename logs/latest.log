@@ -113,3 +113,56 @@
 [03Jul2025 04:05:47.976] [Thread-14/INFO] [BlueMap/]: WebServer started.
 [03Jul2025 04:05:47.991] [BlueMap-Plugin-Loading/INFO] [BlueMap/]: Loaded!
 [03Jul2025 04:06:44.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Server empty for 60 seconds, pausing
+[03Jul2025 08:12:55.525] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /192.168.1.254 started
+[03Jul2025 08:13:00.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rcon: Made Blackliss a server operator]
+[03Jul2025 08:13:30.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rcon: Made Blackliss no longer a server operator]
+[03Jul2025 08:14:07.637] [User Authenticator #1/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Blackliss is 5750e528-e519-43d6-b148-76e08d2e1b2e
+[03Jul2025 08:14:08.759] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Blackliss[/192.168.1.254:56882] logged in with entity id 1 at (1938.1817059368032, 67.0, 115.78740155220957)
+[03Jul2025 08:14:08.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blackliss joined the game
+[03Jul2025 08:14:53.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rcon: Set Blackliss's game mode to Creative Mode]
+[03Jul2025 08:15:16.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rcon: Made Blackliss a server operator]
+[03Jul2025 08:15:29.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Blackliss: Gave 1 [Light] to Blackliss]
+[03Jul2025 08:45:07.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Blackliss: Set own game mode to Survival Mode]
+[03Jul2025 08:45:13.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Blackliss: Made Blackliss no longer a server operator]
+[03Jul2025 08:55:18.097] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Byakoren is 77ebe240-f66a-4d07-ae88-a6df583c1a70
+[03Jul2025 08:55:18.597] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Byakoren[/86.245.7.178:64450] logged in with entity id 6109 at (556.7142308240786, 63.0, 13640.78008938288)
+[03Jul2025 08:55:18.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Byakoren joined the game
+[03Jul2025 08:55:35.292] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Byakoren moved too quickly! 101.54909340073004,203.5,-13468.823459947645
+[03Jul2025 09:04:20.437] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 93.34166622461271,-59.5,220.44832251951266
+[03Jul2025 09:04:20.444] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 93.34166622461271,-59.5,220.44832251951266
+[03Jul2025 09:04:20.452] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 93.34166622461271,-59.5,220.44832251951266
+[03Jul2025 09:08:33.353] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! -19360.914925304492,107.5,6170.800000011921
+[03Jul2025 09:12:27.616] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss lost connection: Disconnected
+[03Jul2025 09:12:27.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blackliss left the game
+[03Jul2025 09:14:13.692] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Blackliss is 5750e528-e519-43d6-b148-76e08d2e1b2e
+[03Jul2025 09:14:14.147] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Blackliss[/192.168.1.254:57740] logged in with entity id 12624 at (21439.638066095227, 36.0, -5896.699999988079)
+[03Jul2025 09:14:14.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blackliss joined the game
+[03Jul2025 09:14:16.562] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss lost connection: Disconnected
+[03Jul2025 09:14:16.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blackliss left the game
+[03Jul2025 09:14:37.638] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Blackliss is 5750e528-e519-43d6-b148-76e08d2e1b2e
+[03Jul2025 09:14:37.922] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Blackliss[/192.168.1.254:57757] logged in with entity id 12845 at (21439.638066095227, 36.0, -5896.699999988079)
+[03Jul2025 09:14:37.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blackliss joined the game
+[03Jul2025 09:15:18.741] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! -19471.80000001192,174.5,6043.200063478479
+[03Jul2025 09:15:18.748] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! -19471.80000001192,174.5,6043.200063478479
+[03Jul2025 09:15:23.252] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 19466.0,-126.5,-6080.0
+[03Jul2025 09:30:04.584] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 19533.106199959737,-202.5,-5960.194099785812
+[03Jul2025 09:30:04.591] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 19533.106199959737,-202.5,-5960.194099785812
+[03Jul2025 09:30:04.600] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 19533.106199959737,-202.5,-5960.194099785812
+[03Jul2025 09:31:23.242] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! -19533.19999998808,206.5,5958.8406153303695
+[03Jul2025 09:31:23.251] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! -19533.19999998808,206.5,5958.8406153303695
+[03Jul2025 09:33:20.590] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! -19533.076383318814,206.5,5958.574211054841
+[03Jul2025 09:33:20.599] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! -19533.076383318814,206.5,5958.574211054841
+[03Jul2025 09:33:26.825] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 19536.353569034505,-202.5,-5962.577221335504
+[03Jul2025 09:33:26.833] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 19536.353569034505,-202.5,-5962.577221335504
+[03Jul2025 09:33:26.842] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 19536.353569034505,-202.5,-5962.577221335504
+[03Jul2025 09:33:26.850] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 19536.353569034505,-202.5,-5962.577221335504
+[03Jul2025 09:42:11.677] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss lost connection: Disconnected
+[03Jul2025 09:42:11.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blackliss left the game
+[03Jul2025 09:44:08.410] [User Authenticator #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Fullavatar is fd102774-21c2-4b99-9396-f454ead0849c
+[03Jul2025 09:44:09.052] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Fullavatar[/93.19.138.72:53923] logged in with entity id 21271 at (563.1487188448333, 63.0, 13652.90242056952)
+[03Jul2025 09:44:09.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fullavatar joined the game
+[03Jul2025 09:58:08.240] [User Authenticator #6/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player guebaud is 876922dd-aa44-4202-81be-90a22dc1c24d
+[03Jul2025 09:58:09.224] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: guebaud[/90.70.73.104:50298] logged in with entity id 24022 at (-118.68273751027282, 63.0, 203.30000001192093)
+[03Jul2025 09:58:09.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: guebaud joined the game
+[03Jul2025 09:59:01.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: guebaud was doomed to fall
+[03Jul2025 09:59:07.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Byakoren> gg

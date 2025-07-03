@@ -148,6 +148,7 @@
       "cooked_mutton": "2025-06-30 19:40:28 +0000",
       "potato": "2025-06-30 22:19:34 +0000",
       "cooked_beef": "2025-06-30 22:44:10 +0000",
+      "cod": "2025-07-03 08:53:48 +0000",
       "beef": "2025-06-30 22:31:49 +0000"
     },
     "done": false
@@ -3454,33 +3455,15 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/smoking_upgrade": {
+  "minecraft:nether/fast_travel": {
     "criteria": {
-      "has_upgrade_base": "2025-07-03 02:22:03 +0000"
+      "travelled": "2025-07-03 00:50:13 +0000"
     },
     "done": true
   },
   "waystones:recipes/decorations/black_sharestone": {
     "criteria": {
       "has_warp_stone": "2025-07-03 00:51:22 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/everlasting_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2025-07-03 02:22:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/stone_brick_wall": {
-    "criteria": {
-      "has_stone_bricks": "2025-07-03 01:54:35 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/deposit_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2025-07-03 02:22:03 +0000"
     },
     "done": true
   },
@@ -3496,27 +3479,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/brewing/magma_cream": {
-    "criteria": {
-      "has_blaze_powder": "2025-07-03 01:09:52 +0000"
-    },
-    "done": true
-  },
   "waystones:recipes/decorations/light_blue_sharestone": {
     "criteria": {
       "has_warp_stone": "2025-07-03 00:51:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
-    "criteria": {
-      "has_stone_bricks": "2025-07-03 01:54:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_stone_bricks": "2025-07-03 01:54:35 +0000"
     },
     "done": true
   },
@@ -3532,51 +3497,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/end_crystal": {
-    "criteria": {
-      "has_ender_eye": "2025-07-03 01:16:43 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
-    "criteria": {
-      "has_gold_backpack": "2025-07-03 02:21:09 +0000"
-    },
-    "done": true
-  },
   "waystones:recipes/decorations/lime_sharestone": {
     "criteria": {
       "has_warp_stone": "2025-07-03 00:51:22 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/magnet_upgrade": {
-    "criteria": {
-      "has_pickup_upgrade": "2025-07-03 02:31:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/obtain_blaze_rod": {
-    "criteria": {
-      "blaze_rod": "2025-07-03 01:07:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/shoot_arrow": {
-    "criteria": {
-      "shot_arrow": "2025-07-03 01:06:37 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/stack_upgrade_starter_tier": {
-    "criteria": {
-      "has_upgrade_base": "2025-07-03 02:22:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
-    "criteria": {
-      "has_copper_block": "2025-07-03 02:35:39 +0000"
     },
     "done": true
   },
@@ -3598,39 +3521,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/copper_grate_from_copper_block_stonecutting": {
-    "criteria": {
-      "has_copper_block": "2025-07-03 02:35:39 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/filter_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2025-07-03 02:22:03 +0000"
-    },
-    "done": true
-  },
   "waystones:recipes/decorations/yellow_sharestone": {
     "criteria": {
       "has_warp_stone": "2025-07-03 00:51:22 +0000"
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/smithing_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2025-07-03 02:22:03 +0000"
-    },
-    "done": true
-  },
   "waystones:recipes/decorations/lime_portstone": {
     "criteria": {
       "has_warp_stone": "2025-07-03 00:51:22 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/feeding_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2025-07-03 02:22:03 +0000"
     },
     "done": true
   },
@@ -3643,90 +3542,6 @@
   "waystones:recipes/decorations/white_portstone": {
     "criteria": {
       "has_warp_stone": "2025-07-03 00:51:22 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/compacting_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2025-07-03 02:22:03 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/battery_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2025-07-03 02:22:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_copper": {
-    "criteria": {
-      "has_copper_block": "2025-07-03 02:35:39 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/advanced_jukebox_upgrade": {
-    "criteria": {
-      "has_jukebox_upgrade": "2025-07-03 02:44:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/fire_charge": {
-    "criteria": {
-      "has_blaze_powder": "2025-07-03 01:09:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/warped_hyphae": {
-    "criteria": {
-      "has_log": "2025-07-03 02:29:48 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/advanced_magnet_upgrade": {
-    "criteria": {
-      "has_advanced_pickup_upgrade": "2025-07-03 02:31:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
-    "criteria": {
-      "has_copper_block": "2025-07-03 02:35:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_copper_from_copper_block_stonecutting": {
-    "criteria": {
-      "has_copper_block": "2025-07-03 02:35:39 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_1": {
-    "criteria": {
-      "has_upgrade_base": "2025-07-03 02:22:03 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_2": {
-    "criteria": {
-      "has_stack_upgrade_tier_1": "2025-07-03 02:38:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_stone_bricks": "2025-07-03 01:54:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
-    "criteria": {
-      "has_copper_block": "2025-07-03 02:35:39 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/alchemy_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2025-07-03 02:22:03 +0000"
     },
     "done": true
   },
@@ -3745,6 +3560,312 @@
   "waystones:recipes/decorations/cyan_sharestone": {
     "criteria": {
       "has_warp_stone": "2025-07-03 00:51:22 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/purple_sharestone": {
+    "criteria": {
+      "has_warp_stone": "2025-07-03 00:51:22 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/deepslate_waystone": {
+    "criteria": {
+      "has_warp_stone": "2025-07-03 00:51:22 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/cyan_portstone": {
+    "criteria": {
+      "has_warp_stone": "2025-07-03 00:51:22 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/gray_sharestone": {
+    "criteria": {
+      "has_warp_stone": "2025-07-03 00:51:22 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/green_sharestone": {
+    "criteria": {
+      "has_warp_stone": "2025-07-03 00:51:22 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/brown_sharestone": {
+    "criteria": {
+      "has_warp_stone": "2025-07-03 00:51:22 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/red_portstone": {
+    "criteria": {
+      "has_warp_stone": "2025-07-03 00:51:22 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/gray_portstone": {
+    "criteria": {
+      "has_warp_stone": "2025-07-03 00:51:22 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/blue_sharestone": {
+    "criteria": {
+      "has_warp_stone": "2025-07-03 00:51:22 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/mossy_waystone": {
+    "criteria": {
+      "has_warp_stone": "2025-07-03 00:51:22 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/light_blue_portstone": {
+    "criteria": {
+      "has_warp_stone": "2025-07-03 00:51:22 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/magenta_portstone": {
+    "criteria": {
+      "has_warp_stone": "2025-07-03 00:51:22 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/green_portstone": {
+    "criteria": {
+      "has_warp_stone": "2025-07-03 00:51:22 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/orange_portstone": {
+    "criteria": {
+      "has_warp_stone": "2025-07-03 00:51:22 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/blackstone_waystone": {
+    "criteria": {
+      "has_warp_stone": "2025-07-03 00:51:22 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/pink_portstone": {
+    "criteria": {
+      "has_warp_stone": "2025-07-03 00:51:22 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/pink_sharestone": {
+    "criteria": {
+      "has_warp_stone": "2025-07-03 00:51:22 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/sandy_waystone": {
+    "criteria": {
+      "has_warp_stone": "2025-07-03 00:51:22 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/waystone": {
+    "criteria": {
+      "has_warp_stone": "2025-07-03 00:51:22 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/light_gray_portstone": {
+    "criteria": {
+      "has_warp_stone": "2025-07-03 00:51:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
+    "criteria": {
+      "has_warped_fungus": "2025-07-03 00:55:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-07-03 01:06:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-07-03 01:07:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-07-03 01:07:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-07-03 01:07:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-07-03 01:09:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-07-03 01:09:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2025-07-03 01:09:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2025-07-03 01:16:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2025-07-03 01:16:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2025-07-03 01:54:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-03 01:54:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-03 01:54:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-03 01:54:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-03 01:54:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-03 01:54:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-03 01:54:35 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
+    "criteria": {
+      "has_copper_backpack": "2025-07-03 02:19:59 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2025-07-03 02:20:46 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2025-07-03 02:21:09 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/smoking_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-07-03 02:22:03 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/everlasting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-07-03 02:22:03 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/deposit_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-07-03 02:22:03 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_starter_tier": {
+    "criteria": {
+      "has_upgrade_base": "2025-07-03 02:22:03 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/filter_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-07-03 02:22:03 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/smithing_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-07-03 02:22:03 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/feeding_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-07-03 02:22:03 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/compacting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-07-03 02:22:03 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/battery_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-07-03 02:22:03 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_1": {
+    "criteria": {
+      "has_upgrade_base": "2025-07-03 02:22:03 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/alchemy_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-07-03 02:22:03 +0000"
     },
     "done": true
   },
@@ -3778,45 +3899,9 @@
     },
     "done": true
   },
-  "waystones:recipes/decorations/purple_sharestone": {
-    "criteria": {
-      "has_warp_stone": "2025-07-03 00:51:22 +0000"
-    },
-    "done": true
-  },
-  "waystones:recipes/decorations/deepslate_waystone": {
-    "criteria": {
-      "has_warp_stone": "2025-07-03 00:51:22 +0000"
-    },
-    "done": true
-  },
-  "waystones:recipes/decorations/cyan_portstone": {
-    "criteria": {
-      "has_warp_stone": "2025-07-03 00:51:22 +0000"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/void_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-03 02:22:03 +0000"
-    },
-    "done": true
-  },
-  "waystones:recipes/decorations/gray_sharestone": {
-    "criteria": {
-      "has_warp_stone": "2025-07-03 00:51:22 +0000"
-    },
-    "done": true
-  },
-  "waystones:recipes/decorations/green_sharestone": {
-    "criteria": {
-      "has_warp_stone": "2025-07-03 00:51:22 +0000"
-    },
-    "done": true
-  },
-  "waystones:recipes/decorations/brown_sharestone": {
-    "criteria": {
-      "has_warp_stone": "2025-07-03 00:51:22 +0000"
     },
     "done": true
   },
@@ -3826,39 +3911,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/copper_ingot": {
-    "criteria": {
-      "has_copper_block": "2025-07-03 02:35:39 +0000"
-    },
-    "done": true
-  },
-  "waystones:recipes/decorations/red_portstone": {
-    "criteria": {
-      "has_warp_stone": "2025-07-03 00:51:22 +0000"
-    },
-    "done": true
-  },
-  "waystones:recipes/decorations/gray_portstone": {
-    "criteria": {
-      "has_warp_stone": "2025-07-03 00:51:22 +0000"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/refill_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-03 02:22:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/copper_bulb": {
-    "criteria": {
-      "has_copper_block": "2025-07-03 02:35:39 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_1_from_starter": {
-    "criteria": {
-      "has_stack_upgrade_starter_tier": "2025-07-03 02:37:55 +0000"
     },
     "done": true
   },
@@ -3868,27 +3923,9 @@
     },
     "done": true
   },
-  "waystones:recipes/decorations/blue_sharestone": {
-    "criteria": {
-      "has_warp_stone": "2025-07-03 00:51:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_stone_bricks": "2025-07-03 01:54:35 +0000"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/pickup_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-03 02:22:03 +0000"
-    },
-    "done": true
-  },
-  "waystones:recipes/decorations/mossy_waystone": {
-    "criteria": {
-      "has_warp_stone": "2025-07-03 00:51:22 +0000"
     },
     "done": true
   },
@@ -3898,99 +3935,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/copper_grate": {
-    "criteria": {
-      "has_copper_block": "2025-07-03 02:35:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_stone_bricks": "2025-07-03 01:54:35 +0000"
-    },
-    "done": true
-  },
-  "waystones:recipes/decorations/light_blue_portstone": {
-    "criteria": {
-      "has_warp_stone": "2025-07-03 00:51:22 +0000"
-    },
-    "done": true
-  },
-  "waystones:recipes/decorations/magenta_portstone": {
-    "criteria": {
-      "has_warp_stone": "2025-07-03 00:51:22 +0000"
-    },
-    "done": true
-  },
-  "waystones:recipes/decorations/green_portstone": {
-    "criteria": {
-      "has_warp_stone": "2025-07-03 00:51:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
-    "criteria": {
-      "has_iron_block": "2025-07-03 02:38:08 +0000"
-    },
-    "done": true
-  },
-  "waystones:recipes/decorations/orange_portstone": {
-    "criteria": {
-      "has_warp_stone": "2025-07-03 00:51:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/ender_eye": {
-    "criteria": {
-      "has_blaze_powder": "2025-07-03 01:09:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/follow_ender_eye": {
-    "criteria": {
-      "in_stronghold": "2025-07-03 01:54:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/blaze_powder": {
-    "criteria": {
-      "has_blaze_rod": "2025-07-03 01:07:29 +0000"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/pump_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-03 02:22:03 +0000"
     },
     "done": true
   },
-  "waystones:recipes/decorations/blackstone_waystone": {
-    "criteria": {
-      "has_warp_stone": "2025-07-03 00:51:22 +0000"
-    },
-    "done": true
-  },
-  "waystones:recipes/decorations/pink_portstone": {
-    "criteria": {
-      "has_warp_stone": "2025-07-03 00:51:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/warped_planks": {
-    "criteria": {
-      "has_logs": "2025-07-03 02:29:48 +0000"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/restock_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-03 02:22:03 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
-    "criteria": {
-      "has_iron_backpack": "2025-07-03 02:20:46 +0000"
     },
     "done": true
   },
@@ -4006,30 +3959,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
-    "criteria": {
-      "has_copper_block": "2025-07-03 02:35:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/fast_travel": {
-    "criteria": {
-      "travelled": "2025-07-03 00:50:13 +0000"
-    },
-    "done": true
-  },
-  "waystones:recipes/decorations/pink_sharestone": {
-    "criteria": {
-      "has_warp_stone": "2025-07-03 00:51:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/ender_chest": {
-    "criteria": {
-      "has_ender_eye": "2025-07-03 01:16:43 +0000"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/tank_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-03 02:22:03 +0000"
@@ -4042,51 +3971,177 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/anvil": {
+  "minecraft:recipes/building_blocks/warped_hyphae": {
     "criteria": {
-      "has_iron_block": "2025-07-03 02:38:08 +0000"
+      "has_log": "2025-07-03 02:29:48 +0000"
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
+  "minecraft:recipes/building_blocks/warped_planks": {
     "criteria": {
-      "has_copper_backpack": "2025-07-03 02:19:59 +0000"
+      "has_logs": "2025-07-03 02:29:48 +0000"
     },
     "done": true
   },
-  "waystones:recipes/decorations/sandy_waystone": {
+  "sophisticatedbackpacks:recipes/misc/magnet_upgrade": {
     "criteria": {
-      "has_warp_stone": "2025-07-03 00:51:22 +0000"
-    },
-    "done": true
-  },
-  "waystones:recipes/decorations/waystone": {
-    "criteria": {
-      "has_warp_stone": "2025-07-03 00:51:22 +0000"
-    },
-    "done": true
-  },
-  "waystones:recipes/decorations/light_gray_portstone": {
-    "criteria": {
-      "has_warp_stone": "2025-07-03 00:51:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/brewing_stand": {
-    "criteria": {
-      "has_blaze_rod": "2025-07-03 01:07:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
-    "criteria": {
-      "has_warped_fungus": "2025-07-03 00:55:37 +0000"
+      "has_pickup_upgrade": "2025-07-03 02:31:55 +0000"
     },
     "done": true
   },
   "sophisticatedbackpacks:recipes/misc/advanced_pickup_upgrade": {
     "criteria": {
       "has_pickup_upgrade": "2025-07-03 02:31:55 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/advanced_magnet_upgrade": {
+    "criteria": {
+      "has_advanced_pickup_upgrade": "2025-07-03 02:31:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-07-03 02:35:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_grate_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-07-03 02:35:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper": {
+    "criteria": {
+      "has_copper_block": "2025-07-03 02:35:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-07-03 02:35:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_copper_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-07-03 02:35:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
+    "criteria": {
+      "has_copper_block": "2025-07-03 02:35:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot": {
+    "criteria": {
+      "has_copper_block": "2025-07-03 02:35:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/copper_bulb": {
+    "criteria": {
+      "has_copper_block": "2025-07-03 02:35:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_grate": {
+    "criteria": {
+      "has_copper_block": "2025-07-03 02:35:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-07-03 02:35:39 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_1_from_starter": {
+    "criteria": {
+      "has_stack_upgrade_starter_tier": "2025-07-03 02:37:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-07-03 02:38:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-07-03 02:38:08 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_2": {
+    "criteria": {
+      "has_stack_upgrade_tier_1": "2025-07-03 02:38:32 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/advanced_jukebox_upgrade": {
+    "criteria": {
+      "has_jukebox_upgrade": "2025-07-03 02:44:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_glazed_terracotta": {
+    "criteria": {
+      "has_white_terracotta": "2025-07-03 09:07:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone": {
+    "criteria": {
+      "has_sand": "2025-07-03 09:11:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_glazed_terracotta": {
+    "criteria": {
+      "has_orange_terracotta": "2025-07-03 09:11:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_copper": {
+    "criteria": {
+      "has_raw_copper_block": "2025-07-03 09:11:24 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/auto_smelting_upgrade": {
+    "criteria": {
+      "has_smelting_upgrade": "2025-07-03 09:23:24 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/blasting_upgrade_from_smelting_upgrade": {
+    "criteria": {
+      "has_smelting_upgrade": "2025-07-03 09:23:24 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/smoking_upgrade_from_smelting_upgrade": {
+    "criteria": {
+      "has_smelting_upgrade": "2025-07-03 09:23:24 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/auto_smoking_upgrade_from_auto_smelting_upgrade": {
+    "criteria": {
+      "has_auto_smelting_upgrade": "2025-07-03 09:24:35 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/auto_blasting_upgrade_from_auto_smelting_upgrade": {
+    "criteria": {
+      "has_auto_smelting_upgrade": "2025-07-03 09:24:35 +0000"
     },
     "done": true
   },
