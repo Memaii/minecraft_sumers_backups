@@ -15,6 +15,7 @@
       "minecraft:deep_cold_ocean": "2025-07-02 13:44:10 +0000",
       "minecraft:desert": "2025-06-30 19:49:24 +0000",
       "minecraft:ocean": "2025-07-01 10:24:03 +0000",
+      "minecraft:jungle": "2025-07-03 13:47:59 +0000",
       "minecraft:birch_forest": "2025-07-02 14:39:26 +0000",
       "minecraft:windswept_hills": "2025-06-30 20:05:49 +0000",
       "minecraft:bamboo_jungle": "2025-06-30 19:39:17 +0000",
@@ -25,6 +26,7 @@
       "minecraft:badlands": "2025-07-02 14:28:02 +0000",
       "minecraft:flower_forest": "2025-06-30 20:01:19 +0000",
       "minecraft:beach": "2025-06-30 19:36:26 +0000",
+      "minecraft:dark_forest": "2025-07-03 13:47:56 +0000",
       "minecraft:mangrove_swamp": "2025-06-30 19:55:53 +0000",
       "minecraft:river": "2025-06-30 19:36:31 +0000",
       "minecraft:lukewarm_ocean": "2025-06-30 19:33:50 +0000",
@@ -1189,6 +1191,7 @@
       "minecraft:pillager": "2025-07-01 18:32:42 +0000",
       "minecraft:blaze": "2025-07-02 16:14:16 +0000",
       "minecraft:skeleton": "2025-07-01 13:59:08 +0000",
+      "minecraft:phantom": "2025-07-03 12:38:45 +0000",
       "minecraft:enderman": "2025-07-02 16:09:32 +0000",
       "minecraft:magma_cube": "2025-07-02 16:10:10 +0000",
       "minecraft:spider": "2025-07-01 14:13:59 +0000",
@@ -2967,6 +2970,342 @@
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2025-07-03 11:42:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_mangrove_wood": {
+    "criteria": {
+      "has_log": "2025-07-03 13:49:01 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/black_sharestone": {
+    "criteria": {
+      "has_warp_stone": "2025-07-03 12:58:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_planks": {
+    "criteria": {
+      "has_logs": "2025-07-03 13:48:22 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/magenta_sharestone": {
+    "criteria": {
+      "has_warp_stone": "2025-07-03 12:58:38 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/purple_portstone": {
+    "criteria": {
+      "has_warp_stone": "2025-07-03 12:58:38 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/light_blue_sharestone": {
+    "criteria": {
+      "has_warp_stone": "2025-07-03 12:58:38 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/light_gray_sharestone": {
+    "criteria": {
+      "has_warp_stone": "2025-07-03 12:58:38 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/brown_portstone": {
+    "criteria": {
+      "has_warp_stone": "2025-07-03 12:58:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-03 13:48:40 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/lime_sharestone": {
+    "criteria": {
+      "has_warp_stone": "2025-07-03 12:58:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_the_recipe": "2025-07-03 12:12:40 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/orange_sharestone": {
+    "criteria": {
+      "has_warp_stone": "2025-07-03 12:58:38 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/black_portstone": {
+    "criteria": {
+      "has_warp_stone": "2025-07-03 12:58:38 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/yellow_portstone": {
+    "criteria": {
+      "has_warp_stone": "2025-07-03 12:58:38 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/yellow_sharestone": {
+    "criteria": {
+      "has_warp_stone": "2025-07-03 12:58:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_door": {
+    "criteria": {
+      "has_planks": "2025-07-03 13:48:40 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/lime_portstone": {
+    "criteria": {
+      "has_warp_stone": "2025-07-03 12:58:38 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/blue_portstone": {
+    "criteria": {
+      "has_warp_stone": "2025-07-03 12:58:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mangrove_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-07-03 13:49:01 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/white_portstone": {
+    "criteria": {
+      "has_warp_stone": "2025-07-03 12:58:38 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/end_stone_waystone": {
+    "criteria": {
+      "has_warp_stone": "2025-07-03 12:58:38 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/red_sharestone": {
+    "criteria": {
+      "has_warp_stone": "2025-07-03 12:58:38 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/cyan_sharestone": {
+    "criteria": {
+      "has_warp_stone": "2025-07-03 12:58:38 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/purple_sharestone": {
+    "criteria": {
+      "has_warp_stone": "2025-07-03 12:58:38 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/deepslate_waystone": {
+    "criteria": {
+      "has_warp_stone": "2025-07-03 12:58:38 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/cyan_portstone": {
+    "criteria": {
+      "has_warp_stone": "2025-07-03 12:58:38 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/gray_sharestone": {
+    "criteria": {
+      "has_warp_stone": "2025-07-03 12:58:38 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/green_sharestone": {
+    "criteria": {
+      "has_warp_stone": "2025-07-03 12:58:38 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/brown_sharestone": {
+    "criteria": {
+      "has_warp_stone": "2025-07-03 12:58:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-07-03 13:48:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_carpet": {
+    "criteria": {
+      "has_red_wool": "2025-07-03 13:56:59 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/red_portstone": {
+    "criteria": {
+      "has_warp_stone": "2025-07-03 12:58:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_banner": {
+    "criteria": {
+      "has_red_wool": "2025-07-03 13:56:59 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/gray_portstone": {
+    "criteria": {
+      "has_warp_stone": "2025-07-03 12:58:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mangrove_fence": {
+    "criteria": {
+      "has_planks": "2025-07-03 13:48:40 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/blue_sharestone": {
+    "criteria": {
+      "has_warp_stone": "2025-07-03 12:58:38 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/mossy_waystone": {
+    "criteria": {
+      "has_warp_stone": "2025-07-03 12:58:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-03 13:48:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-03 13:48:40 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/light_blue_portstone": {
+    "criteria": {
+      "has_warp_stone": "2025-07-03 12:58:38 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/magenta_portstone": {
+    "criteria": {
+      "has_warp_stone": "2025-07-03 12:58:38 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/green_portstone": {
+    "criteria": {
+      "has_warp_stone": "2025-07-03 12:58:38 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/orange_portstone": {
+    "criteria": {
+      "has_warp_stone": "2025-07-03 12:58:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/muddy_mangrove_roots": {
+    "criteria": {
+      "has_mangrove_roots": "2025-07-03 13:48:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mangrove_sign": {
+    "criteria": {
+      "has_planks": "2025-07-03 13:48:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_wood": {
+    "criteria": {
+      "has_log": "2025-07-03 13:48:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_button": {
+    "criteria": {
+      "has_planks": "2025-07-03 13:48:40 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/blackstone_waystone": {
+    "criteria": {
+      "has_warp_stone": "2025-07-03 12:58:38 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/pink_portstone": {
+    "criteria": {
+      "has_warp_stone": "2025-07-03 12:58:38 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/pink_sharestone": {
+    "criteria": {
+      "has_warp_stone": "2025-07-03 12:58:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_slab": {
+    "criteria": {
+      "has_planks": "2025-07-03 13:48:40 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/sandy_waystone": {
+    "criteria": {
+      "has_warp_stone": "2025-07-03 12:58:38 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/waystone": {
+    "criteria": {
+      "has_warp_stone": "2025-07-03 12:58:38 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/light_gray_portstone": {
+    "criteria": {
+      "has_warp_stone": "2025-07-03 12:58:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_bed": {
+    "criteria": {
+      "has_red_wool": "2025-07-03 13:56:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-07-03 13:42:14 +0000"
     },
     "done": true
   },

@@ -856,6 +856,7 @@
     "criteria": {
       "minecraft:pillager": "2025-07-02 13:20:57 +0000",
       "minecraft:skeleton": "2025-07-02 12:57:03 +0000",
+      "minecraft:enderman": "2025-07-03 12:35:54 +0000",
       "minecraft:spider": "2025-07-02 13:19:45 +0000",
       "minecraft:wither_skeleton": "2025-07-02 16:05:26 +0000",
       "minecraft:zombie": "2025-07-02 12:21:13 +0000",
@@ -2655,6 +2656,336 @@
   "minecraft:recipes/decorations/green_bed": {
     "criteria": {
       "has_green_wool": "2025-07-02 21:22:29 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/black_sharestone": {
+    "criteria": {
+      "has_warp_stone": "2025-07-03 12:59:10 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/magenta_sharestone": {
+    "criteria": {
+      "has_warp_stone": "2025-07-03 12:59:10 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/warp_scroll": {
+    "criteria": {
+      "has_ender_pearl": "2025-07-03 12:35:58 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/purple_portstone": {
+    "criteria": {
+      "has_warp_stone": "2025-07-03 12:59:10 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/light_blue_sharestone": {
+    "criteria": {
+      "has_warp_stone": "2025-07-03 12:59:10 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/light_gray_sharestone": {
+    "criteria": {
+      "has_warp_stone": "2025-07-03 12:59:10 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/brown_portstone": {
+    "criteria": {
+      "has_warp_stone": "2025-07-03 12:59:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-07-03 12:40:08 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/lime_sharestone": {
+    "criteria": {
+      "has_warp_stone": "2025-07-03 12:59:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-07-03 12:00:49 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/orange_sharestone": {
+    "criteria": {
+      "has_warp_stone": "2025-07-03 12:59:10 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/black_portstone": {
+    "criteria": {
+      "has_warp_stone": "2025-07-03 12:59:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-07-03 12:58:23 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/yellow_portstone": {
+    "criteria": {
+      "has_warp_stone": "2025-07-03 12:59:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-07-03 12:40:08 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/yellow_sharestone": {
+    "criteria": {
+      "has_warp_stone": "2025-07-03 12:59:10 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/lime_portstone": {
+    "criteria": {
+      "has_warp_stone": "2025-07-03 12:59:10 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/blue_portstone": {
+    "criteria": {
+      "has_warp_stone": "2025-07-03 12:59:10 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/white_portstone": {
+    "criteria": {
+      "has_warp_stone": "2025-07-03 12:59:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-07-03 12:16:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_hyphae": {
+    "criteria": {
+      "has_log": "2025-07-03 12:14:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-07-03 12:16:13 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/warp_stone": {
+    "criteria": {
+      "has_ender_pearl": "2025-07-03 12:35:58 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/warp_dust": {
+    "criteria": {
+      "has_ender_pearl": "2025-07-03 12:35:58 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/end_stone_waystone": {
+    "criteria": {
+      "has_warp_stone": "2025-07-03 12:59:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_shell": "2025-07-03 12:18:21 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/red_sharestone": {
+    "criteria": {
+      "has_warp_stone": "2025-07-03 12:59:10 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/cyan_sharestone": {
+    "criteria": {
+      "has_warp_stone": "2025-07-03 12:59:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-07-03 12:16:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-07-03 12:16:13 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/purple_sharestone": {
+    "criteria": {
+      "has_warp_stone": "2025-07-03 12:59:10 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/deepslate_waystone": {
+    "criteria": {
+      "has_warp_stone": "2025-07-03 12:59:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-07-03 12:16:13 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/cyan_portstone": {
+    "criteria": {
+      "has_warp_stone": "2025-07-03 12:59:10 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/gray_sharestone": {
+    "criteria": {
+      "has_warp_stone": "2025-07-03 12:59:10 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/green_sharestone": {
+    "criteria": {
+      "has_warp_stone": "2025-07-03 12:59:10 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/brown_sharestone": {
+    "criteria": {
+      "has_warp_stone": "2025-07-03 12:59:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-07-03 12:16:13 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/red_portstone": {
+    "criteria": {
+      "has_warp_stone": "2025-07-03 12:59:10 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/gray_portstone": {
+    "criteria": {
+      "has_warp_stone": "2025-07-03 12:59:10 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/blue_sharestone": {
+    "criteria": {
+      "has_warp_stone": "2025-07-03 12:59:10 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/mossy_waystone": {
+    "criteria": {
+      "has_warp_stone": "2025-07-03 12:59:10 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/light_blue_portstone": {
+    "criteria": {
+      "has_warp_stone": "2025-07-03 12:59:10 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/magenta_portstone": {
+    "criteria": {
+      "has_warp_stone": "2025-07-03 12:59:10 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/green_portstone": {
+    "criteria": {
+      "has_warp_stone": "2025-07-03 12:59:10 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/orange_portstone": {
+    "criteria": {
+      "has_warp_stone": "2025-07-03 12:59:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-07-03 12:00:43 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/blackstone_waystone": {
+    "criteria": {
+      "has_warp_stone": "2025-07-03 12:59:10 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/pink_portstone": {
+    "criteria": {
+      "has_warp_stone": "2025-07-03 12:59:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_planks": {
+    "criteria": {
+      "has_logs": "2025-07-03 12:14:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-07-03 12:43:36 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/pink_sharestone": {
+    "criteria": {
+      "has_warp_stone": "2025-07-03 12:59:10 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/sandy_waystone": {
+    "criteria": {
+      "has_warp_stone": "2025-07-03 12:59:10 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/waystone": {
+    "criteria": {
+      "has_warp_stone": "2025-07-03 12:59:10 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/light_gray_portstone": {
+    "criteria": {
+      "has_warp_stone": "2025-07-03 12:59:10 +0000"
     },
     "done": true
   },
