@@ -9,11 +9,14 @@
     "criteria": {
       "minecraft:cold_ocean": "2025-07-01 10:25:28 +0000",
       "minecraft:snowy_slopes": "2025-07-01 14:44:41 +0000",
+      "minecraft:old_growth_pine_taiga": "2025-07-03 15:19:27 +0000",
       "minecraft:forest": "2025-06-30 20:05:00 +0000",
       "minecraft:taiga": "2025-07-02 15:57:48 +0000",
       "minecraft:deep_ocean": "2025-07-01 10:24:10 +0000",
       "minecraft:deep_cold_ocean": "2025-07-02 13:44:10 +0000",
+      "minecraft:frozen_ocean": "2025-07-03 15:26:32 +0000",
       "minecraft:desert": "2025-06-30 19:49:24 +0000",
+      "minecraft:frozen_river": "2025-07-03 15:26:38 +0000",
       "minecraft:ocean": "2025-07-01 10:24:03 +0000",
       "minecraft:jungle": "2025-07-03 13:47:59 +0000",
       "minecraft:birch_forest": "2025-07-02 14:39:26 +0000",
@@ -31,7 +34,9 @@
       "minecraft:river": "2025-06-30 19:36:31 +0000",
       "minecraft:lukewarm_ocean": "2025-06-30 19:33:50 +0000",
       "minecraft:stony_shore": "2025-07-01 10:29:43 +0000",
+      "minecraft:snowy_plains": "2025-07-03 15:26:50 +0000",
       "minecraft:dripstone_caves": "2025-07-01 20:05:20 +0000",
+      "minecraft:snowy_taiga": "2025-07-03 15:26:53 +0000",
       "minecraft:deep_dark": "2025-07-01 20:08:37 +0000",
       "minecraft:swamp": "2025-06-30 20:00:12 +0000",
       "minecraft:grove": "2025-07-01 14:44:48 +0000",
@@ -1192,12 +1197,14 @@
       "minecraft:blaze": "2025-07-02 16:14:16 +0000",
       "minecraft:skeleton": "2025-07-01 13:59:08 +0000",
       "minecraft:phantom": "2025-07-03 12:38:45 +0000",
+      "minecraft:witch": "2025-07-03 15:42:18 +0000",
+      "minecraft:wither_skeleton": "2025-07-02 16:13:42 +0000",
       "minecraft:enderman": "2025-07-02 16:09:32 +0000",
       "minecraft:magma_cube": "2025-07-02 16:10:10 +0000",
       "minecraft:spider": "2025-07-01 14:13:59 +0000",
-      "minecraft:wither_skeleton": "2025-07-02 16:13:42 +0000",
       "minecraft:zombie": "2025-07-01 10:31:31 +0000",
       "minecraft:creeper": "2025-07-02 14:35:29 +0000",
+      "minecraft:drowned": "2025-07-03 14:18:16 +0000",
       "minecraft:zombie_villager": "2025-07-01 20:05:50 +0000"
     },
     "done": false
@@ -2973,21 +2980,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stripped_mangrove_wood": {
+  "minecraft:recipes/food/cooked_salmon": {
     "criteria": {
-      "has_log": "2025-07-03 13:49:01 +0000"
+      "has_the_recipe": "2025-07-03 12:12:40 +0000"
     },
     "done": true
   },
   "waystones:recipes/decorations/black_sharestone": {
     "criteria": {
       "has_warp_stone": "2025-07-03 12:58:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mangrove_planks": {
-    "criteria": {
-      "has_logs": "2025-07-03 13:48:22 +0000"
     },
     "done": true
   },
@@ -3021,21 +3022,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mangrove_stairs": {
-    "criteria": {
-      "has_planks": "2025-07-03 13:48:40 +0000"
-    },
-    "done": true
-  },
   "waystones:recipes/decorations/lime_sharestone": {
     "criteria": {
       "has_warp_stone": "2025-07-03 12:58:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_salmon": {
-    "criteria": {
-      "has_the_recipe": "2025-07-03 12:12:40 +0000"
     },
     "done": true
   },
@@ -3063,12 +3052,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/mangrove_door": {
-    "criteria": {
-      "has_planks": "2025-07-03 13:48:40 +0000"
-    },
-    "done": true
-  },
   "waystones:recipes/decorations/lime_portstone": {
     "criteria": {
       "has_warp_stone": "2025-07-03 12:58:38 +0000"
@@ -3078,12 +3061,6 @@
   "waystones:recipes/decorations/blue_portstone": {
     "criteria": {
       "has_warp_stone": "2025-07-03 12:58:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/mangrove_hanging_sign": {
-    "criteria": {
-      "has_stripped_logs": "2025-07-03 13:49:01 +0000"
     },
     "done": true
   },
@@ -3147,39 +3124,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/mangrove_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-07-03 13:48:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/red_carpet": {
-    "criteria": {
-      "has_red_wool": "2025-07-03 13:56:59 +0000"
-    },
-    "done": true
-  },
   "waystones:recipes/decorations/red_portstone": {
     "criteria": {
       "has_warp_stone": "2025-07-03 12:58:38 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/red_banner": {
-    "criteria": {
-      "has_red_wool": "2025-07-03 13:56:59 +0000"
-    },
-    "done": true
-  },
   "waystones:recipes/decorations/gray_portstone": {
     "criteria": {
       "has_warp_stone": "2025-07-03 12:58:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/mangrove_fence": {
-    "criteria": {
-      "has_planks": "2025-07-03 13:48:40 +0000"
     },
     "done": true
   },
@@ -3192,18 +3145,6 @@
   "waystones:recipes/decorations/mossy_waystone": {
     "criteria": {
       "has_warp_stone": "2025-07-03 12:58:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/mangrove_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-07-03 13:48:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/mangrove_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-07-03 13:48:40 +0000"
     },
     "done": true
   },
@@ -3231,30 +3172,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/muddy_mangrove_roots": {
-    "criteria": {
-      "has_mangrove_roots": "2025-07-03 13:48:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/mangrove_sign": {
-    "criteria": {
-      "has_planks": "2025-07-03 13:48:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mangrove_wood": {
-    "criteria": {
-      "has_log": "2025-07-03 13:48:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/mangrove_button": {
-    "criteria": {
-      "has_planks": "2025-07-03 13:48:40 +0000"
-    },
-    "done": true
-  },
   "waystones:recipes/decorations/blackstone_waystone": {
     "criteria": {
       "has_warp_stone": "2025-07-03 12:58:38 +0000"
@@ -3270,12 +3187,6 @@
   "waystones:recipes/decorations/pink_sharestone": {
     "criteria": {
       "has_warp_stone": "2025-07-03 12:58:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mangrove_slab": {
-    "criteria": {
-      "has_planks": "2025-07-03 13:48:40 +0000"
     },
     "done": true
   },
@@ -3297,15 +3208,219 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-07-03 13:42:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/muddy_mangrove_roots": {
+    "criteria": {
+      "has_mangrove_roots": "2025-07-03 13:48:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_planks": {
+    "criteria": {
+      "has_logs": "2025-07-03 13:48:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_wood": {
+    "criteria": {
+      "has_log": "2025-07-03 13:48:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-03 13:48:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_door": {
+    "criteria": {
+      "has_planks": "2025-07-03 13:48:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-07-03 13:48:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mangrove_fence": {
+    "criteria": {
+      "has_planks": "2025-07-03 13:48:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-03 13:48:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-03 13:48:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mangrove_sign": {
+    "criteria": {
+      "has_planks": "2025-07-03 13:48:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_button": {
+    "criteria": {
+      "has_planks": "2025-07-03 13:48:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_slab": {
+    "criteria": {
+      "has_planks": "2025-07-03 13:48:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_mangrove_wood": {
+    "criteria": {
+      "has_log": "2025-07-03 13:49:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mangrove_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-07-03 13:49:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_carpet": {
+    "criteria": {
+      "has_red_wool": "2025-07-03 13:56:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_banner": {
+    "criteria": {
+      "has_red_wool": "2025-07-03 13:56:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_bed": {
     "criteria": {
       "has_red_wool": "2025-07-03 13:56:59 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+  "minecraft:recipes/tools/golden_axe": {
     "criteria": {
-      "has_iron_nugget": "2025-07-03 13:42:14 +0000"
+      "has_gold_ingot": "2025-07-03 14:32:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-03 14:32:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-03 14:32:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-03 14:32:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-03 14:32:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-03 14:32:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-03 14:32:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-03 14:32:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-03 14:32:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-03 14:32:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-03 14:32:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-03 14:32:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-03 14:32:35 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2025-07-03 14:32:40 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/mossy_waystone_from_vines": {
+    "criteria": {
+      "has_waystone": "2025-07-03 15:14:11 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/mossy_waystone_from_moss_blocks": {
+    "criteria": {
+      "has_waystone": "2025-07-03 15:14:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_the_recipe": "2025-07-03 15:45:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2025-07-03 15:46:13 +0000"
     },
     "done": true
   },
