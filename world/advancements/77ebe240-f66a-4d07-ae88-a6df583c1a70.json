@@ -307,6 +307,7 @@
     "criteria": {
       "minecraft:blaze": "2025-07-02 16:07:38 +0000",
       "minecraft:skeleton": "2025-06-30 20:28:47 +0000",
+      "minecraft:witch": "2025-07-03 11:45:31 +0000",
       "minecraft:wither_skeleton": "2025-07-02 16:07:07 +0000",
       "minecraft:husk": "2025-06-30 19:50:43 +0000",
       "minecraft:bogged": "2025-07-01 12:42:10 +0000",
@@ -4790,6 +4791,36 @@
   "minecraft:recipes/redstone/crafter": {
     "criteria": {
       "has_dropper": "2025-07-03 09:52:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-07-03 10:50:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-07-03 10:18:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-07-03 11:49:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate_slab": "2025-07-03 10:30:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-07-03 10:50:54 +0000"
     },
     "done": true
   },
