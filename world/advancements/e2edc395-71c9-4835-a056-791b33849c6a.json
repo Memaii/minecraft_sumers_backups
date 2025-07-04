@@ -860,7 +860,8 @@
       "minecraft:spider": "2025-07-02 13:19:45 +0000",
       "minecraft:wither_skeleton": "2025-07-02 16:05:26 +0000",
       "minecraft:zombie": "2025-07-02 12:21:13 +0000",
-      "minecraft:drowned": "2025-07-02 18:30:58 +0000"
+      "minecraft:drowned": "2025-07-02 18:30:58 +0000",
+      "minecraft:zombie_villager": "2025-07-04 10:13:27 +0000"
     },
     "done": false
   },
@@ -2986,6 +2987,42 @@
   "waystones:recipes/decorations/light_gray_portstone": {
     "criteria": {
       "has_warp_stone": "2025-07-03 12:59:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs": {
+    "criteria": {
+      "has_polished_diorite": "2025-07-04 10:34:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-07-04 10:34:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab": {
+    "criteria": {
+      "has_polished_diorite": "2025-07-04 10:34:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-07-04 10:34:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2025-07-04 10:34:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2025-07-04 10:34:02 +0000"
     },
     "done": true
   },

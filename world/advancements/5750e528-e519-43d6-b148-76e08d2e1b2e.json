@@ -145,15 +145,16 @@
       "cooked_porkchop": "2025-06-30 19:54:03 +0000",
       "chicken": "2025-06-30 19:29:24 +0000",
       "bread": "2025-07-03 00:40:18 +0000",
-      "cooked_rabbit": "2025-07-03 21:40:43 +0000",
-      "cooked_chicken": "2025-06-30 19:29:41 +0000",
+      "golden_apple": "2025-07-04 10:31:51 +0000",
       "rotten_flesh": "2025-07-03 21:31:12 +0000",
       "cooked_mutton": "2025-06-30 19:40:28 +0000",
-      "potato": "2025-06-30 22:19:34 +0000",
       "cooked_beef": "2025-06-30 22:44:10 +0000",
-      "cod": "2025-07-03 08:53:48 +0000",
       "beef": "2025-06-30 22:31:49 +0000",
-      "porkchop": "2025-07-03 17:32:55 +0000"
+      "porkchop": "2025-07-03 17:32:55 +0000",
+      "cooked_rabbit": "2025-07-03 21:40:43 +0000",
+      "cooked_chicken": "2025-06-30 19:29:41 +0000",
+      "potato": "2025-06-30 22:19:34 +0000",
+      "cod": "2025-07-03 08:53:48 +0000"
     },
     "done": false
   },
@@ -914,6 +915,7 @@
       "minecraft:skeleton": "2025-06-30 20:06:25 +0000",
       "minecraft:witch": "2025-07-02 10:59:21 +0000",
       "minecraft:wither_skeleton": "2025-07-03 01:06:52 +0000",
+      "minecraft:husk": "2025-07-04 10:05:48 +0000",
       "minecraft:bogged": "2025-07-02 21:03:44 +0000",
       "minecraft:ghast": "2025-07-02 17:31:39 +0000",
       "minecraft:hoglin": "2025-07-02 17:41:00 +0000",
@@ -4563,6 +4565,36 @@
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2025-07-03 22:00:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_stairs_from_waxed_oxidized_cut_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_oxidized_cut_copper": "2025-07-04 10:23:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_slab_from_waxed_oxidized_cut_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_oxidized_cut_copper": "2025-07-04 10:23:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_chiseled_copper_from_waxed_oxidized_cut_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_oxidized_cut_copper": "2025-07-04 10:23:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_stairs": {
+    "criteria": {
+      "has_waxed_oxidized_cut_copper": "2025-07-04 10:23:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_slab": {
+    "criteria": {
+      "has_waxed_oxidized_cut_copper": "2025-07-04 10:23:46 +0000"
     },
     "done": true
   },

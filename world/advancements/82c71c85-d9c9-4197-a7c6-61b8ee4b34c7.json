@@ -117,6 +117,7 @@
       "cooked_porkchop": "2025-06-30 20:26:21 +0000",
       "chicken": "2025-06-30 19:29:31 +0000",
       "bread": "2025-06-30 22:00:17 +0000",
+      "golden_apple": "2025-07-04 10:15:15 +0000",
       "rotten_flesh": "2025-07-02 12:35:50 +0000",
       "cooked_mutton": "2025-06-30 19:45:42 +0000",
       "glow_berries": "2025-07-02 13:14:37 +0000",
@@ -135,6 +136,8 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-06-30 19:49:56 +0000",
+      "minecraft:husk": "2025-07-04 10:05:44 +0000",
+      "minecraft:bogged": "2025-07-04 10:01:25 +0000",
       "minecraft:vindicator": "2025-07-01 15:50:51 +0000",
       "minecraft:breeze": "2025-07-02 12:14:06 +0000",
       "minecraft:silverfish": "2025-07-02 12:34:48 +0000",
@@ -3898,6 +3901,54 @@
   "minecraft:recipes/building_blocks/stripped_oak_wood": {
     "criteria": {
       "has_log": "2025-07-03 20:04:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-07-04 10:34:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_stairs_from_waxed_oxidized_cut_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_oxidized_cut_copper": "2025-07-04 10:03:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_slab_from_waxed_oxidized_cut_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_oxidized_cut_copper": "2025-07-04 10:03:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_red_mushroom": "2025-07-04 10:01:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_chiseled_copper_from_waxed_oxidized_cut_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_oxidized_cut_copper": "2025-07-04 10:03:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_stairs": {
+    "criteria": {
+      "has_waxed_oxidized_cut_copper": "2025-07-04 10:03:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_slab": {
+    "criteria": {
+      "has_waxed_oxidized_cut_copper": "2025-07-04 10:03:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_red_mushroom": "2025-07-04 10:01:38 +0000"
     },
     "done": true
   },
