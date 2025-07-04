@@ -122,3 +122,70 @@
 [04Jul2025 05:57:54.024] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Blackliss is 5750e528-e519-43d6-b148-76e08d2e1b2e
 [04Jul2025 05:57:54.668] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Blackliss[/192.168.1.254:54407] logged in with entity id 1437 at (1961.7813198439314, 212.875, 148.41703832913126)
 [04Jul2025 05:57:54.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blackliss joined the game
+[04Jul2025 06:08:50.258] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! -15.9723763122513,-124.5,33.78919973882378
+[04Jul2025 06:08:50.270] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! -15.9723763122513,-124.5,33.78919973882378
+[04Jul2025 06:08:50.278] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! -15.9723763122513,-124.5,33.78919973882378
+[04Jul2025 06:08:52.787] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 26.0,149.5625,2.0
+[04Jul2025 06:38:18.685] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! -25.922957127032078,-145.5,-1.749799244299851
+[04Jul2025 06:39:14.354] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 56.63470148050624,-140.0,75.35786745222964
+[04Jul2025 06:39:14.362] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 56.63470148050624,-140.0,75.35786745222964
+[04Jul2025 06:39:14.371] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 56.63470148050624,-140.0,75.35786745222964
+[04Jul2025 06:39:14.380] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 56.63470148050624,-140.0,75.35786745222964
+[04Jul2025 06:39:50.306] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved wrongly!
+[04Jul2025 06:39:50.314] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved wrongly!
+[04Jul2025 06:39:50.323] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved wrongly!
+[04Jul2025 06:39:50.331] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved wrongly!
+[04Jul2025 06:39:50.339] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved wrongly!
+[04Jul2025 06:41:29.477] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved wrongly!
+[04Jul2025 06:41:29.490] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved wrongly!
+[04Jul2025 06:41:52.558] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! -95.44739472076753,-140.5,169.19999998807907
+[04Jul2025 06:41:52.566] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! -95.44739472076753,-140.5,169.19999998807907
+[04Jul2025 06:41:52.574] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! -95.44739472076753,-140.5,169.19999998807907
+[04Jul2025 06:41:52.583] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! -95.44739472076753,-140.5,169.19999998807907
+[04Jul2025 06:42:12.210] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 142.32842877739472,139.5,-155.77524767959005
+[04Jul2025 06:42:12.221] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 142.32842877739472,139.5,-155.77524767959005
+[04Jul2025 06:42:12.229] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 142.32842877739472,139.5,-155.77524767959005
+[04Jul2025 06:42:12.237] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 142.32842877739472,139.5,-155.77524767959005
+[04Jul2025 06:42:41.106] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! -32.11193817874937,7.5625,-6.474045331610284
+[04Jul2025 06:42:41.118] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! -32.11193817874937,7.5625,-6.474045331610284
+[04Jul2025 06:42:41.126] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! -32.11193817874937,7.5625,-6.474045331610284
+[04Jul2025 06:42:41.135] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! -32.11193817874937,7.5625,-6.474045331610284
+[04Jul2025 06:42:43.521] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 24.0,-149.1875,2.0
+[04Jul2025 06:42:43.529] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 24.0,-149.1875,2.0
+[04Jul2025 06:43:56.386] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 23.005689538253364,-151.0,2.6026399382403156
+[04Jul2025 06:45:22.843] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved wrongly!
+[04Jul2025 06:46:16.608] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 97.05353933680408,-138.4375,-222.03650312552583
+[04Jul2025 06:46:16.617] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 97.05353933680408,-138.4375,-222.03650312552583
+[04Jul2025 06:46:16.626] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 97.05353933680408,-138.4375,-222.03650312552583
+[04Jul2025 06:46:16.634] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 97.05353933680408,-138.4375,-222.03650312552583
+[04Jul2025 06:46:53.122] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! -117.1501803725971,149.9125,303.8636617910974
+[04Jul2025 06:46:53.130] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! -117.1501803725971,149.9125,303.8636617910974
+[04Jul2025 06:48:44.702] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 204.36356912476413,-145.5,-243.19999998807907
+[04Jul2025 06:48:44.710] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 204.36356912476413,-145.5,-243.19999998807907
+[04Jul2025 06:48:44.719] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 204.36356912476413,-145.5,-243.19999998807907
+[04Jul2025 06:48:44.727] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 204.36356912476413,-145.5,-243.19999998807907
+[04Jul2025 06:48:44.735] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 204.36356912476413,-145.5,-243.19999998807907
+[04Jul2025 06:49:00.859] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! -191.33278921810597,141.5,273.28326100032126
+[04Jul2025 06:49:00.867] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! -191.33278921810597,141.5,273.28326100032126
+[04Jul2025 06:49:00.876] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! -191.33278921810597,141.5,273.28326100032126
+[04Jul2025 06:49:00.883] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! -191.33278921810597,141.5,273.28326100032126
+[04Jul2025 06:54:06.105] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 28.825579347964776,149.5625,0.9250300412059289
+[04Jul2025 06:54:06.115] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 28.825579347964776,149.5625,0.9250300412059289
+[04Jul2025 06:54:06.126] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 28.825579347964776,149.5625,0.9250300412059289
+[04Jul2025 06:54:06.133] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 28.825579347964776,149.5625,0.9250300412059289
+[04Jul2025 06:58:04.235] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! -24.681910714167543,-145.5,-3.2585407545090277
+[04Jul2025 07:06:40.956] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 49.9512759566137,-2.5,4.189277997747297
+[04Jul2025 07:06:40.964] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 49.9512759566137,-2.5,4.189277997747297
+[04Jul2025 07:06:40.981] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 49.9512759566137,-2.5,4.189277997747297
+[04Jul2025 07:11:43.576] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Fullavatar is fd102774-21c2-4b99-9396-f454ead0849c
+[04Jul2025 07:11:44.105] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Fullavatar[/93.19.138.72:60182] logged in with entity id 12374 at (567.8615665464355, 63.0, 13664.958920599162)
+[04Jul2025 07:11:44.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fullavatar joined the game
+[04Jul2025 07:11:59.565] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! -24.101694617817202,-145.5,-3.1839294440568437
+[04Jul2025 07:11:59.574] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! -24.101694617817202,-145.5,-3.1839294440568437
+[04Jul2025 07:11:59.582] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! -24.101694617817202,-145.5,-3.1839294440568437
+[04Jul2025 07:12:05.657] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 25.68807260091603,149.5625,0.1395055702409138
+[04Jul2025 07:12:05.665] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 25.68807260091603,149.5625,0.1395055702409138
+[04Jul2025 07:12:05.674] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 25.68807260091603,149.5625,0.1395055702409138
+[04Jul2025 07:12:05.682] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 25.68807260091603,149.5625,0.1395055702409138
+[04Jul2025 07:15:02.098] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fullavatar lost connection: Disconnected
+[04Jul2025 07:15:02.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fullavatar left the game
