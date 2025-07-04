@@ -2873,6 +2873,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:cat": "2025-07-03 22:02:14 +0000",
       "minecraft:chicken": "2025-07-02 10:32:49 +0000"
     },
     "done": false
@@ -4527,12 +4528,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/conduit": {
-    "criteria": {
-      "has_nautilus_shell": "2025-07-03 21:20:38 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/cooked_salmon_from_smoking": {
     "criteria": {
       "has_salmon": "2025-07-03 21:17:10 +0000"
@@ -4545,9 +4540,29 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_shell": "2025-07-03 21:20:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/mojang_banner_pattern": {
     "criteria": {
       "has_enchanted_golden_apple": "2025-07-03 21:36:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/complete_catalogue": {
+    "criteria": {
+      "minecraft:tabby": "2025-07-03 22:14:10 +0000",
+      "minecraft:persian": "2025-07-03 22:00:47 +0000",
+      "minecraft:ragdoll": "2025-07-03 22:00:13 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-07-03 22:00:13 +0000"
     },
     "done": true
   },
