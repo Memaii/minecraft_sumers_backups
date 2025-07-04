@@ -4592,6 +4592,18 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2025-07-04 19:08:04 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/xp_pump_upgrade": {
+    "criteria": {
+      "has_advanced_pump_upgrade": "2025-07-04 19:04:38 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/advanced_tool_swapper_upgrade": {
     "criteria": {
       "has_tool_swapper_upgrade": "2025-07-04 15:57:13 +0000"
@@ -4604,9 +4616,21 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/advanced_pump_upgrade": {
+    "criteria": {
+      "has_pump_upgrade": "2025-07-04 19:04:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_slab": {
     "criteria": {
       "has_waxed_oxidized_cut_copper": "2025-07-04 10:23:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate_slab": "2025-07-04 18:18:32 +0000"
     },
     "done": true
   },
