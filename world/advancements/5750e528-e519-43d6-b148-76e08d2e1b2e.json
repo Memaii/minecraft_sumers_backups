@@ -913,27 +913,28 @@
       "minecraft:pillager": "2025-06-30 22:53:03 +0000",
       "minecraft:blaze": "2025-07-03 01:07:16 +0000",
       "minecraft:skeleton": "2025-06-30 20:06:25 +0000",
-      "minecraft:witch": "2025-07-02 10:59:21 +0000",
-      "minecraft:wither_skeleton": "2025-07-03 01:06:52 +0000",
-      "minecraft:husk": "2025-07-04 10:05:48 +0000",
       "minecraft:bogged": "2025-07-02 21:03:44 +0000",
       "minecraft:ghast": "2025-07-02 17:31:39 +0000",
       "minecraft:hoglin": "2025-07-02 17:41:00 +0000",
-      "minecraft:cave_spider": "2025-06-30 23:07:54 +0000",
       "minecraft:vindicator": "2025-07-01 15:47:46 +0000",
       "minecraft:breeze": "2025-07-02 12:08:31 +0000",
+      "minecraft:magma_cube": "2025-07-03 01:07:20 +0000",
+      "minecraft:spider": "2025-06-30 20:25:37 +0000",
+      "minecraft:creeper": "2025-07-01 18:42:25 +0000",
+      "minecraft:evoker": "2025-07-01 15:54:10 +0000",
+      "minecraft:slime": "2025-07-02 12:06:32 +0000",
+      "minecraft:zombified_piglin": "2025-07-04 20:48:51 +0000",
+      "minecraft:witch": "2025-07-02 10:59:21 +0000",
+      "minecraft:wither_skeleton": "2025-07-03 01:06:52 +0000",
+      "minecraft:husk": "2025-07-04 10:05:48 +0000",
+      "minecraft:cave_spider": "2025-06-30 23:07:54 +0000",
       "minecraft:enderman": "2025-06-30 20:13:14 +0000",
       "minecraft:silverfish": "2025-07-02 12:35:10 +0000",
       "minecraft:stray": "2025-07-02 12:08:43 +0000",
-      "minecraft:magma_cube": "2025-07-03 01:07:20 +0000",
-      "minecraft:spider": "2025-06-30 20:25:37 +0000",
       "minecraft:vex": "2025-07-01 15:53:06 +0000",
       "minecraft:zombie": "2025-06-30 19:56:49 +0000",
-      "minecraft:creeper": "2025-07-01 18:42:25 +0000",
       "minecraft:drowned": "2025-07-02 20:46:10 +0000",
-      "minecraft:zombie_villager": "2025-07-02 10:58:15 +0000",
-      "minecraft:evoker": "2025-07-01 15:54:10 +0000",
-      "minecraft:slime": "2025-07-02 12:06:32 +0000"
+      "minecraft:zombie_villager": "2025-07-02 10:58:15 +0000"
     },
     "done": false
   },
@@ -4568,12 +4569,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/magma_block": {
-    "criteria": {
-      "has_magma_cream": "2025-07-04 15:48:51 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_stairs_from_waxed_oxidized_cut_copper_stonecutting": {
     "criteria": {
       "has_waxed_oxidized_cut_copper": "2025-07-04 10:23:46 +0000"
@@ -4592,33 +4587,9 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
-    "criteria": {
-      "has_diamond_backpack": "2025-07-04 19:08:04 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/xp_pump_upgrade": {
-    "criteria": {
-      "has_advanced_pump_upgrade": "2025-07-04 19:04:38 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/advanced_tool_swapper_upgrade": {
-    "criteria": {
-      "has_tool_swapper_upgrade": "2025-07-04 15:57:13 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_stairs": {
     "criteria": {
       "has_waxed_oxidized_cut_copper": "2025-07-04 10:23:46 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/advanced_pump_upgrade": {
-    "criteria": {
-      "has_pump_upgrade": "2025-07-04 19:04:03 +0000"
     },
     "done": true
   },
@@ -4628,9 +4599,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-07-04 15:48:51 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/advanced_tool_swapper_upgrade": {
+    "criteria": {
+      "has_tool_swapper_upgrade": "2025-07-04 15:57:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_deepslate": {
     "criteria": {
       "has_cobbled_deepslate_slab": "2025-07-04 18:18:32 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/advanced_pump_upgrade": {
+    "criteria": {
+      "has_pump_upgrade": "2025-07-04 19:04:03 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/xp_pump_upgrade": {
+    "criteria": {
+      "has_advanced_pump_upgrade": "2025-07-04 19:04:38 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2025-07-04 19:08:04 +0000"
     },
     "done": true
   },
