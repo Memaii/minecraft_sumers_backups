@@ -1695,14 +1695,18 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-06-30 20:27:51 +0000",
-      "minecraft:piglin": "2025-07-01 14:25:29 +0000",
       "minecraft:zombified_piglin": "2025-07-01 13:16:34 +0000",
-      "minecraft:enderman": "2025-07-01 13:05:16 +0000",
       "minecraft:witch": "2025-07-01 12:03:15 +0000",
+      "minecraft:wither_skeleton": "2025-07-05 12:29:09 +0000",
+      "minecraft:husk": "2025-07-05 13:23:21 +0000",
+      "minecraft:ghast": "2025-07-05 09:44:51 +0000",
+      "minecraft:piglin": "2025-07-01 14:25:29 +0000",
+      "minecraft:enderman": "2025-07-01 13:05:16 +0000",
+      "minecraft:magma_cube": "2025-07-05 12:14:14 +0000",
       "minecraft:spider": "2025-06-30 20:41:34 +0000",
       "minecraft:zombie": "2025-06-30 20:22:49 +0000",
       "minecraft:creeper": "2025-06-30 20:36:12 +0000",
-      "minecraft:ghast": "2025-07-05 09:44:51 +0000"
+      "minecraft:drowned": "2025-07-05 13:42:33 +0000"
     },
     "done": false
   },
@@ -2831,6 +2835,7 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:nether_wastes": "2025-07-01 13:07:28 +0000",
+      "minecraft:soul_sand_valley": "2025-07-05 12:51:18 +0000",
       "minecraft:basalt_deltas": "2025-07-01 13:36:05 +0000",
       "minecraft:warped_forest": "2025-07-01 13:09:59 +0000"
     },
@@ -3759,6 +3764,144 @@
       "killed_ghast": "2025-07-05 09:44:51 +0000"
     },
     "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-07-05 12:29:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_bricks": "2025-07-05 12:31:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_bricks": "2025-07-05 12:31:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-07-05 12:31:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_bricks": "2025-07-05 12:31:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2025-07-05 12:31:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-07-05 12:31:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-07-05 12:31:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-07-05 12:31:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2025-07-05 12:31:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-07-05 12:32:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
+    "criteria": {
+      "has_warped_fungus": "2025-07-05 12:45:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2025-07-05 13:24:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-05 13:24:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-05 13:24:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-05 13:24:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_sign": {
+    "criteria": {
+      "has_planks": "2025-07-05 13:24:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2025-07-05 13:24:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2025-07-05 13:24:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-07-05 13:24:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_slab": {
+    "criteria": {
+      "has_planks": "2025-07-05 13:24:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-07-05 13:29:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:turtle": "2025-07-05 13:29:35 +0000"
+    },
+    "done": false
   },
   "DataVersion": 4189
 }

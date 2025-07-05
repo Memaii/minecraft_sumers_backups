@@ -148,6 +148,7 @@
       "minecraft:skeleton": "2025-06-30 19:49:56 +0000",
       "minecraft:husk": "2025-07-04 10:05:44 +0000",
       "minecraft:bogged": "2025-07-04 10:01:25 +0000",
+      "minecraft:cave_spider": "2025-07-05 11:22:50 +0000",
       "minecraft:vindicator": "2025-07-01 15:50:51 +0000",
       "minecraft:breeze": "2025-07-02 12:14:06 +0000",
       "minecraft:silverfish": "2025-07-02 12:34:48 +0000",
@@ -3992,15 +3993,27 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/smoking_upgrade": {
+  "minecraft:recipes/redstone/repeater": {
     "criteria": {
-      "has_upgrade_base": "2025-07-04 22:31:45 +0000"
+      "has_redstone_torch": "2025-07-04 20:05:18 +0000"
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/advanced_feeding_upgrade": {
+  "minecraft:story/follow_ender_eye": {
     "criteria": {
-      "has_feeding_upgrade": "2025-07-04 22:32:08 +0000"
+      "in_stronghold": "2025-07-04 20:19:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-07-04 22:11:10 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/smoking_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-07-04 22:31:45 +0000"
     },
     "done": true
   },
@@ -4034,12 +4047,6 @@
     },
     "done": true
   },
-  "minecraft:story/enchant_item": {
-    "criteria": {
-      "enchanted_item": "2025-07-04 22:11:10 +0000"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/feeding_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-04 22:31:45 +0000"
@@ -4067,12 +4074,6 @@
   "sophisticatedbackpacks:recipes/misc/alchemy_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-04 22:31:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/repeater": {
-    "criteria": {
-      "has_redstone_torch": "2025-07-04 20:05:18 +0000"
     },
     "done": true
   },
@@ -4142,12 +4143,6 @@
     },
     "done": true
   },
-  "minecraft:story/follow_ender_eye": {
-    "criteria": {
-      "in_stronghold": "2025-07-04 20:19:42 +0000"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/pump_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-04 22:31:45 +0000"
@@ -4181,6 +4176,12 @@
   "sophisticatedbackpacks:recipes/misc/crafting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-04 22:31:45 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/advanced_feeding_upgrade": {
+    "criteria": {
+      "has_feeding_upgrade": "2025-07-04 22:32:08 +0000"
     },
     "done": true
   },
