@@ -9,19 +9,25 @@
     "criteria": {
       "minecraft:cold_ocean": "2025-07-02 14:41:51 +0000",
       "minecraft:snowy_slopes": "2025-07-03 12:27:09 +0000",
+      "minecraft:old_growth_pine_taiga": "2025-07-05 17:23:18 +0000",
       "minecraft:forest": "2025-07-02 14:39:36 +0000",
+      "minecraft:taiga": "2025-07-05 17:22:19 +0000",
       "minecraft:deep_ocean": "2025-07-02 14:40:59 +0000",
       "minecraft:deep_cold_ocean": "2025-07-02 14:41:45 +0000",
       "minecraft:desert": "2025-07-02 14:18:52 +0000",
       "minecraft:windswept_forest": "2025-07-05 15:29:04 +0000",
       "minecraft:ocean": "2025-07-02 14:40:48 +0000",
       "minecraft:birch_forest": "2025-07-02 14:39:26 +0000",
+      "minecraft:windswept_hills": "2025-07-05 18:03:07 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-07-05 17:23:06 +0000",
       "minecraft:wooded_badlands": "2025-07-02 14:19:32 +0000",
       "minecraft:windswept_savanna": "2025-07-02 14:37:16 +0000",
       "minecraft:warm_ocean": "2025-07-02 14:16:15 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-07-05 17:12:18 +0000",
       "minecraft:badlands": "2025-07-02 14:29:55 +0000",
       "minecraft:beach": "2025-07-02 14:34:15 +0000",
       "minecraft:mangrove_swamp": "2025-07-02 14:37:23 +0000",
+      "minecraft:sparse_jungle": "2025-07-05 17:15:43 +0000",
       "minecraft:river": "2025-07-02 14:18:40 +0000",
       "minecraft:lukewarm_ocean": "2025-07-02 14:33:28 +0000",
       "minecraft:stony_shore": "2025-07-02 14:43:33 +0000",
@@ -31,7 +37,8 @@
       "minecraft:grove": "2025-07-03 12:33:10 +0000",
       "minecraft:meadow": "2025-07-03 12:26:40 +0000",
       "minecraft:savanna": "2025-07-02 14:35:16 +0000",
-      "minecraft:plains": "2025-07-02 14:33:25 +0000"
+      "minecraft:plains": "2025-07-02 14:33:25 +0000",
+      "minecraft:jagged_peaks": "2025-07-05 17:27:41 +0000"
     },
     "done": false
   },
@@ -2523,6 +2530,168 @@
   "minecraft:recipes/misc/slime_ball": {
     "criteria": {
       "has_slime_block": "2025-07-05 15:54:30 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/warp_scroll": {
+    "criteria": {
+      "has_ender_pearl": "2025-07-05 16:14:45 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/warp_stone": {
+    "criteria": {
+      "has_ender_pearl": "2025-07-05 16:14:45 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/warp_dust": {
+    "criteria": {
+      "has_ender_pearl": "2025-07-05 16:14:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
+    "criteria": {
+      "has_warped_fungus": "2025-07-05 16:14:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-05 17:13:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-05 17:13:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-07-05 17:43:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-07-05 17:04:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-07-05 17:12:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2025-07-05 17:43:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2025-07-05 17:13:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/packed_mud": {
+    "criteria": {
+      "has_mud": "2025-07-05 18:06:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-05 17:13:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-07-05 17:13:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2025-07-05 17:13:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2025-07-05 17:13:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2025-07-05 17:13:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2025-07-05 17:50:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-07-05 17:43:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/muddy_mangrove_roots": {
+    "criteria": {
+      "has_mangrove_roots": "2025-07-05 18:05:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2025-07-05 17:39:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-07-05 17:42:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2025-07-05 17:13:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-07-05 17:43:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-07-05 17:43:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-07-05 17:42:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-07-05 17:04:26 +0000"
     },
     "done": true
   },

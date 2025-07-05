@@ -1,0 +1,50 @@
+# Default configuration file for NeoForge AntiXray mod by DrexHD
+
+# Default values
+enabled = true           # activation globale du mod
+usePermission = false    # pas besoin de permissions spéciales
+
+# Overworld configuration
+[overworld]
+enabled = true
+engineMode = 3
+maxBlockHeight = 256
+updateRadius = 2
+lavaObscures = false
+hiddenBlocks = [
+  "minecraft:iron_ore",
+  "minecraft:gold_ore",
+  "minecraft:diamond_ore",
+  "minecraft:emerald_ore",
+  "minecraft:lapis_ore",
+  "minecraft:redstone_ore",
+  "minecraft:coal_ore",
+  "minecraft:nether_gold_ore",
+  "minecraft:ancient_debris"
+]
+replacementBlocks = [
+  "#antixray:hidden_only_ores", "stone", "deepslate", "andesite", "calcite", 
+  "diorite", "dirt", "granite", "gravel", "sand", "tuff", "mossy_cobblestone", 
+  "obsidian", "clay", "infested_stone", "amethyst_block", "budding_amethyst", "chest"
+]
+
+# Nether configuration
+[the_nether]
+enabled = true
+engineMode = 1
+maxBlockHeight = 128
+updateRadius = 2
+lavaObscures = true
+hiddenBlocks = [
+  "minecraft:ancient_debris",
+  "minecraft:nether_quartz_ore",
+  "minecraft:nether_gold_ore",
+  "minecraft:gold_ore",
+  "minecraft:gold_block",
+  "minecraft:gilded_blackstone"
+]
+replacementBlocks = [
+  "#antixray:hidden_only_ores", "stone", "deepslate", "andesite", "calcite", 
+  "diorite", "dirt", "granite", "gravel", "sand", "tuff", "mossy_cobblestone", 
+  "obsidian", "clay", "infested_stone", "amethyst_block", "budding_amethyst", "chest"
+]
