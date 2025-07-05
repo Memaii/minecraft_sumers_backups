@@ -2842,3 +2842,676 @@ java.io.IOException: Maximum number of bytes read: 8192
 [05Jul2025 05:35:07.525] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (1, 27) (Map: world)
 [05Jul2025 05:36:02.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Server empty for 60 seconds, pausing
 [05Jul2025 05:36:02.254] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[05Jul2025 06:05:46.948] [Thread-43/DEBUG] [BlueMap/]: Stopped watching map 'world' for updates.
+[05Jul2025 06:05:46.948] [Thread-42/DEBUG] [BlueMap/]: Stopped watching map 'world_the_end' for updates.
+[05Jul2025 06:05:46.949] [Thread-45/DEBUG] [BlueMap/]: Stopped watching map 'world_the_nether' for updates.
+[05Jul2025 06:05:46.950] [Thread-90/DEBUG] [BlueMap/]: Started watching map 'world_the_end' for updates...
+[05Jul2025 06:05:46.950] [Thread-91/DEBUG] [BlueMap/]: Started watching map 'world' for updates...
+[05Jul2025 06:05:46.951] [Thread-93/DEBUG] [BlueMap/]: Started watching map 'world_the_nether' for updates...
+[05Jul2025 06:50:19.106] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Blackliss is 5750e528-e519-43d6-b148-76e08d2e1b2e
+[05Jul2025 06:50:19.257] [Netty Epoll Server IO #6/DEBUG] [net.neoforged.neoforge.network.filters.NetworkFilters/]: Injected net.neoforged.neoforge.network.filters.GenericPacketSplitter@1df65144 into net.minecraft.network.Connection@24264be2
+[05Jul2025 06:50:19.797] [Netty Epoll Server IO #6/DEBUG] [net.neoforged.neoforge.network.filters.NetworkFilters/]: Injected net.neoforged.neoforge.network.filters.GenericPacketSplitter@2316d5f3 into net.minecraft.network.Connection@24264be2
+[05Jul2025 06:50:19.851] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Blackliss[/192.168.1.254:59986] logged in with entity id 4574 at (1930.4077796491865, 72.0, 125.42061410104336)
+[05Jul2025 06:50:19.853] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/]: Sending 1483 recipes of the following types: [campfire_cooking, smoking, stonecutting, blasting, smelting, crafting, smithing]
+[05Jul2025 06:50:19.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blackliss joined the game
+[05Jul2025 06:50:21.147] [Server thread/DEBUG] [mixin/]: Mixing ai.pathing.FlyNodeEvaluatorMixin from lithium.mixins.json into net.minecraft.world.level.pathfinder.FlyNodeEvaluator
+[05Jul2025 06:50:32.512] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (4, 0) (Map: world)
+[05Jul2025 06:50:32.594] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (4, -1) (Map: world)
+[05Jul2025 06:50:32.621] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, -1) (Map: world)
+[05Jul2025 06:50:32.727] [RenderManager-0-0/DEBUG] [BlueMap/]: No renderer found for entity type: minecraft:chicken
+[05Jul2025 06:50:32.727] [RenderManager-0-0/DEBUG] [BlueMap/]: No renderer found for entity type: minecraft:sheep
+[05Jul2025 06:50:32.755] [RenderManager-0-0/DEBUG] [BlueMap/]: No renderer found for entity type: minecraft:cow
+[05Jul2025 06:50:32.790] [RenderManager-0-0/DEBUG] [BlueMap/]: No renderer found for entity type: minecraft:horse
+[05Jul2025 06:50:33.569] [RenderManager-0-0/DEBUG] [BlueMap/]: No renderer found for entity type: minecraft:donkey
+[05Jul2025 06:50:34.365] [RenderManager-0-0/DEBUG] [BlueMap/]: No renderer found for entity type: minecraft:pig
+[05Jul2025 06:50:35.370] [RenderManager-0-0/DEBUG] [BlueMap/]: No renderer found for entity type: minecraft:bee
+[05Jul2025 06:50:36.953] [RenderManager-0-0/DEBUG] [BlueMap/]: No renderer found for entity type: minecraft:cat
+[05Jul2025 06:50:43.301] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (4, 0) (Map: world)
+[05Jul2025 06:50:43.410] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, -1) (Map: world)
+[05Jul2025 06:50:48.360] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 06:50:49.726] [RenderManager-0-0/DEBUG] [BlueMap/]: No renderer found for entity type: minecraft:turtle
+[05Jul2025 06:50:50.555] [RenderManager-0-0/DEBUG] [BlueMap/]: No renderer found for entity type: minecraft:trader_llama
+[05Jul2025 06:50:50.555] [RenderManager-0-0/DEBUG] [BlueMap/]: No renderer found for entity type: minecraft:wandering_trader
+[05Jul2025 06:50:51.141] [RenderManager-0-0/DEBUG] [BlueMap/]: No renderer found for entity type: minecraft:acacia_boat
+[05Jul2025 06:50:52.181] [RenderManager-0-0/DEBUG] [BlueMap/]: No renderer found for entity type: minecraft:bogged
+[05Jul2025 06:50:52.236] [RenderManager-0-0/DEBUG] [BlueMap/]: No renderer found for entity type: minecraft:zombie_villager
+[05Jul2025 06:50:52.454] [RenderManager-0-0/DEBUG] [BlueMap/]: No renderer found for entity type: minecraft:elder_guardian
+[05Jul2025 06:50:58.360] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 06:51:01.160] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, -1) (Map: world)
+[05Jul2025 06:51:05.277] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 63.9357554804883,115.5,4.374694168929267
+[05Jul2025 06:51:05.296] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 63.9357554804883,115.5,4.374694168929267
+[05Jul2025 06:51:11.062] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (4, -1) (Map: world)
+[05Jul2025 06:51:11.087] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (4, 0) (Map: world)
+[05Jul2025 06:51:12.518] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, -1) (Map: world)
+[05Jul2025 06:51:18.419] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 06:51:20.266] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (4, -1) (Map: world)
+[05Jul2025 06:51:27.017] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, -1) (Map: world)
+[05Jul2025 06:51:28.470] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 06:51:38.468] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 06:51:43.218] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, -1) (Map: world)
+[05Jul2025 06:51:48.471] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 06:51:51.919] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, -1) (Map: world)
+[05Jul2025 06:51:58.471] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 06:52:19.718] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, -1) (Map: world)
+[05Jul2025 06:52:22.923] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (4, 0) (Map: world)
+[05Jul2025 06:52:26.518] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, -1) (Map: world)
+[05Jul2025 06:52:47.768] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, -1) (Map: world)
+[05Jul2025 06:52:57.820] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, -1) (Map: world)
+[05Jul2025 06:53:27.070] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, -1) (Map: world)
+[05Jul2025 06:53:42.170] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, -1) (Map: world)
+[05Jul2025 06:53:52.223] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, -1) (Map: world)
+[05Jul2025 06:54:20.218] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, -1) (Map: world)
+[05Jul2025 06:54:36.980] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, -1) (Map: world)
+[05Jul2025 06:54:47.811] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, -1) (Map: world)
+[05Jul2025 06:54:57.867] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, -1) (Map: world)
+[05Jul2025 06:55:09.819] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 06:55:13.667] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, -1) (Map: world)
+[05Jul2025 06:55:19.817] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[05Jul2025 06:55:23.667] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, -1) (Map: world)
+[05Jul2025 06:55:24.896] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 06:55:42.218] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, -1) (Map: world)
+[05Jul2025 06:55:44.957] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 06:55:55.868] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 06:56:05.919] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 06:56:10.422] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, -1) (Map: world)
+[05Jul2025 06:56:15.919] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 06:56:25.920] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 06:56:35.035] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 06:56:45.095] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 06:56:55.077] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 06:57:05.076] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 06:57:15.123] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 06:57:25.132] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 06:57:35.148] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 06:57:45.525] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 06:57:55.144] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 06:58:05.520] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 06:58:15.275] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 06:58:25.219] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 06:58:35.714] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 06:58:45.720] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 06:58:55.265] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 06:59:05.278] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 06:59:39.422] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 06:59:47.669] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 06:59:57.719] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:00:07.714] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:00:17.719] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:00:19.800] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[05Jul2025 07:00:24.861] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:00:35.623] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:00:45.671] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:00:54.909] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:01:04.926] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:01:14.966] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:01:24.980] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:01:35.016] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:01:48.674] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:02:05.819] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:02:15.048] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:02:25.026] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:02:35.046] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:02:45.089] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:02:55.141] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:03:05.138] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:03:15.133] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:03:25.174] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:03:36.920] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:03:46.970] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:04:47.371] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:04:57.372] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:05:05.314] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:05:19.819] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[05Jul2025 07:05:24.894] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:05:39.623] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:05:44.959] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:05:46.942] [Thread-91/DEBUG] [BlueMap/]: Stopped watching map 'world' for updates.
+[05Jul2025 07:05:46.942] [Thread-90/DEBUG] [BlueMap/]: Stopped watching map 'world_the_end' for updates.
+[05Jul2025 07:05:46.957] [Thread-93/DEBUG] [BlueMap/]: Stopped watching map 'world_the_nether' for updates.
+[05Jul2025 07:05:46.961] [Thread-119/DEBUG] [BlueMap/]: Started watching map 'world_the_end' for updates...
+[05Jul2025 07:05:46.963] [Thread-120/DEBUG] [BlueMap/]: Started watching map 'world' for updates...
+[05Jul2025 07:05:46.966] [Thread-122/DEBUG] [BlueMap/]: Started watching map 'world_the_nether' for updates...
+[05Jul2025 07:05:54.980] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:06:05.022] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:06:15.039] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:06:25.043] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:06:35.035] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:06:45.078] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:06:55.135] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:07:08.019] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:07:18.018] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:07:28.072] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:07:35.184] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:07:45.180] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:07:55.199] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:08:05.181] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:08:15.200] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:08:25.231] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:08:39.870] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:09:05.323] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:09:15.335] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:09:25.399] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:09:35.379] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:10:05.435] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:10:15.434] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:10:19.808] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[05Jul2025 07:10:25.066] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:10:35.119] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:10:49.568] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:10:58.418] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:11:05.023] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:11:27.569] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:11:36.420] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:11:46.469] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:12:24.996] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:12:42.380] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, -1) (Map: world)
+[05Jul2025 07:12:55.025] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:13:08.071] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:13:10.169] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, -1) (Map: world)
+[05Jul2025 07:13:18.070] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:13:27.219] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, -1) (Map: world)
+[05Jul2025 07:13:28.070] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:13:35.129] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:13:55.521] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:14:07.117] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:14:09.967] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, -1) (Map: world)
+[05Jul2025 07:14:19.967] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, -1) (Map: world)
+[05Jul2025 07:14:48.917] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:15:07.118] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, -1) (Map: world)
+[05Jul2025 07:15:17.117] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, -1) (Map: world)
+[05Jul2025 07:15:19.796] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[05Jul2025 07:15:23.087] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (4, 0) (Map: world)
+[05Jul2025 07:15:24.864] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:15:27.267] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, -1) (Map: world)
+[05Jul2025 07:15:35.818] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, -1) (Map: world)
+[05Jul2025 07:15:54.894] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:16:13.969] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, -1) (Map: world)
+[05Jul2025 07:17:47.373] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:17:56.320] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:18:08.158] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:18:18.169] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:18:25.519] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:18:58.270] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:19:27.820] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:19:37.170] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:20:05.282] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:20:15.352] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:20:19.799] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[05Jul2025 07:20:25.222] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:20:35.222] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:20:46.070] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:20:56.071] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:21:04.940] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:21:16.468] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:21:26.469] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:21:37.370] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:21:47.369] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:21:57.369] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:22:04.988] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:22:39.921] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:22:49.970] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:22:59.367] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:23:30.021] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:23:40.020] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:24:35.082] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:24:45.668] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:24:56.568] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:25:06.571] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:25:11.920] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, -1) (Map: world)
+[05Jul2025 07:25:17.374] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:25:19.810] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[05Jul2025 07:25:24.869] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:25:37.768] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, -1) (Map: world)
+[05Jul2025 07:25:39.774] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:25:46.918] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:25:50.269] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, -1) (Map: world)
+[05Jul2025 07:25:54.933] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:26:03.118] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, -1) (Map: world)
+[05Jul2025 07:26:05.421] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:26:26.069] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:26:35.420] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:26:41.169] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, -1) (Map: world)
+[05Jul2025 07:26:46.421] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:26:58.121] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:27:08.119] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:27:17.666] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:27:25.771] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:27:37.814] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, -1) (Map: world)
+[05Jul2025 07:27:38.521] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:27:50.319] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, -1) (Map: world)
+[05Jul2025 07:28:03.167] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, -1) (Map: world)
+[05Jul2025 07:28:08.866] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:28:11.019] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, -1) (Map: world)
+[05Jul2025 07:28:25.603] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:28:28.647] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, -1) (Map: world)
+[05Jul2025 07:28:41.247] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, -1) (Map: world)
+[05Jul2025 07:28:54.318] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, -1) (Map: world)
+[05Jul2025 07:29:03.938] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Fullavatar is fd102774-21c2-4b99-9396-f454ead0849c
+[05Jul2025 07:29:04.009] [Netty Epoll Server IO #6/DEBUG] [net.neoforged.neoforge.network.filters.NetworkFilters/]: Injected net.neoforged.neoforge.network.filters.GenericPacketSplitter@2b038731 into net.minecraft.network.Connection@57ee4b12
+[05Jul2025 07:29:04.315] [Netty Epoll Server IO #6/DEBUG] [net.neoforged.neoforge.network.filters.NetworkFilters/]: Injected net.neoforged.neoforge.network.filters.GenericPacketSplitter@3c6d8dc3 into net.minecraft.network.Connection@57ee4b12
+[05Jul2025 07:29:04.372] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Fullavatar[/93.19.138.72:51175] logged in with entity id 6381 at (581.3000000119209, 59.875, 13666.300000011921)
+[05Jul2025 07:29:04.373] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/]: Sending 1483 recipes of the following types: [campfire_cooking, smoking, stonecutting, blasting, smelting, crafting, smithing]
+[05Jul2025 07:29:04.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fullavatar joined the game
+[05Jul2025 07:29:05.295] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:29:14.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Fullavatar> QUEUE
+[05Jul2025 07:29:17.324] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (0, 26) (Map: world)
+[05Jul2025 07:29:17.334] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (0, 27) (Map: world)
+[05Jul2025 07:29:17.918] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, -1) (Map: world)
+[05Jul2025 07:29:20.215] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (1, 26) (Map: world)
+[05Jul2025 07:29:23.564] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (1, 27) (Map: world)
+[05Jul2025 07:29:23.817] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (0, 27) (Map: world)
+[05Jul2025 07:29:26.930] [RenderManager-0-0/DEBUG] [BlueMap/]: No renderer found for entity type: minecraft:salmon
+[05Jul2025 07:29:27.961] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, -1) (Map: world)
+[05Jul2025 07:29:30.256] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (1, 26) (Map: world)
+[05Jul2025 07:29:33.564] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (1, 27) (Map: world)
+[05Jul2025 07:29:33.866] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (0, 27) (Map: world)
+[05Jul2025 07:29:38.462] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:29:43.561] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (1, 27) (Map: world)
+[05Jul2025 07:29:43.866] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (0, 27) (Map: world)
+[05Jul2025 07:29:48.467] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:29:53.558] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (1, 27) (Map: world)
+[05Jul2025 07:29:53.917] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (0, 27) (Map: world)
+[05Jul2025 07:29:58.473] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:30:03.565] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (1, 27) (Map: world)
+[05Jul2025 07:30:03.966] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (0, 27) (Map: world)
+[05Jul2025 07:30:06.037] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! -15.531585595149181,-110.4375,-0.1056650599895761
+[05Jul2025 07:30:06.046] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! -15.531585595149181,-110.4375,-0.1056650599895761
+[05Jul2025 07:30:13.566] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (1, 27) (Map: world)
+[05Jul2025 07:30:13.961] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (0, 27) (Map: world)
+[05Jul2025 07:30:14.166] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, -1) (Map: world)
+[05Jul2025 07:30:15.474] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:30:19.809] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[05Jul2025 07:30:24.960] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (1, 27) (Map: world)
+[05Jul2025 07:30:24.968] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (0, 27) (Map: world)
+[05Jul2025 07:30:28.664] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, -1) (Map: world)
+[05Jul2025 07:30:34.967] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (0, 27) (Map: world)
+[05Jul2025 07:30:35.009] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (1, 27) (Map: world)
+[05Jul2025 07:30:42.218] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, -1) (Map: world)
+[05Jul2025 07:30:44.974] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (0, 27) (Map: world)
+[05Jul2025 07:30:45.024] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (1, 27) (Map: world)
+[05Jul2025 07:30:48.220] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:30:54.316] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, -1) (Map: world)
+[05Jul2025 07:30:54.943] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (0, 27) (Map: world)
+[05Jul2025 07:30:54.976] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:30:54.997] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (1, 27) (Map: world)
+[05Jul2025 07:31:05.002] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (0, 27) (Map: world)
+[05Jul2025 07:31:05.035] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (1, 27) (Map: world)
+[05Jul2025 07:31:05.915] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:31:08.474] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (1, 26) (Map: world)
+[05Jul2025 07:31:10.569] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, -1) (Map: world)
+[05Jul2025 07:31:15.042] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (0, 27) (Map: world)
+[05Jul2025 07:31:15.084] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (1, 27) (Map: world)
+[05Jul2025 07:31:18.524] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (1, 26) (Map: world)
+[05Jul2025 07:31:23.610] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, -1) (Map: world)
+[05Jul2025 07:31:25.100] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (0, 27) (Map: world)
+[05Jul2025 07:31:25.139] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (1, 27) (Map: world)
+[05Jul2025 07:31:27.470] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:31:30.611] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, -1) (Map: world)
+[05Jul2025 07:31:35.074] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (1, 26) (Map: world)
+[05Jul2025 07:31:35.088] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (0, 27) (Map: world)
+[05Jul2025 07:31:35.148] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (1, 27) (Map: world)
+[05Jul2025 07:31:37.514] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:31:45.152] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (0, 27) (Map: world)
+[05Jul2025 07:31:45.172] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:31:45.189] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (1, 27) (Map: world)
+[05Jul2025 07:31:55.201] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (0, 27) (Map: world)
+[05Jul2025 07:31:55.219] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:31:55.234] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (1, 27) (Map: world)
+[05Jul2025 07:31:57.119] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, -1) (Map: world)
+[05Jul2025 07:32:05.249] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (0, 27) (Map: world)
+[05Jul2025 07:32:05.289] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (1, 27) (Map: world)
+[05Jul2025 07:32:10.711] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, -1) (Map: world)
+[05Jul2025 07:32:15.298] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (0, 27) (Map: world)
+[05Jul2025 07:32:15.335] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (1, 27) (Map: world)
+[05Jul2025 07:32:15.915] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:32:25.383] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (0, 27) (Map: world)
+[05Jul2025 07:32:25.415] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (1, 27) (Map: world)
+[05Jul2025 07:32:27.563] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:32:35.351] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (0, 27) (Map: world)
+[05Jul2025 07:32:35.391] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (1, 27) (Map: world)
+[05Jul2025 07:32:36.419] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:32:42.266] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, -1) (Map: world)
+[05Jul2025 07:32:45.403] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (0, 27) (Map: world)
+[05Jul2025 07:32:45.453] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (1, 27) (Map: world)
+[05Jul2025 07:32:46.419] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:32:55.399] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (0, 27) (Map: world)
+[05Jul2025 07:32:55.432] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (1, 27) (Map: world)
+[05Jul2025 07:32:56.470] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:33:05.444] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (0, 27) (Map: world)
+[05Jul2025 07:33:05.481] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (1, 27) (Map: world)
+[05Jul2025 07:33:05.607] [Server thread/DEBUG] [mixin/]: Mixing cached_hashcode.FlowingFluid$BlockStatePairKeyMixin from lithium.mixins.json into net.minecraft.world.level.material.FlowingFluid$BlockStatePairKey
+[05Jul2025 07:33:05.632] [Server thread/DEBUG] [mixin/]: lithium.mixins.json:cached_hashcode.FlowingFluid$BlockStatePairKeyMixin from mod lithium->@Inject::generateHash(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/core/Direction;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V doesn't use it's CallbackInfo
+[05Jul2025 07:33:10.641] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, -1) (Map: world)
+[05Jul2025 07:33:15.490] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (0, 27) (Map: world)
+[05Jul2025 07:33:15.522] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (1, 27) (Map: world)
+[05Jul2025 07:33:22.062] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, -1) (Map: world)
+[05Jul2025 07:33:25.486] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (0, 27) (Map: world)
+[05Jul2025 07:33:25.514] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:33:25.524] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (1, 27) (Map: world)
+[05Jul2025 07:33:32.063] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, -1) (Map: world)
+[05Jul2025 07:33:35.538] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (0, 27) (Map: world)
+[05Jul2025 07:33:35.572] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:33:35.589] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (1, 27) (Map: world)
+[05Jul2025 07:33:45.543] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (0, 27) (Map: world)
+[05Jul2025 07:33:45.577] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:33:45.598] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (1, 27) (Map: world)
+[05Jul2025 07:33:50.464] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, -1) (Map: world)
+[05Jul2025 07:33:55.585] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (0, 27) (Map: world)
+[05Jul2025 07:33:55.618] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:33:55.643] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (1, 27) (Map: world)
+[05Jul2025 07:33:56.667] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, -1) (Map: world)
+[05Jul2025 07:34:05.591] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (0, 27) (Map: world)
+[05Jul2025 07:34:05.643] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (1, 27) (Map: world)
+[05Jul2025 07:34:06.668] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, -1) (Map: world)
+[05Jul2025 07:34:07.286] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 66.94988450845267,141.5,-1.9090682104194912
+[05Jul2025 07:34:07.294] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 66.94988450845267,141.5,-1.9090682104194912
+[05Jul2025 07:34:15.598] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (0, 27) (Map: world)
+[05Jul2025 07:34:15.660] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (1, 27) (Map: world)
+[05Jul2025 07:34:16.671] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, -1) (Map: world)
+[05Jul2025 07:34:19.420] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:34:23.893] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! -14.710941087751507,-110.4375,-0.23260776832790953
+[05Jul2025 07:34:25.653] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (0, 27) (Map: world)
+[05Jul2025 07:34:25.699] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (1, 27) (Map: world)
+[05Jul2025 07:34:35.673] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (0, 27) (Map: world)
+[05Jul2025 07:34:35.712] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (1, 27) (Map: world)
+[05Jul2025 07:34:38.674] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:34:42.214] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, -1) (Map: world)
+[05Jul2025 07:34:45.672] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (0, 27) (Map: world)
+[05Jul2025 07:34:45.711] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (1, 27) (Map: world)
+[05Jul2025 07:34:45.720] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:34:48.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Fullavatar> NOOB
+[05Jul2025 07:34:50.977] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fullavatar lost connection: Disconnected
+[05Jul2025 07:34:50.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fullavatar left the game
+[05Jul2025 07:34:56.111] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (0, 27) (Map: world)
+[05Jul2025 07:34:56.127] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (1, 26) (Map: world)
+[05Jul2025 07:34:56.144] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (1, 27) (Map: world)
+[05Jul2025 07:35:05.738] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:35:19.815] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[05Jul2025 07:35:22.116] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, -1) (Map: world)
+[05Jul2025 07:35:29.214] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:35:32.466] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, -1) (Map: world)
+[05Jul2025 07:35:39.372] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:35:50.515] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, -1) (Map: world)
+[05Jul2025 07:36:00.517] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, -1) (Map: world)
+[05Jul2025 07:36:16.232] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:36:16.466] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, -1) (Map: world)
+[05Jul2025 07:36:26.240] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:36:39.166] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, -1) (Map: world)
+[05Jul2025 07:37:48.218] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:37:58.219] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:38:08.222] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:38:18.117] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:38:28.119] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:38:38.119] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:38:59.929] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:39:09.928] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:39:39.966] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:39:42.068] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (4, 0) (Map: world)
+[05Jul2025 07:39:49.968] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:39:59.965] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:40:09.967] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:40:19.820] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[05Jul2025 07:40:27.269] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:40:33.476] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! -19.007252673897028,37.5,0.11862427994014979
+[05Jul2025 07:40:33.484] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! -19.007252673897028,37.5,0.11862427994014979
+[05Jul2025 07:40:33.492] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! -19.007252673897028,37.5,0.11862427994014979
+[05Jul2025 07:40:37.269] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:40:47.368] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:40:54.952] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:41:08.766] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:41:08.770] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (4, 0) (Map: world)
+[05Jul2025 07:41:15.036] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:41:25.031] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:41:36.988] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:41:45.110] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:41:55.087] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:42:05.085] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:42:15.092] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:42:25.103] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:42:45.767] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:42:46.243] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 42.390539188138746,151.5625,2.1471241529552287
+[05Jul2025 07:42:53.705] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (4, -1) (Map: world)
+[05Jul2025 07:42:55.821] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:43:05.871] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:43:15.154] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:43:18.017] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (4, 0) (Map: world)
+[05Jul2025 07:43:25.142] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:43:35.203] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:43:45.185] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:43:46.016] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (4, -1) (Map: world)
+[05Jul2025 07:43:56.771] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:44:08.971] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:44:18.968] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:44:28.019] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:44:38.020] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:44:48.019] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:44:58.018] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:45:00.268] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (4, 0) (Map: world)
+[05Jul2025 07:45:05.304] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:45:11.920] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, -1) (Map: world)
+[05Jul2025 07:45:11.923] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (4, 0) (Map: world)
+[05Jul2025 07:45:14.863] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (4, -1) (Map: world)
+[05Jul2025 07:45:15.771] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:45:19.819] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[05Jul2025 07:45:24.896] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:45:39.460] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, -1) (Map: world)
+[05Jul2025 07:45:54.452] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (4, 0) (Map: world)
+[05Jul2025 07:46:04.362] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (4, 0) (Map: world)
+[05Jul2025 07:46:09.483] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, -1) (Map: world)
+[05Jul2025 07:46:14.957] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, -1) (Map: world)
+[05Jul2025 07:46:41.313] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (4, 1) (Map: world)
+[05Jul2025 07:47:02.970] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (4, 1) (Map: world)
+[05Jul2025 07:47:14.860] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 1) (Map: world)
+[05Jul2025 07:47:14.863] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (3, 0) (Map: world)
+[05Jul2025 07:47:18.315] [RenderManager-0-0/DEBUG] [BlueMap/]: No renderer found for entity type: minecraft:parrot
+[05Jul2025 07:47:21.960] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (37, 3) (Map: world)
+[05Jul2025 07:47:29.204] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (37, 4) (Map: world)
+[05Jul2025 07:47:35.967] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (35, 5) (Map: world)
+[05Jul2025 07:47:36.026] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (36, 5) (Map: world)
+[05Jul2025 07:47:36.177] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (37, 3) (Map: world)
+[05Jul2025 07:47:39.212] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (37, 4) (Map: world)
+[05Jul2025 07:47:46.132] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (37, 3) (Map: world)
+[05Jul2025 07:47:47.727] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (37, 4) (Map: world)
+[05Jul2025 07:47:51.386] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (35, 5) (Map: world)
+[05Jul2025 07:47:51.417] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (36, 5) (Map: world)
+[05Jul2025 07:47:57.259] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (37, 4) (Map: world)
+[05Jul2025 07:47:57.566] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (35, 4) (Map: world)
+[05Jul2025 07:48:03.669] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (35, 4) (Map: world)
+[05Jul2025 07:48:06.910] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (37, 4) (Map: world)
+[05Jul2025 07:48:11.755] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (35, 4) (Map: world)
+[05Jul2025 07:48:13.831] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (37, 3) (Map: world)
+[05Jul2025 07:48:13.994] [RenderManager-0-0/DEBUG] [BlueMap/]: No renderer found for entity type: minecraft:falling_block
+[05Jul2025 07:48:20.671] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (35, 4) (Map: world)
+[05Jul2025 07:48:20.696] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (35, 3) (Map: world)
+[05Jul2025 07:48:49.393] [Worker-Main-8/DEBUG] [mixin/]: Mixing JigsawPlacementPlacerMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[05Jul2025 07:48:49.394] [Worker-Main-8/DEBUG] [mixin/]: waystones.mixins.json:JigsawPlacementPlacerMixin from mod waystones: Class version 65 required is higher than the class version supported by the current version of Mixin (JAVA_17 supports class version 61)
+[05Jul2025 07:48:50.218] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (35, 3) (Map: world)
+[05Jul2025 07:48:50.429] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (35, 4) (Map: world)
+[05Jul2025 07:49:00.224] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (37, 3) (Map: world)
+[05Jul2025 07:49:44.968] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (36, 4) (Map: world)
+[05Jul2025 07:49:49.857] [RenderManager-0-0/DEBUG] [BlueMap/]: No renderer found for entity type: minecraft:polar_bear
+[05Jul2025 07:50:02.501] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (36, 4) (Map: world)
+[05Jul2025 07:50:15.274] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (35, 4) (Map: world)
+[05Jul2025 07:50:15.277] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (34, 4) (Map: world)
+[05Jul2025 07:50:19.824] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[05Jul2025 07:50:24.837] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (36, 3) (Map: world)
+[05Jul2025 07:50:28.975] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (35, 4) (Map: world)
+[05Jul2025 07:50:33.729] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (34, 4) (Map: world)
+[05Jul2025 07:50:42.984] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (36, 2) (Map: world)
+[05Jul2025 07:50:43.250] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (34, 2) (Map: world)
+[05Jul2025 07:50:43.280] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (34, 3) (Map: world)
+[05Jul2025 07:50:52.654] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (34, 3) (Map: world)
+[05Jul2025 07:51:01.788] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (36, 2) (Map: world)
+[05Jul2025 07:51:01.804] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (34, 3) (Map: world)
+[05Jul2025 07:51:08.394] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (36, 2) (Map: world)
+[05Jul2025 07:51:08.777] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (34, 3) (Map: world)
+[05Jul2025 07:51:09.124] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (35, 2) (Map: world)
+[05Jul2025 07:51:09.688] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (34, 2) (Map: world)
+[05Jul2025 07:51:10.201] [RenderManager-0-0/DEBUG] [BlueMap/]: No renderer found for entity type: minecraft:fox
+[05Jul2025 07:51:19.174] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (35, 2) (Map: world)
+[05Jul2025 07:51:25.093] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (34, 2) (Map: world)
+[05Jul2025 07:51:26.317] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (35, 2) (Map: world)
+[05Jul2025 07:51:30.292] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (36, 2) (Map: world)
+[05Jul2025 07:51:30.599] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (34, 3) (Map: world)
+[05Jul2025 07:51:31.842] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (34, 2) (Map: world)
+[05Jul2025 07:51:47.177] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (35, 2) (Map: world)
+[05Jul2025 07:52:01.894] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (36, 2) (Map: world)
+[05Jul2025 07:52:11.377] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (36, 2) (Map: world)
+[05Jul2025 07:52:35.523] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (35, 2) (Map: world)
+[05Jul2025 07:52:46.518] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (35, 3) (Map: world)
+[05Jul2025 07:52:50.172] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (33, 3) (Map: world)
+[05Jul2025 07:52:50.179] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (33, 2) (Map: world)
+[05Jul2025 07:52:54.859] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (35, 3) (Map: world)
+[05Jul2025 07:53:03.336] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (33, 2) (Map: world)
+[05Jul2025 07:53:17.036] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (36, 2) (Map: world)
+[05Jul2025 07:53:29.979] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (36, 2) (Map: world)
+[05Jul2025 07:53:35.805] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (36, 2) (Map: world)
+[05Jul2025 07:53:37.669] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (34, 3) (Map: world)
+[05Jul2025 07:53:55.583] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (34, 2) (Map: world)
+[05Jul2025 07:53:59.162] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (36, 2) (Map: world)
+[05Jul2025 07:54:02.018] [Server thread/DEBUG] [mixin/]: Mixing world.explosions.block_raycast.ServerExplosionMixin from lithium.mixins.json into net.minecraft.world.level.ServerExplosion
+[05Jul2025 07:54:02.047] [Server thread/DEBUG] [mixin/]: Mixing world.explosions.entity_raycast.ServerExplosionMixin from lithium.mixins.json into net.minecraft.world.level.ServerExplosion
+[05Jul2025 07:54:02.048] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$simplifyRaycast$0(Lnet/minecraft/world/level/ClipContext;)Lnet/minecraft/world/phys/BlockHitResult; to md649370$lithium$lambda$simplifyRaycast$0$0 in lithium.mixins.json:world.explosions.entity_raycast.ServerExplosionMixin from mod lithium
+[05Jul2025 07:54:02.065] [Server thread/DEBUG] [mixin/]: lithium.mixins.json:world.explosions.block_raycast.ServerExplosionMixin from mod lithium->@Inject::init(Lnet/minecraft/server/level/ServerLevel;Lnet/minecraft/world/entity/Entity;Lnet/minecraft/world/damagesource/DamageSource;Lnet/minecraft/world/level/ExplosionDamageCalculator;Lnet/minecraft/world/phys/Vec3;FZLnet/minecraft/world/level/Explosion$BlockInteraction;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V doesn't use it's CallbackInfo
+[05Jul2025 07:54:02.065] [Server thread/DEBUG] [mixin/]: lithium.mixins.json:world.explosions.block_raycast.ServerExplosionMixin from mod lithium->@Inject::init(Lnet/minecraft/server/level/ServerLevel;Lnet/minecraft/world/entity/Entity;Lnet/minecraft/world/damagesource/DamageSource;Lnet/minecraft/world/level/ExplosionDamageCalculator;Lnet/minecraft/world/phys/Vec3;FZLnet/minecraft/world/level/Explosion$BlockInteraction;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V has 0 override(s) in child classes
+[05Jul2025 07:54:02.065] [Server thread/DEBUG] [mixin/]: lithium.mixins.json:world.explosions.block_raycast.ServerExplosionMixin from mod lithium->@Inject::init(Lnet/minecraft/server/level/ServerLevel;Lnet/minecraft/world/entity/Entity;Lnet/minecraft/world/damagesource/DamageSource;Lnet/minecraft/world/level/ExplosionDamageCalculator;Lnet/minecraft/world/phys/Vec3;FZLnet/minecraft/world/level/Explosion$BlockInteraction;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V won't be passed a CallbackInfo as a result
+[05Jul2025 07:54:02.065] [Server thread/DEBUG] [mixin/]: lithium.mixins.json:world.explosions.block_raycast.ServerExplosionMixin from mod lithium->@Inject::collectBlocks(Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V does use it's CallbackInfoReturnable
+[05Jul2025 07:54:02.065] [Server thread/DEBUG] [mixin/]: lithium.mixins.json:world.explosions.entity_raycast.ServerExplosionMixin from mod lithium->@Inject::createMutableContext(Lnet/minecraft/world/phys/Vec3;Lnet/minecraft/world/entity/Entity;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V doesn't use it's CallbackInfoReturnable
+[05Jul2025 07:54:02.071] [Server thread/DEBUG] [mixin/]: Mixing alloc.explosion_behavior.EntityBasedExplosionDamageCalculatorMixin from lithium.mixins.json into net.minecraft.world.level.EntityBasedExplosionDamageCalculator
+[05Jul2025 07:54:02.080] [Server thread/DEBUG] [mixin/]: Generating mapped inner class net/minecraft/world/level/ServerExplosion$Anonymous$d9ec9abc22c047eb85839ee2c64fc039 (originally net/caffeinemc/mods/lithium/mixin/world/explosions/entity_raycast/ServerExplosionMixin$1)
+[05Jul2025 07:54:12.221] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (34, 2) (Map: world)
+[05Jul2025 07:54:12.514] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (36, 3) (Map: world)
+[05Jul2025 07:54:12.522] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (36, 2) (Map: world)
+[05Jul2025 07:54:30.838] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (36, 3) (Map: world)
+[05Jul2025 07:54:31.848] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (36, 2) (Map: world)
+[05Jul2025 07:54:38.729] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=18134, y=70, z=1583} BlockPos{x=18133, y=69, z=1583}
+[05Jul2025 07:54:38.878] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=18134, y=70, z=1583} BlockPos{x=18135, y=70, z=1583}
+[05Jul2025 07:54:38.922] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=18134, y=70, z=1583} BlockPos{x=18135, y=70, z=1583}
+[05Jul2025 07:54:38.966] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=18134, y=70, z=1583} BlockPos{x=18135, y=70, z=1583}
+[05Jul2025 07:54:39.015] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=18134, y=70, z=1583} BlockPos{x=18135, y=70, z=1583}
+[05Jul2025 07:54:39.070] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=18134, y=70, z=1583} BlockPos{x=18135, y=70, z=1583}
+[05Jul2025 07:54:40.317] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=18134, y=69, z=1584} BlockPos{x=18134, y=70, z=1584}
+[05Jul2025 07:54:40.366] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=18134, y=69, z=1584} BlockPos{x=18134, y=70, z=1584}
+[05Jul2025 07:54:40.413] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=18134, y=69, z=1584} BlockPos{x=18134, y=70, z=1584}
+[05Jul2025 07:54:40.668] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (36, 3) (Map: world)
+[05Jul2025 07:54:40.701] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (36, 2) (Map: world)
+[05Jul2025 07:54:47.770] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=18130, y=71, z=1583} BlockPos{x=18126, y=73, z=1583}
+[05Jul2025 07:54:47.818] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=18130, y=71, z=1583} BlockPos{x=18127, y=73, z=1583}
+[05Jul2025 07:54:48.067] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=18127, y=73, z=1583} BlockPos{x=18128, y=72, z=1584}
+[05Jul2025 07:54:48.121] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=18127, y=73, z=1583} BlockPos{x=18128, y=72, z=1584}
+[05Jul2025 07:54:48.317] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=18127, y=73, z=1583} BlockPos{x=18129, y=73, z=1584}
+[05Jul2025 07:54:48.418] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=18127, y=73, z=1583} BlockPos{x=18128, y=72, z=1585}
+[05Jul2025 07:54:48.469] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=18127, y=73, z=1583} BlockPos{x=18128, y=72, z=1585}
+[05Jul2025 07:54:48.517] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=18127, y=73, z=1583} BlockPos{x=18128, y=72, z=1585}
+[05Jul2025 07:54:48.566] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=18127, y=73, z=1583} BlockPos{x=18128, y=72, z=1585}
+[05Jul2025 07:54:48.622] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=18127, y=73, z=1583} BlockPos{x=18128, y=72, z=1585}
+[05Jul2025 07:54:49.400] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (34, 2) (Map: world)
+[05Jul2025 07:54:49.410] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (36, 2) (Map: world)
+[05Jul2025 07:54:56.016] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=18129, y=71, z=1592} BlockPos{x=18129, y=72, z=1591}
+[05Jul2025 07:54:56.821] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=18130, y=71, z=1590} BlockPos{x=18129, y=72, z=1589}
+[05Jul2025 07:54:56.866] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=18130, y=71, z=1590} BlockPos{x=18129, y=72, z=1589}
+[05Jul2025 07:54:56.916] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=18130, y=71, z=1590} BlockPos{x=18129, y=72, z=1589}
+[05Jul2025 07:54:57.337] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (36, 2) (Map: world)
+[05Jul2025 07:54:57.617] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=18130, y=72, z=1589} BlockPos{x=18131, y=72, z=1589}
+[05Jul2025 07:54:58.667] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=18133, y=71, z=1589} BlockPos{x=18132, y=72, z=1587}
+[05Jul2025 07:54:58.717] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=18133, y=71, z=1589} BlockPos{x=18132, y=72, z=1587}
+[05Jul2025 07:54:58.767] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=18133, y=71, z=1589} BlockPos{x=18132, y=72, z=1587}
+[05Jul2025 07:54:58.817] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=18133, y=71, z=1589} BlockPos{x=18132, y=72, z=1587}
+[05Jul2025 07:54:59.067] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=18135, y=71, z=1587} BlockPos{x=18135, y=70, z=1588}
+[05Jul2025 07:54:59.165] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=18135, y=71, z=1586} BlockPos{x=18135, y=70, z=1587}
+[05Jul2025 07:54:59.215] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=18135, y=71, z=1586} BlockPos{x=18135, y=70, z=1587}
+[05Jul2025 07:54:59.270] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=18135, y=71, z=1586} BlockPos{x=18135, y=70, z=1587}
+[05Jul2025 07:54:59.319] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=18135, y=71, z=1586} BlockPos{x=18135, y=70, z=1587}
+[05Jul2025 07:54:59.369] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=18135, y=71, z=1586} BlockPos{x=18135, y=70, z=1587}
+[05Jul2025 07:54:59.417] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=18135, y=71, z=1586} BlockPos{x=18135, y=70, z=1587}
+[05Jul2025 07:54:59.470] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=18135, y=71, z=1586} BlockPos{x=18135, y=70, z=1587}
+[05Jul2025 07:54:59.520] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=18135, y=71, z=1586} BlockPos{x=18135, y=70, z=1587}
+[05Jul2025 07:54:59.769] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=18137, y=70, z=1586} BlockPos{x=18135, y=72, z=1586}
+[05Jul2025 07:54:59.820] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=18137, y=70, z=1586} BlockPos{x=18135, y=72, z=1586}
+[05Jul2025 07:54:59.868] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=18137, y=70, z=1586} BlockPos{x=18135, y=72, z=1586}
+[05Jul2025 07:54:59.916] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=18137, y=70, z=1586} BlockPos{x=18135, y=72, z=1586}
+[05Jul2025 07:55:02.922] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=18133, y=72, z=1589} BlockPos{x=18134, y=72, z=1589}
+[05Jul2025 07:55:02.966] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=18133, y=72, z=1589} BlockPos{x=18134, y=72, z=1589}
+[05Jul2025 07:55:03.016] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=18133, y=72, z=1589} BlockPos{x=18134, y=72, z=1589}
+[05Jul2025 07:55:03.068] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=18133, y=72, z=1589} BlockPos{x=18134, y=72, z=1589}
+[05Jul2025 07:55:03.118] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=18133, y=72, z=1589} BlockPos{x=18134, y=72, z=1589}
+[05Jul2025 07:55:03.166] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=18133, y=72, z=1589} BlockPos{x=18134, y=72, z=1589}
+[05Jul2025 07:55:03.217] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=18133, y=72, z=1589} BlockPos{x=18134, y=72, z=1589}
+[05Jul2025 07:55:03.266] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=18133, y=72, z=1589} BlockPos{x=18134, y=72, z=1589}
+[05Jul2025 07:55:03.311] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=18133, y=72, z=1589} BlockPos{x=18134, y=72, z=1589}
+[05Jul2025 07:55:03.366] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=18133, y=72, z=1589} BlockPos{x=18134, y=72, z=1589}
+[05Jul2025 07:55:03.416] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=18133, y=72, z=1589} BlockPos{x=18134, y=72, z=1589}
+[05Jul2025 07:55:06.262] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=18133, y=72, z=1593} BlockPos{x=18132, y=73, z=1592}
+[05Jul2025 07:55:06.968] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=18128, y=71, z=1592} BlockPos{x=18129, y=71, z=1593}
+[05Jul2025 07:55:07.369] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=18129, y=72, z=1594} BlockPos{x=18130, y=72, z=1593}
+[05Jul2025 07:55:07.471] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=18130, y=72, z=1593} BlockPos{x=18130, y=72, z=1594}
+[05Jul2025 07:55:07.517] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=18130, y=72, z=1593} BlockPos{x=18130, y=72, z=1594}
+[05Jul2025 07:55:07.571] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=18131, y=72, z=1594} BlockPos{x=18130, y=72, z=1594}
+[05Jul2025 07:55:09.021] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=18134, y=72, z=1594} BlockPos{x=18133, y=73, z=1593}
+[05Jul2025 07:55:09.072] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=18134, y=72, z=1594} BlockPos{x=18133, y=73, z=1593}
+[05Jul2025 07:55:09.120] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=18134, y=72, z=1594} BlockPos{x=18133, y=73, z=1593}
+[05Jul2025 07:55:09.167] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=18134, y=72, z=1594} BlockPos{x=18133, y=73, z=1593}
+[05Jul2025 07:55:09.217] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=18134, y=72, z=1594} BlockPos{x=18133, y=73, z=1593}
+[05Jul2025 07:55:09.269] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=18134, y=72, z=1594} BlockPos{x=18133, y=73, z=1593}
+[05Jul2025 07:55:09.318] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=18134, y=72, z=1594} BlockPos{x=18133, y=73, z=1593}
+[05Jul2025 07:55:09.372] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=18134, y=72, z=1594} BlockPos{x=18133, y=73, z=1593}
+[05Jul2025 07:55:09.419] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=18134, y=72, z=1594} BlockPos{x=18133, y=73, z=1593}
+[05Jul2025 07:55:09.474] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=18134, y=72, z=1594} BlockPos{x=18133, y=73, z=1593}
+[05Jul2025 07:55:09.521] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=18134, y=72, z=1594} BlockPos{x=18133, y=73, z=1593}
+[05Jul2025 07:55:09.573] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=18134, y=72, z=1594} BlockPos{x=18133, y=73, z=1593}
+[05Jul2025 07:55:09.616] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=18134, y=72, z=1594} BlockPos{x=18133, y=73, z=1593}
+[05Jul2025 07:55:09.673] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=18134, y=72, z=1594} BlockPos{x=18133, y=73, z=1593}
+[05Jul2025 07:55:09.720] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=18134, y=72, z=1594} BlockPos{x=18133, y=73, z=1593}
+[05Jul2025 07:55:09.767] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=18134, y=72, z=1594} BlockPos{x=18133, y=73, z=1593}
+[05Jul2025 07:55:12.567] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=18140, y=72, z=1593} BlockPos{x=18139, y=71, z=1594}
+[05Jul2025 07:55:12.623] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=18140, y=72, z=1593} BlockPos{x=18141, y=72, z=1593}
+[05Jul2025 07:55:12.666] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=18140, y=72, z=1593} BlockPos{x=18141, y=72, z=1593}
+[05Jul2025 07:55:12.720] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=18140, y=72, z=1593} BlockPos{x=18141, y=72, z=1593}
+[05Jul2025 07:55:12.771] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=18140, y=72, z=1593} BlockPos{x=18141, y=72, z=1593}
+[05Jul2025 07:55:12.816] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=18140, y=72, z=1593} BlockPos{x=18141, y=72, z=1593}
+[05Jul2025 07:55:12.869] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=18140, y=72, z=1593} BlockPos{x=18141, y=72, z=1593}
+[05Jul2025 07:55:12.914] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=18140, y=72, z=1593} BlockPos{x=18141, y=72, z=1593}
+[05Jul2025 07:55:12.963] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=18140, y=72, z=1593} BlockPos{x=18141, y=72, z=1593}
+[05Jul2025 07:55:19.808] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[05Jul2025 07:55:21.370] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=18133, y=72, z=1595} BlockPos{x=18135, y=73, z=1594}
+[05Jul2025 07:55:24.170] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=18132, y=72, z=1595} BlockPos{x=18133, y=72, z=1595}
+[05Jul2025 07:55:25.571] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=18131, y=72, z=1597} BlockPos{x=18130, y=73, z=1596}
+[05Jul2025 07:55:25.617] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=18131, y=72, z=1597} BlockPos{x=18130, y=73, z=1596}
+[05Jul2025 07:55:25.666] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=18131, y=72, z=1597} BlockPos{x=18130, y=73, z=1596}
+[05Jul2025 07:55:25.715] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=18131, y=72, z=1597} BlockPos{x=18130, y=73, z=1596}
+[05Jul2025 07:55:30.820] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (35, 2) (Map: world)
+[05Jul2025 07:55:34.312] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=18133, y=73, z=1586} BlockPos{x=18134, y=74, z=1584}
+[05Jul2025 07:55:42.569] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=18130, y=72, z=1582} BlockPos{x=18129, y=73, z=1582}
+[05Jul2025 07:55:46.318] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=18126, y=72, z=1582} BlockPos{x=18125, y=73, z=1582}
+[05Jul2025 07:56:15.963] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (36, 2) (Map: world)
+[05Jul2025 07:56:34.687] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (36, 2) (Map: world)
+[05Jul2025 07:57:02.201] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (35, 2) (Map: world)
+[05Jul2025 07:57:13.615] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (35, 2) (Map: world)
+[05Jul2025 07:57:23.665] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (35, 2) (Map: world)
+[05Jul2025 07:57:30.449] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (35, 2) (Map: world)
+[05Jul2025 07:57:38.472] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (35, 3) (Map: world)
+[05Jul2025 07:57:42.894] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (35, 2) (Map: world)
+[05Jul2025 07:57:49.808] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (35, 3) (Map: world)
+[05Jul2025 07:57:50.479] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (35, 2) (Map: world)
+[05Jul2025 07:58:00.460] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (35, 2) (Map: world)
+[05Jul2025 07:58:11.372] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (35, 2) (Map: world)
+[05Jul2025 07:58:15.936] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (35, 3) (Map: world)
+[05Jul2025 07:58:22.016] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (35, 2) (Map: world)
+[05Jul2025 07:58:32.066] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (35, 2) (Map: world)
+[05Jul2025 07:58:43.010] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (35, 2) (Map: world)
+[05Jul2025 07:58:50.960] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (35, 3) (Map: world)
+[05Jul2025 07:58:51.414] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (35, 2) (Map: world)
+[05Jul2025 07:59:01.015] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (35, 3) (Map: world)
+[05Jul2025 07:59:02.259] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (35, 2) (Map: world)
+[05Jul2025 07:59:30.346] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (35, 1) (Map: world)
+[05Jul2025 07:59:31.359] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (36, 1) (Map: world)
+[05Jul2025 07:59:33.697] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (34, 1) (Map: world)
+[05Jul2025 07:59:35.191] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (34, 3) (Map: world)
+[05Jul2025 07:59:45.109] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (34, 3) (Map: world)
+[05Jul2025 07:59:55.107] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (34, 3) (Map: world)
+[05Jul2025 07:59:57.405] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Byakoren is 77ebe240-f66a-4d07-ae88-a6df583c1a70
+[05Jul2025 07:59:57.456] [Netty Epoll Server IO #6/DEBUG] [net.neoforged.neoforge.network.filters.NetworkFilters/]: Injected net.neoforged.neoforge.network.filters.GenericPacketSplitter@70689110 into net.minecraft.network.Connection@35baaf21
+[05Jul2025 07:59:57.821] [Netty Epoll Server IO #6/DEBUG] [net.neoforged.neoforge.network.filters.NetworkFilters/]: Injected net.neoforged.neoforge.network.filters.GenericPacketSplitter@54f495dd into net.minecraft.network.Connection@35baaf21
+[05Jul2025 07:59:57.906] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Byakoren[/86.245.7.178:50428] logged in with entity id 18828 at (581.5367872241621, 59.875, 13666.300000011921)
+[05Jul2025 07:59:57.907] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/]: Sending 1483 recipes of the following types: [campfire_cooking, smoking, stonecutting, blasting, smelting, crafting, smithing]
+[05Jul2025 07:59:57.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Byakoren joined the game

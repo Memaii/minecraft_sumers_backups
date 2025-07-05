@@ -155,6 +155,7 @@
       "cooked_rabbit": "2025-07-03 21:40:43 +0000",
       "cooked_chicken": "2025-06-30 19:29:41 +0000",
       "potato": "2025-06-30 22:19:34 +0000",
+      "cooked_cod": "2025-07-05 07:41:17 +0000",
       "cod": "2025-07-03 08:53:48 +0000",
       "cooked_salmon": "2025-07-04 22:32:46 +0000"
     },
@@ -4634,6 +4635,12 @@
   "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
     "criteria": {
       "has_diamond_backpack": "2025-07-04 19:08:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_the_recipe": "2025-07-05 07:38:36 +0000"
     },
     "done": true
   },
