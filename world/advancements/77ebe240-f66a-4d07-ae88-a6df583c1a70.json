@@ -2281,10 +2281,11 @@
     "criteria": {
       "minecraft:crimson_forest": "2025-07-01 13:40:05 +0000",
       "minecraft:nether_wastes": "2025-06-30 23:26:56 +0000",
+      "minecraft:soul_sand_valley": "2025-07-05 08:51:54 +0000",
       "minecraft:warped_forest": "2025-06-30 23:33:05 +0000",
       "minecraft:basalt_deltas": "2025-07-02 16:05:42 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/building_blocks/diorite": {
     "criteria": {
@@ -5045,6 +5046,18 @@
   "minecraft:recipes/decorations/white_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-07-04 16:45:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-07-05 08:38:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/fast_travel": {
+    "criteria": {
+      "travelled": "2025-07-05 09:01:19 +0000"
     },
     "done": true
   },
