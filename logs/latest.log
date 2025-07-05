@@ -1727,3 +1727,33 @@ io.netty.channel.unix.Errors$NativeIoException: recvAddress(..) failed: Connecti
 [04Jul2025 21:58:52.834] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Redoxlyy moved too quickly! 2323.1788966151357,51.5,-3098.9608350659128
 [04Jul2025 21:59:02.796] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/382863, l='ServerLevel[world]', x=1883.65, y=65.88, z=143.30] died, message: 'Librarian suffocated in a wall'
 [04Jul2025 21:59:11.124] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Redoxlyy moved too quickly! -2318.8050531986914,-47.0625,3099.168057405382
+[04Jul2025 22:11:10.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Redoxlyy has made the advancement [Enchanter]
+[04Jul2025 22:12:06.827] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Redoxlyy moved too quickly! -2318.6911452762974,-47.0625,3099.4198638927273
+[04Jul2025 22:20:08.235] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Redoxlyy moved too quickly! -2318.555550606189,-47.0625,3099.6725695784276
+[04Jul2025 22:23:43.316] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! -4867.808782747301,34.5625,3881.228763020093
+[04Jul2025 22:23:43.324] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! -4867.808782747301,34.5625,3881.228763020093
+[04Jul2025 22:23:43.332] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! -4867.808782747301,34.5625,3881.228763020093
+[04Jul2025 22:24:01.685] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 4864.986781294621,-30.087500000000006,-3882.2453632265524
+[04Jul2025 22:24:12.699] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss lost connection: Disconnected
+[04Jul2025 22:24:12.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blackliss left the game
+[04Jul2025 22:24:18.450] [User Authenticator #33/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Blackliss is 5750e528-e519-43d6-b148-76e08d2e1b2e
+[04Jul2025 22:24:18.696] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Blackliss[/192.168.1.254:63471] logged in with entity id 416203 at (1938.7792740346893, 62.9375, 142.907285506816)
+[04Jul2025 22:24:18.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blackliss joined the game
+[04Jul2025 22:26:47.971] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Redoxlyy moved too quickly! 2323.0487236389536,51.5,-3098.2750422884387
+[04Jul2025 22:30:34.127] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Redoxlyy moved too quickly! 31.69566229290649,151.5625,2.695245056843248
+[04Jul2025 22:34:23.050] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/385582, l='ServerLevel[world]', x=1883.44, y=65.88, z=143.74] died, message: 'Villager suffocated in a wall'
+[04Jul2025 22:36:08.304] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Redoxlyy lost connection: Disconnected
+[04Jul2025 22:36:08.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Redoxlyy left the game
+[04Jul2025 22:39:00.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blackliss fell from a high place
+[04Jul2025 22:39:04.979] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! -32.30529569278883,-146.25,-2.7027997841791773
+[04Jul2025 22:39:21.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blackliss fell from a high place
+[04Jul2025 22:39:25.919] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! -32.40613690562259,-146.25,-3.511012199368878
+[04Jul2025 22:39:40.853] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 33.4169861474486,151.5625,3.7348336482066316
+[04Jul2025 22:39:40.868] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 33.4169861474486,151.5625,3.7348336482066316
+[04Jul2025 22:39:40.882] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 33.4169861474486,151.5625,3.7348336482066316
+[04Jul2025 22:39:47.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blackliss fell from a high place
+[04Jul2025 22:40:03.187] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 32.36883492844004,151.5625,4.0178284377494435
+[04Jul2025 22:40:29.656] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss lost connection: Disconnected
+[04Jul2025 22:40:29.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blackliss left the game
+[04Jul2025 22:41:29.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Server empty for 60 seconds, pausing
+[04Jul2025 22:42:34.877] [RCON Client /192.168.1.254 #2/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /192.168.1.254 shutting down
