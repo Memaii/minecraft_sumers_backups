@@ -4398,5 +4398,17 @@
     },
     "done": true
   },
+  "minecraft:end/dragon_egg": {
+    "criteria": {
+      "dragon_egg": "2025-07-06 08:05:46 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_2": {
+    "criteria": {
+      "has_stack_upgrade_tier_1": "2025-07-06 09:10:02 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 4189
 }

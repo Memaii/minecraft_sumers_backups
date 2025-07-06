@@ -7,35 +7,20 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:cold_ocean": "2025-07-01 00:01:26 +0000",
       "minecraft:snowy_slopes": "2025-07-03 01:32:29 +0000",
       "minecraft:old_growth_pine_taiga": "2025-07-01 17:35:36 +0000",
       "minecraft:mushroom_fields": "2025-07-02 20:51:03 +0000",
-      "minecraft:forest": "2025-06-30 20:23:17 +0000",
       "minecraft:taiga": "2025-07-01 00:02:06 +0000",
       "minecraft:deep_ocean": "2025-06-30 23:44:24 +0000",
-      "minecraft:lush_caves": "2025-06-30 22:11:58 +0000",
-      "minecraft:deep_cold_ocean": "2025-07-01 00:01:13 +0000",
-      "minecraft:ice_spikes": "2025-07-01 00:06:27 +0000",
-      "minecraft:frozen_ocean": "2025-07-01 00:11:12 +0000",
       "minecraft:eroded_badlands": "2025-06-30 23:19:34 +0000",
-      "minecraft:desert": "2025-06-30 22:17:43 +0000",
       "minecraft:frozen_river": "2025-07-01 00:04:36 +0000",
-      "minecraft:jungle": "2025-06-30 22:11:26 +0000",
-      "minecraft:ocean": "2025-06-30 23:42:53 +0000",
       "minecraft:cherry_grove": "2025-06-30 21:10:33 +0000",
       "minecraft:sunflower_plains": "2025-06-30 21:08:59 +0000",
       "minecraft:birch_forest": "2025-06-30 21:24:53 +0000",
       "minecraft:windswept_hills": "2025-06-30 21:55:47 +0000",
-      "minecraft:old_growth_spruce_taiga": "2025-07-01 00:01:58 +0000",
-      "minecraft:snowy_beach": "2025-07-01 00:10:41 +0000",
       "minecraft:bamboo_jungle": "2025-06-30 20:24:21 +0000",
       "minecraft:wooded_badlands": "2025-06-30 22:17:44 +0000",
-      "minecraft:windswept_savanna": "2025-07-01 07:55:51 +0000",
-      "minecraft:warm_ocean": "2025-06-30 19:16:45 +0000",
-      "minecraft:deep_lukewarm_ocean": "2025-06-30 19:32:01 +0000",
       "minecraft:badlands": "2025-06-30 23:05:24 +0000",
-      "minecraft:flower_forest": "2025-07-04 22:06:40 +0000",
       "minecraft:savanna_plateau": "2025-06-30 23:50:39 +0000",
       "minecraft:beach": "2025-06-30 19:36:20 +0000",
       "minecraft:dark_forest": "2025-06-30 22:04:24 +0000",
@@ -48,13 +33,29 @@
       "minecraft:snowy_plains": "2025-07-01 00:04:48 +0000",
       "minecraft:dripstone_caves": "2025-06-30 21:06:03 +0000",
       "minecraft:snowy_taiga": "2025-07-01 00:04:29 +0000",
+      "minecraft:swamp": "2025-07-05 17:22:22 +0000",
+      "minecraft:jagged_peaks": "2025-07-03 01:34:34 +0000",
+      "minecraft:cold_ocean": "2025-07-01 00:01:26 +0000",
+      "minecraft:forest": "2025-06-30 20:23:17 +0000",
+      "minecraft:lush_caves": "2025-06-30 22:11:58 +0000",
+      "minecraft:deep_cold_ocean": "2025-07-01 00:01:13 +0000",
+      "minecraft:ice_spikes": "2025-07-01 00:06:27 +0000",
+      "minecraft:frozen_ocean": "2025-07-01 00:11:12 +0000",
+      "minecraft:desert": "2025-06-30 22:17:43 +0000",
+      "minecraft:jungle": "2025-06-30 22:11:26 +0000",
+      "minecraft:ocean": "2025-06-30 23:42:53 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-07-01 00:01:58 +0000",
+      "minecraft:snowy_beach": "2025-07-01 00:10:41 +0000",
+      "minecraft:windswept_savanna": "2025-07-01 07:55:51 +0000",
+      "minecraft:warm_ocean": "2025-06-30 19:16:45 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-06-30 19:32:01 +0000",
+      "minecraft:flower_forest": "2025-07-04 22:06:40 +0000",
       "minecraft:old_growth_birch_forest": "2025-06-30 20:25:14 +0000",
       "minecraft:deep_dark": "2025-07-03 11:57:49 +0000",
-      "minecraft:swamp": "2025-07-05 17:22:22 +0000",
       "minecraft:meadow": "2025-06-30 21:12:51 +0000",
       "minecraft:savanna": "2025-06-30 19:46:17 +0000",
       "minecraft:plains": "2025-06-30 19:43:04 +0000",
-      "minecraft:jagged_peaks": "2025-07-03 01:34:34 +0000"
+      "minecraft:pale_garden": "2025-07-06 09:33:27 +0000"
     },
     "done": false
   },
@@ -4934,9 +4935,87 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/pale_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-06 09:52:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:end/dragon_egg": {
     "criteria": {
       "dragon_egg": "2025-07-06 07:58:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pale_oak_fence": {
+    "criteria": {
+      "has_planks": "2025-07-06 09:52:06 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/advanced_magnet_upgrade_from_basic": {
+    "criteria": {
+      "has_magnet_upgrade": "2025-07-06 08:46:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pale_oak_slab": {
+    "criteria": {
+      "has_planks": "2025-07-06 09:52:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/pale_oak_door": {
+    "criteria": {
+      "has_planks": "2025-07-06 09:52:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/pale_oak_button": {
+    "criteria": {
+      "has_planks": "2025-07-06 09:52:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pale_moss_carpet": {
+    "criteria": {
+      "has_pale_moss_block": "2025-07-06 09:33:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/pale_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-06 09:52:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pale_oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-06 09:52:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pale_oak_planks": {
+    "criteria": {
+      "has_log": "2025-07-06 09:33:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/pale_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-07-06 09:52:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pale_oak_sign": {
+    "criteria": {
+      "has_planks": "2025-07-06 09:52:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pale_oak_wood": {
+    "criteria": {
+      "has_log": "2025-07-06 09:33:31 +0000"
     },
     "done": true
   },

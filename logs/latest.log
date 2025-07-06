@@ -1766,3 +1766,250 @@
 [06Jul2025 08:00:09.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1605858 chunks (45.58%), ETA: 25:35:26, Rate: 20.8 cps, Current: 387, -630
 [06Jul2025 08:00:10.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1605867 chunks (45.58%), ETA: 27:37:24, Rate: 19.3 cps, Current: 385, -628
 [06Jul2025 08:00:11.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1605888 chunks (45.58%), ETA: 28:24:33, Rate: 18.7 cps, Current: 386, -621
+[06Jul2025 08:00:12.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1605909 chunks (45.58%), ETA: 28:40:59, Rate: 18.6 cps, Current: 389, -623
+[06Jul2025 08:00:13.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1605914 chunks (45.58%), ETA: 28:41:07, Rate: 18.6 cps, Current: 389, -621
+[06Jul2025 08:00:15.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1605928 chunks (45.58%), ETA: 30:17:04, Rate: 17.6 cps, Current: 387, -618
+[06Jul2025 08:00:16.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1605958 chunks (45.58%), ETA: 30:42:13, Rate: 17.3 cps, Current: 386, -613
+[06Jul2025 08:00:35.527] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 18980ms or 379 ticks behind
+[06Jul2025 08:00:35.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1606008 chunks (45.58%), ETA: 71:29:31, Rate: 7.4 cps, Current: 390, -616
+[06Jul2025 08:00:36.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1606017 chunks (45.58%), ETA: 69:33:52, Rate: 7.7 cps, Current: 393, -612
+[06Jul2025 08:00:37.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1606060 chunks (45.59%), ETA: 67:13:19, Rate: 7.9 cps, Current: 398, -612
+[06Jul2025 08:00:40.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1606086 chunks (45.59%), ETA: 78:42:17, Rate: 6.8 cps, Current: 393, -618
+[06Jul2025 08:00:43.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1606120 chunks (45.59%), ETA: 75:41:14, Rate: 7.0 cps, Current: 393, -622
+[06Jul2025 08:00:49.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1606137 chunks (45.59%), ETA: 58:54:08, Rate: 9.0 cps, Current: 400, -623
+[06Jul2025 08:00:51.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1606161 chunks (45.59%), ETA: 55:46:23, Rate: 9.5 cps, Current: 401, -620
+[06Jul2025 08:00:52.681] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2184ms or 43 ticks behind
+[06Jul2025 08:00:52.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1606212 chunks (45.59%), ETA: 44:41:39, Rate: 11.9 cps, Current: 400, -616
+[06Jul2025 08:00:55.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1606244 chunks (45.59%), ETA: 43:45:40, Rate: 12.2 cps, Current: 406, -611
+[06Jul2025 08:00:56.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1606273 chunks (45.59%), ETA: 42:48:46, Rate: 12.4 cps, Current: 408, -616
+[06Jul2025 08:00:59.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1606275 chunks (45.59%), ETA: 47:15:06, Rate: 11.3 cps, Current: 409, -615
+[06Jul2025 08:01:00.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1606294 chunks (45.59%), ETA: 46:31:32, Rate: 11.4 cps, Current: 408, -609
+[06Jul2025 08:01:03.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1606331 chunks (45.59%), ETA: 45:15:45, Rate: 11.8 cps, Current: 415, -616
+[06Jul2025 08:01:04.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1606374 chunks (45.60%), ETA: 41:26:54, Rate: 12.8 cps, Current: 410, -623
+[06Jul2025 08:01:05.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1606419 chunks (45.60%), ETA: 38:44:00, Rate: 13.7 cps, Current: 414, -630
+[06Jul2025 08:01:06.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1606469 chunks (45.60%), ETA: 35:09:01, Rate: 15.1 cps, Current: 406, -627
+[06Jul2025 08:01:08.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1606529 chunks (45.60%), ETA: 33:40:50, Rate: 15.8 cps, Current: 400, -636
+[06Jul2025 08:01:10.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1606587 chunks (45.60%), ETA: 31:22:33, Rate: 17.0 cps, Current: 407, -637
+[06Jul2025 08:01:13.775] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3277ms or 65 ticks behind
+[06Jul2025 08:01:14.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1606637 chunks (45.60%), ETA: 25:38:13, Rate: 20.8 cps, Current: 414, -636
+[06Jul2025 08:01:29.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1606657 chunks (45.60%), ETA: 41:11:43, Rate: 12.9 cps, Current: 353, -636
+[06Jul2025 08:01:31.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1606713 chunks (45.60%), ETA: 38:46:08, Rate: 13.7 cps, Current: 356, -639
+[06Jul2025 08:01:32.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1606719 chunks (45.60%), ETA: 40:06:40, Rate: 13.3 cps, Current: 359, -639
+[06Jul2025 08:01:33.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1606765 chunks (45.61%), ETA: 40:28:22, Rate: 13.2 cps, Current: 364, -633
+[06Jul2025 08:01:35.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1606791 chunks (45.61%), ETA: 42:16:06, Rate: 12.6 cps, Current: 365, -632
+[06Jul2025 08:01:36.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1606817 chunks (45.61%), ETA: 45:18:15, Rate: 11.7 cps, Current: 363, -628
+[06Jul2025 08:01:37.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1606838 chunks (45.61%), ETA: 48:43:47, Rate: 10.9 cps, Current: 362, -625
+[06Jul2025 08:01:38.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1606882 chunks (45.61%), ETA: 44:14:03, Rate: 12.0 cps, Current: 354, -632
+[06Jul2025 08:01:39.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1606897 chunks (45.61%), ETA: 49:52:57, Rate: 10.7 cps, Current: 353, -629
+[06Jul2025 08:01:45.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1606931 chunks (45.61%), ETA: 31:35:24, Rate: 16.8 cps, Current: 356, -622
+[06Jul2025 08:01:45.863] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Redoxlyy moved too quickly! -5.016871706527013,-1.4115321421703015,16.686209779420892
+[06Jul2025 08:01:45.866] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3169ms or 63 ticks behind
+[06Jul2025 08:01:46.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1606949 chunks (45.61%), ETA: 31:35:21, Rate: 16.8 cps, Current: 354, -619
+[06Jul2025 08:01:47.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1606998 chunks (45.61%), ETA: 29:01:02, Rate: 18.3 cps, Current: 353, -610
+[06Jul2025 08:01:48.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1607014 chunks (45.61%), ETA: 29:32:24, Rate: 18.0 cps, Current: 357, -612
+[06Jul2025 08:01:49.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1607059 chunks (45.61%), ETA: 27:35:59, Rate: 19.3 cps, Current: 362, -609
+[06Jul2025 08:01:51.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1607083 chunks (45.62%), ETA: 27:26:26, Rate: 19.4 cps, Current: 364, -610
+[06Jul2025 08:01:51.962] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Redoxlyy moved too quickly! -5.137961889221174,-1.7997258351532537,17.102242168159023
+[06Jul2025 08:01:52.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1607169 chunks (45.62%), ETA: 24:20:11, Rate: 21.9 cps, Current: 368, -624
+[06Jul2025 08:01:53.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1607178 chunks (45.62%), ETA: 25:06:01, Rate: 21.2 cps, Current: 370, -622
+[06Jul2025 08:01:54.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1607229 chunks (45.62%), ETA: 24:03:03, Rate: 22.1 cps, Current: 375, -617
+[06Jul2025 08:01:56.785] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Redoxlyy moved too quickly! -5.058784827029797,-1.4875944698300145,16.838698582795473
+[06Jul2025 08:01:56.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1607244 chunks (45.62%), ETA: 25:08:39, Rate: 21.2 cps, Current: 368, -615
+[06Jul2025 08:02:09.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1607279 chunks (45.62%), ETA: 37:19:54, Rate: 14.3 cps, Current: 374, -612
+[06Jul2025 08:02:10.786] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Redoxlyy moved too quickly! -1.6646039531498218,-17.311468947315916,5.793526021308708
+[06Jul2025 08:02:14.258] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Redoxlyy moved too quickly! -2.4099202518223706,-17.29744849948176,3.238685276602041
+[06Jul2025 08:02:14.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1607297 chunks (45.62%), ETA: 41:57:33, Rate: 12.7 cps, Current: 378, -609
+[06Jul2025 08:02:15.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1607353 chunks (45.62%), ETA: 38:34:56, Rate: 13.8 cps, Current: 381, -616
+[06Jul2025 08:02:16.936] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Redoxlyy moved too quickly! -13.349561388946483,-2.496445591200569,10.946623314053681
+[06Jul2025 08:02:16.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1607403 chunks (45.62%), ETA: 38:24:41, Rate: 13.9 cps, Current: 380, -621
+[06Jul2025 08:02:18.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1607431 chunks (45.63%), ETA: 41:21:30, Rate: 12.9 cps, Current: 381, -627
+[06Jul2025 08:02:19.290] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Redoxlyy moved too quickly! -5.612156429452455,-2.047898956793489,18.09757564479287
+[06Jul2025 08:02:19.314] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Redoxlyy moved too quickly! -5.110638747396081,-1.874075433656941,16.44673962127672
+[06Jul2025 08:02:19.925] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 19076ms or 381 ticks behind
+[06Jul2025 08:02:20.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1607489 chunks (45.63%), ETA: 38:08:53, Rate: 13.9 cps, Current: 375, -625
+[06Jul2025 08:02:21.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1607517 chunks (45.63%), ETA: 44:01:41, Rate: 12.1 cps, Current: 369, -629
+[06Jul2025 08:02:22.029] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Redoxlyy moved too quickly! -4.727411329191284,-1.8119776798752412,17.258247432755752
+[06Jul2025 08:02:24.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1607581 chunks (45.63%), ETA: 45:09:53, Rate: 11.8 cps, Current: 370, -636
+[06Jul2025 08:02:45.859] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Redoxlyy moved too quickly! -5.024316455937935,-1.5095696868091864,17.18282953380458
+[06Jul2025 08:02:45.891] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! -9.884076759070695,1.0,1.5515273981578162
+[06Jul2025 08:02:45.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1607681 chunks (45.63%), ETA: 55:22:17, Rate: 9.6 cps, Current: 321, -638
+[06Jul2025 08:02:47.188] [User Authenticator #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Byakoren is 77ebe240-f66a-4d07-ae88-a6df583c1a70
+[06Jul2025 08:02:47.939] [Worker-Main-10/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1607731 chunks (45.63%), ETA: 51:20:19, Rate: 10.4 cps, Current: 325, -638
+[06Jul2025 08:02:47.992] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Redoxlyy moved too quickly! -5.110815861748279,-1.6764514321831712,17.92087512643957
+[06Jul2025 08:02:49.177] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14280ms or 285 ticks behind
+[06Jul2025 08:02:49.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1607737 chunks (45.63%), ETA: 61:59:53, Rate: 8.6 cps, Current: 326, -639
+[06Jul2025 08:02:50.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1607773 chunks (45.63%), ETA: 60:11:28, Rate: 8.8 cps, Current: 332, -636
+[06Jul2025 08:02:50.596] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Redoxlyy moved too quickly! -4.599321231877298,-1.6638190850855779,17.38608595353776
+[06Jul2025 08:02:54.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1607787 chunks (45.64%), ETA: 76:26:10, Rate: 7.0 cps, Current: 334, -633
+[06Jul2025 08:02:54.643] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Redoxlyy moved too quickly! -3.984296179279852,-7.408445674450917,15.440413236926815
+[06Jul2025 08:02:56.150] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Byakoren[/86.245.7.178:58585] logged in with entity id 29826 at (306.7044027415479, 128.0, 1863.9939161309258)
+[06Jul2025 08:02:56.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Byakoren joined the game
+[06Jul2025 08:02:57.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1607811 chunks (45.64%), ETA: 47:08:37, Rate: 11.3 cps, Current: 328, -631
+[06Jul2025 08:02:59.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1607841 chunks (45.64%), ETA: 45:03:00, Rate: 11.8 cps, Current: 333, -628
+[06Jul2025 08:03:01.040] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Redoxlyy moved too quickly! 5.776682765263217,-17.391079925839264,-2.6183184999808873
+[06Jul2025 08:03:01.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1607865 chunks (45.64%), ETA: 43:17:20, Rate: 12.3 cps, Current: 329, -628
+[06Jul2025 08:03:02.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1607885 chunks (45.64%), ETA: 41:59:42, Rate: 12.7 cps, Current: 324, -625
+[06Jul2025 08:03:03.549] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Redoxlyy moved too quickly! 3.076904333113305,-16.477105354056064,7.193950608191017
+[06Jul2025 08:03:03.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1607905 chunks (45.64%), ETA: 41:30:55, Rate: 12.8 cps, Current: 321, -632
+[06Jul2025 08:03:04.684] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Redoxlyy moved too quickly! 4.249584916316508,-15.405250957467146,9.924038986298683
+[06Jul2025 08:03:05.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1607915 chunks (45.64%), ETA: 45:04:47, Rate: 11.8 cps, Current: 321, -630
+[06Jul2025 08:03:07.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1607968 chunks (45.64%), ETA: 39:12:30, Rate: 13.6 cps, Current: 327, -621
+[06Jul2025 08:03:08.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Redoxlyy> le serveur est en train de mourir jcrois
+[06Jul2025 08:03:10.246] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6098ms or 121 ticks behind
+[06Jul2025 08:03:18.560] [Chunky-minecraft:overworld Thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task stopped for minecraft:overworld.
+[06Jul2025 08:03:28.642] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Redoxlyy moved too quickly! -12.35435403767832,-1.1557950373957198,13.052711522142317
+[06Jul2025 08:03:31.242] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6045ms or 120 ticks behind
+[06Jul2025 08:03:53.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Byakoren has reached the goal [The Next Generation]
+[06Jul2025 08:03:53.733] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7535ms or 150 ticks behind
+[06Jul2025 08:04:18.770] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3073ms or 61 ticks behind
+[06Jul2025 08:04:18.826] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Redoxlyy moved too quickly! 0.16093490787943665,1.0,-10.113242186712682
+[06Jul2025 08:04:29.463] [User Authenticator #6/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Fullavatar is fd102774-21c2-4b99-9396-f454ead0849c
+[06Jul2025 08:04:31.624] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Fullavatar[/93.19.138.72:52646] logged in with entity id 30637 at (286.889221926431, 207.5, 1858.5512386735543)
+[06Jul2025 08:04:32.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fullavatar joined the game
+[06Jul2025 08:04:39.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Redoxlyy> jsuis le seul à avoir des enormes rollsbacks là ?
+[06Jul2025 08:04:40.903] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7155ms or 143 ticks behind
+[06Jul2025 08:04:43.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Byakoren> nop
+[06Jul2025 08:04:46.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Fullavatar> nop
+[06Jul2025 08:04:49.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Byakoren> c'est sa génération
+[06Jul2025 08:04:50.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Fullavatar> noob
+[06Jul2025 08:04:53.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Fullavatar> bite
+[06Jul2025 08:04:58.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Redoxlyy> oh ptnn
+[06Jul2025 08:05:45.842] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Byakoren moved too quickly! -14.009568396989266,80.5,-1.0954451313139089
+[06Jul2025 08:05:46.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Redoxlyy has reached the goal [The Next Generation]
+[06Jul2025 08:07:21.293] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2046ms or 40 ticks behind
+[06Jul2025 08:07:33.343] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! -1319.5981344588083,55.5,62.80000001192093
+[06Jul2025 08:07:33.351] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! -1319.5981344588083,55.5,62.80000001192093
+[06Jul2025 08:07:33.371] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! -1319.5981344588083,55.5,62.80000001192093
+[06Jul2025 08:07:33.378] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! -1319.5981344588083,55.5,62.80000001192093
+[06Jul2025 08:07:38.843] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2596ms or 51 ticks behind
+[06Jul2025 08:07:49.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Blackliss> Vous laguez encore ou ?
+[06Jul2025 08:08:03.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Redoxlyy> nan c'est bon
+[06Jul2025 08:08:17.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Blackliss> Té ki ?
+[06Jul2025 08:09:07.567] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Redoxlyy lost connection: Disconnected
+[06Jul2025 08:09:07.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Redoxlyy left the game
+[06Jul2025 08:10:04.719] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Byakoren lost connection: Disconnected
+[06Jul2025 08:10:04.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Byakoren left the game
+[06Jul2025 08:10:09.553] [User Authenticator #7/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Byakoren is 77ebe240-f66a-4d07-ae88-a6df583c1a70
+[06Jul2025 08:10:10.939] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Byakoren[/86.245.7.178:59061] logged in with entity id 35592 at (570.7752840616469, 63.0, 13665.261091120205)
+[06Jul2025 08:10:10.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Byakoren joined the game
+[06Jul2025 08:11:22.595] [User Authenticator #8/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Redoxlyy is 82c71c85-d9c9-4197-a7c6-61b8ee4b34c7
+[06Jul2025 08:11:24.028] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Redoxlyy[/89.80.190.53:51943] logged in with entity id 36147 at (-175.33231396708703, 63.0, 2691.4133747956507)
+[06Jul2025 08:11:24.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Redoxlyy joined the game
+[06Jul2025 08:11:54.528] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /192.168.1.254 started
+[06Jul2025 08:15:29.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Blackliss: Teleported Blackliss to 445.500000, 259.000000, 227.500000]
+[06Jul2025 08:15:51.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Blackliss> C'est pour le spawn, calmez vous j'étais déjà sur place
+[06Jul2025 08:16:03.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Byakoren> ?
+[06Jul2025 08:16:06.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Fullavatar> ?
+[06Jul2025 08:16:10.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Blackliss> C'est pour Full, tkt bg
+[06Jul2025 08:16:19.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Blackliss> Ha ca affiche pas quand je me tp ? Bah super ce jeu '-'
+[06Jul2025 08:16:26.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Fullavatar> Ah si
+[06Jul2025 08:22:02.241] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 35.1666472320519,151.5625,2.950208837165121
+[06Jul2025 08:22:03.650] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6916, y=77, z=48} BlockPos{x=6917, y=75, z=48}
+[06Jul2025 08:23:05.738] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Redoxlyy moved too quickly! -4865.153003643103,202.5,3780.700940422539
+[06Jul2025 08:23:49.726] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Byakoren moved too quickly! 1171.8362439803782,325.5,281.80000001192093
+[06Jul2025 08:23:49.734] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Byakoren moved too quickly! 1171.8362439803782,325.5,281.80000001192093
+[06Jul2025 08:23:49.743] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Byakoren moved too quickly! 1171.8362439803782,325.5,281.80000001192093
+[06Jul2025 08:25:09.375] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Byakoren moved too quickly! 44.36961429245025,51.5,604.425739446447
+[06Jul2025 08:25:09.384] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Byakoren moved too quickly! 44.36961429245025,51.5,604.425739446447
+[06Jul2025 08:25:09.392] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Byakoren moved too quickly! 44.36961429245025,51.5,604.425739446447
+[06Jul2025 08:26:47.918] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1917, y=212, z=141} BlockPos{x=1916, y=213, z=141}
+[06Jul2025 08:26:47.947] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1917, y=212, z=141} BlockPos{x=1916, y=212, z=141}
+[06Jul2025 08:27:15.343] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Redoxlyy moved too quickly! 4872.800000011921,-197.5,-3779.4086743289263
+[06Jul2025 08:27:34.986] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Byakoren moved too quickly! 1070.0890406838753,228.5,-290.9818251635005
+[06Jul2025 08:27:34.994] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Byakoren moved too quickly! 1070.0890406838753,228.5,-290.9818251635005
+[06Jul2025 08:28:44.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Redoxlyy fell from a high place
+[06Jul2025 08:28:53.646] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Redoxlyy moved too quickly! 4873.2918973396445,-198.0625,-3780.4662648845538
+[06Jul2025 08:32:30.628] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Redoxlyy moved too quickly! -3.9248907718772443,-14.299826096528037,11.11611425691018
+[06Jul2025 08:32:30.635] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 5.317366490784707,-14.73820915926376,7.8814952182489435
+[06Jul2025 08:32:55.830] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! -1263.310252517619,199.5,-70.94737305911121
+[06Jul2025 08:32:55.840] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! -1263.310252517619,199.5,-70.94737305911121
+[06Jul2025 08:32:55.848] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! -1263.310252517619,199.5,-70.94737305911121
+[06Jul2025 08:37:07.017] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fullavatar lost connection: Disconnected
+[06Jul2025 08:37:07.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fullavatar left the game
+[06Jul2025 08:37:47.489] [User Authenticator #9/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Fullavatar is fd102774-21c2-4b99-9396-f454ead0849c
+[06Jul2025 08:37:48.930] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Fullavatar[/93.19.138.72:53083] logged in with entity id 56236 at (282.4022770943289, 213.0, 1844.8026917867683)
+[06Jul2025 08:37:48.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fullavatar joined the game
+[06Jul2025 08:39:09.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Blackliss: Set own game mode to Creative Mode]
+[06Jul2025 08:40:24.667] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-422, y=74, z=627} BlockPos{x=-422, y=73, z=628}
+[06Jul2025 08:40:28.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Blackliss: Set own game mode to Survival Mode]
+[06Jul2025 08:43:06.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Blackliss: Set own game mode to Creative Mode]
+[06Jul2025 08:43:44.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Blackliss: Set own game mode to Survival Mode]
+[06Jul2025 08:45:09.789] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Redoxlyy moved too quickly! 82.57580199602543,-73.57913432607333,24.888358116455294
+[06Jul2025 08:46:43.871] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6825, y=70, z=181} BlockPos{x=6827, y=71, z=182}
+[06Jul2025 08:51:32.822] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! -1319.7646889195955,55.5,60.8168642649394
+[06Jul2025 08:51:32.834] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! -1319.7646889195955,55.5,60.8168642649394
+[06Jul2025 08:51:32.842] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! -1319.7646889195955,55.5,60.8168642649394
+[06Jul2025 08:53:08.621] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=468, y=261, z=209} BlockPos{x=467, y=260, z=208}
+[06Jul2025 08:53:08.768] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=468, y=261, z=209} BlockPos{x=469, y=261, z=209}
+[06Jul2025 08:53:08.821] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=468, y=261, z=209} BlockPos{x=468, y=260, z=208}
+[06Jul2025 08:53:08.868] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=468, y=261, z=209} BlockPos{x=469, y=260, z=207}
+[06Jul2025 08:53:08.970] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=469, y=260, z=207} BlockPos{x=468, y=260, z=207}
+[06Jul2025 08:53:09.222] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=470, y=260, z=208} BlockPos{x=470, y=260, z=207}
+[06Jul2025 08:53:09.286] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=470, y=260, z=208} BlockPos{x=471, y=260, z=208}
+[06Jul2025 08:53:09.369] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=471, y=260, z=208} BlockPos{x=471, y=260, z=207}
+[06Jul2025 08:53:09.418] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=471, y=260, z=208} BlockPos{x=471, y=260, z=207}
+[06Jul2025 08:54:12.317] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Redoxlyy lost connection: Disconnected
+[06Jul2025 08:54:12.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Redoxlyy left the game
+[06Jul2025 08:55:13.415] [User Authenticator #10/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Redoxlyy is 82c71c85-d9c9-4197-a7c6-61b8ee4b34c7
+[06Jul2025 08:55:15.262] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Redoxlyy[/89.80.190.53:52960] logged in with entity id 66520 at (1950.7934767194492, 210.9375, 137.81739742846926)
+[06Jul2025 08:55:15.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Redoxlyy joined the game
+[06Jul2025 08:55:29.844] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Redoxlyy moved too quickly! 4873.800000011921,-198.0625,-3781.348456263594
+[06Jul2025 08:57:36.439] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=468, y=260, z=209} BlockPos{x=469, y=260, z=209}
+[06Jul2025 08:57:36.474] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=468, y=260, z=209} BlockPos{x=469, y=260, z=209}
+[06Jul2025 08:57:36.519] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=468, y=260, z=209} BlockPos{x=469, y=260, z=209}
+[06Jul2025 08:57:40.572] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=470, y=260, z=207} BlockPos{x=472, y=260, z=207}
+[06Jul2025 08:57:40.688] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=470, y=260, z=207} BlockPos{x=473, y=260, z=207}
+[06Jul2025 08:57:46.222] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=474, y=260, z=208} BlockPos{x=469, y=260, z=210}
+[06Jul2025 08:57:46.270] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=474, y=260, z=208} BlockPos{x=469, y=260, z=210}
+[06Jul2025 08:57:46.378] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=474, y=260, z=208} BlockPos{x=471, y=260, z=210}
+[06Jul2025 08:57:46.472] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=474, y=260, z=208} BlockPos{x=472, y=260, z=210}
+[06Jul2025 08:59:05.546] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 1507.4099273212792,-45.5,-63.02491711861006
+[06Jul2025 08:59:57.936] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Redoxlyy moved too quickly! 59.434265240782906,143.5,168.98549077405576
+[06Jul2025 09:00:05.094] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Byakoren moved too quickly! 1087.621543680118,258.5,-340.52427444661896
+[06Jul2025 09:02:44.818] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fullavatar lost connection: Disconnected
+[06Jul2025 09:02:44.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fullavatar left the game
+[06Jul2025 09:02:53.498] [User Authenticator #11/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Fullavatar is fd102774-21c2-4b99-9396-f454ead0849c
+[06Jul2025 09:02:54.945] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Fullavatar[/93.19.138.72:53200] logged in with entity id 71915 at (285.30000001192093, 212.125, 1849.3912263750233)
+[06Jul2025 09:02:54.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fullavatar joined the game
+[06Jul2025 09:04:46.536] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Redoxlyy moved too quickly! 10.667656961488092,140.5,159.18737723702725
+[06Jul2025 09:05:11.170] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 1506.822618542098,-45.5,-61.628376419379435
+[06Jul2025 09:05:11.180] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 1506.822618542098,-45.5,-61.628376419379435
+[06Jul2025 09:05:11.188] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 1506.822618542098,-45.5,-61.628376419379435
+[06Jul2025 09:05:11.197] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 1506.822618542098,-45.5,-61.628376419379435
+[06Jul2025 09:05:48.833] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! -1319.7918710732931,55.5,60.875622199991994
+[06Jul2025 09:05:48.842] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! -1319.7918710732931,55.5,60.875622199991994
+[06Jul2025 09:12:27.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Applied effect Blindness to Blackliss]
+[06Jul2025 09:12:35.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Made Blackliss no longer a server operator]
+[06Jul2025 09:14:27.090] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Byakoren moved too quickly! -1043.8825088233718,10.5,-10289.410671086313
+[06Jul2025 09:15:09.294] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Byakoren moved wrongly!
+[06Jul2025 09:16:42.978] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6809, y=72, z=173} BlockPos{x=6811, y=72, z=173}
+[06Jul2025 09:19:38.036] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Redoxlyy moved too quickly! 2.8165292548607397,-1.5,149.1911077537392
+[06Jul2025 09:21:00.068] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Redoxlyy lost connection: Disconnected
+[06Jul2025 09:21:00.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Redoxlyy left the game
+[06Jul2025 09:21:06.368] [User Authenticator #12/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Redoxlyy is 82c71c85-d9c9-4197-a7c6-61b8ee4b34c7
+[06Jul2025 09:21:07.792] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Redoxlyy[/89.80.190.53:53321] logged in with entity id 81409 at (1965.300000011921, 211.0, 146.08727778261886)
+[06Jul2025 09:21:07.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Redoxlyy joined the game
+[06Jul2025 09:22:08.669] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Redoxlyy lost connection: Disconnected
+[06Jul2025 09:22:08.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Redoxlyy left the game
+[06Jul2025 09:24:15.188] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Byakoren moved too quickly! 373.14397947942774,153.625,13.211165697829074
+[06Jul2025 09:24:15.197] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Byakoren moved too quickly! 373.14397947942774,153.625,13.211165697829074
+[06Jul2025 09:26:20.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Byakoren has made the advancement [Sticky Situation]
+[06Jul2025 09:26:34.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Blackliss> Cheater .....
+[06Jul2025 09:30:26.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Gave 64 [Egg] to Blackliss]
+[06Jul2025 09:33:31.921] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4994, y=131, z=-8098} BlockPos{x=-4993, y=131, z=-8098}
+[06Jul2025 09:33:52.043] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4986, y=135, z=-8105} BlockPos{x=-4987, y=134, z=-8104}
+[06Jul2025 09:35:56.089] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Byakoren moved too quickly! 1450.2858831367444,-61.5,9392.927471851715
+[06Jul2025 09:35:56.097] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Byakoren moved too quickly! 1450.2858831367444,-61.5,9392.927471851715
+[06Jul2025 09:37:50.447] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fullavatar moved too quickly! 2.781417642326687,22.5,0.5040955323602248
+[06Jul2025 09:38:08.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fullavatar has made the advancement [Hot Stuff]
+[06Jul2025 09:45:41.245] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 2491.2861197256816,272.5,226.9487547051131
+[06Jul2025 09:46:26.887] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! -2283.4228737823323,-126.5,-275.2029164113593
+[06Jul2025 09:46:26.897] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! -2283.4228737823323,-126.5,-275.2029164113593
+[06Jul2025 09:50:53.091] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 1168.138854733425,324.5,289.32040516094577
+[06Jul2025 09:51:14.733] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5885ms or 117 ticks behind
+[06Jul2025 09:53:19.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fullavatar has made the advancement [Ol' Betsy]
+[06Jul2025 09:53:33.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fullavatar has reached the goal [The Next Generation]
+[06Jul2025 09:53:35.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Byakoren has made the advancement [Ol' Betsy]
+[06Jul2025 09:58:50.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rcon: Made Blackliss a server operator]
+[06Jul2025 09:58:56.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Blackliss: Set own game mode to Creative Mode]
+[06Jul2025 09:59:47.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Blackliss: Set own game mode to Survival Mode]
