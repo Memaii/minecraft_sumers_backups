@@ -1200,6 +1200,7 @@
       "minecraft:blaze": "2025-07-02 16:14:16 +0000",
       "minecraft:skeleton": "2025-07-01 13:59:08 +0000",
       "minecraft:phantom": "2025-07-03 12:38:45 +0000",
+      "minecraft:zombified_piglin": "2025-07-06 15:08:23 +0000",
       "minecraft:witch": "2025-07-03 15:42:18 +0000",
       "minecraft:wither_skeleton": "2025-07-02 16:13:42 +0000",
       "minecraft:shulker": "2025-07-05 17:51:15 +0000",
@@ -1881,6 +1882,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:nether_wastes": "2025-07-06 14:54:55 +0000",
       "minecraft:warped_forest": "2025-07-01 20:17:54 +0000",
       "minecraft:basalt_deltas": "2025-07-02 16:08:26 +0000"
     },
@@ -4397,6 +4399,42 @@
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2025-07-06 10:45:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2025-07-06 14:43:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-07-06 15:41:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_red_mushroom": "2025-07-06 15:45:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-07-06 15:42:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_red_mushroom": "2025-07-06 15:45:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-07-06 15:42:46 +0000"
     },
     "done": true
   },
