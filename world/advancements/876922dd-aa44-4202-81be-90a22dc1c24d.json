@@ -10,6 +10,7 @@
       "minecraft:cold_ocean": "2025-07-01 10:25:28 +0000",
       "minecraft:snowy_slopes": "2025-07-01 14:44:41 +0000",
       "minecraft:old_growth_pine_taiga": "2025-07-03 15:19:27 +0000",
+      "minecraft:mushroom_fields": "2025-07-06 17:09:17 +0000",
       "minecraft:forest": "2025-06-30 20:05:00 +0000",
       "minecraft:taiga": "2025-07-02 15:57:48 +0000",
       "minecraft:deep_ocean": "2025-07-01 10:24:10 +0000",
@@ -17,6 +18,7 @@
       "minecraft:frozen_ocean": "2025-07-03 15:26:32 +0000",
       "minecraft:desert": "2025-06-30 19:49:24 +0000",
       "minecraft:frozen_river": "2025-07-03 15:26:38 +0000",
+      "minecraft:deep_frozen_ocean": "2025-07-06 17:07:13 +0000",
       "minecraft:ocean": "2025-07-01 10:24:03 +0000",
       "minecraft:jungle": "2025-07-03 13:47:59 +0000",
       "minecraft:birch_forest": "2025-07-02 14:39:26 +0000",
@@ -29,6 +31,7 @@
       "minecraft:deep_lukewarm_ocean": "2025-06-30 19:32:17 +0000",
       "minecraft:badlands": "2025-07-02 14:28:02 +0000",
       "minecraft:flower_forest": "2025-06-30 20:01:19 +0000",
+      "minecraft:savanna_plateau": "2025-07-06 17:20:55 +0000",
       "minecraft:beach": "2025-06-30 19:36:26 +0000",
       "minecraft:dark_forest": "2025-07-03 13:47:56 +0000",
       "minecraft:mangrove_swamp": "2025-06-30 19:55:53 +0000",
@@ -39,13 +42,15 @@
       "minecraft:snowy_plains": "2025-07-03 15:26:50 +0000",
       "minecraft:dripstone_caves": "2025-07-01 20:05:20 +0000",
       "minecraft:snowy_taiga": "2025-07-03 15:26:53 +0000",
+      "minecraft:old_growth_birch_forest": "2025-07-06 17:20:11 +0000",
       "minecraft:deep_dark": "2025-07-01 20:08:37 +0000",
       "minecraft:swamp": "2025-06-30 20:00:12 +0000",
       "minecraft:grove": "2025-07-01 14:44:48 +0000",
       "minecraft:meadow": "2025-07-01 19:59:40 +0000",
       "minecraft:savanna": "2025-06-30 19:49:55 +0000",
       "minecraft:plains": "2025-06-30 19:49:45 +0000",
-      "minecraft:jagged_peaks": "2025-07-05 17:27:30 +0000"
+      "minecraft:jagged_peaks": "2025-07-05 17:27:30 +0000",
+      "minecraft:pale_garden": "2025-07-06 17:15:24 +0000"
     },
     "done": false
   },
@@ -1204,6 +1209,7 @@
       "minecraft:witch": "2025-07-03 15:42:18 +0000",
       "minecraft:wither_skeleton": "2025-07-02 16:13:42 +0000",
       "minecraft:shulker": "2025-07-05 17:51:15 +0000",
+      "minecraft:cave_spider": "2025-07-06 17:13:51 +0000",
       "minecraft:enderman": "2025-07-02 16:09:32 +0000",
       "minecraft:magma_cube": "2025-07-02 16:10:10 +0000",
       "minecraft:spider": "2025-07-01 14:13:59 +0000",
@@ -4414,15 +4420,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/bowl": {
-    "criteria": {
-      "has_red_mushroom": "2025-07-06 15:45:07 +0000"
-    },
-    "done": true
-  },
   "minecraft:nether/get_wither_skull": {
     "criteria": {
       "wither_skull": "2025-07-06 15:42:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-07-06 15:42:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_red_mushroom": "2025-07-06 15:45:07 +0000"
     },
     "done": true
   },
@@ -4432,9 +4444,123 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/skull_banner_pattern": {
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
-      "has_wither_skeleton_skull": "2025-07-06 15:42:46 +0000"
+      "has_smithing_trim_template": "2025-07-06 17:03:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
+    "criteria": {
+      "has_coast_armor_trim_smithing_template": "2025-07-06 17:03:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pale_oak_planks": {
+    "criteria": {
+      "has_log": "2025-07-06 17:15:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pale_oak_wood": {
+    "criteria": {
+      "has_log": "2025-07-06 17:15:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_glazed_terracotta": {
+    "criteria": {
+      "has_orange_terracotta": "2025-07-06 17:22:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2025-07-06 17:22:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-07-06 17:22:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-07-06 17:22:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-07-06 17:22:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-07-06 17:22:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2025-07-06 17:22:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-07-06 17:22:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-07-06 17:22:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-07-06 17:22:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-07-06 17:22:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2025-07-06 17:22:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
+    "criteria": {
+      "has_cut_sandstone": "2025-07-06 17:22:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
+    "criteria": {
+      "has_cut_sandstone": "2025-07-06 17:22:28 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/xp_pump_upgrade": {
+    "criteria": {
+      "has_advanced_pump_upgrade": "2025-07-06 17:41:47 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/advanced_pump_upgrade": {
+    "criteria": {
+      "has_pump_upgrade": "2025-07-06 17:40:52 +0000"
     },
     "done": true
   },
