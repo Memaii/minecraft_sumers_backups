@@ -14,6 +14,7 @@
       "minecraft:forest": "2025-06-30 20:05:00 +0000",
       "minecraft:taiga": "2025-07-02 15:57:48 +0000",
       "minecraft:deep_ocean": "2025-07-01 10:24:10 +0000",
+      "minecraft:lush_caves": "2025-07-06 18:58:36 +0000",
       "minecraft:deep_cold_ocean": "2025-07-02 13:44:10 +0000",
       "minecraft:frozen_ocean": "2025-07-03 15:26:32 +0000",
       "minecraft:desert": "2025-06-30 19:49:24 +0000",
@@ -4552,15 +4553,39 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/advanced_pump_upgrade": {
+    "criteria": {
+      "has_pump_upgrade": "2025-07-06 17:40:52 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/xp_pump_upgrade": {
     "criteria": {
       "has_advanced_pump_upgrade": "2025-07-06 17:41:47 +0000"
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/advanced_pump_upgrade": {
+  "minecraft:recipes/misc/melon_seeds": {
     "criteria": {
-      "has_pump_upgrade": "2025-07-06 17:40:52 +0000"
+      "has_melon": "2025-07-06 18:15:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-07-06 18:15:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-07-06 18:15:15 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/advanced_feeding_upgrade": {
+    "criteria": {
+      "has_feeding_upgrade": "2025-07-06 18:16:13 +0000"
     },
     "done": true
   },

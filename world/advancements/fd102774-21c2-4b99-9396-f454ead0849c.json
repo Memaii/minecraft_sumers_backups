@@ -1701,6 +1701,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-06-30 20:27:51 +0000",
+      "minecraft:phantom": "2025-07-06 18:47:44 +0000",
       "minecraft:zombified_piglin": "2025-07-01 13:16:34 +0000",
       "minecraft:witch": "2025-07-01 12:03:15 +0000",
       "minecraft:wither_skeleton": "2025-07-05 12:29:09 +0000",
@@ -4340,6 +4341,30 @@
   "minecraft:recipes/misc/snout_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2025-07-06 15:14:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-07-06 18:53:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/distract_piglin": {
+    "criteria": {
+      "distract_piglin": "2025-07-06 19:16:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-07-06 18:53:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-07-06 18:53:45 +0000"
     },
     "done": true
   },
