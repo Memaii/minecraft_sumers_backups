@@ -4332,21 +4332,9 @@
     },
     "done": true
   },
-  "minecraft:end/levitate": {
-    "criteria": {
-      "levitated": "2025-07-05 21:20:24 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/spruce_sign": {
     "criteria": {
       "has_planks": "2025-07-05 20:29:16 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
-    "criteria": {
-      "has_gold_backpack": "2025-07-05 21:12:24 +0000"
     },
     "done": true
   },
@@ -4395,6 +4383,18 @@
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2025-07-05 20:29:16 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2025-07-05 21:12:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/levitate": {
+    "criteria": {
+      "levitated": "2025-07-05 21:20:24 +0000"
     },
     "done": true
   },
