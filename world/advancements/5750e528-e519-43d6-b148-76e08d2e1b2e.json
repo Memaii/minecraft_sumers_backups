@@ -4935,27 +4935,45 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/pale_oak_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-07-06 09:52:06 +0000"
-    },
-    "done": true
-  },
   "minecraft:end/dragon_egg": {
     "criteria": {
       "dragon_egg": "2025-07-06 07:58:11 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/pale_oak_fence": {
+  "sophisticatedbackpacks:recipes/misc/advanced_magnet_upgrade_from_basic": {
+    "criteria": {
+      "has_magnet_upgrade": "2025-07-06 08:46:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pale_oak_planks": {
+    "criteria": {
+      "has_log": "2025-07-06 09:33:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pale_oak_wood": {
+    "criteria": {
+      "has_log": "2025-07-06 09:33:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pale_moss_carpet": {
+    "criteria": {
+      "has_pale_moss_block": "2025-07-06 09:33:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/pale_oak_trapdoor": {
     "criteria": {
       "has_planks": "2025-07-06 09:52:06 +0000"
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/advanced_magnet_upgrade_from_basic": {
+  "minecraft:recipes/decorations/pale_oak_fence": {
     "criteria": {
-      "has_magnet_upgrade": "2025-07-06 08:46:51 +0000"
+      "has_planks": "2025-07-06 09:52:06 +0000"
     },
     "done": true
   },
@@ -4977,12 +4995,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/pale_moss_carpet": {
-    "criteria": {
-      "has_pale_moss_block": "2025-07-06 09:33:53 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/pale_oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-07-06 09:52:06 +0000"
@@ -4992,12 +5004,6 @@
   "minecraft:recipes/building_blocks/pale_oak_stairs": {
     "criteria": {
       "has_planks": "2025-07-06 09:52:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/pale_oak_planks": {
-    "criteria": {
-      "has_log": "2025-07-06 09:33:31 +0000"
     },
     "done": true
   },
@@ -5013,9 +5019,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/pale_oak_wood": {
+  "sophisticatedbackpacks:recipes/misc/advanced_void_upgrade": {
     "criteria": {
-      "has_log": "2025-07-06 09:33:31 +0000"
+      "has_void_upgrade": "2025-07-06 11:13:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
+    "criteria": {
+      "has_cut_sandstone": "2025-07-06 11:35:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
+    "criteria": {
+      "has_cut_sandstone": "2025-07-06 11:35:10 +0000"
     },
     "done": true
   },

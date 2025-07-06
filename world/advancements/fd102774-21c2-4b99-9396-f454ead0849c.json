@@ -4205,9 +4205,9 @@
     },
     "done": true
   },
-  "minecraft:end/dragon_egg": {
+  "minecraft:story/lava_bucket": {
     "criteria": {
-      "dragon_egg": "2025-07-06 09:53:33 +0000"
+      "lava_bucket": "2025-07-06 09:38:08 +0000"
     },
     "done": true
   },
@@ -4241,21 +4241,9 @@
     },
     "done": true
   },
-  "minecraft:adventure/ol_betsy": {
-    "criteria": {
-      "shot_crossbow": "2025-07-06 09:53:19 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/warped_door": {
     "criteria": {
       "has_planks": "2025-07-06 09:38:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/lava_bucket": {
-    "criteria": {
-      "lava_bucket": "2025-07-06 09:38:08 +0000"
     },
     "done": true
   },
@@ -4274,6 +4262,24 @@
   "minecraft:recipes/decorations/warped_fence": {
     "criteria": {
       "has_planks": "2025-07-06 09:38:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-07-06 09:53:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_egg": {
+    "criteria": {
+      "dragon_egg": "2025-07-06 09:53:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/honey_bottle": {
+    "criteria": {
+      "has_honey_block": "2025-07-06 11:54:29 +0000"
     },
     "done": true
   },

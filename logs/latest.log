@@ -2013,3 +2013,144 @@
 [06Jul2025 09:58:50.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rcon: Made Blackliss a server operator]
 [06Jul2025 09:58:56.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Blackliss: Set own game mode to Creative Mode]
 [06Jul2025 09:59:47.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Blackliss: Set own game mode to Survival Mode]
+[06Jul2025 10:00:35.676] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss lost connection: Disconnected
+[06Jul2025 10:00:35.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blackliss left the game
+[06Jul2025 10:00:51.188] [User Authenticator #13/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Blackliss is 5750e528-e519-43d6-b148-76e08d2e1b2e
+[06Jul2025 10:01:08.744] [User Authenticator #14/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Blackliss is 5750e528-e519-43d6-b148-76e08d2e1b2e
+[06Jul2025 10:01:21.808] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Byakoren lost connection: Disconnected
+[06Jul2025 10:01:21.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Byakoren left the game
+[06Jul2025 10:01:22.007] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fullavatar lost connection: Disconnected
+[06Jul2025 10:01:22.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fullavatar left the game
+[06Jul2025 10:01:22.125] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Blackliss (/192.168.1.254:64336) lost connection: Disconnected
+[06Jul2025 10:01:22.127] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Blackliss (/192.168.1.254:64342) lost connection: Disconnected
+[06Jul2025 10:01:22.166] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 32419ms or 648 ticks behind
+[06Jul2025 10:01:56.121] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 18974ms or 379 ticks behind
+[06Jul2025 10:02:08.958] [User Authenticator #15/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Fullavatar is fd102774-21c2-4b99-9396-f454ead0849c
+[06Jul2025 10:02:11.258] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Fullavatar[/93.19.138.72:53680] logged in with entity id 119758 at (289.6466550793623, 129.0, 1873.5)
+[06Jul2025 10:02:11.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fullavatar joined the game
+[06Jul2025 10:02:20.753] [User Authenticator #16/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Blackliss is 5750e528-e519-43d6-b148-76e08d2e1b2e
+[06Jul2025 10:02:25.436] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Blackliss[/192.168.1.254:64518] logged in with entity id 119919 at (470.1867606730552, 262.0, 210.67820352092116)
+[06Jul2025 10:02:25.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blackliss joined the game
+[06Jul2025 10:05:15.230] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! -1319.6784868125942,54.75,61.93673815194205
+[06Jul2025 10:05:25.023] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! -16.65580604614729,-4.3472244410793905,2.546434954055968
+[06Jul2025 10:05:26.608] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[06Jul2025 10:05:47.571] [User Authenticator #17/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Byakoren is 77ebe240-f66a-4d07-ae88-a6df583c1a70
+[06Jul2025 10:05:49.262] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Byakoren[/86.245.7.178:62365] logged in with entity id 121625 at (287.30000001192093, 129.0, 1873.5)
+[06Jul2025 10:05:49.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Byakoren joined the game
+[06Jul2025 10:12:00.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Blackliss: Gave 64 [Egg] to Blackliss]
+[06Jul2025 10:13:49.978] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fullavatar lost connection: Disconnected
+[06Jul2025 10:13:49.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fullavatar left the game
+[06Jul2025 10:13:52.250] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2152ms or 43 ticks behind
+[06Jul2025 10:14:46.529] [User Authenticator #18/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Fullavatar is fd102774-21c2-4b99-9396-f454ead0849c
+[06Jul2025 10:14:48.060] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Fullavatar[/93.19.138.72:53828] logged in with entity id 125579 at (2305.4849820664663, 179.875, 14983.027707891846)
+[06Jul2025 10:14:48.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fullavatar joined the game
+[06Jul2025 10:15:11.026] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Byakoren moved wrongly!
+[06Jul2025 10:15:34.732] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 180.79418406671408,2.5,-2.199999988079071
+[06Jul2025 10:15:34.740] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 180.79418406671408,2.5,-2.199999988079071
+[06Jul2025 10:18:15.833] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Byakoren moved too quickly! -17.892359442039663,123.5,-5.393141109118687
+[06Jul2025 10:18:15.841] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Byakoren moved too quickly! -17.892359442039663,123.5,-5.393141109118687
+[06Jul2025 10:18:45.096] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Byakoren moved too quickly! 16.653510380677687,-121.5,0.800000011920929
+[06Jul2025 10:19:22.626] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Byakoren moved too quickly! -17.87999713541808,123.5,-4.887244465462572
+[06Jul2025 10:19:22.635] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Byakoren moved too quickly! -17.87999713541808,123.5,-4.887244465462572
+[06Jul2025 10:19:22.644] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Byakoren moved too quickly! -17.87999713541808,123.5,-4.887244465462572
+[06Jul2025 10:19:34.838] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! -1320.0187451352924,54.75,61.35230095540496
+[06Jul2025 10:19:34.847] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! -1320.0187451352924,54.75,61.35230095540496
+[06Jul2025 10:20:06.475] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Byakoren moved too quickly! 17.019312876328,-121.5,0.800000011920929
+[06Jul2025 10:20:06.484] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Byakoren moved too quickly! 17.019312876328,-121.5,0.800000011920929
+[06Jul2025 10:20:06.493] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Byakoren moved too quickly! 17.019312876328,-121.5,0.800000011920929
+[06Jul2025 10:20:58.295] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 1511.2890076387641,-44.5,-58.457211241926785
+[06Jul2025 10:22:42.742] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Byakoren moved too quickly! 15.512499988079071,-121.5,0.7035762221692039
+[06Jul2025 10:23:47.197] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fullavatar moved too quickly! 16.0,-79.0,0.0
+[06Jul2025 10:24:54.477] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=465, y=261, z=209} BlockPos{x=465, y=262, z=209}
+[06Jul2025 10:25:30.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Blackliss: Set own game mode to Creative Mode]
+[06Jul2025 10:25:33.932] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Byakoren moved wrongly!
+[06Jul2025 10:25:34.032] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Byakoren moved wrongly!
+[06Jul2025 10:25:34.132] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Byakoren moved wrongly!
+[06Jul2025 10:29:10.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Blackliss: Set own game mode to Survival Mode]
+[06Jul2025 10:33:19.490] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 1506.7642718697148,-45.5,-63.01249998807907
+[06Jul2025 10:33:31.397] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! -1320.6943865105836,55.5,61.15288336113886
+[06Jul2025 10:34:00.075] [User Authenticator #19/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player guebaud is 876922dd-aa44-4202-81be-90a22dc1c24d
+[06Jul2025 10:34:11.152] [Server thread/INFO] [net.minecraft.server.network.ServerConfigurationPacketListenerImpl/]: com.mojang.authlib.GameProfile@5827c2ad[id=876922dd-aa44-4202-81be-90a22dc1c24d,name=guebaud,properties={textures=[Property[name=textures, value=ewogICJ0aW1lc3RhbXAiIDogMTc1MTc5ODAzOTg3MCwKICAicHJvZmlsZUlkIiA6ICI4NzY5MjJkZGFhNDQ0MjAyODFiZTkwYTIyZGMxYzI0ZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJndWViYXVkIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzk5NzJhNmVhYTI2MTBkZjI1ZWVlOWFmYmJhNzlkODRiYjdiOGE1N2Q2YmM1NzUxOWQzYzM0NTNkZjMyYzFlMyIKICAgIH0sCiAgICAiQ0FQRSIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjhkZTRhODE2ODhhZDE4YjQ5ZTczNWEyNzNlMDg2YzE4ZjFlMzk2Njk1NjEyM2NjYjU3NDAzNGMwNmY1ZDMzNiIKICAgIH0KICB9Cn0=, signature=PW8rcBnNdWV5InY/oaHp+guEt9tMoXs3q9nU9X4ZvByl63Liuao6oM18sfVroH3oJjNR4aVznZ2Sk5e1uTXz6V7Pc25a8WHwPwZFBYnsmPECCl4TzZdQSrluLCSIrPq92rh0ULL/OVWCeT7tySOQt2pXF7HhWfyv7rVLxeJgXXa0Lh8EL/H17/Lmv9n7cQXCau1gVBzMU80w0ybkXLiN0HjNEElpPpkPZPJJ9bzVLmvnfQ6EdaFv4oxp50aVR8SMoVgQGsBvqmnT7Y9ADGAmslsc6T21BdqjBZ/GkiKVbz9PDq5JRGNE+MRXwvwVovKoEq1OtkuOZIyeVz6Cd6c3tBF0J0JfhEpV9SYsDwYHFsU2DN5SW4WU1m+91HSBwW6c0vGxe8yoknil+5yf2vWaabdKLxeRM3948vKA/6agiBeguofWIb3HKY2f+qVqZMA4virCw60CPddSEks9pYWhS/E6DHYXRBNcECDsD4cSiVNic6fDsxHtzbcntR01+fUCkqCzEsUgz5R1Or1dFu6cq9bTKpvrjKaGUqye0p4fBa6xyqBZfxfy1yiAy0m1RmagebU35y/YKs7maFRIhPwmS+XAb9po4s9E5DPLH91iAdOZRZ0vMnRPRDqRnKZjqsw8CS0rllEJA3LJwUiCz/XiK2mmh16BtqicnxJDsZv72bE=]]}] lost connection: Disconnected
+[06Jul2025 10:34:15.626] [User Authenticator #20/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player guebaud is 876922dd-aa44-4202-81be-90a22dc1c24d
+[06Jul2025 10:34:18.380] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 1513.4620818445374,-45.5,-66.15760822780499
+[06Jul2025 10:34:18.390] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 1513.4620818445374,-45.5,-66.15760822780499
+[06Jul2025 10:34:21.912] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: guebaud[/90.70.73.104:50624] logged in with entity id 133869 at (164.51438551887162, 58.0, 1533.6462163066146)
+[06Jul2025 10:34:21.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: guebaud joined the game
+[06Jul2025 10:34:45.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <guebaud> salamalékoum les patissiers
+[06Jul2025 10:35:56.044] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: guebaud moved too quickly! 184.33780305236525,6.5,-2.012499988079071
+[06Jul2025 10:41:04.378] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: guebaud moved too quickly! -152.81859583223513,20.176641312036118,127.29577468026037
+[06Jul2025 10:48:55.573] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! -1454.1999692330994,51.5,67.80000001192093
+[06Jul2025 10:48:55.581] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! -1454.1999692330994,51.5,67.80000001192093
+[06Jul2025 10:48:55.590] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! -1454.1999692330994,51.5,67.80000001192093
+[06Jul2025 10:48:55.599] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! -1454.1999692330994,51.5,67.80000001192093
+[06Jul2025 10:49:35.745] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! -1454.5121013025714,48.5,68.41873981942908
+[06Jul2025 10:50:10.244] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 1511.800000011921,-44.5,-53.70002410594478
+[06Jul2025 10:51:44.144] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1915, y=212, z=142} BlockPos{x=1915, y=211, z=142}
+[06Jul2025 10:52:34.742] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1926, y=210, z=141} BlockPos{x=1927, y=210, z=141}
+[06Jul2025 10:53:59.431] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fullavatar lost connection: Disconnected
+[06Jul2025 10:53:59.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fullavatar left the game
+[06Jul2025 10:55:06.044] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1950, y=210, z=141} BlockPos{x=1950, y=210, z=140}
+[06Jul2025 10:55:44.179] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss lost connection: Disconnected
+[06Jul2025 10:55:44.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blackliss left the game
+[06Jul2025 10:59:39.368] [User Authenticator #21/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Blackliss is 5750e528-e519-43d6-b148-76e08d2e1b2e
+[06Jul2025 10:59:40.792] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Blackliss[/192.168.1.254:65364] logged in with entity id 141749 at (1961.5977137518405, 211.0, 146.09409370208377)
+[06Jul2025 10:59:40.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blackliss joined the game
+[06Jul2025 10:59:45.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Blackliss> Tommy ?
+[06Jul2025 10:59:51.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <guebaud> oui?
+[06Jul2025 11:00:13.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Blackliss> Déjà Bonjour et est ce que tu as fait passer les informations que je t'ai envoyé en mp à tes petits potes ?
+[06Jul2025 11:00:22.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <guebaud> yes c good
+[06Jul2025 11:00:32.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Blackliss> Niquel, tu gères BG, je te suce quand tu veux :D
+[06Jul2025 11:02:35.678] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! -1503.199999988079,50.5,63.642251258709365
+[06Jul2025 11:02:35.688] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! -1503.199999988079,50.5,63.642251258709365
+[06Jul2025 11:02:35.696] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! -1503.199999988079,50.5,63.642251258709365
+[06Jul2025 11:03:44.938] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 1505.8955432283585,-45.5,-62.852431324016266
+[06Jul2025 11:03:44.946] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 1505.8955432283585,-45.5,-62.852431324016266
+[06Jul2025 11:03:56.090] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! -1503.199999988079,50.5,64.18316963185413
+[06Jul2025 11:07:04.735] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Byakoren moved too quickly! 100.6682724881232,202.9375,-13470.211440554782
+[06Jul2025 11:07:04.744] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Byakoren moved too quickly! 100.6682724881232,202.9375,-13470.211440554782
+[06Jul2025 11:09:04.221] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! -1496.1547973735355,50.5,64.45544165900685
+[06Jul2025 11:09:04.231] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! -1496.1547973735355,50.5,64.45544165900685
+[06Jul2025 11:09:04.240] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! -1496.1547973735355,50.5,64.45544165900685
+[06Jul2025 11:12:00.641] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 1507.0054479844234,-45.5,-62.80000001192093
+[06Jul2025 11:14:20.269] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: guebaud lost connection: Disconnected
+[06Jul2025 11:14:20.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: guebaud left the game
+[06Jul2025 11:14:22.961] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2513ms or 50 ticks behind
+[06Jul2025 11:14:57.444] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Byakoren moved too quickly! 1754.1444625744239,193.5,1309.4354960226083
+[06Jul2025 11:15:24.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Blackliss: Set own game mode to Creative Mode]
+[06Jul2025 11:15:46.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Blackliss: Gave 1 [Light] to Blackliss]
+[06Jul2025 11:16:26.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Blackliss: Set own game mode to Survival Mode]
+[06Jul2025 11:16:29.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Blackliss: Made Blackliss no longer a server operator]
+[06Jul2025 11:16:46.641] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 1506.2881602803618,-45.5,-62.84297231290205
+[06Jul2025 11:26:40.651] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1980, y=93, z=15164} BlockPos{x=1987, y=93, z=15189}
+[06Jul2025 11:26:40.652] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1980, y=93, z=15164} BlockPos{x=1987, y=93, z=15189}
+[06Jul2025 11:26:40.654] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1980, y=93, z=15164} BlockPos{x=1987, y=93, z=15189}
+[06Jul2025 11:28:27.266] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1979, y=91, z=15165} BlockPos{x=1978, y=91, z=15162}
+[06Jul2025 11:28:27.467] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1980, y=91, z=15166} BlockPos{x=1981, y=91, z=15166}
+[06Jul2025 11:28:27.523] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1980, y=91, z=15166} BlockPos{x=1981, y=91, z=15166}
+[06Jul2025 11:28:27.576] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1980, y=91, z=15166} BlockPos{x=1981, y=91, z=15166}
+[06Jul2025 11:28:27.617] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1980, y=91, z=15166} BlockPos{x=1981, y=91, z=15166}
+[06Jul2025 11:28:38.367] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1980, y=90, z=15159} BlockPos{x=1981, y=90, z=15159}
+[06Jul2025 11:31:12.111] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3169, y=70, z=1713} BlockPos{x=-3169, y=69, z=1713}
+[06Jul2025 11:31:12.169] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3169, y=68, z=1713} BlockPos{x=-3169, y=69, z=1713}
+[06Jul2025 11:34:59.065] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3169, y=63, z=1713} BlockPos{x=-4405, y=82, z=2845}
+[06Jul2025 11:37:08.928] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4414, y=83, z=2837} BlockPos{x=-4414, y=84, z=2839}
+[06Jul2025 11:37:08.975] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4414, y=84, z=2840} BlockPos{x=-4414, y=84, z=2839}
+[06Jul2025 11:37:09.025] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4414, y=84, z=2841} BlockPos{x=-4414, y=84, z=2839}
+[06Jul2025 11:38:06.342] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 3888.5730830246066,-132.5,-2906.711867204
+[06Jul2025 11:39:14.876] [User Authenticator #22/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Fullavatar is fd102774-21c2-4b99-9396-f454ead0849c
+[06Jul2025 11:39:16.399] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Fullavatar[/93.19.138.72:54206] logged in with entity id 164969 at (2308.8061426041895, 252.0, 14985.385812830049)
+[06Jul2025 11:39:16.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fullavatar joined the game
+[06Jul2025 11:42:32.428] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Byakoren moved too quickly! 1752.9544821136888,192.9375,1307.7230441045867
+[06Jul2025 11:42:32.437] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Byakoren moved too quickly! 1752.9544821136888,192.9375,1307.7230441045867
+[06Jul2025 11:42:32.447] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Byakoren moved too quickly! 1752.9544821136888,192.9375,1307.7230441045867
+[06Jul2025 11:52:05.347] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Byakoren moved too quickly! -1754.3819202933337,-239.5,-1304.194172515694
+[06Jul2025 11:53:34.320] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Byakoren moved too quickly! 1752.495645943021,242.5,1304.0408965056686
+[06Jul2025 11:53:34.329] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Byakoren moved too quickly! 1752.495645943021,242.5,1304.0408965056686
+[06Jul2025 11:53:34.338] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Byakoren moved too quickly! 1752.495645943021,242.5,1304.0408965056686
+[06Jul2025 11:53:47.745] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Byakoren moved too quickly! -1754.0867443227553,-239.5,-1304.0892279169093
+[06Jul2025 11:54:13.767] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 983.7807339754079,319.5,290.65293891456366
+[06Jul2025 11:54:13.778] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 983.7807339754079,319.5,290.65293891456366
+[06Jul2025 11:54:13.786] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 983.7807339754079,319.5,290.65293891456366
+[06Jul2025 11:54:13.795] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 983.7807339754079,319.5,290.65293891456366
+[06Jul2025 11:54:54.284] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Byakoren moved too quickly! 101.41558598246093,203.5,-13470.132293785595
+[06Jul2025 11:54:54.293] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Byakoren moved too quickly! 101.41558598246093,203.5,-13470.132293785595
