@@ -156,28 +156,29 @@
     "criteria": {
       "minecraft:blaze": "2025-07-07 16:45:03 +0000",
       "minecraft:skeleton": "2025-06-30 19:49:56 +0000",
+      "minecraft:bogged": "2025-07-04 10:01:25 +0000",
+      "minecraft:ghast": "2025-07-07 16:05:55 +0000",
+      "minecraft:vindicator": "2025-07-01 15:50:51 +0000",
+      "minecraft:breeze": "2025-07-02 12:14:06 +0000",
+      "minecraft:magma_cube": "2025-07-07 17:48:02 +0000",
+      "minecraft:spider": "2025-06-30 19:34:40 +0000",
+      "minecraft:creeper": "2025-06-30 20:33:14 +0000",
+      "minecraft:wither": "2025-07-07 19:31:47 +0000",
+      "minecraft:evoker": "2025-07-01 15:53:01 +0000",
+      "minecraft:slime": "2025-07-02 12:02:03 +0000",
+      "minecraft:phantom": "2025-07-07 21:16:06 +0000",
       "minecraft:zombified_piglin": "2025-07-07 17:40:46 +0000",
       "minecraft:wither_skeleton": "2025-07-07 16:03:01 +0000",
       "minecraft:husk": "2025-07-04 10:05:44 +0000",
-      "minecraft:bogged": "2025-07-04 10:01:25 +0000",
-      "minecraft:ghast": "2025-07-07 16:05:55 +0000",
       "minecraft:ender_dragon": "2025-07-05 17:46:44 +0000",
       "minecraft:shulker": "2025-07-05 18:04:42 +0000",
       "minecraft:cave_spider": "2025-07-05 11:22:50 +0000",
-      "minecraft:vindicator": "2025-07-01 15:50:51 +0000",
-      "minecraft:breeze": "2025-07-02 12:14:06 +0000",
       "minecraft:silverfish": "2025-07-02 12:34:48 +0000",
       "minecraft:stray": "2025-07-02 12:00:50 +0000",
       "minecraft:enderman": "2025-07-05 17:49:55 +0000",
-      "minecraft:magma_cube": "2025-07-07 17:48:02 +0000",
-      "minecraft:spider": "2025-06-30 19:34:40 +0000",
       "minecraft:zombie": "2025-06-30 19:50:49 +0000",
-      "minecraft:creeper": "2025-06-30 20:33:14 +0000",
       "minecraft:drowned": "2025-06-30 21:40:15 +0000",
-      "minecraft:wither": "2025-07-07 19:31:47 +0000",
-      "minecraft:zombie_villager": "2025-07-01 18:11:48 +0000",
-      "minecraft:evoker": "2025-07-01 15:53:01 +0000",
-      "minecraft:slime": "2025-07-02 12:02:03 +0000"
+      "minecraft:zombie_villager": "2025-07-01 18:11:48 +0000"
     },
     "done": false
   },
@@ -4582,6 +4583,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-07-07 20:51:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
     "criteria": {
       "has_end_stone": "2025-07-07 19:29:45 +0000"
@@ -4594,9 +4601,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
+    "criteria": {
+      "has_red_dye": "2025-07-07 21:32:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/end_stone_bricks": {
     "criteria": {
       "has_end_stone": "2025-07-07 19:29:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-07-07 21:03:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-07-07 21:32:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-07-07 20:51:03 +0000"
     },
     "done": true
   },
@@ -4606,9 +4637,63 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-07-07 21:03:15 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2025-07-07 20:53:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-07-07 21:32:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-07-07 21:32:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_red_dye": "2025-07-07 21:32:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_red_dye": "2025-07-07 21:32:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_candle": {
+    "criteria": {
+      "has_red_dye": "2025-07-07 21:32:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
     "criteria": {
       "has_end_stone": "2025-07-07 19:29:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/red_bundle": {
+    "criteria": {
+      "has_red_dye": "2025-07-07 21:32:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_the_recipe": "2025-07-07 20:14:20 +0000"
     },
     "done": true
   },
