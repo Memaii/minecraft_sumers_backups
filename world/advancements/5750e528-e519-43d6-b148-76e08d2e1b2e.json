@@ -5146,5 +5146,11 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_glazed_terracotta": {
+    "criteria": {
+      "has_light_gray_terracotta": "2025-07-07 14:07:08 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 4189
 }

@@ -1210,16 +1210,21 @@
       "minecraft:zombified_piglin": "2025-07-06 15:08:23 +0000",
       "minecraft:witch": "2025-07-03 15:42:18 +0000",
       "minecraft:wither_skeleton": "2025-07-02 16:13:42 +0000",
+      "minecraft:husk": "2025-07-07 14:00:51 +0000",
+      "minecraft:ghast": "2025-07-07 15:01:50 +0000",
       "minecraft:shulker": "2025-07-05 17:51:15 +0000",
       "minecraft:cave_spider": "2025-07-06 17:13:51 +0000",
       "minecraft:breeze": "2025-07-07 13:58:24 +0000",
       "minecraft:enderman": "2025-07-02 16:09:32 +0000",
+      "minecraft:stray": "2025-07-07 14:00:09 +0000",
       "minecraft:magma_cube": "2025-07-02 16:10:10 +0000",
       "minecraft:spider": "2025-07-01 14:13:59 +0000",
       "minecraft:zombie": "2025-07-01 10:31:31 +0000",
       "minecraft:creeper": "2025-07-02 14:35:29 +0000",
       "minecraft:drowned": "2025-07-03 14:18:16 +0000",
-      "minecraft:zombie_villager": "2025-07-01 20:05:50 +0000"
+      "minecraft:wither": "2025-07-07 14:57:40 +0000",
+      "minecraft:zombie_villager": "2025-07-01 20:05:50 +0000",
+      "minecraft:slime": "2025-07-07 14:02:30 +0000"
     },
     "done": false
   },
@@ -1892,11 +1897,13 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2025-07-07 15:02:14 +0000",
       "minecraft:nether_wastes": "2025-07-06 14:54:55 +0000",
+      "minecraft:soul_sand_valley": "2025-07-07 15:03:12 +0000",
       "minecraft:warped_forest": "2025-07-01 20:17:54 +0000",
       "minecraft:basalt_deltas": "2025-07-02 16:08:26 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:story/enter_the_nether": {
     "criteria": {
@@ -4667,6 +4674,144 @@
   "minecraft:recipes/misc/wind_charge": {
     "criteria": {
       "has_breeze_rod": "2025-07-07 13:58:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_copper_grate": {
+    "criteria": {
+      "has_waxed_copper_block": "2025-07-07 13:59:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/waxed_copper_bulb": {
+    "criteria": {
+      "has_waxed_copper_block": "2025-07-07 13:59:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper": {
+    "criteria": {
+      "has_waxed_copper_block": "2025-07-07 13:59:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_waxed_copper_block": {
+    "criteria": {
+      "has_waxed_copper_block": "2025-07-07 13:59:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_slab_from_waxed_copper_block_stonecutting": {
+    "criteria": {
+      "has_waxed_copper_block": "2025-07-07 13:59:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_from_waxed_copper_block_stonecutting": {
+    "criteria": {
+      "has_waxed_copper_block": "2025-07-07 13:59:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_chiseled_copper_from_waxed_copper_block_stonecutting": {
+    "criteria": {
+      "has_waxed_copper_block": "2025-07-07 13:59:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_stairs_from_waxed_copper_block_stonecutting": {
+    "criteria": {
+      "has_waxed_copper_block": "2025-07-07 13:59:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_copper_grate_from_waxed_copper_block_stonecutting": {
+    "criteria": {
+      "has_waxed_copper_block": "2025-07-07 13:59:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2025-07-07 14:01:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2025-07-07 14:01:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2025-07-07 14:01:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2025-07-07 14:01:20 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-07-07 14:02:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-07-07 14:02:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-07-07 14:02:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/under_lock_and_key": {
+    "criteria": {
+      "under_lock_and_key": "2025-07-07 14:05:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/spire_armor_trim_smithing_template": {
+    "criteria": {
+      "has_spire_armor_trim_smithing_template": "2025-07-07 14:31:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/spire_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-07-07 14:31:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2025-07-07 14:56:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2025-07-07 14:57:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2025-07-07 15:01:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-07-07 15:02:07 +0000"
     },
     "done": true
   },
