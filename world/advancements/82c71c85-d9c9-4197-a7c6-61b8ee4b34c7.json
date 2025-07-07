@@ -1658,6 +1658,7 @@
     "criteria": {
       "minecraft:crimson_forest": "2025-07-01 10:08:52 +0000",
       "minecraft:nether_wastes": "2025-06-30 21:06:41 +0000",
+      "minecraft:soul_sand_valley": "2025-07-07 11:13:19 +0000",
       "minecraft:warped_forest": "2025-07-03 11:49:30 +0000"
     },
     "done": false
@@ -4407,6 +4408,30 @@
   "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_2": {
     "criteria": {
       "has_stack_upgrade_tier_1": "2025-07-06 09:10:02 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/advanced_jukebox_upgrade": {
+    "criteria": {
+      "has_jukebox_upgrade": "2025-07-07 10:46:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_hyphae": {
+    "criteria": {
+      "has_log": "2025-07-07 11:13:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_planks": {
+    "criteria": {
+      "has_logs": "2025-07-07 11:13:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-07-07 11:13:19 +0000"
     },
     "done": true
   },

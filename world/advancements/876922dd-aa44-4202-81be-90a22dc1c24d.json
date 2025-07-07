@@ -43,6 +43,7 @@
       "minecraft:snowy_plains": "2025-07-03 15:26:50 +0000",
       "minecraft:dripstone_caves": "2025-07-01 20:05:20 +0000",
       "minecraft:snowy_taiga": "2025-07-03 15:26:53 +0000",
+      "minecraft:frozen_peaks": "2025-07-07 10:27:34 +0000",
       "minecraft:old_growth_birch_forest": "2025-07-06 17:20:11 +0000",
       "minecraft:deep_dark": "2025-07-01 20:08:37 +0000",
       "minecraft:swamp": "2025-06-30 20:00:12 +0000",
@@ -1355,6 +1356,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:chicken": "2025-07-07 11:07:45 +0000",
       "minecraft:sheep": "2025-07-01 14:25:22 +0000"
     },
     "done": false
@@ -4586,6 +4588,72 @@
   "sophisticatedbackpacks:recipes/misc/advanced_feeding_upgrade": {
     "criteria": {
       "has_feeding_upgrade": "2025-07-06 18:16:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/pale_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-07 10:14:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pale_oak_fence": {
+    "criteria": {
+      "has_planks": "2025-07-07 10:14:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pale_oak_slab": {
+    "criteria": {
+      "has_planks": "2025-07-07 10:14:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/pale_oak_door": {
+    "criteria": {
+      "has_planks": "2025-07-07 10:14:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/pale_oak_button": {
+    "criteria": {
+      "has_planks": "2025-07-07 10:14:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/pale_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-07 10:14:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pale_oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-07 10:14:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/pale_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-07-07 10:14:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pale_oak_sign": {
+    "criteria": {
+      "has_planks": "2025-07-07 10:14:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trim_with_any_armor_pattern": {
+    "criteria": {
+      "armor_trimmed_minecraft:coast_armor_trim_smithing_template_smithing_trim": "2025-07-07 11:23:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2025-07-07 11:21:44 +0000"
     },
     "done": true
   },
