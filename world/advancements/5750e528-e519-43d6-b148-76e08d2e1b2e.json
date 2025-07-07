@@ -926,6 +926,7 @@
       "minecraft:magma_cube": "2025-07-03 01:07:20 +0000",
       "minecraft:spider": "2025-06-30 20:25:37 +0000",
       "minecraft:creeper": "2025-07-01 18:42:25 +0000",
+      "minecraft:wither": "2025-07-07 19:29:14 +0000",
       "minecraft:evoker": "2025-07-01 15:54:10 +0000",
       "minecraft:slime": "2025-07-02 12:06:32 +0000",
       "minecraft:zombified_piglin": "2025-07-04 20:48:51 +0000",
@@ -5221,6 +5222,48 @@
   "minecraft:recipes/decorations/red_sandstone_wall": {
     "criteria": {
       "has_red_sandstone": "2025-07-07 16:53:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-07-07 19:26:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2025-07-07 19:26:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2025-07-07 19:29:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-07-07 19:26:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2025-07-07 19:28:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-07-07 19:26:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-07-07 19:26:05 +0000"
     },
     "done": true
   },
