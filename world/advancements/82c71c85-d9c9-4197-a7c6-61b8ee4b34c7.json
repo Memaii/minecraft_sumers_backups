@@ -21,12 +21,14 @@
       "minecraft:birch_forest": "2025-07-04 21:44:17 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-07-05 17:23:03 +0000",
       "minecraft:wooded_badlands": "2025-07-04 21:39:33 +0000",
+      "minecraft:bamboo_jungle": "2025-07-07 12:14:47 +0000",
       "minecraft:windswept_savanna": "2025-07-04 21:42:15 +0000",
       "minecraft:warm_ocean": "2025-06-30 19:22:39 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-06-30 19:31:23 +0000",
       "minecraft:badlands": "2025-07-03 11:46:09 +0000",
       "minecraft:beach": "2025-06-30 19:36:21 +0000",
       "minecraft:dark_forest": "2025-06-30 22:06:53 +0000",
+      "minecraft:stony_peaks": "2025-07-07 12:38:37 +0000",
       "minecraft:mangrove_swamp": "2025-07-04 21:42:31 +0000",
       "minecraft:sparse_jungle": "2025-06-30 19:36:28 +0000",
       "minecraft:river": "2025-06-30 19:43:24 +0000",
@@ -34,6 +36,7 @@
       "minecraft:stony_shore": "2025-07-03 12:18:04 +0000",
       "minecraft:dripstone_caves": "2025-07-02 11:46:20 +0000",
       "minecraft:snowy_taiga": "2025-07-02 11:45:33 +0000",
+      "minecraft:old_growth_birch_forest": "2025-07-07 12:14:49 +0000",
       "minecraft:deep_dark": "2025-07-03 11:57:44 +0000",
       "minecraft:swamp": "2025-07-04 21:43:30 +0000",
       "minecraft:meadow": "2025-07-05 17:26:08 +0000",
@@ -4432,6 +4435,30 @@
   "minecraft:nether/find_fortress": {
     "criteria": {
       "fortress": "2025-07-07 11:13:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_the_recipe": "2025-07-07 12:06:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2025-07-07 12:07:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2025-07-07 12:07:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-07-07 12:07:43 +0000"
     },
     "done": true
   },

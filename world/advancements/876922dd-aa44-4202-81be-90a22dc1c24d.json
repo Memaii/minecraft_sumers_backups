@@ -1212,6 +1212,7 @@
       "minecraft:wither_skeleton": "2025-07-02 16:13:42 +0000",
       "minecraft:shulker": "2025-07-05 17:51:15 +0000",
       "minecraft:cave_spider": "2025-07-06 17:13:51 +0000",
+      "minecraft:breeze": "2025-07-07 13:58:24 +0000",
       "minecraft:enderman": "2025-07-02 16:09:32 +0000",
       "minecraft:magma_cube": "2025-07-02 16:10:10 +0000",
       "minecraft:spider": "2025-07-01 14:13:59 +0000",
@@ -4645,15 +4646,27 @@
     },
     "done": true
   },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2025-07-07 11:21:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/trim_with_any_armor_pattern": {
     "criteria": {
       "armor_trimmed_minecraft:coast_armor_trim_smithing_template_smithing_trim": "2025-07-07 11:23:55 +0000"
     },
     "done": true
   },
-  "minecraft:nether/netherite_armor": {
+  "minecraft:recipes/combat/mace": {
     "criteria": {
-      "netherite_armor": "2025-07-07 11:21:44 +0000"
+      "has_breeze_rod": "2025-07-07 13:58:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wind_charge": {
+    "criteria": {
+      "has_breeze_rod": "2025-07-07 13:58:25 +0000"
     },
     "done": true
   },
