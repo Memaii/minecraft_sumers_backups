@@ -1593,6 +1593,7 @@
       "minecraft:zombie": "2025-07-01 20:53:34 +0000",
       "minecraft:creeper": "2025-07-08 10:02:34 +0000",
       "minecraft:wither": "2025-07-07 19:46:09 +0000",
+      "minecraft:zombie_villager": "2025-07-08 20:32:28 +0000",
       "minecraft:ghast": "2025-07-08 11:31:07 +0000",
       "minecraft:hoglin": "2025-07-08 10:37:13 +0000"
     },
@@ -3677,9 +3678,57 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/emerald": {
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
-      "has_emerald_block": "2025-07-08 12:58:11 +0000"
+      "has_smithing_trim_template": "2025-07-08 12:41:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
+    "criteria": {
+      "has_coast_armor_trim_smithing_template": "2025-07-08 12:41:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trim_with_any_armor_pattern": {
+    "criteria": {
+      "armor_trimmed_minecraft:coast_armor_trim_smithing_template_smithing_trim": "2025-07-08 12:43:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2025-07-08 12:46:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2025-07-08 12:49:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-07-08 12:55:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-07-08 12:55:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-07-08 12:55:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-07-08 12:55:35 +0000"
     },
     "done": true
   },
@@ -3707,57 +3756,15 @@
     },
     "done": true
   },
-  "waystones:recipes/decorations/mossy_waystone_from_vines": {
-    "criteria": {
-      "has_waystone": "2025-07-08 12:58:50 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
     "criteria": {
       "has_tag": "2025-07-08 12:57:52 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/spyglass": {
-    "criteria": {
-      "has_amethyst_shard": "2025-07-08 12:55:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2025-07-08 12:41:32 +0000"
-    },
-    "done": true
-  },
-  "waystones:recipes/decorations/mossy_waystone_from_moss_blocks": {
-    "criteria": {
-      "has_waystone": "2025-07-08 12:58:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/trim_with_any_armor_pattern": {
-    "criteria": {
-      "armor_trimmed_minecraft:coast_armor_trim_smithing_template_smithing_trim": "2025-07-08 12:43:57 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-07-08 12:57:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
-    "criteria": {
-      "has_amethyst_shard": "2025-07-08 12:55:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/tinted_glass": {
-    "criteria": {
-      "has_amethyst_shard": "2025-07-08 12:55:35 +0000"
     },
     "done": true
   },
@@ -3773,33 +3780,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
-    "criteria": {
-      "has_coast_armor_trim_smithing_template": "2025-07-08 12:41:32 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-07-08 12:57:52 +0000"
     },
     "done": true
   },
-  "minecraft:end/find_end_city": {
+  "minecraft:recipes/misc/emerald": {
     "criteria": {
-      "in_city": "2025-07-08 12:49:15 +0000"
+      "has_emerald_block": "2025-07-08 12:58:11 +0000"
     },
     "done": true
   },
-  "minecraft:end/enter_end_gateway": {
+  "waystones:recipes/decorations/mossy_waystone_from_vines": {
     "criteria": {
-      "entered_end_gateway": "2025-07-08 12:46:44 +0000"
+      "has_waystone": "2025-07-08 12:58:50 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/amethyst_block": {
+  "waystones:recipes/decorations/mossy_waystone_from_moss_blocks": {
     "criteria": {
-      "has_amethyst_shard": "2025-07-08 12:55:35 +0000"
+      "has_waystone": "2025-07-08 12:58:50 +0000"
     },
     "done": true
   },

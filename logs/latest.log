@@ -385,3 +385,11 @@
 [08Jul2025 19:50:28.305] [User Authenticator #30/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player guebaud is 876922dd-aa44-4202-81be-90a22dc1c24d
 [08Jul2025 19:50:31.269] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: guebaud[/90.70.73.104:54541] logged in with entity id 493673 at (1176.5806598654563, 40.0, 2280.2862123631344)
 [08Jul2025 19:50:31.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: guebaud joined the game
+[08Jul2025 20:12:48.613] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fullavatar moved too quickly! -2.588888085158885,43.5,-3.163255589000073
+[08Jul2025 20:25:59.732] [User Authenticator #31/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Arkeez is ca1941cb-a617-4a74-b539-ae0e77326792
+[08Jul2025 20:26:01.227] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Arkeez[/89.89.43.52:51518] logged in with entity id 662416 at (1962.8747088827845, 211.0, 144.94511632256922)
+[08Jul2025 20:26:01.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arkeez joined the game
+[08Jul2025 20:33:31.214] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Arkeez moved too quickly! 86.29149109195919,149.5,-0.5998777383593961
+[08Jul2025 20:36:20.901] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Arkeez moved too quickly! 71.31213138088515,148.5,6.79823950068743
+[08Jul2025 20:36:23.945] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Arkeez lost connection: Disconnected
+[08Jul2025 20:36:23.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arkeez left the game
