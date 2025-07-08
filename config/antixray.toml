@@ -31,8 +31,8 @@ replacementBlocks = [
 # Nether configuration
 [the_nether]
 enabled = true
-engineMode = 1
-maxBlockHeight = 128
+engineMode = 3
+maxBlockHeight = 256
 updateRadius = 2
 lavaObscures = true
 hiddenBlocks = [
