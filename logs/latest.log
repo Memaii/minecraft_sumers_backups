@@ -1,32 +1,32 @@
-[08Jul2025 04:05:37.627] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, neoforgeserver, --fml.neoForgeVersion, 21.4.141, --fml.fmlVersion, 6.0.18, --fml.mcVersion, 1.21.4, --fml.neoFormVersion, 20241203.161809]
-[08Jul2025 04:05:37.629] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Eclipse Adoptium OpenJDK 64-Bit Server VM 21.0.6+7-LTS
-[08Jul2025 04:05:37.631] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 11.0.4+main.d2e20e43 starting: java version 21.0.6 by Eclipse Adoptium; OS Linux arch amd64 version 6.1.0-30-amd64
-[08Jul2025 04:05:37.772] [main/INFO] [net.neoforged.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is neoforgeserver
-[08Jul2025 04:05:37.840] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=union:/data/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar%2385!/ Service=ModLauncher Env=SERVER
-[08Jul2025 04:05:38.210] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "server-1.21.4-20241203.161809-srg.jar" [locator: production server provider +net.neoforged:neoforge:21.4.141:server]
-[08Jul2025 04:05:38.235] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "neoforge-21.4.141-universal.jar" [locator: PathBasedLocator[name=neoforge, paths=[libraries/net/neoforged/neoforge/21.4.141/neoforge-21.4.141-universal.jar]], reader: mod manifest]
-[08Jul2025 04:05:38.239] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "antixray-neoforge-1.4.10+1.21.4.jar" [locator: {mods folder locator at /data/mods}, reader: mod manifest]
-[08Jul2025 04:05:38.246] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "balm-neoforge-1.21.4-21.4.34.jar" [locator: {mods folder locator at /data/mods}, reader: mod manifest]
-[08Jul2025 04:05:38.251] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "bluemap-5.7-neoforge.jar" [locator: {mods folder locator at /data/mods}, reader: mod manifest]
-[08Jul2025 04:05:38.254] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "Chunky-NeoForge-1.4.27.jar" [locator: {mods folder locator at /data/mods}, reader: mod manifest]
-[08Jul2025 04:05:38.258] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "corpse-neoforge-1.21.4-1.1.7.jar" [locator: {mods folder locator at /data/mods}, reader: mod manifest]
-[08Jul2025 04:05:38.262] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "FallingTree-1.21.4-1.21.4.12.jar" [locator: {mods folder locator at /data/mods}, reader: mod manifest]
-[08Jul2025 04:05:38.267] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "jei-1.21.4-neoforge-20.0.0.4.jar" [locator: {mods folder locator at /data/mods}, reader: mod manifest]
-[08Jul2025 04:05:38.271] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "lithium-neoforge-0.15.3+mc1.21.4.jar" [locator: {mods folder locator at /data/mods}, reader: mod manifest]
-[08Jul2025 04:05:38.275] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "sophisticatedbackpacks-1.21.4-3.24.14.1265.jar" [locator: {mods folder locator at /data/mods}, reader: mod manifest]
-[08Jul2025 04:05:38.278] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "sophisticatedcore-1.21.4-1.3.50.1021.jar" [locator: {mods folder locator at /data/mods}, reader: mod manifest]
-[08Jul2025 04:05:38.282] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "waystones-neoforge-1.21.4-21.4.15.jar" [locator: {mods folder locator at /data/mods}, reader: mod manifest]
-[08Jul2025 04:05:38.287] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "worldedit-mod-7.3.11.jar" [locator: {mods folder locator at /data/mods}, reader: mod manifest]
-[08Jul2025 04:05:38.291] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "Xaeros_Minimap_25.2.7_NeoForge_1.21.4.jar" [locator: {mods folder locator at /data/mods}, reader: mod manifest]
-[08Jul2025 04:05:38.294] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "XaerosWorldMap_1.39.10_NeoForge_1.21.4.jar" [locator: {mods folder locator at /data/mods}, reader: mod manifest]
-[08Jul2025 04:05:38.440] [main/INFO] [net.neoforged.fml.loading.moddiscovery.locators.JarInJarDependencyLocator/]: Found 6 dependencies adding them to mods collection
-[08Jul2025 04:05:38.440] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found gamelibrary file "mixinextras-neoforge-0.4.1.jar" [parent: neoforge-21.4.141-universal.jar, locator: jarinjar, reader: mod manifest]
-[08Jul2025 04:05:38.440] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "toml4j-0.7.2.jar" [parent: antixray-neoforge-1.4.10+1.21.4.jar, locator: jarinjar]
-[08Jul2025 04:05:38.441] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "kuma-api-neoforge-21.4.6+1.21.4.jar" [parent: balm-neoforge-1.21.4-21.4.34.jar, locator: jarinjar, reader: mod manifest]
-[08Jul2025 04:05:38.441] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "bluenbt-3.3.0.jar" [parent: bluemap-5.7-neoforge.jar, locator: jarinjar]
-[08Jul2025 04:05:38.441] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "flow-math-1.0.4-SNAPSHOT.jar" [parent: bluemap-5.7-neoforge.jar, locator: jarinjar]
-[08Jul2025 04:05:38.441] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "net.neoforged.neoforge-coremods-21.4.141.jar" [parent: neoforge-21.4.141-universal.jar, locator: jarinjar, reader: mod manifest]
-[08Jul2025 04:05:38.443] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/]: 
+[08Jul2025 14:18:27.255] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, neoforgeserver, --fml.neoForgeVersion, 21.4.141, --fml.fmlVersion, 6.0.18, --fml.mcVersion, 1.21.4, --fml.neoFormVersion, 20241203.161809]
+[08Jul2025 14:18:27.257] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Eclipse Adoptium OpenJDK 64-Bit Server VM 21.0.6+7-LTS
+[08Jul2025 14:18:27.260] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 11.0.4+main.d2e20e43 starting: java version 21.0.6 by Eclipse Adoptium; OS Linux arch amd64 version 6.1.0-30-amd64
+[08Jul2025 14:18:27.407] [main/INFO] [net.neoforged.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is neoforgeserver
+[08Jul2025 14:18:27.471] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=union:/data/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar%2385!/ Service=ModLauncher Env=SERVER
+[08Jul2025 14:18:27.776] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "server-1.21.4-20241203.161809-srg.jar" [locator: production server provider +net.neoforged:neoforge:21.4.141:server]
+[08Jul2025 14:18:27.802] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "neoforge-21.4.141-universal.jar" [locator: PathBasedLocator[name=neoforge, paths=[libraries/net/neoforged/neoforge/21.4.141/neoforge-21.4.141-universal.jar]], reader: mod manifest]
+[08Jul2025 14:18:27.807] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "antixray-neoforge-1.4.10+1.21.4.jar" [locator: {mods folder locator at /data/mods}, reader: mod manifest]
+[08Jul2025 14:18:27.814] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "balm-neoforge-1.21.4-21.4.34.jar" [locator: {mods folder locator at /data/mods}, reader: mod manifest]
+[08Jul2025 14:18:27.819] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "bluemap-5.7-neoforge.jar" [locator: {mods folder locator at /data/mods}, reader: mod manifest]
+[08Jul2025 14:18:27.822] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "Chunky-NeoForge-1.4.27.jar" [locator: {mods folder locator at /data/mods}, reader: mod manifest]
+[08Jul2025 14:18:27.826] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "corpse-neoforge-1.21.4-1.1.7.jar" [locator: {mods folder locator at /data/mods}, reader: mod manifest]
+[08Jul2025 14:18:27.830] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "FallingTree-1.21.4-1.21.4.12.jar" [locator: {mods folder locator at /data/mods}, reader: mod manifest]
+[08Jul2025 14:18:27.834] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "jei-1.21.4-neoforge-20.0.0.4.jar" [locator: {mods folder locator at /data/mods}, reader: mod manifest]
+[08Jul2025 14:18:27.838] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "lithium-neoforge-0.15.3+mc1.21.4.jar" [locator: {mods folder locator at /data/mods}, reader: mod manifest]
+[08Jul2025 14:18:27.841] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "sophisticatedbackpacks-1.21.4-3.24.14.1265.jar" [locator: {mods folder locator at /data/mods}, reader: mod manifest]
+[08Jul2025 14:18:27.845] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "sophisticatedcore-1.21.4-1.3.50.1021.jar" [locator: {mods folder locator at /data/mods}, reader: mod manifest]
+[08Jul2025 14:18:27.848] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "waystones-neoforge-1.21.4-21.4.15.jar" [locator: {mods folder locator at /data/mods}, reader: mod manifest]
+[08Jul2025 14:18:27.852] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "worldedit-mod-7.3.11.jar" [locator: {mods folder locator at /data/mods}, reader: mod manifest]
+[08Jul2025 14:18:27.856] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "Xaeros_Minimap_25.2.7_NeoForge_1.21.4.jar" [locator: {mods folder locator at /data/mods}, reader: mod manifest]
+[08Jul2025 14:18:27.858] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "XaerosWorldMap_1.39.10_NeoForge_1.21.4.jar" [locator: {mods folder locator at /data/mods}, reader: mod manifest]
+[08Jul2025 14:18:27.997] [main/INFO] [net.neoforged.fml.loading.moddiscovery.locators.JarInJarDependencyLocator/]: Found 6 dependencies adding them to mods collection
+[08Jul2025 14:18:27.998] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found gamelibrary file "mixinextras-neoforge-0.4.1.jar" [parent: neoforge-21.4.141-universal.jar, locator: jarinjar, reader: mod manifest]
+[08Jul2025 14:18:27.998] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "toml4j-0.7.2.jar" [parent: antixray-neoforge-1.4.10+1.21.4.jar, locator: jarinjar]
+[08Jul2025 14:18:27.998] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "kuma-api-neoforge-21.4.6+1.21.4.jar" [parent: balm-neoforge-1.21.4-21.4.34.jar, locator: jarinjar, reader: mod manifest]
+[08Jul2025 14:18:27.998] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "bluenbt-3.3.0.jar" [parent: bluemap-5.7-neoforge.jar, locator: jarinjar]
+[08Jul2025 14:18:27.998] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "flow-math-1.0.4-SNAPSHOT.jar" [parent: bluemap-5.7-neoforge.jar, locator: jarinjar]
+[08Jul2025 14:18:27.998] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "net.neoforged.neoforge-coremods-21.4.141.jar" [parent: neoforge-21.4.141-universal.jar, locator: jarinjar, reader: mod manifest]
+[08Jul2025 14:18:28.000] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/]: 
      Mod List:
 		Name Version (Mod Id)
 
@@ -47,502 +47,236 @@
 		WorldEdit 7.3.11+7055-8357a12 (worldedit)
 		Xaero's Minimap 25.2.7 (xaerominimap)
 		Xaero's World Map 1.39.10 (xaeroworldmap)
-[08Jul2025 04:05:38.583] [main/INFO] [net.neoforged.fml.loading.FMLServiceProvider/CORE]: Loading coremod script-engine for [xaerominimap, xaeroworldmap]
-[08Jul2025 04:05:39.728] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[08Jul2025 04:05:39.731] [main/INFO] [mixin/]: Compatibility level set to JAVA_21
-[08Jul2025 04:05:39.777] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'neoforgeserver' with arguments []
-[08Jul2025 04:05:39.804] [main/WARN] [mixin/]: Reference map 'kuma_api.refmap.json' for kuma_api.mixins.json could not be read. If this is a development environment you can ignore this message
-[08Jul2025 04:05:39.806] [main/WARN] [mixin/]: Reference map 'worldedit-neoforge.mixins.refmap.json' for worldedit-neoforge.mixins.json could not be read. If this is a development environment you can ignore this message
-[08Jul2025 04:05:39.806] [main/WARN] [mixin/]: Reference map 'balm.refmap.json' for balm.mixins.json could not be read. If this is a development environment you can ignore this message
-[08Jul2025 04:05:39.851] [main/INFO] [Lithium/]: Loaded configuration file for Lithium: 155 options available, 0 override(s) found.
-[08Jul2025 04:05:39.855] [main/WARN] [mixin/]: Reference map 'waystones.refmap.json' for waystones.mixins.json could not be read. If this is a development environment you can ignore this message
-[08Jul2025 04:05:40.992] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[08Jul2025 04:05:48.626] [modloading-worker-0/INFO] [me.drex.antixray.common.AntiXray/]: Successfully initialized antixray for neoforge
-[08Jul2025 04:05:48.870] [modloading-worker-0/INFO] [net.neoforged.neoforge.common.NeoForgeMod/NEOFORGE-MOD]: NeoForge mod loading, version 21.4.141, for MC 1.21.4
-[08Jul2025 04:05:49.905] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [corpse] Starting version check at https://update.maxhenkel.de/neoforge/corpse
-[08Jul2025 04:05:50.195] [modloading-worker-0/INFO] [com.sk89q.worldedit.extension.platform.PlatformManager/]: Got request to register class com.sk89q.worldedit.neoforge.NeoForgePlatform with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@55e4b2c7]
-[08Jul2025 04:05:50.197] [modloading-worker-0/INFO] [com.sk89q.worldedit.neoforge.NeoForgeWorldEdit/]: WorldEdit for NeoForge (version 7.3.11+7055-8357a12) is loaded
-[08Jul2025 04:05:50.201] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
-[08Jul2025 04:05:50.201] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
-[08Jul2025 04:05:50.202] [modloading-sync-worker/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
-[08Jul2025 04:05:50.203] [modloading-sync-worker/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
-[08Jul2025 04:05:50.371] [main/WARN] [net.minecraft.server.dedicated.DedicatedServerProperties/]: resource-pack-id missing, using default of 8790b826-8d12-35ca-bbc8-92715b38d6b4
-[08Jul2025 04:05:50.391] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[08Jul2025 04:05:50.419] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [corpse] Found status: BETA_OUTDATED Current: 1.21.4-1.1.7 Target: 1.21.4-1.1.10
-[08Jul2025 04:05:50.557] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/data/libraries/net/minecraft/server/1.21.4-20241203.161809/server-1.21.4-20241203.161809-srg.jar%23155!/assets/.mcassetsroot' uses unexpected schema
-[08Jul2025 04:05:50.558] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/data/libraries/net/minecraft/server/1.21.4-20241203.161809/server-1.21.4-20241203.161809-srg.jar%23155!/data/.mcassetsroot' uses unexpected schema
-[08Jul2025 04:05:52.294] [Worker-Main-1/INFO] [com.sk89q.worldedit.extension.platform.PlatformCommandManager/]: Registering commands with com.sk89q.worldedit.neoforge.NeoForgePlatform
-[08Jul2025 04:05:52.957] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 1489 recipes
-[08Jul2025 04:05:52.974] [main/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 1592 advancements
-[08Jul2025 04:05:52.981] [main/INFO] [net.neoforged.neoforge.common.crafting.RecipePriorityManager/]: Loaded 0 recipe priority overrides
-[08Jul2025 04:05:53.431] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.21.4
-[08Jul2025 04:05:53.431] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[08Jul2025 04:05:53.431] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[08Jul2025 04:05:53.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[08Jul2025 04:05:53.610] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[08Jul2025 04:05:53.727] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[08Jul2025 04:05:53.818] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[08Jul2025 04:05:54.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[08Jul2025 04:05:58.315] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[08Jul2025 04:05:58.316] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[08Jul2025 04:05:58.316] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[08Jul2025 04:05:58.316] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[08Jul2025 04:05:58.317] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[08Jul2025 04:05:58.317] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[08Jul2025 04:05:58.317] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[08Jul2025 04:05:58.317] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[08Jul2025 04:05:58.567] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 4074 ms
-[08Jul2025 04:05:58.568] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (4.793s)! For help, type "help"
-[08Jul2025 04:05:58.568] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting remote control listener
-[08Jul2025 04:05:58.570] [Server thread/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Listener started
-[08Jul2025 04:05:58.571] [Server thread/INFO] [net.minecraft.server.rcon.thread.RconThread/]: RCON running on 0.0.0.0:25575
-[08Jul2025 04:05:58.580] [LanServerPinger #1/WARN] [net.minecraft.client.server.LanServerPinger/]: LanServerPinger: Network is unreachable
-[08Jul2025 04:05:58.613] [Server thread/INFO] [net.neoforged.neoforge.server.permission.PermissionAPI/]: Successfully initialized permission handler neoforge:default_handler
-[08Jul2025 04:06:00.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[08Jul2025 04:06:03.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[08Jul2025 04:06:04.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[08Jul2025 04:06:04.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[08Jul2025 04:06:04.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[08Jul2025 04:06:04.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[08Jul2025 04:06:04.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
-[08Jul2025 04:06:04.272] [BlueMap-Plugin-Loading/INFO] [BlueMap/]: Loading...
-[08Jul2025 04:06:04.593] [BlueMap-Plugin-Loading/INFO] [BlueMap/]: Loading resources...
-[08Jul2025 04:06:05.456] [BlueMap-Plugin-Loading/INFO] [BlueMap/]: Loading textures...
-[08Jul2025 04:06:06.949] [BlueMap-Plugin-Loading/INFO] [BlueMap/]: Baking resources...
-[08Jul2025 04:06:06.985] [BlueMap-Plugin-Loading/INFO] [BlueMap/]: Resources loaded.
-[08Jul2025 04:06:07.087] [BlueMap-Plugin-Loading/INFO] [BlueMap/]: Initializing Storage: 'file' (Type: 'bluemap:file')
-[08Jul2025 04:06:07.092] [BlueMap-Plugin-Loading/INFO] [BlueMap/]: Loading map 'world_the_end'...
-[08Jul2025 04:06:07.282] [BlueMap-Plugin-Loading/INFO] [BlueMap/]: Loading map 'world'...
-[08Jul2025 04:06:07.450] [BlueMap-Plugin-Loading/INFO] [BlueMap/]: Loading map 'world_the_nether'...
-[08Jul2025 04:06:07.574] [BlueMap-Plugin-Loading/INFO] [BlueMap/]: WebServer bound to all network interfaces on port 8100
-[08Jul2025 04:06:07.575] [Thread-15/INFO] [BlueMap/]: WebServer started.
-[08Jul2025 04:06:07.590] [BlueMap-Plugin-Loading/INFO] [BlueMap/]: Loaded!
-[08Jul2025 04:07:04.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Server empty for 60 seconds, pausing
-[08Jul2025 04:07:07.672] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[08Jul2025 06:28:46.175] [User Authenticator #1/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Fullavatar is fd102774-21c2-4b99-9396-f454ead0849c
-[08Jul2025 06:28:48.339] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Fullavatar[/93.19.138.72:50582] logged in with entity id 151 at (286.83294570506996, 218.0, 1851.2487673414078)
-[08Jul2025 06:28:48.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fullavatar joined the game
-[08Jul2025 07:00:54.964] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Blackliss is 5750e528-e519-43d6-b148-76e08d2e1b2e
-[08Jul2025 07:00:56.889] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Blackliss[/192.168.1.254:62558] logged in with entity id 173862 at (1964.6118145340129, 212.0, 146.55542862452484)
-[08Jul2025 07:00:56.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blackliss joined the game
-[08Jul2025 07:01:05.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Fullavatar> noob
-[08Jul2025 07:06:13.320] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 63.0,115.5,5.0
-[08Jul2025 07:07:02.572] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1968, y=212, z=151} BlockPos{x=1967, y=211, z=150}
-[08Jul2025 07:07:02.604] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1968, y=212, z=151} BlockPos{x=1967, y=211, z=150}
-[08Jul2025 07:16:42.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blackliss fell from a high place
-[08Jul2025 07:16:46.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Fullavatar> gg
-[08Jul2025 07:16:51.607] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! -31.674573863371506,-146.5,-4.199999988079071
-[08Jul2025 07:17:27.054] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 27.808291358981705,143.5,108.10585181134286
-[08Jul2025 07:17:27.062] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 27.808291358981705,143.5,108.10585181134286
-[08Jul2025 07:17:27.071] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 27.808291358981705,143.5,108.10585181134286
-[08Jul2025 07:26:30.272] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 15.534657830932701,-1.5107172999649947,-10.711345513791066
-[08Jul2025 07:27:01.615] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1944, y=71, z=21} BlockPos{x=1576, y=68, z=26}
-[08Jul2025 07:27:01.660] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1944, y=71, z=21} BlockPos{x=1576, y=68, z=26}
-[08Jul2025 07:27:01.714] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1944, y=71, z=21} BlockPos{x=1576, y=68, z=26}
-[08Jul2025 07:27:01.758] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1944, y=71, z=21} BlockPos{x=1576, y=68, z=26}
-[08Jul2025 07:27:09.459] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1566, y=67, z=23} BlockPos{x=1565, y=67, z=23}
-[08Jul2025 07:27:09.516] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1566, y=67, z=23} BlockPos{x=1565, y=67, z=23}
-[08Jul2025 07:27:09.559] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1566, y=67, z=23} BlockPos{x=1565, y=67, z=23}
-[08Jul2025 07:28:24.912] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 22.80000001192093,25.5,40.19999998807907
-[08Jul2025 07:28:24.921] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 22.80000001192093,25.5,40.19999998807907
-[08Jul2025 07:39:38.763] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 5.199999988079071,0.5,-9.8813269166005
-[08Jul2025 07:46:16.219] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1904, y=63, z=300} BlockPos{x=1903, y=63, z=300}
-[08Jul2025 07:46:16.292] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1904, y=63, z=300} BlockPos{x=1903, y=63, z=300}
-[08Jul2025 07:46:16.334] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1904, y=63, z=300} BlockPos{x=1903, y=63, z=300}
-[08Jul2025 07:46:23.503] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 68.25153498280429,151.5,-152.86816629754497
-[08Jul2025 07:46:23.512] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 68.25153498280429,151.5,-152.86816629754497
-[08Jul2025 07:46:23.521] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 68.25153498280429,151.5,-152.86816629754497
-[08Jul2025 07:50:31.824] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2152ms or 43 ticks behind
-[08Jul2025 07:58:37.153] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss lost connection: Disconnected
-[08Jul2025 07:58:37.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blackliss left the game
-[08Jul2025 07:59:39.825] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Blackliss is 5750e528-e519-43d6-b148-76e08d2e1b2e
-[08Jul2025 07:59:43.195] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Blackliss[/192.168.1.254:64751] logged in with entity id 209037 at (751.5163720167991, 36.0, -642.6999999880791)
-[08Jul2025 07:59:43.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blackliss joined the game
-[08Jul2025 08:00:00.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Kicked Blackliss: Use of X-Ray]
-[08Jul2025 08:00:00.534] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss lost connection: Use of X-Ray
-[08Jul2025 08:00:00.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blackliss left the game
-[08Jul2025 08:00:26.234] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Blackliss is 5750e528-e519-43d6-b148-76e08d2e1b2e
-[08Jul2025 08:00:29.389] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Blackliss[/192.168.1.254:64763] logged in with entity id 209531 at (751.4443425583625, 36.0, -642.3000000119209)
-[08Jul2025 08:00:29.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blackliss joined the game
-[08Jul2025 08:03:04.245] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2717ms or 54 ticks behind
-[08Jul2025 08:03:04.767] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fullavatar moved too quickly! -9.876987008105061,-2.254980744572336,-14.261218245197597
-[08Jul2025 08:03:10.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Made Blackliss a server operator]
-[08Jul2025 08:03:29.064] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /192.168.1.254 started
-[08Jul2025 08:03:55.754] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fullavatar moved too quickly! -8.712042585196969,-1.6754387601295093,4.681342978818066
-[08Jul2025 08:03:55.762] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2890ms or 57 ticks behind
-[08Jul2025 08:10:54.235] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fullavatar lost connection: Disconnected
-[08Jul2025 08:10:54.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fullavatar left the game
-[08Jul2025 08:11:02.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Blackliss: Made Blackliss no longer a server operator]
-[08Jul2025 08:12:31.287] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss lost connection: Disconnected
-[08Jul2025 08:12:31.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blackliss left the game
-[08Jul2025 08:13:31.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Server empty for 60 seconds, pausing
-[08Jul2025 08:22:45.997] [User Authenticator #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Fullavatar is fd102774-21c2-4b99-9396-f454ead0849c
-[08Jul2025 08:22:47.462] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Fullavatar[/93.19.138.72:51219] logged in with entity id 214128 at (564.0539309650579, 64.828125, 13666.579640511152)
-[08Jul2025 08:22:47.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fullavatar joined the game
-[08Jul2025 08:32:45.090] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fullavatar lost connection: Disconnected
-[08Jul2025 08:32:45.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fullavatar left the game
-[08Jul2025 08:33:45.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Server empty for 60 seconds, pausing
-[08Jul2025 09:16:52.993] [User Authenticator #6/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Fullavatar is fd102774-21c2-4b99-9396-f454ead0849c
-[08Jul2025 09:16:54.471] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Fullavatar[/93.19.138.72:51461] logged in with entity id 215821 at (581.3000000119209, 59.875, 13666.300000011921)
-[08Jul2025 09:16:54.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fullavatar joined the game
-[08Jul2025 09:18:10.477] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fullavatar lost connection: Disconnected
-[08Jul2025 09:18:10.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fullavatar left the game
-[08Jul2025 09:19:10.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Server empty for 60 seconds, pausing
-[08Jul2025 09:24:26.282] [User Authenticator #7/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Fullavatar is fd102774-21c2-4b99-9396-f454ead0849c
-[08Jul2025 09:24:27.777] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Fullavatar[/93.19.138.72:51496] logged in with entity id 216296 at (565.5583292068942, 63.0, 13672.241711707187)
-[08Jul2025 09:24:27.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fullavatar joined the game
-[08Jul2025 09:31:39.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Set own game mode to Creative Mode]
-[08Jul2025 09:31:53.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Set own game mode to Survival Mode]
-[08Jul2025 09:31:54.984] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fullavatar lost connection: Disconnected
-[08Jul2025 09:31:54.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fullavatar left the game
-[08Jul2025 09:32:28.978] [User Authenticator #8/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Arkeez is ca1941cb-a617-4a74-b539-ae0e77326792
-[08Jul2025 09:32:30.717] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Arkeez[/89.89.43.52:50221] logged in with entity id 219666 at (1962.480024391979, 211.0, 144.98335885076494)
-[08Jul2025 09:32:30.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arkeez joined the game
-[08Jul2025 09:32:55.939] [User Authenticator #9/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Fullavatar is fd102774-21c2-4b99-9396-f454ead0849c
-[08Jul2025 09:32:57.409] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Fullavatar[/93.19.138.72:51553] logged in with entity id 219851 at (289.7960710570492, 215.125, 1851.7714857033648)
-[08Jul2025 09:32:57.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fullavatar joined the game
-[08Jul2025 09:33:03.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Arkeez> ARABE
-[08Jul2025 09:38:08.545] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fullavatar lost connection: Disconnected
-[08Jul2025 09:38:08.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fullavatar left the game
-[08Jul2025 09:40:38.955] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2013, y=-53, z=246} BlockPos{x=2014, y=-54, z=247}
-[08Jul2025 09:43:41.557] [User Authenticator #10/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Byakoren is 77ebe240-f66a-4d07-ae88-a6df583c1a70
-[08Jul2025 09:43:43.137] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Byakoren[/86.245.7.178:64984] logged in with entity id 223647 at (581.3000000119209, 59.875, 13666.300000011921)
-[08Jul2025 09:43:43.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Byakoren joined the game
-[08Jul2025 09:47:18.809] [User Authenticator #11/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Blackliss is 5750e528-e519-43d6-b148-76e08d2e1b2e
-[08Jul2025 09:47:21.294] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Blackliss[/192.168.1.254:65409] logged in with entity id 225477 at (1963.3514163000348, 210.9375, 156.40401382586188)
-[08Jul2025 09:47:21.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blackliss joined the game
-[08Jul2025 09:51:12.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Blackliss> Je mange et j'arrive Arkeez
-[08Jul2025 09:51:15.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Arkeez> k
-[08Jul2025 09:51:55.060] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=76, y=63, z=13478} BlockPos{x=77, y=63, z=13477}
-[08Jul2025 09:52:53.586] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Arkeez lost connection: Disconnected
-[08Jul2025 09:52:53.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arkeez left the game
-[08Jul2025 09:52:59.636] [User Authenticator #12/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Arkeez is ca1941cb-a617-4a74-b539-ae0e77326792
-[08Jul2025 09:53:01.036] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Arkeez[/89.89.43.52:50295] logged in with entity id 230916 at (2517.447237463751, -54.0, 243.3036435819578)
-[08Jul2025 09:53:01.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arkeez joined the game
-[08Jul2025 09:53:19.911] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=63, y=65, z=13499} BlockPos{x=63, y=64, z=13498}
-[08Jul2025 09:53:19.960] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=63, y=65, z=13499} BlockPos{x=63, y=64, z=13498}
-[08Jul2025 09:53:20.009] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=63, y=65, z=13499} BlockPos{x=63, y=64, z=13498}
-[08Jul2025 09:53:32.337] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2539, y=-56, z=244} BlockPos{x=2537, y=-54, z=244}
-[08Jul2025 09:53:33.260] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=49, y=66, z=13470} BlockPos{x=48, y=67, z=13471}
-[08Jul2025 09:53:33.311] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=49, y=66, z=13470} BlockPos{x=48, y=67, z=13471}
-[08Jul2025 09:53:33.360] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=49, y=66, z=13470} BlockPos{x=48, y=67, z=13471}
-[08Jul2025 09:53:33.413] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=49, y=66, z=13470} BlockPos{x=48, y=67, z=13471}
-[08Jul2025 09:53:33.460] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=49, y=66, z=13470} BlockPos{x=48, y=67, z=13471}
-[08Jul2025 09:53:34.460] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=47, y=68, z=13469} BlockPos{x=48, y=68, z=13468}
-[08Jul2025 09:53:48.810] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2543, y=-56, z=247} BlockPos{x=2543, y=-57, z=246}
-[08Jul2025 09:54:03.662] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=67, y=66, z=13501} BlockPos{x=67, y=66, z=13502}
-[08Jul2025 09:56:43.562] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=94, y=64, z=13463} BlockPos{x=95, y=63, z=13465}
-[08Jul2025 09:57:30.962] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=137, y=67, z=13455} BlockPos{x=137, y=67, z=13454}
-[08Jul2025 09:58:20.362] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=77, y=66, z=13453} BlockPos{x=78, y=66, z=13453}
-[08Jul2025 09:59:50.064] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=133, y=67, z=13393} BlockPos{x=134, y=67, z=13396}
-[08Jul2025 09:59:50.113] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=133, y=67, z=13393} BlockPos{x=134, y=67, z=13396}
-[08Jul2025 09:59:51.813] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=129, y=66, z=13389} BlockPos{x=129, y=66, z=13390}
-[08Jul2025 09:59:51.863] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=129, y=66, z=13389} BlockPos{x=129, y=66, z=13390}
-[08Jul2025 09:59:51.913] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=129, y=66, z=13389} BlockPos{x=129, y=66, z=13390}
-[08Jul2025 09:59:51.964] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=129, y=66, z=13389} BlockPos{x=129, y=66, z=13390}
-[08Jul2025 10:00:49.965] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=96, y=67, z=13426} BlockPos{x=96, y=67, z=13425}
-[08Jul2025 10:00:50.014] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=96, y=67, z=13426} BlockPos{x=96, y=67, z=13425}
-[08Jul2025 10:00:50.064] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=96, y=67, z=13426} BlockPos{x=96, y=67, z=13425}
-[08Jul2025 10:00:50.114] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=96, y=67, z=13426} BlockPos{x=96, y=67, z=13425}
-[08Jul2025 10:00:50.165] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=96, y=67, z=13426} BlockPos{x=96, y=67, z=13425}
-[08Jul2025 10:00:59.214] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=85, y=67, z=13415} BlockPos{x=87, y=66, z=13414}
-[08Jul2025 10:00:59.415] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=85, y=67, z=13415} BlockPos{x=86, y=67, z=13415}
-[08Jul2025 10:02:33.728] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=71, y=68, z=13386} BlockPos{x=68, y=68, z=13381}
-[08Jul2025 10:02:33.764] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=71, y=68, z=13387} BlockPos{x=68, y=68, z=13381}
-[08Jul2025 10:02:33.815] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=70, y=68, z=13385} BlockPos{x=68, y=68, z=13381}
-[08Jul2025 10:03:22.007] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Arkeez moved too quickly! -666.2432328618852,271.5,183.47912034218413
-[08Jul2025 10:03:30.165] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=28, y=67, z=13393} BlockPos{x=32, y=67, z=13390}
-[08Jul2025 10:05:47.904] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Byakoren moved too quickly! 84.41788648731404,203.5,-13437.71859699837
-[08Jul2025 10:05:47.916] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Byakoren moved too quickly! 84.41788648731404,203.5,-13437.71859699837
-[08Jul2025 10:07:18.652] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Byakoren moved too quickly! -47.50285022315484,-198.0,13513.840156890414
-[08Jul2025 10:07:18.660] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Byakoren moved too quickly! -47.50285022315484,-198.0,13513.840156890414
-[08Jul2025 10:07:18.668] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Byakoren moved too quickly! -47.50285022315484,-198.0,13513.840156890414
-[08Jul2025 10:14:06.900] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! -23.284571227546166,14.622837907592356,12.822899258382904
-[08Jul2025 10:14:06.911] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! -23.284571227546166,14.622837907592356,12.822899258382904
-[08Jul2025 10:14:06.919] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! -23.284571227546166,14.622837907592356,12.822899258382904
-[08Jul2025 10:14:11.369] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1909, y=100, z=141} BlockPos{x=1904, y=100, z=143}
-[08Jul2025 10:14:11.671] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1904, y=99, z=143} BlockPos{x=1903, y=100, z=143}
-[08Jul2025 10:14:24.456] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 77.14867234382677,150.5,-2.657341042366454
-[08Jul2025 10:14:24.464] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 77.14867234382677,150.5,-2.657341042366454
-[08Jul2025 10:16:43.859] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! -11.800000011920929,160.5,75.17226531387976
-[08Jul2025 10:16:43.866] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! -11.800000011920929,160.5,75.17226531387976
-[08Jul2025 10:17:24.971] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1668, y=83, z=-583} BlockPos{x=1670, y=81, z=-581}
-[08Jul2025 10:17:25.038] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1668, y=83, z=-583} BlockPos{x=1670, y=81, z=-581}
-[08Jul2025 10:19:10.252] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Arkeez moved too quickly! 84.74173220427065,149.5,-0.2296309326471544
-[08Jul2025 10:20:39.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arkeez has made the advancement [What a Deal!]
-[08Jul2025 10:21:22.155] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 2493.7173584825427,273.5,221.2021783798748
-[08Jul2025 10:21:22.164] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 2493.7173584825427,273.5,221.2021783798748
-[08Jul2025 10:21:49.706] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! -2683.087668160711,-143.8629440497184,-64.32139992109063
-[08Jul2025 10:23:12.614] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Arkeez moved too quickly! 86.12472420117115,149.5,0.05643987272563322
-[08Jul2025 10:29:35.015] [User Authenticator #13/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Fullavatar is fd102774-21c2-4b99-9396-f454ead0849c
-[08Jul2025 10:29:36.593] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Fullavatar[/93.19.138.72:51770] logged in with entity id 256401 at (288.101125818259, 208.5, 1860.8981380765065)
-[08Jul2025 10:29:36.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fullavatar joined the game
-[08Jul2025 10:29:42.765] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Arkeez moved too quickly! -82.0,-144.0625,4.0
-[08Jul2025 10:29:57.017] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Arkeez moved too quickly! 84.02283693147592,149.5,-0.916564539417493
-[08Jul2025 10:30:12.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Blackliss> Full viens péné pour diamants please :D
-[08Jul2025 10:30:38.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Blackliss> Dans le coffre :D
-[08Jul2025 10:30:58.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Fullavatar> thk
-[08Jul2025 10:31:04.871] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fullavatar moved too quickly! 1069.800000011921,123.5,13751.977064787618
-[08Jul2025 10:31:06.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Blackliss> Y too
-[08Jul2025 10:32:19.216] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Arkeez moved too quickly! 85.11838834049968,149.5,-0.3150114973487348
-[08Jul2025 10:32:49.464] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Arkeez moved too quickly! -76.96409718529549,-143.5,2.6264914679470905
-[08Jul2025 10:36:23.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arkeez has made the advancement [We Need to Go Deeper]
-[08Jul2025 10:36:35.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arkeez has made the advancement [Those Were the Days]
-[08Jul2025 10:36:50.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blackliss has made the advancement [War Pigs]
-[08Jul2025 10:37:59.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arkeez has made the advancement [War Pigs]
-[08Jul2025 10:38:06.349] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Byakoren lost connection: Disconnected
-[08Jul2025 10:38:06.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Byakoren left the game
-[08Jul2025 10:38:11.147] [User Authenticator #14/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Byakoren is 77ebe240-f66a-4d07-ae88-a6df583c1a70
-[08Jul2025 10:38:12.479] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Byakoren[/86.245.7.178:50731] logged in with entity id 264160 at (549.5689920277995, 63.0, 13667.051696816075)
-[08Jul2025 10:38:12.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Byakoren joined the game
-[08Jul2025 10:38:24.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blackliss experienced kinetic energy while trying to escape Piglin Brute
-[08Jul2025 10:41:22.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arkeez was slain by Piglin Brute
-[08Jul2025 10:42:53.165] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 555.8359069003201,-21.087500000000006,-698.6518551021306
-[08Jul2025 10:44:58.668] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! -148.49994955972397,18.5,527.8647175740738
-[08Jul2025 10:46:59.098] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 406.8085894127969,-4.087500000000006,-171.33288910219534
-[08Jul2025 10:46:59.115] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 406.8085894127969,-4.087500000000006,-171.33288910219534
-[08Jul2025 10:46:59.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arkeez has made the advancement [A Terrible Fortress]
-[08Jul2025 10:47:14.101] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! -294.6326235590559,14.912499999999994,44.44677734375
-[08Jul2025 10:47:14.108] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! -294.6326235590559,14.912499999999994,44.44677734375
-[08Jul2025 10:47:14.116] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! -294.6326235590559,14.912499999999994,44.44677734375
-[08Jul2025 10:49:43.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arkeez was slain by Piglin Brute
-[08Jul2025 10:49:52.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Fullavatar> GG
-[08Jul2025 10:51:32.420] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! -294.56289628990226,14.912499999999994,44.11943214866787
-[08Jul2025 10:53:13.358] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Arkeez moved too quickly! 12.800000011920929,54.5,-20.032474908378333
-[08Jul2025 11:02:50.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blackliss experienced kinetic energy
-[08Jul2025 11:02:53.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Fullavatar> GG
-[08Jul2025 11:04:45.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blackliss experienced kinetic energy
-[08Jul2025 11:05:22.569] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! -1503.9742721685107,49.75,64.01889581528579
-[08Jul2025 11:05:32.466] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 1506.2194717687446,-45.5,-62.94719893819183
-[08Jul2025 11:13:52.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blackliss burned to death
-[08Jul2025 11:26:11.308] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 988.2659515548322,320.5,283.58769170138214
-[08Jul2025 11:26:11.316] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 988.2659515548322,320.5,283.58769170138214
-[08Jul2025 11:26:46.216] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 1506.386519506135,-45.5,-62.80000001192093
-[08Jul2025 11:28:13.862] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Arkeez moved wrongly!
-[08Jul2025 11:28:42.259] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! -761.5465806031149,-13.087500000000006,-84.73999723875107
-[08Jul2025 11:28:42.267] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! -761.5465806031149,-13.087500000000006,-84.73999723875107
-[08Jul2025 11:32:02.460] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-421, y=90, z=-431} BlockPos{x=-421, y=90, z=-430}
-[08Jul2025 11:32:02.511] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-421, y=90, z=-431} BlockPos{x=-421, y=90, z=-430}
-[08Jul2025 11:32:02.561] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-421, y=90, z=-431} BlockPos{x=-421, y=90, z=-430}
-[08Jul2025 11:32:14.862] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-421, y=91, z=-450} BlockPos{x=-421, y=90, z=-452}
-[08Jul2025 11:32:14.914] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-421, y=91, z=-450} BlockPos{x=-421, y=90, z=-452}
-[08Jul2025 11:32:14.967] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-421, y=91, z=-450} BlockPos{x=-421, y=90, z=-452}
-[08Jul2025 11:32:16.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arkeez has made the advancement [Hidden in the Depths]
-[08Jul2025 11:34:15.035] [User Authenticator #15/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Redoxlyy is 82c71c85-d9c9-4197-a7c6-61b8ee4b34c7
-[08Jul2025 11:34:17.238] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Redoxlyy[/89.80.190.53:49158] logged in with entity id 452529 at (1967.0446841383662, 211.5625, 142.74193021391253)
-[08Jul2025 11:34:17.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Redoxlyy joined the game
-[08Jul2025 11:37:17.716] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-629, y=87, z=-673} BlockPos{x=-628, y=90, z=-677}
-[08Jul2025 11:37:17.767] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-629, y=87, z=-673} BlockPos{x=-628, y=90, z=-677}
-[08Jul2025 11:37:17.812] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-629, y=87, z=-673} BlockPos{x=-628, y=90, z=-677}
-[08Jul2025 11:37:17.863] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-629, y=87, z=-673} BlockPos{x=-628, y=90, z=-677}
-[08Jul2025 11:37:17.914] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-629, y=87, z=-673} BlockPos{x=-628, y=90, z=-677}
-[08Jul2025 11:37:17.965] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-629, y=87, z=-673} BlockPos{x=-628, y=90, z=-677}
-[08Jul2025 11:37:18.015] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-629, y=87, z=-673} BlockPos{x=-628, y=90, z=-677}
-[08Jul2025 11:37:18.065] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-629, y=87, z=-673} BlockPos{x=-628, y=90, z=-677}
-[08Jul2025 11:37:18.116] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-629, y=87, z=-673} BlockPos{x=-628, y=90, z=-677}
-[08Jul2025 11:37:18.166] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-629, y=87, z=-673} BlockPos{x=-628, y=90, z=-677}
-[08Jul2025 11:38:07.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Redoxlyy has completed the challenge [Hot Tourist Destinations]
-[08Jul2025 11:38:20.420] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-652, y=113, z=-699} BlockPos{x=-652, y=114, z=-697}
-[08Jul2025 11:38:20.518] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-652, y=113, z=-699} BlockPos{x=-652, y=114, z=-697}
-[08Jul2025 11:40:54.263] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 514.1635549058542,-45.087500000000006,494.5718555716621
-[08Jul2025 11:40:54.271] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 514.1635549058542,-45.087500000000006,494.5718555716621
-[08Jul2025 11:41:06.231] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Oak Boat (vehicle of Arkeez) moved too quickly! 761.7058405311334,13.459999999999994,84.62392895311143
-[08Jul2025 11:41:06.301] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Oak Boat (vehicle of Arkeez) moved too quickly! 761.7058405311334,13.379999999999995,84.62392895311143
-[08Jul2025 11:41:06.350] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Oak Boat (vehicle of Arkeez) moved too quickly! 761.7058405311334,13.259999999999991,84.62392895311143
-[08Jul2025 11:45:15.667] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 1225.024016651635,1.625,215.75507805111755
-[08Jul2025 11:47:39.068] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Byakoren moved too quickly! -1652.9041237669085,-34.5,-14767.927571435363
-[08Jul2025 11:47:56.267] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Arkeez moved too quickly! -19.80000001192093,40.5,-13.800000011920929
-[08Jul2025 11:50:08.172] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Redoxlyy moved too quickly! 1258.2887877913226,-53.5,234.77283579454314
-[08Jul2025 11:50:13.767] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 1220.697765094549,39.5,215.2223560734485
-[08Jul2025 11:50:13.776] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 1220.697765094549,39.5,215.2223560734485
-[08Jul2025 11:50:13.797] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 1220.697765094549,39.5,215.2223560734485
-[08Jul2025 11:50:13.800] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 1220.697765094549,39.5,215.2223560734485
-[08Jul2025 11:50:13.810] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 1220.697765094549,39.5,215.2223560734485
-[08Jul2025 11:50:23.449] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-836, y=77, z=5782} BlockPos{x=-835, y=77, z=5783}
-[08Jul2025 11:50:23.499] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-836, y=77, z=5782} BlockPos{x=-835, y=77, z=5783}
-[08Jul2025 11:50:23.551] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-836, y=77, z=5782} BlockPos{x=-835, y=77, z=5783}
-[08Jul2025 11:50:23.600] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-836, y=77, z=5782} BlockPos{x=-835, y=77, z=5783}
-[08Jul2025 11:50:23.648] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-836, y=77, z=5782} BlockPos{x=-835, y=77, z=5783}
-[08Jul2025 11:50:23.700] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-836, y=77, z=5782} BlockPos{x=-835, y=77, z=5783}
-[08Jul2025 11:50:23.756] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-836, y=77, z=5782} BlockPos{x=-835, y=77, z=5783}
-[08Jul2025 11:50:23.797] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-836, y=77, z=5782} BlockPos{x=-835, y=77, z=5783}
-[08Jul2025 11:50:23.850] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-836, y=77, z=5782} BlockPos{x=-835, y=77, z=5783}
-[08Jul2025 11:50:23.898] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-836, y=77, z=5782} BlockPos{x=-835, y=77, z=5783}
-[08Jul2025 11:50:23.950] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-836, y=77, z=5782} BlockPos{x=-835, y=77, z=5783}
-[08Jul2025 11:50:23.998] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-836, y=77, z=5782} BlockPos{x=-835, y=77, z=5783}
-[08Jul2025 11:50:26.964] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Arkeez moved too quickly! 7.323108153542876,41.5,17.913111580822942
-[08Jul2025 11:50:31.556] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved wrongly!
-[08Jul2025 11:51:52.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Redoxlyy has made the advancement [Hidden in the Depths]
-[08Jul2025 11:59:33.906] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2434ms or 48 ticks behind
-[08Jul2025 12:00:14.735] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-784, y=15, z=-137} BlockPos{x=-784, y=15, z=-136}
-[08Jul2025 12:00:14.781] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-784, y=15, z=-137} BlockPos{x=-784, y=15, z=-136}
-[08Jul2025 12:12:46.553] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-770, y=33, z=586} BlockPos{x=-772, y=33, z=582}
-[08Jul2025 12:12:47.761] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-770, y=33, z=586} BlockPos{x=-772, y=34, z=586}
-[08Jul2025 12:12:47.798] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-770, y=33, z=586} BlockPos{x=-772, y=34, z=586}
-[08Jul2025 12:12:47.866] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-770, y=33, z=586} BlockPos{x=-772, y=34, z=586}
-[08Jul2025 12:12:47.898] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-770, y=33, z=586} BlockPos{x=-772, y=34, z=586}
-[08Jul2025 12:12:47.949] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-770, y=33, z=586} BlockPos{x=-772, y=34, z=586}
-[08Jul2025 12:12:51.300] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-770, y=33, z=586} BlockPos{x=-773, y=33, z=583}
-[08Jul2025 12:12:51.403] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-770, y=33, z=586} BlockPos{x=-774, y=33, z=583}
-[08Jul2025 12:12:51.460] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-770, y=33, z=586} BlockPos{x=-774, y=33, z=583}
-[08Jul2025 12:12:51.499] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-770, y=33, z=586} BlockPos{x=-774, y=33, z=583}
-[08Jul2025 12:12:51.561] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-770, y=33, z=586} BlockPos{x=-774, y=33, z=583}
-[08Jul2025 12:12:51.598] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-770, y=33, z=586} BlockPos{x=-774, y=33, z=583}
-[08Jul2025 12:12:51.653] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-770, y=33, z=586} BlockPos{x=-774, y=33, z=583}
-[08Jul2025 12:12:51.715] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-770, y=33, z=586} BlockPos{x=-774, y=33, z=583}
-[08Jul2025 12:12:51.749] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-770, y=33, z=586} BlockPos{x=-774, y=33, z=583}
-[08Jul2025 12:12:51.808] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-770, y=33, z=586} BlockPos{x=-774, y=33, z=583}
-[08Jul2025 12:12:52.099] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-770, y=33, z=586} BlockPos{x=-778, y=33, z=584}
-[08Jul2025 12:13:31.498] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-834, y=31, z=612} BlockPos{x=-835, y=32, z=612}
-[08Jul2025 12:13:31.547] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-834, y=31, z=612} BlockPos{x=-835, y=32, z=612}
-[08Jul2025 12:13:31.597] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-834, y=31, z=612} BlockPos{x=-835, y=32, z=612}
-[08Jul2025 12:13:31.654] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-834, y=31, z=612} BlockPos{x=-835, y=32, z=612}
-[08Jul2025 12:17:54.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Byakoren> achètes 7 stacks de verre 2 diams/u
-[08Jul2025 12:18:38.767] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Byakoren moved too quickly! 99.92580927986978,202.9375,-13469.367122142712
-[08Jul2025 12:20:26.057] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Byakoren moved too quickly! -1.0,44.0,-2.0
-[08Jul2025 12:20:26.067] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Byakoren moved too quickly! -1.0,44.0,-2.0
-[08Jul2025 12:22:30.195] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fullavatar lost connection: Disconnected
-[08Jul2025 12:22:30.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fullavatar left the game
-[08Jul2025 12:24:19.658] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! -1349.7238344779716,117.08202127375276,-104.4446855051952
-[08Jul2025 12:24:19.670] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! -1349.7238344779716,117.08202127375276,-104.4446855051952
-[08Jul2025 12:24:34.998] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Arkeez lost connection: Disconnected
-[08Jul2025 12:24:34.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arkeez left the game
-[08Jul2025 12:24:39.574] [User Authenticator #16/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Arkeez is ca1941cb-a617-4a74-b539-ae0e77326792
-[08Jul2025 12:24:41.023] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Arkeez[/89.89.43.52:50770] logged in with entity id 628213 at (1945.0377536798449, 210.9375, 145.91816981179414)
-[08Jul2025 12:24:41.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arkeez joined the game
-[08Jul2025 12:24:50.134] [User Authenticator #17/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Fullavatar is fd102774-21c2-4b99-9396-f454ead0849c
-[08Jul2025 12:24:51.598] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Fullavatar[/93.19.138.72:52326] logged in with entity id 628453 at (301.01526744375354, 215.0, 1840.7146840883956)
-[08Jul2025 12:24:51.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fullavatar joined the game
-[08Jul2025 12:25:30.610] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 1398.768264178174,-45.5,1.7517908100380168
-[08Jul2025 12:25:30.618] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 1398.768264178174,-45.5,1.7517908100380168
-[08Jul2025 12:26:23.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Set own game mode to Creative Mode]
-[08Jul2025 12:26:27.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Set own game mode to Survival Mode]
-[08Jul2025 12:27:14.001] [User Authenticator #18/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player guebaud is 876922dd-aa44-4202-81be-90a22dc1c24d
-[08Jul2025 12:27:17.239] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: guebaud[/90.70.73.104:52537] logged in with entity id 630362 at (-499.82920489615503, 72.0, 3383.8414921000904)
-[08Jul2025 12:27:17.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: guebaud joined the game
-[08Jul2025 12:28:15.698] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Arkeez lost connection: Disconnected
-[08Jul2025 12:28:15.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arkeez left the game
-[08Jul2025 12:28:20.755] [User Authenticator #19/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Arkeez is ca1941cb-a617-4a74-b539-ae0e77326792
-[08Jul2025 12:28:22.273] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Arkeez[/89.89.43.52:50780] logged in with entity id 632085 at (1962.2749792318516, 211.0, 144.63532008716865)
-[08Jul2025 12:28:22.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arkeez joined the game
-[08Jul2025 12:29:36.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arkeez has completed the challenge [Cover Me in Debris]
-[08Jul2025 12:33:17.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Blackliss> Achetez vous des potes au lieu de venir casser les bases des autres
-[08Jul2025 12:33:23.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Byakoren> vous?
-[08Jul2025 12:33:29.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <guebaud> jai pas cassé*
-[08Jul2025 12:33:30.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Blackliss> Je peux ma faire l'émoji avec ma teuté dommage
-[08Jul2025 12:33:33.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Fullavatar> casser les bases ?
-[08Jul2025 12:33:35.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Byakoren> je veux juste acheter du verre moi
-[08Jul2025 12:33:38.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Blackliss> Les fermes au pire
-[08Jul2025 12:33:47.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Blackliss> Tommy à la ref :D
-[08Jul2025 12:33:54.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Byakoren> tommy à encore casser un truc?
-[08Jul2025 12:34:00.843] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Arkeez lost connection: Disconnected
-[08Jul2025 12:34:00.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arkeez left the game
-[08Jul2025 12:34:02.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Byakoren> et du coup qui vend tu verre?
-[08Jul2025 12:34:03.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <guebaud> encore?
-[08Jul2025 12:34:04.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Blackliss> D'ailleurs, Tommy, ta boutique, remets du stock stp :D
-[08Jul2025 12:34:06.047] [User Authenticator #20/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Arkeez is ca1941cb-a617-4a74-b539-ae0e77326792
-[08Jul2025 12:34:07.521] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Arkeez[/89.89.43.52:50821] logged in with entity id 637088 at (1962.298160316107, 211.0, 144.78739405056794)
-[08Jul2025 12:34:07.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arkeez joined the game
-[08Jul2025 12:34:19.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Fullavatar> tommy a xray ?
-[08Jul2025 12:34:20.815] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: guebaud moved too quickly! -1058.480151538611,173.8306727457064,-118.45649491141256
-[08Jul2025 12:34:25.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <guebaud> deux fois
-[08Jul2025 12:34:27.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Blackliss> Jamais ça
-[08Jul2025 12:34:35.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Byakoren> verre?
-[08Jul2025 12:34:39.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Byakoren> glass?
-[08Jul2025 12:34:40.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <guebaud> vert?
-[08Jul2025 12:34:42.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Blackliss> Va miner du sable Byako, t'en à pour 5 minutes même pas
-[08Jul2025 12:34:53.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <guebaud> *vas
-[08Jul2025 12:34:54.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Byakoren> flemme j'en ai trop miner
-[08Jul2025 12:35:02.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Byakoren> et je fais fonctionner le commerce
-[08Jul2025 12:35:13.006] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Arkeez moved too quickly! -1312.798160316107,55.5,62.71260594943206
-[08Jul2025 12:35:40.165] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Arkeez moved too quickly! 1322.0,-51.5,-60.631431706218706
-[08Jul2025 12:36:17.170] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1001, y=15, z=627} BlockPos{x=-1001, y=14, z=626}
-[08Jul2025 12:36:17.222] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1001, y=15, z=627} BlockPos{x=-1001, y=14, z=626}
-[08Jul2025 12:36:17.271] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1001, y=15, z=627} BlockPos{x=-1001, y=14, z=626}
-[08Jul2025 12:36:17.342] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1001, y=15, z=627} BlockPos{x=-1001, y=14, z=626}
-[08Jul2025 12:36:17.393] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1001, y=15, z=627} BlockPos{x=-1001, y=14, z=626}
-[08Jul2025 12:36:18.072] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1001, y=16, z=627} BlockPos{x=-1002, y=16, z=627}
-[08Jul2025 12:38:34.347] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-962, y=15, z=646} BlockPos{x=-964, y=14, z=644}
-[08Jul2025 12:42:19.743] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Byakoren lost connection: Disconnected
-[08Jul2025 12:42:19.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Byakoren left the game
-[08Jul2025 12:42:35.520] [User Authenticator #21/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Byakoren is 77ebe240-f66a-4d07-ae88-a6df583c1a70
-[08Jul2025 12:42:36.890] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Byakoren[/86.245.7.178:53546] logged in with entity id 650320 at (575.2565149970039, 63.0, 13662.051194028776)
-[08Jul2025 12:42:36.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Byakoren joined the game
-[08Jul2025 12:42:45.715] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fullavatar lost connection: Disconnected
-[08Jul2025 12:42:45.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fullavatar left the game
-[08Jul2025 12:43:20.779] [User Authenticator #22/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Fullavatar is fd102774-21c2-4b99-9396-f454ead0849c
-[08Jul2025 12:43:22.245] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Fullavatar[/93.19.138.72:52403] logged in with entity id 651387 at (576.4236473327144, 63.0, 13666.760820253052)
-[08Jul2025 12:43:22.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fullavatar joined the game
-[08Jul2025 12:43:57.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arkeez has made the advancement [Crafting a New Look]
-[08Jul2025 12:46:44.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arkeez has made the advancement [Remote Getaway]
-[08Jul2025 12:46:52.591] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fullavatar lost connection: Disconnected
-[08Jul2025 12:46:52.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fullavatar left the game
-[08Jul2025 12:46:55.741] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Byakoren lost connection: Disconnected
-[08Jul2025 12:46:55.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Byakoren left the game
-[08Jul2025 12:47:07.759] [User Authenticator #23/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Byakoren is 77ebe240-f66a-4d07-ae88-a6df583c1a70
-[08Jul2025 12:47:09.196] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Byakoren[/86.245.7.178:53662] logged in with entity id 654933 at (756.9639165207217, 62.432841062192054, 13732.40887447708)
-[08Jul2025 12:47:09.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Byakoren joined the game
-[08Jul2025 12:47:16.307] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Byakoren lost connection: Disconnected
-[08Jul2025 12:47:16.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Byakoren left the game
-[08Jul2025 12:49:15.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arkeez has made the advancement [The City at the End of the Game]
-[08Jul2025 12:50:39.257] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Arkeez moved too quickly! -1301.3684979816728,55.5625,62.090330496245656
-[08Jul2025 12:52:22.321] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Arkeez moved too quickly! 1376.9217151992675,-47.5,-10.892463394832163
-[08Jul2025 12:53:39.647] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! -9.807143744668792,3.5,1.8607853870254587
-[08Jul2025 12:54:23.707] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 86.15895786982242,149.5,-3.0404429118035523
-[08Jul2025 12:54:23.718] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 86.15895786982242,149.5,-3.0404429118035523
-[08Jul2025 12:56:26.506] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Arkeez moved too quickly! 53.0,-0.5,-5.0
-[08Jul2025 12:56:28.714] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Arkeez moved too quickly! 34.0,151.5625,4.0
-[08Jul2025 12:56:33.317] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 85.32314590024248,149.5,-0.5867941364271871
-[08Jul2025 13:01:19.342] [User Authenticator #24/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Byakoren is 77ebe240-f66a-4d07-ae88-a6df583c1a70
-[08Jul2025 13:01:20.692] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Byakoren[/86.245.7.178:53977] logged in with entity id 668776 at (751.0162624750818, 62.45122136194842, 13728.498244557566)
-[08Jul2025 13:01:20.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Byakoren joined the game
-[08Jul2025 13:02:24.790] [User Authenticator #25/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Fullavatar is fd102774-21c2-4b99-9396-f454ead0849c
-[08Jul2025 13:02:26.238] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Fullavatar[/93.19.138.72:52561] logged in with entity id 669972 at (869.2129159140786, 61.870106331245594, 13729.410905003133)
-[08Jul2025 13:02:26.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fullavatar joined the game
-[08Jul2025 13:04:44.944] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Byakoren lost connection: Disconnected
-[08Jul2025 13:04:44.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Byakoren left the game
-[08Jul2025 13:04:46.087] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fullavatar lost connection: Disconnected
-[08Jul2025 13:04:46.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fullavatar left the game
-[08Jul2025 13:05:26.312] [User Authenticator #26/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Byakoren is 77ebe240-f66a-4d07-ae88-a6df583c1a70
-[08Jul2025 13:05:27.643] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Byakoren[/86.245.7.178:54072] logged in with entity id 671470 at (575.5652395483919, 63.0, 13664.883366636932)
-[08Jul2025 13:05:27.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Byakoren joined the game
-[08Jul2025 13:05:29.890] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Byakoren lost connection: Disconnected
-[08Jul2025 13:05:29.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Byakoren left the game
-[08Jul2025 13:09:35.212] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-5024, y=131, z=-8106} BlockPos{x=-5025, y=131, z=-8106}
-[08Jul2025 13:09:37.890] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Arkeez lost connection: Disconnected
-[08Jul2025 13:09:37.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arkeez left the game
-[08Jul2025 13:10:11.196] [User Authenticator #27/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Fullavatar is fd102774-21c2-4b99-9396-f454ead0849c
-[08Jul2025 13:10:12.591] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Fullavatar[/93.19.138.72:52679] logged in with entity id 674910 at (853.3349326180231, 62.0, 13771.431039760299)
-[08Jul2025 13:10:12.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fullavatar joined the game
-[08Jul2025 13:10:19.317] [User Authenticator #28/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Byakoren is 77ebe240-f66a-4d07-ae88-a6df583c1a70
-[08Jul2025 13:10:20.589] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Byakoren[/86.245.7.178:54194] logged in with entity id 675319 at (575.5652395483919, 63.0, 13664.883366636932)
-[08Jul2025 13:10:20.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Byakoren joined the game
-[08Jul2025 13:10:44.992] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Byakoren moved too quickly! 17.20893201627996,3.9888831289109277,3.775764145602807
-[08Jul2025 13:12:45.798] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=752, y=47, z=13700} BlockPos{x=752, y=48, z=13700}
-[08Jul2025 13:13:00.147] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Redoxlyy lost connection: Disconnected
-[08Jul2025 13:13:00.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Redoxlyy left the game
-[08Jul2025 13:13:13.294] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: guebaud lost connection: Disconnected
-[08Jul2025 13:13:13.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: guebaud left the game
-[08Jul2025 13:13:30.147] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=730, y=48, z=13722} BlockPos{x=730, y=49, z=13722}
-[08Jul2025 13:13:56.020] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-5003, y=152, z=-8136} BlockPos{x=-4995, y=152, z=-8140}
-[08Jul2025 13:14:14.615] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-5011, y=150, z=-8134} BlockPos{x=-5010, y=150, z=-8138}
-[08Jul2025 13:16:54.860] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 6970.622423398128,78.5,8257.241915805625
-[08Jul2025 13:16:54.866] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss moved too quickly! 6970.622423398128,78.5,8257.241915805625
-[08Jul2025 13:18:39.287] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss lost connection: Disconnected
-[08Jul2025 13:18:39.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blackliss left the game
-[08Jul2025 13:19:28.696] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Byakoren lost connection: Disconnected
-[08Jul2025 13:19:28.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Byakoren left the game
-[08Jul2025 13:21:12.839] [User Authenticator #29/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Byakoren is 77ebe240-f66a-4d07-ae88-a6df583c1a70
-[08Jul2025 13:21:14.180] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Byakoren[/86.245.7.178:54466] logged in with entity id 683379 at (753.7596977682019, 62.22375126834423, 13714.499282747427)
-[08Jul2025 13:21:14.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Byakoren joined the game
-[08Jul2025 13:35:25.953] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Byakoren moved too quickly! 1467.3223517987772,243.5,1266.3324455255934
-[08Jul2025 13:37:42.140] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2596, y=70, z=14809} BlockPos{x=2597, y=69, z=14808}
-[08Jul2025 13:38:06.809] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Byakoren moved too quickly! -2039.9361945523565,-5.5,-1127.0575123078343
-[08Jul2025 13:38:06.818] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Byakoren moved too quickly! -2039.9361945523565,-5.5,-1127.0575123078343
-[08Jul2025 13:41:03.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Teleported Fullavatar to 2248.500000, 65.500000, 13064.500000]
-[08Jul2025 13:41:12.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Fullavatar> oh fuck
-[08Jul2025 13:53:47.264] [User Authenticator #30/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player guebaud is 876922dd-aa44-4202-81be-90a22dc1c24d
-[08Jul2025 13:53:49.349] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: guebaud[/90.70.73.104:53356] logged in with entity id 711373 at (-500.31965215111285, 72.0, 3383.7503887937073)
-[08Jul2025 13:53:49.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: guebaud joined the game
-[08Jul2025 13:56:27.960] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: guebaud moved too quickly! -2554.468168433058,-81.5,2027.6431140091381
-[08Jul2025 13:57:12.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <guebaud> vente à la sauvette d'une épée nétherite (me mp pour détails sur les enchant)
+[08Jul2025 14:18:28.138] [main/INFO] [net.neoforged.fml.loading.FMLServiceProvider/CORE]: Loading coremod script-engine for [xaerominimap, xaeroworldmap]
+[08Jul2025 14:18:29.523] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[08Jul2025 14:18:29.526] [main/INFO] [mixin/]: Compatibility level set to JAVA_21
+[08Jul2025 14:18:29.581] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'neoforgeserver' with arguments []
+[08Jul2025 14:18:29.622] [main/WARN] [mixin/]: Reference map 'kuma_api.refmap.json' for kuma_api.mixins.json could not be read. If this is a development environment you can ignore this message
+[08Jul2025 14:18:29.626] [main/WARN] [mixin/]: Reference map 'worldedit-neoforge.mixins.refmap.json' for worldedit-neoforge.mixins.json could not be read. If this is a development environment you can ignore this message
+[08Jul2025 14:18:29.627] [main/WARN] [mixin/]: Reference map 'balm.refmap.json' for balm.mixins.json could not be read. If this is a development environment you can ignore this message
+[08Jul2025 14:18:29.685] [main/INFO] [Lithium/]: Loaded configuration file for Lithium: 155 options available, 0 override(s) found.
+[08Jul2025 14:18:29.689] [main/WARN] [mixin/]: Reference map 'waystones.refmap.json' for waystones.mixins.json could not be read. If this is a development environment you can ignore this message
+[08Jul2025 14:18:30.994] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[08Jul2025 14:18:38.028] [modloading-worker-0/INFO] [me.drex.antixray.common.AntiXray/]: Successfully initialized antixray for neoforge
+[08Jul2025 14:18:38.339] [modloading-worker-0/INFO] [net.neoforged.neoforge.common.NeoForgeMod/NEOFORGE-MOD]: NeoForge mod loading, version 21.4.141, for MC 1.21.4
+[08Jul2025 14:18:39.408] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [corpse] Starting version check at https://update.maxhenkel.de/neoforge/corpse
+[08Jul2025 14:18:39.750] [modloading-worker-0/INFO] [com.sk89q.worldedit.extension.platform.PlatformManager/]: Got request to register class com.sk89q.worldedit.neoforge.NeoForgePlatform with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@74f9b763]
+[08Jul2025 14:18:39.753] [modloading-worker-0/INFO] [com.sk89q.worldedit.neoforge.NeoForgeWorldEdit/]: WorldEdit for NeoForge (version 7.3.11+7055-8357a12) is loaded
+[08Jul2025 14:18:39.757] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[08Jul2025 14:18:39.758] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
+[08Jul2025 14:18:39.760] [modloading-sync-worker/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
+[08Jul2025 14:18:39.760] [modloading-sync-worker/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[08Jul2025 14:18:39.956] [main/WARN] [net.minecraft.server.dedicated.DedicatedServerProperties/]: resource-pack-id missing, using default of 8790b826-8d12-35ca-bbc8-92715b38d6b4
+[08Jul2025 14:18:39.989] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[08Jul2025 14:18:40.033] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [corpse] Found status: BETA_OUTDATED Current: 1.21.4-1.1.7 Target: 1.21.4-1.1.10
+[08Jul2025 14:18:40.191] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/data/libraries/net/minecraft/server/1.21.4-20241203.161809/server-1.21.4-20241203.161809-srg.jar%23155!/assets/.mcassetsroot' uses unexpected schema
+[08Jul2025 14:18:40.191] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/data/libraries/net/minecraft/server/1.21.4-20241203.161809/server-1.21.4-20241203.161809-srg.jar%23155!/data/.mcassetsroot' uses unexpected schema
+[08Jul2025 14:18:41.582] [Worker-Main-2/INFO] [com.sk89q.worldedit.extension.platform.PlatformCommandManager/]: Registering commands with com.sk89q.worldedit.neoforge.NeoForgePlatform
+[08Jul2025 14:18:42.097] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 1489 recipes
+[08Jul2025 14:18:42.121] [main/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 1592 advancements
+[08Jul2025 14:18:42.124] [main/INFO] [net.neoforged.neoforge.common.crafting.RecipePriorityManager/]: Loaded 0 recipe priority overrides
+[08Jul2025 14:18:42.429] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.21.4
+[08Jul2025 14:18:42.429] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[08Jul2025 14:18:42.429] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[08Jul2025 14:18:42.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[08Jul2025 14:18:42.561] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[08Jul2025 14:18:42.607] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[08Jul2025 14:18:42.693] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[08Jul2025 14:18:43.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[08Jul2025 14:18:45.864] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08Jul2025 14:18:45.869] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08Jul2025 14:18:45.870] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08Jul2025 14:18:45.870] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08Jul2025 14:18:45.870] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08Jul2025 14:18:45.870] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08Jul2025 14:18:46.134] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 2774 ms
+[08Jul2025 14:18:46.135] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (3.483s)! For help, type "help"
+[08Jul2025 14:18:46.135] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting remote control listener
+[08Jul2025 14:18:46.137] [Server thread/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Listener started
+[08Jul2025 14:18:46.138] [Server thread/INFO] [net.minecraft.server.rcon.thread.RconThread/]: RCON running on 0.0.0.0:25575
+[08Jul2025 14:18:46.148] [LanServerPinger #1/WARN] [net.minecraft.client.server.LanServerPinger/]: LanServerPinger: Network is unreachable
+[08Jul2025 14:18:46.185] [Server thread/INFO] [net.neoforged.neoforge.server.permission.PermissionAPI/]: Successfully initialized permission handler neoforge:default_handler
+[08Jul2025 14:18:47.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[08Jul2025 14:18:48.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[08Jul2025 14:18:48.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[08Jul2025 14:18:48.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[08Jul2025 14:18:48.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[08Jul2025 14:18:48.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[08Jul2025 14:18:48.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[08Jul2025 14:18:48.213] [BlueMap-Plugin-Loading/INFO] [BlueMap/]: Loading...
+[08Jul2025 14:18:48.574] [BlueMap-Plugin-Loading/INFO] [BlueMap/]: Loading resources...
+[08Jul2025 14:18:49.424] [BlueMap-Plugin-Loading/INFO] [BlueMap/]: Loading textures...
+[08Jul2025 14:18:49.757] [User Authenticator #1/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Fullavatar is fd102774-21c2-4b99-9396-f454ead0849c
+[08Jul2025 14:18:50.995] [BlueMap-Plugin-Loading/INFO] [BlueMap/]: Baking resources...
+[08Jul2025 14:18:51.029] [BlueMap-Plugin-Loading/INFO] [BlueMap/]: Resources loaded.
+[08Jul2025 14:18:51.112] [BlueMap-Plugin-Loading/INFO] [BlueMap/]: Initializing Storage: 'file' (Type: 'bluemap:file')
+[08Jul2025 14:18:51.116] [BlueMap-Plugin-Loading/INFO] [BlueMap/]: Loading map 'world_the_end'...
+[08Jul2025 14:18:51.301] [BlueMap-Plugin-Loading/INFO] [BlueMap/]: Loading map 'world'...
+[08Jul2025 14:18:51.634] [BlueMap-Plugin-Loading/INFO] [BlueMap/]: Loading map 'world_the_nether'...
+[08Jul2025 14:18:51.801] [BlueMap-Plugin-Loading/INFO] [BlueMap/]: WebServer bound to all network interfaces on port 8100
+[08Jul2025 14:18:51.811] [Thread-15/INFO] [BlueMap/]: WebServer started.
+[08Jul2025 14:18:51.868] [BlueMap-Plugin-Loading/INFO] [BlueMap/]: Loaded!
+[08Jul2025 14:18:51.957] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Fullavatar[/93.19.138.72:52976] logged in with entity id 136 at (291.7972741510269, 215.0, 1842.1248567189427)
+[08Jul2025 14:18:52.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fullavatar joined the game
+[08Jul2025 14:18:54.837] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[08Jul2025 14:19:01.870] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Blackliss is 5750e528-e519-43d6-b148-76e08d2e1b2e
+[08Jul2025 14:19:04.369] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Blackliss[/192.168.1.254:50810] logged in with entity id 402 at (1966.6202325548768, 214.875, 141.44998080912956)
+[08Jul2025 14:19:04.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blackliss joined the game
+[08Jul2025 14:19:12.715] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player guebaud is 876922dd-aa44-4202-81be-90a22dc1c24d
+[08Jul2025 14:19:14.349] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: guebaud[/90.70.73.104:56053] logged in with entity id 610 at (1181.7149759007632, 67.0, 2282.455559178559)
+[08Jul2025 14:19:14.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: guebaud joined the game
+[08Jul2025 14:20:54.108] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1160, y=27, z=2194} BlockPos{x=1160, y=26, z=2194}
+[08Jul2025 14:21:09.282] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1150, y=16, z=2189} BlockPos{x=1153, y=17, z=2191}
+[08Jul2025 14:21:30.804] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1148, y=19, z=2186} BlockPos{x=1148, y=16, z=2180}
+[08Jul2025 14:21:33.784] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Byakoren is 77ebe240-f66a-4d07-ae88-a6df583c1a70
+[08Jul2025 14:21:35.146] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Byakoren[/86.245.7.178:55847] logged in with entity id 2825 at (810.885830391663, 62.0, 13780.300000011921)
+[08Jul2025 14:21:35.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Byakoren joined the game
+[08Jul2025 14:21:49.585] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1122, y=18, z=2159} BlockPos{x=1122, y=18, z=2158}
+[08Jul2025 14:22:04.534] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss lost connection: Disconnected
+[08Jul2025 14:22:04.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blackliss left the game
+[08Jul2025 14:22:32.195] [User Authenticator #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Blackliss is 5750e528-e519-43d6-b148-76e08d2e1b2e
+[08Jul2025 14:22:33.646] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Blackliss[/192.168.1.254:50863] logged in with entity id 4218 at (1970.3037822754213, 214.0, 143.3784724764926)
+[08Jul2025 14:22:33.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blackliss joined the game
+[08Jul2025 14:23:44.787] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: guebaud moved wrongly!
+[08Jul2025 14:33:25.686] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss lost connection: Disconnected
+[08Jul2025 14:33:25.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blackliss left the game
+[08Jul2025 14:35:58.534] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=202, y=65, z=13163} BlockPos{x=202, y=63, z=13164}
+[08Jul2025 14:36:00.779] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=204, y=64, z=13164} BlockPos{x=203, y=63, z=13165}
+[08Jul2025 14:36:41.633] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=228, y=65, z=13134} BlockPos{x=225, y=64, z=13138}
+[08Jul2025 14:36:41.694] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=228, y=65, z=13134} BlockPos{x=225, y=64, z=13138}
+[08Jul2025 14:36:41.748] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=228, y=65, z=13134} BlockPos{x=225, y=64, z=13138}
+[08Jul2025 14:36:41.788] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=228, y=65, z=13134} BlockPos{x=225, y=64, z=13138}
+[08Jul2025 14:36:41.846] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=228, y=65, z=13134} BlockPos{x=225, y=64, z=13138}
+[08Jul2025 14:36:41.884] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=228, y=65, z=13134} BlockPos{x=225, y=64, z=13138}
+[08Jul2025 14:36:41.936] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=228, y=65, z=13134} BlockPos{x=225, y=64, z=13138}
+[08Jul2025 14:36:41.982] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=228, y=65, z=13134} BlockPos{x=225, y=64, z=13138}
+[08Jul2025 14:36:42.048] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=228, y=65, z=13134} BlockPos{x=225, y=64, z=13138}
+[08Jul2025 14:36:47.739] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=223, y=66, z=13139} BlockPos{x=224, y=64, z=13140}
+[08Jul2025 14:36:53.959] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=225, y=66, z=13133} BlockPos{x=222, y=65, z=13136}
+[08Jul2025 14:37:04.242] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=230, y=66, z=13128} BlockPos{x=225, y=65, z=13127}
+[08Jul2025 14:37:08.087] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=224, y=67, z=13125} BlockPos{x=225, y=66, z=13125}
+[08Jul2025 14:37:08.137] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=224, y=67, z=13125} BlockPos{x=225, y=66, z=13125}
+[08Jul2025 14:37:08.200] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=224, y=67, z=13125} BlockPos{x=225, y=66, z=13125}
+[08Jul2025 14:37:08.232] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=224, y=67, z=13125} BlockPos{x=225, y=66, z=13125}
+[08Jul2025 14:37:08.283] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=224, y=67, z=13125} BlockPos{x=225, y=66, z=13125}
+[08Jul2025 14:37:08.331] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=224, y=67, z=13125} BlockPos{x=225, y=66, z=13125}
+[08Jul2025 14:37:08.381] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=224, y=67, z=13125} BlockPos{x=225, y=66, z=13125}
+[08Jul2025 14:37:08.432] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=224, y=67, z=13125} BlockPos{x=225, y=66, z=13125}
+[08Jul2025 14:37:08.482] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=230, y=67, z=13125} BlockPos{x=225, y=66, z=13125}
+[08Jul2025 14:37:50.442] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=254, y=68, z=13124} BlockPos{x=254, y=67, z=13124}
+[08Jul2025 14:37:50.484] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=254, y=68, z=13124} BlockPos{x=254, y=67, z=13124}
+[08Jul2025 14:37:50.536] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=254, y=68, z=13124} BlockPos{x=254, y=67, z=13124}
+[08Jul2025 14:37:50.594] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=254, y=68, z=13124} BlockPos{x=254, y=67, z=13124}
+[08Jul2025 14:37:50.634] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=254, y=68, z=13124} BlockPos{x=254, y=67, z=13124}
+[08Jul2025 14:37:56.486] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=256, y=66, z=13124} BlockPos{x=257, y=67, z=13125}
+[08Jul2025 14:38:13.038] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=226, y=68, z=13116} BlockPos{x=225, y=66, z=13117}
+[08Jul2025 14:38:13.087] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=226, y=68, z=13116} BlockPos{x=225, y=66, z=13117}
+[08Jul2025 14:38:13.141] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=226, y=68, z=13116} BlockPos{x=225, y=66, z=13117}
+[08Jul2025 14:38:13.195] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=226, y=68, z=13116} BlockPos{x=225, y=66, z=13117}
+[08Jul2025 14:38:13.243] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=226, y=68, z=13116} BlockPos{x=225, y=66, z=13117}
+[08Jul2025 14:38:13.283] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=226, y=68, z=13116} BlockPos{x=225, y=66, z=13117}
+[08Jul2025 14:38:16.598] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=224, y=68, z=13115} BlockPos{x=222, y=67, z=13118}
+[08Jul2025 14:38:16.634] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=224, y=68, z=13115} BlockPos{x=222, y=67, z=13118}
+[08Jul2025 14:38:16.686] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=224, y=68, z=13115} BlockPos{x=222, y=67, z=13118}
+[08Jul2025 14:38:16.739] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=224, y=68, z=13115} BlockPos{x=222, y=67, z=13118}
+[08Jul2025 14:38:16.790] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=224, y=68, z=13115} BlockPos{x=222, y=67, z=13118}
+[08Jul2025 14:38:16.835] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=223, y=69, z=13117} BlockPos{x=222, y=67, z=13118}
+[08Jul2025 14:38:19.545] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=224, y=67, z=13114} BlockPos{x=225, y=68, z=13113}
+[08Jul2025 14:38:19.582] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=224, y=67, z=13114} BlockPos{x=225, y=68, z=13113}
+[08Jul2025 14:38:19.636] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=224, y=67, z=13114} BlockPos{x=225, y=68, z=13113}
+[08Jul2025 14:38:19.693] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=224, y=67, z=13114} BlockPos{x=225, y=68, z=13113}
+[08Jul2025 14:38:19.735] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=224, y=67, z=13114} BlockPos{x=225, y=68, z=13113}
+[08Jul2025 14:38:19.785] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=224, y=67, z=13114} BlockPos{x=225, y=68, z=13113}
+[08Jul2025 14:38:22.481] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=222, y=69, z=13114} BlockPos{x=223, y=69, z=13112}
+[08Jul2025 14:38:22.531] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=222, y=69, z=13114} BlockPos{x=223, y=69, z=13112}
+[08Jul2025 14:38:22.581] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=223, y=70, z=13112} BlockPos{x=223, y=69, z=13112}
+[08Jul2025 14:38:22.632] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=223, y=70, z=13112} BlockPos{x=223, y=69, z=13112}
+[08Jul2025 14:38:22.682] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=223, y=70, z=13112} BlockPos{x=223, y=69, z=13112}
+[08Jul2025 14:38:22.734] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=223, y=70, z=13112} BlockPos{x=223, y=69, z=13112}
+[08Jul2025 14:38:22.806] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=223, y=70, z=13112} BlockPos{x=223, y=69, z=13112}
+[08Jul2025 14:38:22.835] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=223, y=70, z=13112} BlockPos{x=223, y=69, z=13112}
+[08Jul2025 14:38:40.763] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=221, y=69, z=13108} BlockPos{x=225, y=68, z=13105}
+[08Jul2025 14:38:40.781] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=221, y=69, z=13108} BlockPos{x=225, y=68, z=13105}
+[08Jul2025 14:38:40.855] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=221, y=69, z=13108} BlockPos{x=225, y=68, z=13105}
+[08Jul2025 14:38:40.882] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=221, y=69, z=13108} BlockPos{x=225, y=68, z=13105}
+[08Jul2025 14:39:05.409] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Byakoren moved too quickly! 223.95877913303485,2.5,434.9740798478797
+[08Jul2025 14:45:52.138] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: guebaud lost connection: Disconnected
+[08Jul2025 14:45:52.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: guebaud left the game
+[08Jul2025 14:47:31.566] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /192.168.1.254 started
+[08Jul2025 14:51:20.513] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fullavatar moved too quickly! -1.737500011920929,43.3125,-2.5806672303122014
+[08Jul2025 14:55:49.345] [User Authenticator #6/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting guebaud (/90.70.73.104:59544): Authentication servers are down. Please try again later, sorry!
+[08Jul2025 14:55:49.346] [User Authenticator #6/ERROR] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Couldn't verify username because servers are unavailable
+[08Jul2025 14:55:49.400] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: guebaud (/90.70.73.104:59544) lost connection: Authentication servers are down. Please try again later, sorry!
+[08Jul2025 14:56:02.281] [User Authenticator #7/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting guebaud (/90.70.73.104:59648): Authentication servers are down. Please try again later, sorry!
+[08Jul2025 14:56:02.282] [User Authenticator #7/ERROR] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Couldn't verify username because servers are unavailable
+[08Jul2025 14:56:02.285] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: guebaud (/90.70.73.104:59648) lost connection: Authentication servers are down. Please try again later, sorry!
+[08Jul2025 14:56:11.189] [User Authenticator #8/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting guebaud (/90.70.73.104:59652): Authentication servers are down. Please try again later, sorry!
+[08Jul2025 14:56:11.191] [User Authenticator #8/ERROR] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Couldn't verify username because servers are unavailable
+[08Jul2025 14:56:11.196] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: guebaud (/90.70.73.104:59652) lost connection: Authentication servers are down. Please try again later, sorry!
+[08Jul2025 14:56:21.653] [User Authenticator #9/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting guebaud (/90.70.73.104:59668): Authentication servers are down. Please try again later, sorry!
+[08Jul2025 14:56:21.654] [User Authenticator #9/ERROR] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Couldn't verify username because servers are unavailable
+[08Jul2025 14:56:21.681] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: guebaud (/90.70.73.104:59668) lost connection: Authentication servers are down. Please try again later, sorry!
+[08Jul2025 14:56:29.844] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: guebaud (/90.70.73.104:59725) lost connection: Disconnected
+[08Jul2025 14:56:33.447] [User Authenticator #10/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting guebaud (/90.70.73.104:59725): Authentication servers are down. Please try again later, sorry!
+[08Jul2025 14:56:33.448] [User Authenticator #10/ERROR] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Couldn't verify username because servers are unavailable
+[08Jul2025 14:57:11.083] [User Authenticator #11/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player guebaud is 876922dd-aa44-4202-81be-90a22dc1c24d
+[08Jul2025 14:57:14.674] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: guebaud[/90.70.73.104:59765] logged in with entity id 59689 at (-2797.462310057971, -28.0, 5283.2697170621295)
+[08Jul2025 14:57:14.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: guebaud joined the game
+[08Jul2025 14:57:57.952] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Byakoren moved too quickly! -17.38667632302844,123.5,-4.03257415748908
+[08Jul2025 14:57:57.963] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Byakoren moved too quickly! -17.38667632302844,123.5,-4.03257415748908
+[08Jul2025 15:01:20.712] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: guebaud moved too quickly! 9.822242165392254,23.5,-5.852117300563805
+[08Jul2025 15:02:21.637] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fullavatar lost connection: Disconnected
+[08Jul2025 15:02:21.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fullavatar left the game
+[08Jul2025 15:02:25.647] [User Authenticator #12/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Fullavatar is fd102774-21c2-4b99-9396-f454ead0849c
+[08Jul2025 15:02:27.120] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Fullavatar[/93.19.138.72:53144] logged in with entity id 67001 at (298.34393971418007, 212.0, 1836.0398437610718)
+[08Jul2025 15:02:27.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fullavatar joined the game
+[08Jul2025 15:04:44.209] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1159, y=86, z=2328} BlockPos{x=1159, y=86, z=2326}
+[08Jul2025 15:04:44.256] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1159, y=86, z=2328} BlockPos{x=1159, y=86, z=2326}
+[08Jul2025 15:05:08.607] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1159, y=80, z=2333} BlockPos{x=1160, y=85, z=2330}
+[08Jul2025 15:07:56.688] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fullavatar lost connection: Disconnected
+[08Jul2025 15:07:56.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fullavatar left the game
+[08Jul2025 15:08:41.558] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: guebaud moved too quickly! -5.432150650751964,-19.5,-5.8950090150074175
+[08Jul2025 15:11:01.763] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: guebaud moved too quickly! 10.184419362333983,23.5,-7.199999988079071
+[08Jul2025 15:11:16.350] [User Authenticator #13/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Fullavatar is fd102774-21c2-4b99-9396-f454ead0849c
+[08Jul2025 15:11:17.826] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Fullavatar[/93.19.138.72:53180] logged in with entity id 74869 at (289.8920859925686, 218.0, 1838.7961147192298)
+[08Jul2025 15:11:17.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fullavatar joined the game
+[08Jul2025 15:14:48.047] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fullavatar moved too quickly! -1.0238253750885065,43.3125,-2.262499988079071
+[08Jul2025 15:37:20.684] [User Authenticator #14/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Redoxlyy is 82c71c85-d9c9-4197-a7c6-61b8ee4b34c7
+[08Jul2025 15:37:22.634] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Redoxlyy[/89.80.190.53:54160] logged in with entity id 144516 at (1965.1286645175828, 212.0, 146.55729558118065)
+[08Jul2025 15:37:22.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Redoxlyy joined the game
+[08Jul2025 15:38:27.592] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1201, y=88, z=2271} BlockPos{x=1200, y=88, z=2271}
+[08Jul2025 15:38:27.639] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1201, y=88, z=2271} BlockPos{x=1200, y=88, z=2271}
+[08Jul2025 15:38:27.708] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1201, y=88, z=2271} BlockPos{x=1200, y=88, z=2271}
+[08Jul2025 15:39:39.492] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1205, y=88, z=2270} BlockPos{x=1205, y=88, z=2271}
+[08Jul2025 15:39:39.541] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1205, y=88, z=2270} BlockPos{x=1205, y=88, z=2271}
+[08Jul2025 15:41:59.356] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: guebaud moved too quickly! -9.039622190012551,-41.5,-8.364660383576847
+[08Jul2025 15:45:51.792] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: guebaud moved wrongly!
+[08Jul2025 15:45:51.894] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: guebaud moved wrongly!
+[08Jul2025 15:49:02.312] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=854, y=61, z=13710} BlockPos{x=855, y=62, z=13710}
+[08Jul2025 15:49:02.361] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=854, y=61, z=13710} BlockPos{x=855, y=62, z=13710}
+[08Jul2025 15:54:25.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Fullavatar> ma grosse bite redox
+[08Jul2025 15:54:32.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Redoxlyy> oui ?
+[08Jul2025 15:55:13.829] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /192.168.1.254 started
+[08Jul2025 15:55:15.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Rcon] Tu veux que je m'en occupe Redox ?
+[08Jul2025 15:55:34.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Redoxlyy> de sa bite ?
+[08Jul2025 15:55:36.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Redoxlyy> bah non
+[08Jul2025 15:55:42.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Redoxlyy> jveux m'en occuper moi meme
+[08Jul2025 15:55:57.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Fullavatar> let's goo
+[08Jul2025 15:57:01.244] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Redoxlyy lost connection: Disconnected
+[08Jul2025 15:57:01.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Redoxlyy left the game
+[08Jul2025 15:59:15.390] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Byakoren lost connection: Timed out
+[08Jul2025 15:59:15.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Byakoren left the game
+[08Jul2025 15:59:15.430] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[08Jul2025 15:59:21.335] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: guebaud lost connection: Timed out
+[08Jul2025 15:59:21.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: guebaud left the game
+[08Jul2025 15:59:22.883] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fullavatar lost connection: Timed out
+[08Jul2025 15:59:22.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fullavatar left the game
+[08Jul2025 15:59:42.742] [User Authenticator #15/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player guebaud is 876922dd-aa44-4202-81be-90a22dc1c24d
+[08Jul2025 15:59:44.328] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: guebaud[/90.70.73.104:61754] logged in with entity id 161708 at (1216.122369798127, 61.0, 2290.4216440981945)
+[08Jul2025 15:59:44.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: guebaud joined the game
+[08Jul2025 15:59:47.850] [User Authenticator #16/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Fullavatar is fd102774-21c2-4b99-9396-f454ead0849c
+[08Jul2025 15:59:49.390] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Fullavatar[/93.19.138.72:53344] logged in with entity id 161881 at (762.3618278497888, 63.0, 13711.494920352114)
+[08Jul2025 15:59:49.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fullavatar joined the game
+[08Jul2025 15:59:52.204] [User Authenticator #17/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Byakoren is 77ebe240-f66a-4d07-ae88-a6df583c1a70
+[08Jul2025 15:59:53.627] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Byakoren[/86.245.7.178:58114] logged in with entity id 162195 at (835.040513024353, 63.0, 13853.117155216367)
+[08Jul2025 15:59:53.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Byakoren joined the game

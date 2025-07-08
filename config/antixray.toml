@@ -41,7 +41,8 @@ hiddenBlocks = [
   "minecraft:nether_gold_ore",
   "minecraft:gold_ore",
   "minecraft:gold_block",
-  "minecraft:gilded_blackstone"
+  "minecraft:gilded_blackstone",
+  "minecraft:netherrack"
 ]
 replacementBlocks = [
   "#antixray:hidden_only_ores", "stone", "deepslate", "andesite", "calcite", 
