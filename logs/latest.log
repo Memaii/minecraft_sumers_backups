@@ -280,3 +280,71 @@
 [08Jul2025 15:59:52.204] [User Authenticator #17/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Byakoren is 77ebe240-f66a-4d07-ae88-a6df583c1a70
 [08Jul2025 15:59:53.627] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Byakoren[/86.245.7.178:58114] logged in with entity id 162195 at (835.040513024353, 63.0, 13853.117155216367)
 [08Jul2025 15:59:53.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Byakoren joined the game
+[08Jul2025 16:00:41.388] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[08Jul2025 16:01:10.682] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14318ms or 286 ticks behind
+[08Jul2025 16:01:44.509] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2845ms or 56 ticks behind
+[08Jul2025 16:05:11.702] [User Authenticator #18/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Redoxlyy is 82c71c85-d9c9-4197-a7c6-61b8ee4b34c7
+[08Jul2025 16:05:13.121] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Redoxlyy[/89.80.190.53:56466] logged in with entity id 164356 at (1965.3628221616495, 211.5625, 143.27093990664244)
+[08Jul2025 16:05:13.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Redoxlyy joined the game
+[08Jul2025 16:10:06.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Redoxlyy has completed the challenge [Cover Me in Debris]
+[08Jul2025 16:10:30.359] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Redoxlyy moved too quickly! 20.782310171574636,24.5,40.839714606902575
+[08Jul2025 16:12:16.271] [User Authenticator #19/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Blackliss is 5750e528-e519-43d6-b148-76e08d2e1b2e
+[08Jul2025 16:12:18.028] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Blackliss[/192.168.1.254:60555] logged in with entity id 167051 at (1962.8172008214533, 213.875, 141.75137538298924)
+[08Jul2025 16:12:18.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blackliss joined the game
+[08Jul2025 16:12:21.984] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss lost connection: Disconnected
+[08Jul2025 16:12:21.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blackliss left the game
+[08Jul2025 16:12:47.245] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Byakoren moved too quickly! -266.8950979222815,-42.5,-103.0343035787082
+[08Jul2025 16:12:47.254] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Byakoren moved too quickly! -266.8950979222815,-42.5,-103.0343035787082
+[08Jul2025 16:12:47.263] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Byakoren moved too quickly! -266.8950979222815,-42.5,-103.0343035787082
+[08Jul2025 16:12:54.888] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fullavatar lost connection: Disconnected
+[08Jul2025 16:12:54.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fullavatar left the game
+[08Jul2025 16:13:06.460] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Byakoren moved too quickly! 263.8455387315571,45.5,104.18919313461629
+[08Jul2025 16:13:19.618] [User Authenticator #20/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Fullavatar is fd102774-21c2-4b99-9396-f454ead0849c
+[08Jul2025 16:13:21.087] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Fullavatar[/93.19.138.72:53420] logged in with entity id 167758 at (740.9344944754616, 62.0, 13711.199406917123)
+[08Jul2025 16:13:21.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fullavatar joined the game
+[08Jul2025 16:32:24.167] [User Authenticator #21/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Blackliss is 5750e528-e519-43d6-b148-76e08d2e1b2e
+[08Jul2025 16:32:25.548] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Blackliss[/192.168.1.254:62371] logged in with entity id 178076 at (1962.8172008214533, 213.875, 141.75137538298924)
+[08Jul2025 16:32:25.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blackliss joined the game
+[08Jul2025 16:32:28.090] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss lost connection: Disconnected
+[08Jul2025 16:32:28.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blackliss left the game
+[08Jul2025 16:39:58.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: guebaud was slain by Wither Skeleton
+[08Jul2025 16:41:33.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: guebaud was slain by Wither Skeleton
+[08Jul2025 16:41:37.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Byakoren> gg
+[08Jul2025 16:45:30.612] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: guebaud moved too quickly! -24.51230294857919,7.5,-15.361167805452624
+[08Jul2025 16:46:21.698] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: guebaud moved too quickly! -27.3575968629857,-19.5,-3.7834627681409074
+[08Jul2025 16:53:43.947] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: guebaud moved too quickly! 9.266154423584112,23.5,-6.585050666258667
+[08Jul2025 16:57:52.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fullavatar: Made Fullavatar no longer a server operator]
+[08Jul2025 16:59:45.658] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Redoxlyy moved too quickly! 213.19999998807907,241.5,-55.03050116878791
+[08Jul2025 17:00:32.562] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: guebaud moved too quickly! -9.199999988079071,-25.5,6.1989758827558035
+[08Jul2025 17:02:33.510] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Redoxlyy moved too quickly! 186.8279846309697,221.5,-205.00191154825632
+[08Jul2025 17:19:01.650] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: guebaud moved too quickly! 9.171452445663135,29.5,-6.106132714272462
+[08Jul2025 17:23:10.188] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: guebaud lost connection: Disconnected
+[08Jul2025 17:23:10.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: guebaud left the game
+[08Jul2025 17:24:13.093] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fullavatar lost connection: Disconnected
+[08Jul2025 17:24:13.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fullavatar left the game
+[08Jul2025 17:25:31.687] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Redoxlyy lost connection: Disconnected
+[08Jul2025 17:25:31.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Redoxlyy left the game
+[08Jul2025 17:29:31.012] [User Authenticator #22/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Blackliss is 5750e528-e519-43d6-b148-76e08d2e1b2e
+[08Jul2025 17:29:32.348] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Blackliss[/192.168.1.254:63416] logged in with entity id 211023 at (1962.8172008214533, 213.875, 141.75137538298924)
+[08Jul2025 17:29:32.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blackliss joined the game
+[08Jul2025 17:30:07.075] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss lost connection: Disconnected
+[08Jul2025 17:30:07.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blackliss left the game
+[08Jul2025 17:33:32.205] [User Authenticator #23/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Fullavatar is fd102774-21c2-4b99-9396-f454ead0849c
+[08Jul2025 17:33:33.665] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Fullavatar[/93.19.138.72:53694] logged in with entity id 211798 at (812.8442852769736, 63.0, 13753.593232544812)
+[08Jul2025 17:33:33.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fullavatar joined the game
+[08Jul2025 17:43:13.185] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=836, y=105, z=13765} BlockPos{x=838, y=107, z=13767}
+[08Jul2025 17:49:42.119] [User Authenticator #24/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Blackliss is 5750e528-e519-43d6-b148-76e08d2e1b2e
+[08Jul2025 17:49:46.923] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Blackliss[/192.168.1.254:64634] logged in with entity id 216120 at (460.81785694411474, 263.0, 243.78084228044196)
+[08Jul2025 17:49:46.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blackliss joined the game
+[08Jul2025 17:52:07.136] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=423, y=264, z=211} BlockPos{x=425, y=261, z=215}
+[08Jul2025 17:52:20.326] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=417, y=271, z=212} BlockPos{x=418, y=265, z=220}
+[08Jul2025 17:52:51.629] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=417, y=271, z=212} BlockPos{x=413, y=269, z=225}
+[08Jul2025 17:53:02.883] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=410, y=273, z=223} BlockPos{x=414, y=268, z=230}
+[08Jul2025 17:53:03.425] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=413, y=268, z=230} BlockPos{x=414, y=268, z=228}
+[08Jul2025 17:55:46.887] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss lost connection: Disconnected
+[08Jul2025 17:55:46.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blackliss left the game
+[08Jul2025 17:57:27.289] [User Authenticator #25/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Blackliss is 5750e528-e519-43d6-b148-76e08d2e1b2e
+[08Jul2025 17:57:30.007] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Blackliss[/192.168.1.254:64861] logged in with entity id 218536 at (475.0133580505451, 261.0, 213.28630313107254)
+[08Jul2025 17:57:30.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blackliss joined the game
+[08Jul2025 17:57:42.377] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss lost connection: Disconnected
+[08Jul2025 17:57:42.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blackliss left the game

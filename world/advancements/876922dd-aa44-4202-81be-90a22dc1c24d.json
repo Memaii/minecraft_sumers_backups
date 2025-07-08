@@ -4973,5 +4973,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/suspicious_stew_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2025-07-08 17:10:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2025-07-08 17:10:43 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 4189
 }
