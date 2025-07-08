@@ -348,3 +348,40 @@
 [08Jul2025 17:57:30.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blackliss joined the game
 [08Jul2025 17:57:42.377] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blackliss lost connection: Disconnected
 [08Jul2025 17:57:42.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blackliss left the game
+[08Jul2025 18:13:23.793] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fullavatar moved too quickly! -339.54570428573015,-3.6559825007319517,-175.98102246316375
+[08Jul2025 18:23:52.786] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fullavatar lost connection: Disconnected
+[08Jul2025 18:23:52.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fullavatar left the game
+[08Jul2025 18:38:35.321] [User Authenticator #26/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Fullavatar is fd102774-21c2-4b99-9396-f454ead0849c
+[08Jul2025 18:38:36.813] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Fullavatar[/93.19.138.72:53968] logged in with entity id 232594 at (744.6358486486649, 66.0, 13850.311484679518)
+[08Jul2025 18:38:36.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fullavatar joined the game
+[08Jul2025 18:38:48.737] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fullavatar lost connection: Disconnected
+[08Jul2025 18:38:48.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fullavatar left the game
+[08Jul2025 18:50:22.907] [User Authenticator #27/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player guebaud is 876922dd-aa44-4202-81be-90a22dc1c24d
+[08Jul2025 18:50:25.080] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: guebaud[/90.70.73.104:53239] logged in with entity id 255904 at (1174.8487436928083, 34.0, 2226.319700321114)
+[08Jul2025 18:50:25.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: guebaud joined the game
+[08Jul2025 18:57:41.111] [User Authenticator #28/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Fullavatar is fd102774-21c2-4b99-9396-f454ead0849c
+[08Jul2025 18:57:42.669] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Fullavatar[/93.19.138.72:54066] logged in with entity id 294274 at (744.6358486486649, 66.0, 13850.311484679518)
+[08Jul2025 18:57:42.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fullavatar joined the game
+[08Jul2025 18:57:58.509] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fullavatar moved too quickly! -195.21084367316632,-1.5,-172.0029211475121
+[08Jul2025 18:58:14.760] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fullavatar moved too quickly! 99.59791101922121,203.5,-13471.966243763209
+[08Jul2025 19:01:29.755] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /192.168.1.254 started
+[08Jul2025 19:01:35.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rcon: Made Fullavatar a server operator]
+[08Jul2025 19:02:03.740] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Byakoren moved too quickly! 0.19999998807907104,44.0,-3.097862732659223
+[08Jul2025 19:02:03.751] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Byakoren moved too quickly! 0.19999998807907104,44.0,-3.097862732659223
+[08Jul2025 19:02:03.759] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Byakoren moved too quickly! 0.19999998807907104,44.0,-3.097862732659223
+[08Jul2025 19:05:21.289] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fullavatar lost connection: Disconnected
+[08Jul2025 19:05:21.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fullavatar left the game
+[08Jul2025 19:11:25.355] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: guebaud moved too quickly! 8.973179453082139,29.5,-6.343887284999255
+[08Jul2025 19:11:32.508] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: guebaud moved too quickly! -8.66256924540835,-25.5,4.812622336469758
+[08Jul2025 19:20:00.189] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Byakoren lost connection: Disconnected
+[08Jul2025 19:20:00.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Byakoren left the game
+[08Jul2025 19:30:01.061] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: guebaud moved too quickly! -9.0,-25.5,6.0
+[08Jul2025 19:32:06.020] [User Authenticator #29/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Fullavatar is fd102774-21c2-4b99-9396-f454ead0849c
+[08Jul2025 19:32:07.824] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Fullavatar[/93.19.138.72:54464] logged in with entity id 401522 at (547.5, 63.0, 13678.5)
+[08Jul2025 19:32:07.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fullavatar joined the game
+[08Jul2025 19:42:15.495] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: guebaud lost connection: Timed out
+[08Jul2025 19:42:15.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: guebaud left the game
+[08Jul2025 19:46:32.551] [RCON Client /192.168.1.254 #4/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /192.168.1.254 shutting down
+[08Jul2025 19:50:28.305] [User Authenticator #30/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player guebaud is 876922dd-aa44-4202-81be-90a22dc1c24d
+[08Jul2025 19:50:31.269] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: guebaud[/90.70.73.104:54541] logged in with entity id 493673 at (1176.5806598654563, 40.0, 2280.2862123631344)
+[08Jul2025 19:50:31.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: guebaud joined the game
