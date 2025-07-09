@@ -393,3 +393,8 @@
 [08Jul2025 20:36:20.901] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Arkeez moved too quickly! 71.31213138088515,148.5,6.79823950068743
 [08Jul2025 20:36:23.945] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Arkeez lost connection: Disconnected
 [08Jul2025 20:36:23.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arkeez left the game
+[08Jul2025 22:51:07.096] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: guebaud lost connection: Timed out
+[08Jul2025 22:51:07.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: guebaud left the game
+[08Jul2025 22:51:21.794] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fullavatar lost connection: Disconnected
+[08Jul2025 22:51:21.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fullavatar left the game
+[08Jul2025 22:52:21.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Server empty for 60 seconds, pausing
