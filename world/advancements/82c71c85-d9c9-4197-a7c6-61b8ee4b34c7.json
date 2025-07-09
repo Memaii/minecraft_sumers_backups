@@ -5008,7 +5008,79 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2025-07-08 16:08:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2025-07-08 16:10:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pale_oak_planks": {
+    "criteria": {
+      "has_log": "2025-07-08 16:36:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pale_oak_wood": {
+    "criteria": {
+      "has_log": "2025-07-08 16:36:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/pale_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-08 16:36:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pale_oak_fence": {
+    "criteria": {
+      "has_planks": "2025-07-08 16:36:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pale_oak_slab": {
+    "criteria": {
+      "has_planks": "2025-07-08 16:36:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/pale_oak_door": {
+    "criteria": {
+      "has_planks": "2025-07-08 16:36:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/pale_oak_button": {
+    "criteria": {
+      "has_planks": "2025-07-08 16:36:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/pale_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-08 16:36:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pale_oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-08 16:36:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/pale_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-07-08 16:36:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pale_oak_sign": {
     "criteria": {
       "has_planks": "2025-07-08 16:36:30 +0000"
     },
@@ -5032,24 +5104,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/diamond": {
-    "criteria": {
-      "has_diamond_block": "2025-07-08 17:04:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
-    "criteria": {
-      "has_netherite_upgrade_smithing_template": "2025-07-08 16:08:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/pale_oak_fence": {
-    "criteria": {
-      "has_planks": "2025-07-08 16:36:30 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-07-08 16:47:07 +0000"
@@ -5059,18 +5113,6 @@
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-07-08 16:47:07 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/magnet_upgrade": {
-    "criteria": {
-      "has_pickup_upgrade": "2025-07-08 16:52:03 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/advanced_magnet_upgrade_from_basic": {
-    "criteria": {
-      "has_magnet_upgrade": "2025-07-08 17:03:06 +0000"
     },
     "done": true
   },
@@ -5086,27 +5128,9 @@
     },
     "done": true
   },
-  "minecraft:nether/netherite_armor": {
-    "criteria": {
-      "netherite_armor": "2025-07-08 16:10:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/pale_oak_slab": {
-    "criteria": {
-      "has_planks": "2025-07-08 16:36:30 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-07-08 16:47:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/pale_oak_door": {
-    "criteria": {
-      "has_planks": "2025-07-08 16:36:30 +0000"
     },
     "done": true
   },
@@ -5116,39 +5140,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/pale_oak_button": {
-    "criteria": {
-      "has_planks": "2025-07-08 16:36:30 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_deepslate_slab_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-07-08 16:47:07 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/pale_oak_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-07-08 16:36:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/pale_oak_stairs": {
-    "criteria": {
-      "has_planks": "2025-07-08 16:36:30 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/deepslate_tiles_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-07-08 16:47:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/pale_oak_planks": {
-    "criteria": {
-      "has_log": "2025-07-08 16:36:22 +0000"
     },
     "done": true
   },
@@ -5164,24 +5164,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/pale_oak_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-07-08 16:36:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/pale_oak_sign": {
-    "criteria": {
-      "has_planks": "2025-07-08 16:36:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/pale_oak_wood": {
-    "criteria": {
-      "has_log": "2025-07-08 16:36:22 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-07-08 16:47:07 +0000"
@@ -5194,9 +5176,33 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/magnet_upgrade": {
+    "criteria": {
+      "has_pickup_upgrade": "2025-07-08 16:52:03 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/advanced_pickup_upgrade": {
     "criteria": {
       "has_pickup_upgrade": "2025-07-08 16:52:03 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/advanced_magnet_upgrade_from_basic": {
+    "criteria": {
+      "has_magnet_upgrade": "2025-07-08 17:03:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2025-07-08 17:04:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/obtain_netherite_hoe": {
+    "criteria": {
+      "netherite_hoe": "2025-07-09 11:14:16 +0000"
     },
     "done": true
   },
