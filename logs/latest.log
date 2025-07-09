@@ -1,15 +1,126 @@
-[09Jul2025 03:00:38.291] [User Authenticator #32/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player guebaud is 876922dd-aa44-4202-81be-90a22dc1c24d
-[09Jul2025 03:00:41.265] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: guebaud[/90.70.73.104:55827] logged in with entity id 976063 at (1176.388878983984, 40.0, 2280.804618745848)
-[09Jul2025 03:00:41.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: guebaud joined the game
-[09Jul2025 03:00:48.085] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: guebaud lost connection: Disconnected
-[09Jul2025 03:00:48.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: guebaud left the game
-[09Jul2025 03:01:48.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Server empty for 60 seconds, pausing
-[09Jul2025 03:45:01.846] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /0:0:0:0:0:0:0:1 started
-[09Jul2025 03:45:01.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Rcon] Le serveur redemarrera dans 10 minutes, preparez-vous !
-[09Jul2025 03:45:01.849] [RCON Client /0:0:0:0:0:0:0:1 #5/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /0:0:0:0:0:0:0:1 shutting down
-[09Jul2025 03:54:01.968] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /0:0:0:0:0:0:0:1 started
-[09Jul2025 03:54:01.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Rcon] Le serveur redemarrera dans 1 minute, sauvegardez vos progres !
-[09Jul2025 03:54:01.969] [RCON Client /0:0:0:0:0:0:0:1 #6/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /0:0:0:0:0:0:0:1 shutting down
-[09Jul2025 03:55:02.116] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /0:0:0:0:0:0:0:1 started
-[09Jul2025 03:55:02.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rcon: Saved the game]
-[09Jul2025 03:55:02.132] [RCON Client /0:0:0:0:0:0:0:1 #7/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /0:0:0:0:0:0:0:1 shutting down
+[09Jul2025 04:05:36.787] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, neoforgeserver, --fml.neoForgeVersion, 21.4.141, --fml.fmlVersion, 6.0.18, --fml.mcVersion, 1.21.4, --fml.neoFormVersion, 20241203.161809]
+[09Jul2025 04:05:36.789] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Eclipse Adoptium OpenJDK 64-Bit Server VM 21.0.6+7-LTS
+[09Jul2025 04:05:36.791] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 11.0.4+main.d2e20e43 starting: java version 21.0.6 by Eclipse Adoptium; OS Linux arch amd64 version 6.1.0-30-amd64
+[09Jul2025 04:05:36.942] [main/INFO] [net.neoforged.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is neoforgeserver
+[09Jul2025 04:05:37.007] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=union:/data/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar%2385!/ Service=ModLauncher Env=SERVER
+[09Jul2025 04:05:37.361] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "server-1.21.4-20241203.161809-srg.jar" [locator: production server provider +net.neoforged:neoforge:21.4.141:server]
+[09Jul2025 04:05:37.385] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "neoforge-21.4.141-universal.jar" [locator: PathBasedLocator[name=neoforge, paths=[libraries/net/neoforged/neoforge/21.4.141/neoforge-21.4.141-universal.jar]], reader: mod manifest]
+[09Jul2025 04:05:37.390] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "antixray-neoforge-1.4.10+1.21.4.jar" [locator: {mods folder locator at /data/mods}, reader: mod manifest]
+[09Jul2025 04:05:37.397] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "balm-neoforge-1.21.4-21.4.34.jar" [locator: {mods folder locator at /data/mods}, reader: mod manifest]
+[09Jul2025 04:05:37.402] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "bluemap-5.7-neoforge.jar" [locator: {mods folder locator at /data/mods}, reader: mod manifest]
+[09Jul2025 04:05:37.406] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "Chunky-NeoForge-1.4.27.jar" [locator: {mods folder locator at /data/mods}, reader: mod manifest]
+[09Jul2025 04:05:37.410] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "corpse-neoforge-1.21.4-1.1.7.jar" [locator: {mods folder locator at /data/mods}, reader: mod manifest]
+[09Jul2025 04:05:37.413] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "FallingTree-1.21.4-1.21.4.12.jar" [locator: {mods folder locator at /data/mods}, reader: mod manifest]
+[09Jul2025 04:05:37.419] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "jei-1.21.4-neoforge-20.0.0.4.jar" [locator: {mods folder locator at /data/mods}, reader: mod manifest]
+[09Jul2025 04:05:37.422] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "lithium-neoforge-0.15.3+mc1.21.4.jar" [locator: {mods folder locator at /data/mods}, reader: mod manifest]
+[09Jul2025 04:05:37.426] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "sophisticatedbackpacks-1.21.4-3.24.14.1265.jar" [locator: {mods folder locator at /data/mods}, reader: mod manifest]
+[09Jul2025 04:05:37.430] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "sophisticatedcore-1.21.4-1.3.50.1021.jar" [locator: {mods folder locator at /data/mods}, reader: mod manifest]
+[09Jul2025 04:05:37.433] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "waystones-neoforge-1.21.4-21.4.15.jar" [locator: {mods folder locator at /data/mods}, reader: mod manifest]
+[09Jul2025 04:05:37.438] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "worldedit-mod-7.3.11.jar" [locator: {mods folder locator at /data/mods}, reader: mod manifest]
+[09Jul2025 04:05:37.442] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "Xaeros_Minimap_25.2.7_NeoForge_1.21.4.jar" [locator: {mods folder locator at /data/mods}, reader: mod manifest]
+[09Jul2025 04:05:37.445] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "XaerosWorldMap_1.39.10_NeoForge_1.21.4.jar" [locator: {mods folder locator at /data/mods}, reader: mod manifest]
+[09Jul2025 04:05:37.585] [main/INFO] [net.neoforged.fml.loading.moddiscovery.locators.JarInJarDependencyLocator/]: Found 6 dependencies adding them to mods collection
+[09Jul2025 04:05:37.586] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found gamelibrary file "mixinextras-neoforge-0.4.1.jar" [parent: neoforge-21.4.141-universal.jar, locator: jarinjar, reader: mod manifest]
+[09Jul2025 04:05:37.586] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "toml4j-0.7.2.jar" [parent: antixray-neoforge-1.4.10+1.21.4.jar, locator: jarinjar]
+[09Jul2025 04:05:37.586] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "kuma-api-neoforge-21.4.6+1.21.4.jar" [parent: balm-neoforge-1.21.4-21.4.34.jar, locator: jarinjar, reader: mod manifest]
+[09Jul2025 04:05:37.587] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "bluenbt-3.3.0.jar" [parent: bluemap-5.7-neoforge.jar, locator: jarinjar]
+[09Jul2025 04:05:37.587] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "flow-math-1.0.4-SNAPSHOT.jar" [parent: bluemap-5.7-neoforge.jar, locator: jarinjar]
+[09Jul2025 04:05:37.587] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "net.neoforged.neoforge-coremods-21.4.141.jar" [parent: neoforge-21.4.141-universal.jar, locator: jarinjar, reader: mod manifest]
+[09Jul2025 04:05:37.589] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/]: 
+     Mod List:
+		Name Version (Mod Id)
+
+		AntiXray 1.4.10 (antixray)
+		Balm 21.4.34 (balm)
+		BlueMap 5.7 (bluemap)
+		Chunky 1.4.27 (chunky)
+		Corpse 1.21.4-1.1.7 (corpse)
+		FallingTree 1.21.4.12 (fallingtree)
+		Just Enough Items 20.0.0.4 (jei)
+		KumaAPI 21.4.6 (kuma_api)
+		Lithium 0.15.3+mc1.21.4 (lithium)
+		Minecraft 1.21.4 (minecraft)
+		NeoForge 21.4.141 (neoforge)
+		Sophisticated Backpacks 3.24.14 (sophisticatedbackpacks)
+		Sophisticated Core 1.3.50 (sophisticatedcore)
+		Waystones 21.4.15 (waystones)
+		WorldEdit 7.3.11+7055-8357a12 (worldedit)
+		Xaero's Minimap 25.2.7 (xaerominimap)
+		Xaero's World Map 1.39.10 (xaeroworldmap)
+[09Jul2025 04:05:37.727] [main/INFO] [net.neoforged.fml.loading.FMLServiceProvider/CORE]: Loading coremod script-engine for [xaerominimap, xaeroworldmap]
+[09Jul2025 04:05:38.911] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[09Jul2025 04:05:38.914] [main/INFO] [mixin/]: Compatibility level set to JAVA_21
+[09Jul2025 04:05:38.942] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'neoforgeserver' with arguments []
+[09Jul2025 04:05:38.972] [main/WARN] [mixin/]: Reference map 'kuma_api.refmap.json' for kuma_api.mixins.json could not be read. If this is a development environment you can ignore this message
+[09Jul2025 04:05:38.974] [main/WARN] [mixin/]: Reference map 'worldedit-neoforge.mixins.refmap.json' for worldedit-neoforge.mixins.json could not be read. If this is a development environment you can ignore this message
+[09Jul2025 04:05:38.975] [main/WARN] [mixin/]: Reference map 'balm.refmap.json' for balm.mixins.json could not be read. If this is a development environment you can ignore this message
+[09Jul2025 04:05:39.016] [main/INFO] [Lithium/]: Loaded configuration file for Lithium: 155 options available, 0 override(s) found.
+[09Jul2025 04:05:39.019] [main/WARN] [mixin/]: Reference map 'waystones.refmap.json' for waystones.mixins.json could not be read. If this is a development environment you can ignore this message
+[09Jul2025 04:05:40.189] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[09Jul2025 04:05:48.081] [modloading-worker-0/INFO] [me.drex.antixray.common.AntiXray/]: Successfully initialized antixray for neoforge
+[09Jul2025 04:05:48.339] [modloading-worker-0/INFO] [net.neoforged.neoforge.common.NeoForgeMod/NEOFORGE-MOD]: NeoForge mod loading, version 21.4.141, for MC 1.21.4
+[09Jul2025 04:05:49.349] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [corpse] Starting version check at https://update.maxhenkel.de/neoforge/corpse
+[09Jul2025 04:05:49.761] [modloading-worker-0/INFO] [com.sk89q.worldedit.extension.platform.PlatformManager/]: Got request to register class com.sk89q.worldedit.neoforge.NeoForgePlatform with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@6c74a841]
+[09Jul2025 04:05:49.764] [modloading-worker-0/INFO] [com.sk89q.worldedit.neoforge.NeoForgeWorldEdit/]: WorldEdit for NeoForge (version 7.3.11+7055-8357a12) is loaded
+[09Jul2025 04:05:49.768] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[09Jul2025 04:05:49.769] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
+[09Jul2025 04:05:49.769] [modloading-sync-worker/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
+[09Jul2025 04:05:49.770] [modloading-sync-worker/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[09Jul2025 04:05:49.896] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [corpse] Found status: BETA_OUTDATED Current: 1.21.4-1.1.7 Target: 1.21.4-1.1.10
+[09Jul2025 04:05:49.967] [main/WARN] [net.minecraft.server.dedicated.DedicatedServerProperties/]: resource-pack-id missing, using default of 8790b826-8d12-35ca-bbc8-92715b38d6b4
+[09Jul2025 04:05:49.992] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[09Jul2025 04:05:50.255] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/data/libraries/net/minecraft/server/1.21.4-20241203.161809/server-1.21.4-20241203.161809-srg.jar%23155!/assets/.mcassetsroot' uses unexpected schema
+[09Jul2025 04:05:50.255] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/data/libraries/net/minecraft/server/1.21.4-20241203.161809/server-1.21.4-20241203.161809-srg.jar%23155!/data/.mcassetsroot' uses unexpected schema
+[09Jul2025 04:05:52.194] [Worker-Main-1/INFO] [com.sk89q.worldedit.extension.platform.PlatformCommandManager/]: Registering commands with com.sk89q.worldedit.neoforge.NeoForgePlatform
+[09Jul2025 04:05:52.926] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 1489 recipes
+[09Jul2025 04:05:52.945] [main/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 1592 advancements
+[09Jul2025 04:05:52.953] [main/INFO] [net.neoforged.neoforge.common.crafting.RecipePriorityManager/]: Loaded 0 recipe priority overrides
+[09Jul2025 04:05:53.483] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.21.4
+[09Jul2025 04:05:53.483] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[09Jul2025 04:05:53.483] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[09Jul2025 04:05:53.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[09Jul2025 04:05:53.572] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[09Jul2025 04:05:53.634] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[09Jul2025 04:05:53.726] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[09Jul2025 04:05:54.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[09Jul2025 04:05:57.533] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Jul2025 04:05:57.533] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Jul2025 04:05:57.534] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Jul2025 04:05:57.534] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Jul2025 04:05:57.534] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Jul2025 04:05:57.534] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Jul2025 04:05:57.534] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Jul2025 04:05:57.726] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 3316 ms
+[09Jul2025 04:05:57.727] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (4.044s)! For help, type "help"
+[09Jul2025 04:05:57.727] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting remote control listener
+[09Jul2025 04:05:57.730] [Server thread/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Listener started
+[09Jul2025 04:05:57.730] [Server thread/INFO] [net.minecraft.server.rcon.thread.RconThread/]: RCON running on 0.0.0.0:25575
+[09Jul2025 04:05:57.745] [LanServerPinger #1/WARN] [net.minecraft.client.server.LanServerPinger/]: LanServerPinger: Network is unreachable
+[09Jul2025 04:05:57.781] [Server thread/INFO] [net.neoforged.neoforge.server.permission.PermissionAPI/]: Successfully initialized permission handler neoforge:default_handler
+[09Jul2025 04:05:59.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[09Jul2025 04:06:02.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[09Jul2025 04:06:02.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[09Jul2025 04:06:02.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[09Jul2025 04:06:02.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[09Jul2025 04:06:02.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[09Jul2025 04:06:02.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[09Jul2025 04:06:02.570] [BlueMap-Plugin-Loading/INFO] [BlueMap/]: Loading...
+[09Jul2025 04:06:02.911] [BlueMap-Plugin-Loading/INFO] [BlueMap/]: Loading resources...
+[09Jul2025 04:06:03.774] [BlueMap-Plugin-Loading/INFO] [BlueMap/]: Loading textures...
+[09Jul2025 04:06:05.274] [BlueMap-Plugin-Loading/INFO] [BlueMap/]: Baking resources...
+[09Jul2025 04:06:05.310] [BlueMap-Plugin-Loading/INFO] [BlueMap/]: Resources loaded.
+[09Jul2025 04:06:05.413] [BlueMap-Plugin-Loading/INFO] [BlueMap/]: Initializing Storage: 'file' (Type: 'bluemap:file')
+[09Jul2025 04:06:05.418] [BlueMap-Plugin-Loading/INFO] [BlueMap/]: Loading map 'world_the_end'...
+[09Jul2025 04:06:05.624] [BlueMap-Plugin-Loading/INFO] [BlueMap/]: Loading map 'world'...
+[09Jul2025 04:06:05.777] [BlueMap-Plugin-Loading/INFO] [BlueMap/]: Loading map 'world_the_nether'...
+[09Jul2025 04:06:05.872] [BlueMap-Plugin-Loading/INFO] [BlueMap/]: WebServer bound to all network interfaces on port 8100
+[09Jul2025 04:06:05.873] [Thread-14/INFO] [BlueMap/]: WebServer started.
+[09Jul2025 04:06:05.890] [BlueMap-Plugin-Loading/INFO] [BlueMap/]: Loaded!
+[09Jul2025 04:07:02.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Server empty for 60 seconds, pausing
+[09Jul2025 04:24:03.975] [User Authenticator #1/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Byakoren is 77ebe240-f66a-4d07-ae88-a6df583c1a70
+[09Jul2025 04:24:05.811] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Byakoren[/86.245.7.178:60655] logged in with entity id 87 at (289.0292167395035, 250.0, 1857.300000011921)
+[09Jul2025 04:24:05.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Byakoren joined the game
+[09Jul2025 05:55:07.610] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Fullavatar is fd102774-21c2-4b99-9396-f454ead0849c
+[09Jul2025 05:55:09.328] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Fullavatar[/93.19.138.72:55104] logged in with entity id 520744 at (289.07499998807907, 250.0, 1857.300000011921)
+[09Jul2025 05:55:09.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fullavatar joined the game
+[09Jul2025 05:56:19.016] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fullavatar moved too quickly! 1.199999988079071,-41.5,0.800000011920929
