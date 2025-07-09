@@ -51,7 +51,8 @@
       "minecraft:meadow": "2025-07-01 09:05:46 +0000",
       "minecraft:savanna": "2025-06-30 20:00:55 +0000",
       "minecraft:plains": "2025-06-30 20:00:34 +0000",
-      "minecraft:jagged_peaks": "2025-07-03 21:11:41 +0000"
+      "minecraft:jagged_peaks": "2025-07-03 21:11:41 +0000",
+      "minecraft:pale_garden": "2025-07-09 18:28:56 +0000"
     },
     "done": false
   },
@@ -5838,6 +5839,30 @@
   "sophisticatedbackpacks:recipes/misc/advanced_void_upgrade": {
     "criteria": {
       "has_void_upgrade": "2025-07-09 17:19:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_open_eyeblossom": {
+    "criteria": {
+      "has_open_eyeblossom": "2025-07-09 18:29:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_open_eyeblossom": {
+    "criteria": {
+      "has_open_eyeblossom": "2025-07-09 18:29:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pale_oak_planks": {
+    "criteria": {
+      "has_log": "2025-07-09 18:29:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pale_oak_wood": {
+    "criteria": {
+      "has_log": "2025-07-09 18:29:02 +0000"
     },
     "done": true
   },
