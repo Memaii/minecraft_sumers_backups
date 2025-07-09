@@ -4591,5 +4591,17 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/xp_pump_upgrade": {
+    "criteria": {
+      "has_advanced_pump_upgrade": "2025-07-09 09:04:04 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/advanced_pump_upgrade": {
+    "criteria": {
+      "has_pump_upgrade": "2025-07-09 09:03:24 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 4189
 }

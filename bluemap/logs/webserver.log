@@ -144,3 +144,5 @@
 [2025-07-09 06:01:10][INFO] /93.19.138.72 "GET /maps/world_the_end/live/players.json?919877 HTTP/1.1" 200 OK
 [2025-07-09 06:01:12][INFO] /93.19.138.72 "GET /maps/world_the_end/live/players.json?240841 HTTP/1.1" 200 OK
 [2025-07-09 06:01:13][INFO] /93.19.138.72 "GET /maps/world_the_end/live/markers.json?294290 HTTP/1.1" 200 OK
+[2025-07-09 08:51:32][INFO] /91.196.152.90 "GET / HTTP/1.1" 200 OK
+[2025-07-09 09:03:55][INFO] /91.231.89.86 "GET /favicon.ico HTTP/1.1" 404 Not Found
