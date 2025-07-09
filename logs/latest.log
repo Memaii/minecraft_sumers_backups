@@ -124,3 +124,5 @@
 [09Jul2025 05:55:09.328] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Fullavatar[/93.19.138.72:55104] logged in with entity id 520744 at (289.07499998807907, 250.0, 1857.300000011921)
 [09Jul2025 05:55:09.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fullavatar joined the game
 [09Jul2025 05:56:19.016] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fullavatar moved too quickly! 1.199999988079071,-41.5,0.800000011920929
+[09Jul2025 06:29:27.599] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fullavatar lost connection: Disconnected
+[09Jul2025 06:29:27.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fullavatar left the game
