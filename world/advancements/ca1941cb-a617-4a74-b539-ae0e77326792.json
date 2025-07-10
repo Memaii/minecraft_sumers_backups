@@ -10,6 +10,7 @@
       "minecraft:beach": "2025-07-01 20:55:32 +0000",
       "minecraft:dark_forest": "2025-07-10 15:41:55 +0000",
       "minecraft:forest": "2025-06-30 21:59:36 +0000",
+      "minecraft:taiga": "2025-07-10 20:17:14 +0000",
       "minecraft:sparse_jungle": "2025-07-07 11:07:55 +0000",
       "minecraft:river": "2025-06-30 21:44:38 +0000",
       "minecraft:lukewarm_ocean": "2025-07-01 16:08:13 +0000",
@@ -4001,6 +4002,42 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/suspicious_stew_from_open_eyeblossom": {
+    "criteria": {
+      "has_open_eyeblossom": "2025-07-10 15:27:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_open_eyeblossom": {
+    "criteria": {
+      "has_open_eyeblossom": "2025-07-10 15:27:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pale_moss_carpet": {
+    "criteria": {
+      "has_pale_moss_block": "2025-07-10 15:27:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/resin_brick": {
+    "criteria": {
+      "has_resin_clump": "2025-07-10 15:47:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/resin_block": {
+    "criteria": {
+      "has_resin_clump": "2025-07-10 15:47:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2025-07-10 16:21:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/pink_candle": {
     "criteria": {
       "has_pink_dye": "2025-07-10 16:22:00 +0000"
@@ -4013,12 +4050,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/suspicious_stew_from_open_eyeblossom": {
-    "criteria": {
-      "has_open_eyeblossom": "2025-07-10 15:27:14 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/dye_pink_bed": {
     "criteria": {
       "has_needed_dye": "2025-07-10 16:22:00 +0000"
@@ -4028,12 +4059,6 @@
   "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
     "criteria": {
       "has_pink_dye": "2025-07-10 16:22:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/resin_brick": {
-    "criteria": {
-      "has_resin_clump": "2025-07-10 15:47:42 +0000"
     },
     "done": true
   },
@@ -4055,27 +4080,75 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/resin_block": {
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
     "criteria": {
-      "has_resin_clump": "2025-07-10 15:47:42 +0000"
+      "has_lilac": "2025-07-10 20:28:40 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/pale_moss_carpet": {
+  "minecraft:husbandry/whole_pack": {
     "criteria": {
-      "has_pale_moss_block": "2025-07-10 15:27:20 +0000"
+      "minecraft:woods": "2025-07-10 20:18:04 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/dye_magenta_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-07-10 21:01:09 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/orange_dye_from_open_eyeblossom": {
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
     "criteria": {
-      "has_open_eyeblossom": "2025-07-10 15:27:14 +0000"
+      "has_porkchop": "2025-07-10 20:17:52 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/pink_dye_from_peony": {
+  "minecraft:recipes/decorations/magenta_candle": {
     "criteria": {
-      "has_peony": "2025-07-10 16:21:48 +0000"
+      "has_magenta_dye": "2025-07-10 21:01:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/magenta_bundle": {
+    "criteria": {
+      "has_magenta_dye": "2025-07-10 21:01:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-07-10 20:17:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-07-10 20:18:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_magenta_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-07-10 21:01:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_magenta_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-07-10 21:01:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_magenta_dye": "2025-07-10 21:01:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-07-10 20:17:52 +0000"
     },
     "done": true
   },
