@@ -18,6 +18,7 @@
       "minecraft:desert": "2025-06-30 21:44:54 +0000",
       "minecraft:deep_dark": "2025-06-30 22:53:59 +0000",
       "minecraft:jungle": "2025-07-07 19:38:34 +0000",
+      "minecraft:cherry_grove": "2025-07-10 11:36:54 +0000",
       "minecraft:savanna": "2025-06-30 21:59:02 +0000",
       "minecraft:plains": "2025-07-01 16:36:41 +0000",
       "minecraft:warm_ocean": "2025-06-30 21:42:02 +0000",
@@ -3864,45 +3865,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/magma_block": {
+  "minecraft:story/lava_bucket": {
     "criteria": {
-      "has_magma_cream": "2025-07-09 21:53:10 +0000"
+      "lava_bucket": "2025-07-09 21:11:09 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_brown_bed": {
+  "minecraft:recipes/misc/flow_armor_trim_smithing_template": {
     "criteria": {
-      "has_needed_dye": "2025-07-09 21:56:05 +0000"
+      "has_flow_armor_trim_smithing_template": "2025-07-09 21:34:59 +0000"
     },
     "done": true
   },
-  "minecraft:nether/brew_potion": {
+  "minecraft:recipes/misc/flow_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
-      "potion": "2025-07-09 22:00:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/brown_dye": {
-    "criteria": {
-      "has_cocoa_beans": "2025-07-09 21:55:58 +0000"
+      "has_smithing_trim_template": "2025-07-09 21:34:59 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/yellow_candle": {
     "criteria": {
       "has_yellow_dye": "2025-07-09 21:39:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/brown_bundle": {
-    "criteria": {
-      "has_brown_dye": "2025-07-09 21:56:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/nether_wart_block": {
-    "criteria": {
-      "has_nether_wart": "2025-07-09 22:00:27 +0000"
     },
     "done": true
   },
@@ -3918,48 +3901,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cookie": {
-    "criteria": {
-      "has_cocoa": "2025-07-09 21:55:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/brown_candle": {
-    "criteria": {
-      "has_brown_dye": "2025-07-09 21:56:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/red_nether_bricks": {
-    "criteria": {
-      "has_nether_wart": "2025-07-09 22:00:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_brown_wool": {
-    "criteria": {
-      "has_needed_dye": "2025-07-09 21:56:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/flow_armor_trim_smithing_template": {
-    "criteria": {
-      "has_flow_armor_trim_smithing_template": "2025-07-09 21:34:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/lava_bucket": {
-    "criteria": {
-      "lava_bucket": "2025-07-09 21:11:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/flow_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2025-07-09 21:34:59 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/dye_yellow_carpet": {
     "criteria": {
       "has_needed_dye": "2025-07-09 21:39:27 +0000"
@@ -3972,9 +3913,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_brown_carpet": {
+  "minecraft:recipes/building_blocks/dye_yellow_bed": {
     "criteria": {
-      "has_needed_dye": "2025-07-09 21:56:05 +0000"
+      "has_needed_dye": "2025-07-09 21:39:27 +0000"
     },
     "done": true
   },
@@ -3984,15 +3925,75 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-07-09 21:53:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2025-07-09 21:55:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2025-07-09 21:55:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_brown_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-07-09 21:56:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brown_bundle": {
+    "criteria": {
+      "has_brown_dye": "2025-07-09 21:56:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_candle": {
+    "criteria": {
+      "has_brown_dye": "2025-07-09 21:56:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_brown_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-07-09 21:56:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_brown_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-07-09 21:56:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_brown_dye": "2025-07-09 21:56:05 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_yellow_bed": {
+  "minecraft:recipes/building_blocks/nether_wart_block": {
     "criteria": {
-      "has_needed_dye": "2025-07-09 21:39:27 +0000"
+      "has_nether_wart": "2025-07-09 22:00:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-07-09 22:00:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2025-07-09 22:00:30 +0000"
     },
     "done": true
   },
