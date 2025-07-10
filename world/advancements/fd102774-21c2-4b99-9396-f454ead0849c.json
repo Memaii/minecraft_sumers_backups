@@ -4693,5 +4693,11 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_omega_tier": {
+    "criteria": {
+      "has_stack_upgrade_tier_4": "2025-07-10 15:22:57 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 4189
 }
