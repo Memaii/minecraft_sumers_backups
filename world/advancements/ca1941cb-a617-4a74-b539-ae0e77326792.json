@@ -4001,15 +4001,57 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/pink_candle": {
+    "criteria": {
+      "has_pink_dye": "2025-07-10 16:22:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_pink_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-07-10 16:22:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/suspicious_stew_from_open_eyeblossom": {
     "criteria": {
       "has_open_eyeblossom": "2025-07-10 15:27:14 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_pink_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-07-10 16:22:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
+    "criteria": {
+      "has_pink_dye": "2025-07-10 16:22:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/resin_brick": {
     "criteria": {
       "has_resin_clump": "2025-07-10 15:47:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/pink_bundle": {
+    "criteria": {
+      "has_pink_dye": "2025-07-10 16:22:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_pink_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-07-10 16:22:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_pink_dye": "2025-07-10 16:22:00 +0000"
     },
     "done": true
   },
@@ -4028,6 +4070,12 @@
   "minecraft:recipes/misc/orange_dye_from_open_eyeblossom": {
     "criteria": {
       "has_open_eyeblossom": "2025-07-10 15:27:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2025-07-10 16:21:48 +0000"
     },
     "done": true
   },
