@@ -5842,6 +5842,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/pale_oak_planks": {
+    "criteria": {
+      "has_log": "2025-07-09 18:29:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pale_oak_wood": {
+    "criteria": {
+      "has_log": "2025-07-09 18:29:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/suspicious_stew_from_open_eyeblossom": {
     "criteria": {
       "has_open_eyeblossom": "2025-07-09 18:29:29 +0000"
@@ -5854,15 +5866,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/pale_oak_planks": {
+  "minecraft:recipes/decorations/armor_stand": {
     "criteria": {
-      "has_log": "2025-07-09 18:29:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/pale_oak_wood": {
-    "criteria": {
-      "has_log": "2025-07-09 18:29:02 +0000"
+      "has_the_recipe": "2025-07-10 04:31:03 +0000"
     },
     "done": true
   },
