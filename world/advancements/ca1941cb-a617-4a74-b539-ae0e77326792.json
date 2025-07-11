@@ -4287,5 +4287,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/pale_oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-07-11 21:23:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_pale_oak_wood": {
+    "criteria": {
+      "has_log": "2025-07-11 21:23:12 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 4189
 }
