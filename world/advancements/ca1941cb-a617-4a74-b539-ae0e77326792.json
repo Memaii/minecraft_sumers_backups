@@ -4080,21 +4080,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
     "criteria": {
-      "has_lilac": "2025-07-10 20:28:40 +0000"
+      "has_porkchop": "2025-07-10 20:17:52 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/orange_bundle": {
+  "minecraft:recipes/food/cooked_porkchop": {
     "criteria": {
-      "has_orange_dye": "2025-07-10 21:57:35 +0000"
+      "has_porkchop": "2025-07-10 20:17:52 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/orange_candle": {
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
     "criteria": {
-      "has_orange_dye": "2025-07-10 21:57:35 +0000"
+      "has_porkchop": "2025-07-10 20:17:52 +0000"
     },
     "done": true
   },
@@ -4104,27 +4104,21 @@
     },
     "done": false
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-07-10 20:18:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2025-07-10 20:28:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_magenta_carpet": {
     "criteria": {
       "has_needed_dye": "2025-07-10 21:01:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_orange_carpet": {
-    "criteria": {
-      "has_needed_dye": "2025-07-10 21:57:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
-    "criteria": {
-      "has_porkchop": "2025-07-10 20:17:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_orange_dye": "2025-07-10 21:57:35 +0000"
     },
     "done": true
   },
@@ -4140,24 +4134,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_porkchop": {
-    "criteria": {
-      "has_porkchop": "2025-07-10 20:17:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/tame_an_animal": {
-    "criteria": {
-      "tamed_animal": "2025-07-10 20:18:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_orange_bed": {
-    "criteria": {
-      "has_needed_dye": "2025-07-10 21:57:35 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/dye_magenta_bed": {
     "criteria": {
       "has_needed_dye": "2025-07-10 21:01:09 +0000"
@@ -4170,21 +4146,45 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_orange_wool": {
-    "criteria": {
-      "has_needed_dye": "2025-07-10 21:57:35 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/magenta_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_magenta_dye": "2025-07-10 21:01:09 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+  "minecraft:recipes/tools/orange_bundle": {
     "criteria": {
-      "has_porkchop": "2025-07-10 20:17:52 +0000"
+      "has_orange_dye": "2025-07-10 21:57:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_candle": {
+    "criteria": {
+      "has_orange_dye": "2025-07-10 21:57:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_orange_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-07-10 21:57:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_orange_dye": "2025-07-10 21:57:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_orange_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-07-10 21:57:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_orange_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-07-10 21:57:35 +0000"
     },
     "done": true
   },
