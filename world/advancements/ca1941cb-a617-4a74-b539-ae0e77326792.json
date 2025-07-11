@@ -1593,6 +1593,9 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-07-01 21:08:03 +0000",
+      "minecraft:phantom": "2025-07-11 16:08:24 +0000",
+      "minecraft:ghast": "2025-07-08 11:31:07 +0000",
+      "minecraft:hoglin": "2025-07-08 10:37:13 +0000",
       "minecraft:piglin": "2025-07-08 11:46:09 +0000",
       "minecraft:creaking": "2025-07-10 15:47:59 +0000",
       "minecraft:enderman": "2025-07-07 16:08:49 +0000",
@@ -1601,9 +1604,7 @@
       "minecraft:creeper": "2025-07-08 10:02:34 +0000",
       "minecraft:drowned": "2025-07-11 15:40:52 +0000",
       "minecraft:wither": "2025-07-07 19:46:09 +0000",
-      "minecraft:zombie_villager": "2025-07-08 20:32:28 +0000",
-      "minecraft:ghast": "2025-07-08 11:31:07 +0000",
-      "minecraft:hoglin": "2025-07-08 10:37:13 +0000"
+      "minecraft:zombie_villager": "2025-07-08 20:32:28 +0000"
     },
     "done": false
   },
@@ -4223,6 +4224,66 @@
   "minecraft:recipes/misc/red_dye_from_rose_bush": {
     "criteria": {
       "has_rose_bush": "2025-07-11 15:23:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-07-11 16:40:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_grate_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-07-11 16:40:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper": {
+    "criteria": {
+      "has_copper_block": "2025-07-11 16:40:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-07-11 16:40:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_copper_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-07-11 16:40:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
+    "criteria": {
+      "has_copper_block": "2025-07-11 16:40:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot": {
+    "criteria": {
+      "has_copper_block": "2025-07-11 16:40:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/copper_bulb": {
+    "criteria": {
+      "has_copper_block": "2025-07-11 16:40:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_grate": {
+    "criteria": {
+      "has_copper_block": "2025-07-11 16:40:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-07-11 16:40:00 +0000"
     },
     "done": true
   },
