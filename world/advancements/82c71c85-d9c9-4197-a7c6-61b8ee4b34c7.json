@@ -147,6 +147,7 @@
       "baked_potato": "2025-07-01 10:30:36 +0000",
       "melon_slice": "2025-06-30 19:53:11 +0000",
       "golden_carrot": "2025-07-01 16:11:35 +0000",
+      "apple": "2025-07-11 14:11:27 +0000",
       "cooked_rabbit": "2025-07-03 11:52:06 +0000",
       "cooked_chicken": "2025-06-30 19:29:41 +0000",
       "enchanted_golden_apple": "2025-07-05 18:03:21 +0000",
@@ -5290,6 +5291,36 @@
   "sophisticatedbackpacks:recipes/misc/xp_pump_upgrade": {
     "criteria": {
       "has_advanced_pump_upgrade": "2025-07-11 10:26:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_lily_of_the_valley": {
+    "criteria": {
+      "has_lily_of_the_valley": "2025-07-11 14:13:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
+    "criteria": {
+      "has_lily_of_the_valley": "2025-07-11 14:13:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_vine": {
+    "criteria": {
+      "has_vine": "2025-07-11 15:14:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_vine": {
+    "criteria": {
+      "has_vine": "2025-07-11 15:14:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bordure_indented_banner_pattern": {
+    "criteria": {
+      "has_vines": "2025-07-11 15:14:48 +0000"
     },
     "done": true
   },

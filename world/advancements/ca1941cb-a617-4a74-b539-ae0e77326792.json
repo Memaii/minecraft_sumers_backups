@@ -1599,6 +1599,7 @@
       "minecraft:spider": "2025-07-01 16:35:34 +0000",
       "minecraft:zombie": "2025-07-01 20:53:34 +0000",
       "minecraft:creeper": "2025-07-08 10:02:34 +0000",
+      "minecraft:drowned": "2025-07-11 15:40:52 +0000",
       "minecraft:wither": "2025-07-07 19:46:09 +0000",
       "minecraft:zombie_villager": "2025-07-08 20:32:28 +0000",
       "minecraft:ghast": "2025-07-08 11:31:07 +0000",
@@ -4216,6 +4217,12 @@
   "minecraft:recipes/redstone/copper_door": {
     "criteria": {
       "has_copper_ingot": "2025-07-11 11:05:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2025-07-11 15:23:50 +0000"
     },
     "done": true
   },
