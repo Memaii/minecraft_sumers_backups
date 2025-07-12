@@ -5324,5 +5324,17 @@
     },
     "done": true
   },
+  "minecraft:adventure/throw_trident": {
+    "criteria": {
+      "shot_trident": "2025-07-12 13:25:05 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/advanced_refill_upgrade": {
+    "criteria": {
+      "has_refill_upgrade": "2025-07-12 13:31:41 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 4189
 }
