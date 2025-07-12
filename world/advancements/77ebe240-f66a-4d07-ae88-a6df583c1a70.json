@@ -5891,5 +5891,11 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/pale_oak_fence": {
+    "criteria": {
+      "has_the_recipe": "2025-07-12 18:00:04 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 4189
 }
