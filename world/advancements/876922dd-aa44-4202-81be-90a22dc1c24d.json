@@ -12,6 +12,7 @@
       "minecraft:mushroom_fields": "2025-07-06 17:09:17 +0000",
       "minecraft:taiga": "2025-07-02 15:57:48 +0000",
       "minecraft:deep_ocean": "2025-07-01 10:24:10 +0000",
+      "minecraft:eroded_badlands": "2025-07-12 17:24:18 +0000",
       "minecraft:frozen_river": "2025-07-03 15:26:38 +0000",
       "minecraft:cherry_grove": "2025-07-12 15:42:44 +0000",
       "minecraft:sunflower_plains": "2025-07-12 15:36:08 +0000",
@@ -5012,6 +5013,12 @@
   "minecraft:recipes/misc/bone_meal_from_bone_block": {
     "criteria": {
       "has_bone_block": "2025-07-09 16:23:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2025-07-12 17:39:31 +0000"
     },
     "done": true
   },
