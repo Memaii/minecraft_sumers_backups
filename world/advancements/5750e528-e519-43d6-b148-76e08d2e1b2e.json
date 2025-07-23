@@ -5907,6 +5907,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-07-23 16:21:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_candle": {
     "criteria": {
       "has_white_dye": "2025-07-23 15:08:49 +0000"
@@ -6084,6 +6090,12 @@
   "minecraft:recipes/misc/gray_dye": {
     "criteria": {
       "has_white_dye": "2025-07-23 15:08:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template": {
+    "criteria": {
+      "has_rib_armor_trim_smithing_template": "2025-07-23 16:21:33 +0000"
     },
     "done": true
   },
