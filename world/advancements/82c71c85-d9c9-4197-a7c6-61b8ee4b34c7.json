@@ -16,6 +16,7 @@
       "minecraft:lush_caves": "2025-06-30 20:05:57 +0000",
       "minecraft:deep_cold_ocean": "2025-07-04 21:46:19 +0000",
       "minecraft:desert": "2025-06-30 21:51:53 +0000",
+      "minecraft:frozen_river": "2025-07-23 12:55:52 +0000",
       "minecraft:windswept_forest": "2025-07-04 21:44:28 +0000",
       "minecraft:ocean": "2025-07-04 21:45:35 +0000",
       "minecraft:jungle": "2025-07-08 16:49:10 +0000",
@@ -40,6 +41,7 @@
       "minecraft:river": "2025-06-30 19:43:24 +0000",
       "minecraft:lukewarm_ocean": "2025-06-30 19:32:18 +0000",
       "minecraft:stony_shore": "2025-07-03 12:18:04 +0000",
+      "minecraft:snowy_plains": "2025-07-23 12:55:41 +0000",
       "minecraft:dripstone_caves": "2025-07-02 11:46:20 +0000",
       "minecraft:snowy_taiga": "2025-07-02 11:45:33 +0000",
       "minecraft:old_growth_birch_forest": "2025-07-07 12:14:49 +0000",
@@ -47,6 +49,7 @@
       "minecraft:swamp": "2025-07-04 21:43:30 +0000",
       "minecraft:grove": "2025-07-17 12:47:15 +0000",
       "minecraft:meadow": "2025-07-05 17:26:08 +0000",
+      "minecraft:windswept_gravelly_hills": "2025-07-23 12:55:30 +0000",
       "minecraft:savanna": "2025-06-30 19:43:31 +0000",
       "minecraft:plains": "2025-06-30 19:43:05 +0000",
       "minecraft:jagged_peaks": "2025-07-05 17:27:31 +0000",
@@ -5421,6 +5424,42 @@
   "minecraft:recipes/misc/copper_ingot_from_blasting_copper_ore": {
     "criteria": {
       "has_copper_ore": "2025-07-22 15:59:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_stairs": {
+    "criteria": {
+      "has_prismarine_bricks": "2025-07-23 12:49:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine_brick": "2025-07-23 12:49:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine_brick": "2025-07-23 12:49:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_slab": {
+    "criteria": {
+      "has_prismarine_bricks": "2025-07-23 12:49:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bolt_armor_trim_smithing_template": {
+    "criteria": {
+      "has_bolt_armor_trim_smithing_template": "2025-07-23 13:11:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bolt_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-07-23 13:11:28 +0000"
     },
     "done": true
   },
